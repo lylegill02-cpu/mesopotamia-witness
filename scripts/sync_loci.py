@@ -7,8 +7,14 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 LOCI = ROOT / "data" / "loci.json"
-CORPUS = ROOT / "data" / "corpus.json"
 OUT = ROOT / "data" / "loci_chart.json"
+
+
+def corpus_path() -> Path:
+    for candidate in (ROOT / "data" / "corpus.json", ROOT / "web" / "data" / "corpus.json"):
+        if candidate.exists():
+            return candidate
+    return ROOT / "data" / "corpus.json"
 
 
 def suppression_score(denial: dict) -> int:
@@ -41,7 +47,7 @@ def verify_ref(ref: str | None, text_id: str | None, corpus: dict) -> dict:
 
 def main() -> None:
     loci_data = json.loads(LOCI.read_text(encoding="utf-8"))
-    corpus = json.loads(CORPUS.read_text(encoding="utf-8")) if CORPUS.exists() else {"refs": {}}
+    corpus = json.loads(corpus_path().read_text(encoding="utf-8")) if corpus_path().exists() else {"refs": {}}
     verified = 0
     for loc in loci_data.get("loci", []):
         v = verify_ref(loc.get("ref"), loc.get("text_id"), corpus)

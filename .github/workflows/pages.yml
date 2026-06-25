@@ -34,8 +34,6 @@ jobs:
           mkdir -p web/data
           cp data/loci_chart.json web/data/loci_chart.json
           cp data/english_glossary.json web/data/english_glossary.json
-          test -f web/data/corpus.json
-          test -f web/data/etcsl_texts.json
 
       - uses: actions/configure-pages@v5
 

@@ -1,0 +1,50 @@
+{
+  "terms": [
+    {
+      "english": "Anunnaki",
+      "aliases": ["anunna", "anunnak", "anunnaki", "aliens", "astronauts"],
+      "hebrew": [],
+      "loci": ["anunna-divine-council"]
+    },
+    {
+      "english": "Inanna descent underworld",
+      "aliases": ["inanna", "ishtar", "descent", "netherworld", "ereshkigal"],
+      "loci": ["descent-inanna"]
+    },
+    {
+      "english": "Sumerian King List",
+      "aliases": ["king list", "antediluvian", "long reigns", "alulim"],
+      "loci": ["sumerian-king-list-antediluvian"]
+    },
+    {
+      "english": "flood story",
+      "aliases": ["flood", "deluge", "ark", "boat", "utnapishtim", "atrahasis"],
+      "loci": ["atrahasis-flood", "gilgamesh-flood-utnapishtim", "eridu-genesis"]
+    },
+    {
+      "english": "Gilgamesh",
+      "aliases": ["gilgamesh", "enkidu", "huwawa", "humbaba"],
+      "loci": ["gilgamesh-flood-utnapishtim"]
+    },
+    {
+      "english": "human creation clay",
+      "aliases": ["creation", "clay", "human", "slave", "mining", "gold"],
+      "loci": ["atrahasis-human-clay", "popular-gold-mining-slaves"]
+    },
+    {
+      "english": "Nibiru planet",
+      "aliases": ["nibiru", "planet x", "12th planet", "sitchin"],
+      "loci": ["popular-nibiru-planet", "enuma-tiamat-battle"]
+    },
+    {
+      "english": "Tiamat",
+      "aliases": ["tiamat", "chaos", "sea dragon"],
+      "loci": ["enuma-tiamat-battle"]
+    },
+    {
+      "english": "Enuma Elish creation",
+      "aliases": ["enuma elish", "marduk", "apsu", "creation myth", "babylon"],
+      "loci": ["enuma-elish-creation"]
+    }
+  ]
+}

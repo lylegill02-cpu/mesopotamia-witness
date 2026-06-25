@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Mesopotamia Witness</title>
+  <title>Mesopotamia Witness — Search</title>
   <style>
     :root {
       --bg: #e8e4dc;
@@ -12,67 +12,143 @@
       --accent: #6b3a12;
       --card: #faf6ee;
       --border: #c9bfb0;
+      --ok: #2d5016;
+      --bad: #6b3a12;
     }
     * { box-sizing: border-box; }
-    body {
-      margin: 0;
-      font-family: "Segoe UI", Georgia, serif;
-      background: var(--bg);
-      color: var(--ink);
-      line-height: 1.55;
-    }
-    header {
-      padding: 1.5rem 1rem;
-      border-bottom: 3px solid var(--ink);
-      background: var(--card);
-    }
-    header h1 { margin: 0; font-size: 1.6rem; letter-spacing: 0.02em; }
-    header p { margin: 0.4rem 0 0; color: var(--muted); max-width: 40rem; }
-    nav { margin-top: 0.75rem; font-size: 0.92rem; }
+    body { margin: 0; font-family: "Segoe UI", system-ui, sans-serif; background: var(--bg); color: var(--ink); line-height: 1.55; }
+    header { padding: 1.25rem 1rem; border-bottom: 2px solid var(--ink); background: var(--card); }
+    header h1 { margin: 0; font-size: 1.35rem; }
+    header p { margin: 0.35rem 0 0; color: var(--muted); font-size: 0.9rem; }
+    nav { margin-top: 0.6rem; font-size: 0.9rem; }
     nav a { color: var(--accent); margin-right: 1rem; font-weight: 600; }
-    main { max-width: 44rem; margin: 0 auto; padding: 1.25rem 1rem 3rem; }
-    .card {
-      background: var(--card);
-      border: 1px solid var(--border);
-      border-radius: 8px;
-      padding: 1rem 1.1rem;
-      margin-bottom: 1rem;
+    main { max-width: 52rem; margin: 0 auto; padding: 1.25rem 1rem 3rem; }
+    .search-row { display: flex; gap: 0.5rem; margin-bottom: 0.75rem; }
+    input[type="search"] {
+      flex: 1; font: inherit; padding: 0.55rem 0.75rem;
+      border: 1px solid var(--border); border-radius: 6px; background: var(--card);
     }
-    .card h2 { margin: 0 0 0.5rem; font-size: 1.05rem; }
-    .card p { margin: 0; color: var(--muted); font-size: 0.95rem; }
-    .cta { display: inline-block; margin-top: 0.75rem; color: var(--accent); font-weight: 600; }
-    ul { padding-left: 1.2rem; }
-    li { margin: 0.35rem 0; }
+    button { font: inherit; padding: 0.55rem 0.85rem; background: var(--ink); color: var(--card); border: none; border-radius: 6px; cursor: pointer; }
+    .help { font-size: 0.88rem; color: var(--muted); margin-bottom: 1rem; }
+    .progress { font-size: 0.88rem; color: var(--muted); margin-bottom: 0.75rem; min-height: 1.2rem; }
+    .hints { margin: 0 0 1rem; padding: 0; list-style: none; }
+    .hints li { display: inline-block; margin: 0 0.35rem 0.35rem 0; }
+    .hints button {
+      background: #ddd6c8; color: var(--ink); border: 1px solid var(--border);
+      font-size: 0.82rem; padding: 0.25rem 0.55rem;
+    }
+    .result {
+      background: var(--card); border: 1px solid var(--border); border-radius: 6px;
+      padding: 0.75rem 0.85rem; margin-bottom: 0.55rem;
+    }
+    .result h3 { margin: 0 0 0.25rem; font-size: 0.95rem; }
+    .result h3 a { color: var(--accent); text-decoration: none; }
+    .result h3 a:hover { text-decoration: underline; }
+    .meta { font-size: 0.78rem; color: var(--muted); margin-bottom: 0.35rem; text-transform: uppercase; letter-spacing: 0.04em; }
+    .snippet { font-size: 0.92rem; line-height: 1.5; }
+    .witness-delta.compact { margin-top: 0.5rem; font-size: 0.85rem; background: #ddd6c8; padding: 0.5rem; border-radius: 4px; }
+    .witness-delta .trust { margin: 0.35rem 0 0; font-size: 0.82rem; padding: 0.35rem; border-radius: 4px; background: #f5e8e4; }
+    .error { color: var(--bad); }
+    .empty { color: var(--muted); font-style: italic; }
   </style>
 </head>
 <body>
   <header>
     <h1>Mesopotamia Witness</h1>
-    <p>Sumerian &amp; Akkadian sources that predate most world histories — with English notes on what tablets actually say vs Anunnaki / ancient-alien lore.</p>
+    <p>Search ~394 ETCSL Sumerian literary texts — English translation + transliteration</p>
     <nav>
-      <a href="loci.html">Loci map →</a>
-      <a href="data/loci_chart.json">Data (JSON)</a>
+      <a href="loci.html">← Loci map</a>
+      <a href="texts.html">Browse catalog</a>
     </nav>
   </header>
   <main>
-    <div class="card">
-      <h2>Same idea as Bavli Uncensored — different problem</h2>
-      <p>Not print censorship: <strong>interpretation drift</strong>. Clay witnesses, broken tablets, and modern mistranslations. Start with guided loci; full ETCSL/ORACC search comes next.</p>
-      <a class="cta" href="loci.html">Open the 12 starter loci →</a>
+    <p class="help">
+      First search downloads ~4 MB once (ETCSL index). Try <strong>flood</strong>, <strong>Inanna</strong>, <strong>Gilgameš</strong>, <strong>king list</strong>, <strong>nether world</strong>.
+      Loci rows with witness notes appear when a hit matches a guided passage.
+    </p>
+    <div class="search-row">
+      <input type="search" id="q" placeholder="Search English or transliteration…" autocomplete="off" />
+      <button type="button" id="go">Search</button>
     </div>
-    <div class="card">
-      <h2>Start here if Anunnaki brought you</h2>
-      <ul>
-        <li><a href="loci.html#anunna-divine-council">Anunnaki = divine council</a>, not astronauts</li>
-        <li><a href="loci.html#popular-gold-mining-slaves">Gold-mining slaves</a> — no tablet chain</li>
-        <li><a href="loci.html#popular-nibiru-planet">Nibiru planet</a> — pop vs cuneiform astronomy</li>
-        <li><a href="loci.html#atrahasis-human-clay">Human creation from clay</a> — myth, not lab notes</li>
-      </ul>
-    </div>
-    <div class="card">
-      <h2>Deep history texts in the starter set</h2>
-      <p>Enuma Elish · Atrahasis · Gilgamesh flood · Sumerian King List · Eridu Genesis · Descent of Inanna</p>
-    </div>
+    <div class="progress" id="progress"></div>
+    <ul class="hints" id="hints"></ul>
+    <div id="results"></div>
   </main>
+  <script type="module">
+    import { ensureSearch, search, loadGlossary, glossaryHints, findLocus, renderWitnessDelta } from "./js/app.js";
+
+    const qEl = document.getElementById("q");
+    const progress = document.getElementById("progress");
+    const results = document.getElementById("results");
+    const hintsEl = document.getElementById("hints");
+
+    function esc(s) {
+      return String(s || "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+    }
+
+    async function showHints() {
+      const g = await loadGlossary();
+      const hints = glossaryHints(qEl.value, g.terms, 8);
+      hintsEl.innerHTML = hints
+        .map((t) => `<li><button type="button" data-q="${esc(t.english)}">${esc(t.english)}</button></li>`)
+        .join("");
+      hintsEl.querySelectorAll("button").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          qEl.value = btn.dataset.q;
+          runSearch();
+        });
+      });
+    }
+
+    async function runSearch() {
+      const query = qEl.value.trim();
+      if (!query) return;
+      results.innerHTML = "";
+      progress.textContent = "Loading index…";
+      try {
+        await ensureSearch((msg) => { progress.textContent = msg; });
+        progress.textContent = "Searching…";
+        const hits = await search(query, { limit: 30 });
+        progress.textContent = hits.length ? `${hits.length} hits` : "No matches";
+        if (!hits.length) {
+          results.innerHTML = `<p class="empty">No matches for “${esc(query)}”. Try a shorter word or browse the <a href="texts.html">catalog</a>.</p>`;
+          return;
+        }
+        const lociCache = new Map();
+        for (const hit of hits) {
+          let locusHtml = "";
+          if (!lociCache.has(hit.text_id)) {
+            lociCache.set(hit.text_id, await findLocus(hit.text_id));
+          }
+          const loc = lociCache.get(hit.text_id);
+          if (loc) locusHtml = renderWitnessDelta(loc, { compact: true });
+
+          const div = document.createElement("div");
+          div.className = "result";
+          div.innerHTML = `
+            <div class="meta">${esc(hit.layer)} · ${esc(hit.text_id)}${hit.line_range ? " · lines " + esc(hit.line_range) : hit.line_label ? " · line " + esc(hit.line_label) : ""}</div>
+            <h3><a href="text.html?text_id=${encodeURIComponent(hit.text_id)}">${esc(hit.title || hit.text_id)}</a></h3>
+            <div class="snippet">${esc(hit.snippet)}</div>
+            ${locusHtml}
+          `;
+          results.appendChild(div);
+        }
+      } catch (err) {
+        progress.textContent = "";
+        results.innerHTML = `<p class="error">${esc(err.message)}</p>`;
+      }
+    }
+
+    document.getElementById("go").addEventListener("click", runSearch);
+    qEl.addEventListener("keydown", (e) => { if (e.key === "Enter") runSearch(); });
+    qEl.addEventListener("input", showHints);
+    showHints();
+
+    const params = new URLSearchParams(location.search);
+    if (params.get("q")) {
+      qEl.value = params.get("q");
+      runSearch();
+    }
+  </script>
 </body>
 </html>

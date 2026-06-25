@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ETCSL catalog — Mesopotamia Witness</title>
+  <style>
+    :root { --bg:#e8e4dc; --ink:#1a1814; --muted:#5a5348; --accent:#6b3a12; --card:#faf6ee; --border:#c9bfb0; }
+    body { margin:0; font-family:"Segoe UI",system-ui,sans-serif; background:var(--bg); color:var(--ink); }
+    header { padding:1rem; border-bottom:2px solid var(--ink); background:var(--card); }
+    nav a { color:var(--accent); margin-right:1rem; font-weight:600; }
+    main { max-width:52rem; margin:0 auto; padding:1rem; }
+    input { width:100%; font:inherit; padding:0.5rem 0.65rem; margin-bottom:0.75rem; border:1px solid var(--border); border-radius:6px; }
+    .row { display:block; padding:0.55rem 0; border-bottom:1px solid var(--border); text-decoration:none; color:inherit; }
+    .row:hover { background:#f5f0e6; }
+    .id { font-size:0.78rem; color:var(--muted); }
+    .title { font-size:0.95rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>ETCSL catalog</h1>
+    <nav><a href="index.html">← Search</a><a href="loci.html">Loci map</a></nav>
+  </header>
+  <main>
+    <input type="search" id="filter" placeholder="Filter by title or ID…" />
+    <div id="list"></div>
+  </main>
+  <script type="module">
+    import { etcslTextsUrl } from "./js/config.js";
+    let all = [];
+    const list = document.getElementById("list");
+    function esc(s){return String(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;");}
+    function render(items){
+      list.innerHTML = items.map(t => `
+        <a class="row" href="text.html?text_id=${encodeURIComponent(t.text_id)}">
+          <div class="id">${esc(t.text_id)}</div>
+          <div class="title">${esc(t.title)}</div>
+        </a>`).join("");
+    }
+    document.getElementById("filter").addEventListener("input", (e) => {
+      const q = e.target.value.toLowerCase();
+      render(all.filter(t => (t.title||"").toLowerCase().includes(q) || t.text_id.includes(q)));
+    });
+    const r = await fetch(etcslTextsUrl());
+    all = (await r.json()).texts || [];
+    render(all);
+  </script>
+</body>
+</html>

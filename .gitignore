@@ -1,5 +1,10 @@
 data/corpus.json
 data/loci_chart.json
+data/etcsl.db
+data/etcsl.zip
+data/etcsl_catalog.json
+data/etcsl_texts.json
+dist/
 *.pyc
 __pycache__/
 .env

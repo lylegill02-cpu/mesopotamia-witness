@@ -1,5 +1,6 @@
 /** Site config — works locally and on GitHub Pages. */
 export const REPO = "lylegill02-cpu/mesopotamia-witness";
+export const DB_RELEASE_TAG = "v1.0.0-search";
 
 export function basePath() {
   const m = location.pathname.match(/^(\/[^/]+)\//);
@@ -20,4 +21,16 @@ export function lociChartUrl() {
 
 export function corpusUrl() {
   return assetUrl("/data/corpus.json");
+}
+
+export function glossaryUrl() {
+  return assetUrl("/data/english_glossary.json");
+}
+
+export function etcslTextsUrl() {
+  return assetUrl("/data/etcsl_texts.json");
+}
+
+export function dbDownloadUrl() {
+  return `https://github.com/${REPO}/releases/download/${DB_RELEASE_TAG}/etcsl.db.gz`;
 }

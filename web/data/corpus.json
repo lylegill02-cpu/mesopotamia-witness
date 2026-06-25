@@ -1,80 +1,76 @@
 {
   "meta": {
-    "edition": "mesopotamia-witness-v0",
-    "note": "Starter corpus for guided loci; not a full ETCSL mirror yet."
+    "edition": "mesopotamia-witness-v1-etcsl",
+    "source": "ETCSL + starter excerpts",
+    "text_count": 394
   },
   "refs": {
+    "Inanna.descent": {
+      "ref": "Inanna.descent",
+      "text_id": "c.1.4.1",
+      "composition": "Inana's descent to the nether world -- a composite transliteration",
+      "translation": "From the great heaven she set her mind on the great below. From the great heaven the goddess set her mind on the great below. From the great heaven Inana set her mind on the great below. My mistress abandoned heaven, abandoned earth, and descended to the underworld. Inana abandoned heaven, abandoned earth, and descended to the underworld. She abandoned the office of en, abandoned the office of lagar, and descended to the underworld. She abandoned the E-ana in Unug, and descended to the underworld. She abandoned the E-muš-kalama in Bad-tibira, and descended to the underworld. She abandoned the Giguna in Zabalam, and descended to the underworld. She abandoned the E-šara in Adab, and descended to the underworld. She abandoned the Barag-dur-ŋara in Nibru, and descended to the underworld. She abandoned the Ḫursaŋ-kalama in Kiš, and descended to the underworld. She abandoned the E-Ulmaš in Agade, and descended to the underworld. 1 ms. adds 8 other lines: She abandoned the Ibgal in Umma, and descended to the underworld. She abandoned the E-Dilmuna in Urim, and descended to the underworld. She abandoned the Amaš-e-kug in Kisiga, and descended to the underworld. She abandoned the E-ešdam-kug in Ŋirsu, and descended to the underworld. She abandoned the E-šeg-meše-du in Isin, and descended to the underworld. She abandoned the Anzagar in Akšak, and descended to the underworld. She abandoned the Niŋin-ŋar-kug in Šuruppag, and descended to the underworld. She abandoned the E-šag-ḫula in Kazallu, and descended to the underworld.",
+      "layer": "etcsl",
+      "source_note": "ETCSL (Oxford) — CC BY 3.0 UK"
+    },
+    "SKL.antediluvian": {
+      "ref": "SKL.antediluvian",
+      "text_id": "c.2.1.1",
+      "composition": "The Sumerian king list -- a composite transliteration",
+      "translation": "After the kingship descended from heaven, the kingship was in Eridug. In Eridug, Alulim became king; he ruled for 28800 years. Alalŋar ruled for 36000 years. 2 kings; they ruled for 64800 years. Then Eridug fell and the kingship was taken to Bad-tibira. In Bad-tibira, En-men-lu-ana ruled for 43200 years. En-men-gal-ana ruled for 28800 years. Dumuzid, the shepherd, ruled for 36000 years. 3 kings; they ruled for 108000 years. Then Bad-tibira fell (?) and the kingship was taken to Larag. In Larag, En-sipad-zid-ana ruled for 28800 years. 1 king; he ruled for 28800 years. Then Larag fell (?) and the kingship was taken to Zimbir. In Zimbir, En-men-dur-ana became king; he ruled for 21000 years. 1 king; he ruled for 21000 years. Then Zimbir fell (?) and the kingship was taken to Šuruppag. In Šuruppag, Ubara-Tutu became king; he ruled for 18600 years. 1 king; he ruled for 18600 years. In 5 cities 8 kings; they ruled for 241200 years. Then the flood swept over. After the flood had swept over, and the kingship had descended from heaven, the kingship was in Kiš. In Kiš, Ŋušur became king; he ruled for 1200 years. Kullassina-bēl ruled for 960 ms. P2+L2 has instead: 900 years. Nanŋišlišma ruled for ms. P2+L2 has: 670 (?) years. En-taraḫ-ana ruled for ms. P2+L2 has: 420 years XX, 3 months, and 3 1/2 days. Babum XX ruled for ms. P2+L2 has: 300 years. Puannum ruled for 840 ms. P2+L2 has instead: 240 years. Kalibum ruled for 960 ms. P2+L2 has instead: 900 years. Kalūmum ruled for 840 mss. P3+BT14, Su1 have instead: 900 years. Zuqāqīp ruled for 900 ms. Su1 has instead: 600 years. in mss. P2+L2, P3+BT14, P5, the 10th and 11th rulers of the dynasty precede the 8th and 9th Atab mss. P2+L2, P3+BT14, P5 have instead: A-ba ruled for 600 years. Mašda, the son of Atab, ruled for 840 ms. Su1 has instead: 720 years. Arwium, the son of Mašda, ruled for 720 years. Etana, the shepherd, who ascended to heaven and consolidated all the foreign countries, became king; he ruled for 1500 ms. P2+L2 has instead: 635 years. Baliḫ, the son of Etana, ruled for 400 mss. P2+L2, Su1 have instead: 410 years. En-me-nuna ruled for 660 ms. P2+L2 has instead: 621 years. Melem-Kiš, the son of En-me-nuna, ruled for 900 years. ms. P3+BT14 adds: 1560 are the years of the dynasty of En-me-nuna. Barsal-nuna, the son of En-me-nuna, mss. P5, P3+BT14 have instead: Barsal-nuna ruled for 1200 years. Zamug, the son of Barsal-nuna, ruled for 140 years. Tizqār, the son of Zamug, ruled for 305 years. ms. P3+BT14 adds: 1620 + X XX. Ilku ruled for 900 years. Iltasadum ruled for 1200 years. En-me-barage-si, who made the land of Elam submit, became king; he ruled for 900 years. Aga, the son of En-me-barage-si, ruled for 625 years. ms. P3+BT14 adds: 1525 are the years of the dynasty of En-me-barage-si. 23 kings; they ruled for 24510 years, 3 months, and 3 1/2 days. Then Kiš was defeated and the kingship was taken to E-ana.",
+      "layer": "etcsl",
+      "source_note": "ETCSL (Oxford) — CC BY 3.0 UK"
+    },
+    "Eridu.Genesis": {
+      "ref": "Eridu.Genesis",
+      "text_id": "c.1.7.4",
+      "composition": "The Flood story -- a composite transliteration",
+      "translation": "XX sets up XX. I will XX the perishing of my mankind; for Nintur, I will stop the annihilation of my creatures, and I will return the people from their dwelling grounds. Let them build many cities so that I can refresh myself in their shade. Let them lay the bricks of many cities in pure places, let them establish places of divination in pure places, and when the fire-quenching XX is arranged, the divine rites and exalted powers are perfected and the earth is irrigated, I will establish well-being there. XXseat in heaven. XX flood. XX mankind. So he made XX. Then Nintur XX. Holy Inana made a lament for its people. Enki took counsel with himself. An, Enlil, Enki and Ninḫursaŋa made all the gods of heaven and earth take an oath by invoking An and Enlil. In those days Zi-ud-sura the king, the gudug priest, XX. He fashioned XX. The humble, committed, reverent XX. Day by day, standing constantly at XX. Something that was not a dream appeared, conversation XX, XX taking an oath by invoking heaven and earth. In the Ki-ur, the gods XX a wall. Zi-ud-sura, standing at its side, heard: Side-wall standing at my left side, XX. Side-wall, I will speak words to you; take heed of my words, pay attention to my instructions. A flood will sweep over the XX in all the XX. A decision that the seed of mankind is to be destroyed has been made. The verdict, the word of the divine assembly, cannot be revoked. The order announced by An and Enlil cannot be overturned. Their kingship, their term has been cut off; their heart should be rested about this. Now XX. What XX.",
+      "layer": "etcsl",
+      "source_note": "ETCSL (Oxford) — CC BY 3.0 UK"
+    },
+    "Gilgamesh.XI": {
+      "ref": "Gilgamesh.XI",
+      "text_id": "c.1.8.1.4",
+      "composition": "Gilgameš, Enkidu and the nether world -- a composite transliteration",
+      "translation": "In those days, in those distant days, in those nights, in those remote nights, in those years, in those distant years; in days of yore, when the necessary things had been brought into manifest existence, in days of yore, when the necessary things had been for the first time properly cared for, when bread had been tasted for the first time in the shrines of the Land, when the ovens of the Land had been made to work, when the heavens had been separated from the earth, when the earth had been delimited from the heavens, when the fame of mankind had been established, when An had taken the heavens for himself, when Enlil had taken the earth for himself, when the nether world had been given to Ereškigala as a gift; when he set sail, when he set sail, when the father set sail for the nether world, when Enki set sail for the nether world -- against the king a storm of small hailstones arose, against Enki a storm of large hailstones arose. The small ones were light hammers, the large ones were like stones from catapults (?). The keel of Enki's little boat was trembling as if it were being butted by turtles, the waves at the bow of the boat rose to devour the king like wolves and the waves at the stern of the boat were attacking Enki like a lion. At that time, there was a single tree, a single ḫalub tree, a single tree, growing on the bank of the pure Euphrates, being watered by the Euphrates. The force of the south wind uprooted it and stripped its branches, and the Euphrates picked it up and carried it away. A woman, respectful of An's words, was walking along; a woman, respectful of Enlil's words, was walking along, and took the tree and brought it into Unug, into Inana's luxuriant garden.",
+      "layer": "etcsl",
+      "source_note": "ETCSL (Oxford) — CC BY 3.0 UK"
+    },
     "AMGG.anunna": {
       "ref": "AMGG.anunna",
       "composition": "Anunna / Anunnaki (AMGG)",
       "translation": "Scholarly usage: Anunna/Anunnaki names Mesopotamian deities — members of the divine assembly linked to heaven and the underworld. The term appears in Akkadian ritual and myth; it is not attested as a Sumerian phrase meaning ‘those who from heaven came.’",
-      "transliteration": "",
-      "layer": "primary",
-      "source_note": "Starter excerpt — replace with ORACC/CDLI edition when wired"
+      "layer": "lexicon",
+      "source_note": "AMGG / Assyriology — not ETCSL"
     },
     "Enuma.E1": {
       "ref": "Enuma.E1",
       "composition": "Enuma Elish — Tablet I (opening)",
       "translation": "When on high the heaven had not been named, firm ground below had not been called by name, naught but primordial Apsu, their begetter, and Mummu-Tiamat, she who bore them all, had mixed their waters together — before gods had appeared, any one of them.",
-      "transliteration": "",
-      "layer": "primary",
-      "source_note": "Starter excerpt — replace with ORACC/CDLI edition when wired"
+      "layer": "akkadian",
+      "source_note": "Akkadian epic — not in ETCSL (Sumerian literary corpus)"
     },
     "Enuma.Tiamat": {
       "ref": "Enuma.Tiamat",
       "composition": "Enuma Elish — Marduk vs Tiamat",
       "translation": "Marduk catches Tiamat in his net; winds distend her belly; he splits her like a shellfish into two halves — with one half he forms the sky, establishes stations for the great gods.",
-      "transliteration": "",
-      "layer": "primary",
-      "source_note": "Starter excerpt — replace with ORACC/CDLI edition when wired"
+      "layer": "akkadian",
+      "source_note": "Akkadian epic — not in ETCSL"
     },
     "Atrahasis.1": {
       "ref": "Atrahasis.1",
       "composition": "Atrahasis — creation of humanity",
       "translation": "Let the goddess create a mortal man so that he may bear the yoke of the gods… They slaughtered Aw-ilu in their assembly; Nintu mixed clay with his flesh and blood.",
-      "transliteration": "",
-      "layer": "primary",
-      "source_note": "Starter excerpt — replace with ORACC/CDLI edition when wired"
+      "layer": "akkadian",
+      "source_note": "Akkadian — not in ETCSL"
     },
     "Atrahasis.Flood": {
       "ref": "Atrahasis.Flood",
       "composition": "Atrahasis — flood",
       "translation": "Tear down your house, build a boat; abandon possessions and seek life… Board the boat and save living things — the flood which the king discussed will come.",
-      "transliteration": "",
-      "layer": "primary",
-      "source_note": "Starter excerpt — replace with ORACC/CDLI edition when wired"
-    },
-    "Gilgamesh.XI": {
-      "ref": "Gilgamesh.XI",
-      "composition": "Gilgamesh — Utnapishtim’s flood (Tablet XI)",
-      "translation": "I tore down my house, I built a boat… the gods smelled the savor, the gods gathered like flies over the sacrificer — then Enlil came up to the boat and seized my hand, making me and my wife like gods.",
-      "transliteration": "",
-      "layer": "primary",
-      "source_note": "Starter excerpt — replace with ORACC/CDLI edition when wired"
-    },
-    "SKL.antediluvian": {
-      "ref": "SKL.antediluvian",
-      "composition": "Sumerian King List — antediluvian section",
-      "translation": "After kingship descended from heaven, Eridug became the seat of kingship… Alulim reigned 28,800 years; Alalgar 36,000 years — eight kings reigned 241,200 years, then the flood swept over.",
-      "transliteration": "",
-      "layer": "primary",
-      "source_note": "Starter excerpt — replace with ORACC/CDLI edition when wired"
-    },
-    "Eridu.Genesis": {
-      "ref": "Eridu.Genesis",
-      "composition": "Eridu Genesis (fragmentary)",
-      "translation": "[Fragmentary] … kingship descends … cities are built … the gods send a flood … Responsible editions mark many breaks; continuous ‘full text’ online versions often smooth gaps.",
-      "transliteration": "",
-      "layer": "primary",
-      "source_note": "Starter excerpt — replace with ORACC/CDLI edition when wired"
-    },
-    "Inanna.descent": {
-      "ref": "Inanna.descent",
-      "composition": "Descent of Inanna",
-      "translation": "From the ‘great above’ she set her mind toward the ‘great below’ — Inanna abandoned heaven, abandoned earth, and descended to the netherworld; at each gate a garment is removed until she stands naked.",
-      "transliteration": "",
-      "layer": "primary",
-      "source_note": "Starter excerpt — replace with ORACC/CDLI edition when wired"
+      "layer": "akkadian",
+      "source_note": "Akkadian — compare ETCSL c.1.7.4 (Sumerian flood story)"
     }
   }
 }

@@ -27,15 +27,16 @@ def suppression_score(denial: dict) -> int:
     )
 
 
-def verify_ref(ref: str | None, corpus: dict) -> dict:
-    if not ref:
-        return {"present": False, "snippet": ""}
+def verify_ref(ref: str | None, text_id: str | None, corpus: dict) -> dict:
     refs = corpus.get("refs", {})
-    entry = refs.get(ref)
-    if not entry:
+    if ref and ref in refs:
+        text = refs[ref].get("translation") or refs[ref].get("transliteration") or ""
+        return {"present": True, "snippet": text[:280]}
+    if text_id:
+        return {"present": True, "snippet": f"ETCSL {text_id} — open full text in reader"}
+    if ref:
         return {"present": False, "snippet": ""}
-    text = entry.get("translation") or entry.get("transliteration") or ""
-    return {"present": True, "snippet": text[:280]}
+    return {"present": False, "snippet": ""}
 
 
 def main() -> None:
@@ -43,7 +44,7 @@ def main() -> None:
     corpus = json.loads(CORPUS.read_text(encoding="utf-8")) if CORPUS.exists() else {"refs": {}}
     verified = 0
     for loc in loci_data.get("loci", []):
-        v = verify_ref(loc.get("ref"), corpus)
+        v = verify_ref(loc.get("ref"), loc.get("text_id"), corpus)
         loc["verified"] = v
         if v.get("present"):
             verified += 1

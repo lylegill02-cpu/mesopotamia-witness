@@ -62,3 +62,8 @@ export function locusForRef(loci, ref) {
   if (!ref || !loci?.length) return null;
   return loci.find((x) => x.ref === ref) || null;
 }
+
+export function locusForTextId(loci, textId) {
+  if (!textId || !loci?.length) return null;
+  return loci.find((x) => x.text_id === textId) || null;
+}

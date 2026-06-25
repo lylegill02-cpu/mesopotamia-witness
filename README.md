@@ -2,49 +2,44 @@
 
 **Mesopotamian cuneiform sources with English witness notes** — what tablets and scholarship support vs what Anunnaki / ancient-alien media claims.
 
-Mirrors the [Bavli Uncensored](https://github.com/lylegill02-cpu/bavli-uncensored) pattern: **loci map + witness deltas + static GitHub Pages**. The problem here is not Vilna censorship but **interpretation drift** (Sitchin-era mistranslations, gap-free paraphrases, viral summaries).
+Mirrors the [Bavli Uncensored](https://github.com/lylegill02-cpu/bavli-uncensored) pattern: **loci map + ETCSL search + witness deltas + GitHub Pages**.
 
 ## Live site
 
-*(Enable GitHub Pages after first push — URL will be `https://lylegill02-cpu.github.io/mesopotamia-witness/`)*
+https://lylegill02-cpu.github.io/mesopotamia-witness/
 
-## Quick start
+- **Search** — ~394 ETCSL texts (English + transliteration), ~4 MB index download once
+- **Loci map** — 12 guided passages with pop-vs-scholarly witness notes
+- **Catalog** — browse all ETCSL composition IDs
+
+## Build from source
 
 ```bash
-python scripts/merge_witness_deltas.py
-python scripts/sync_loci.py
-cp data/loci_chart.json web/data/loci_chart.json
-cp data/corpus.json web/data/corpus.json
-# open web/index.html locally, or:
-python -m http.server 8080 --directory web
+python scripts/build_all.py          # fetch ETCSL zip, build index, export JSON
+python scripts/publish_release.py v1.0.0-search   # upload etcsl.db.gz for client search
+cp data/loci_chart.json web/data/
+cp data/english_glossary.json web/data/
 ```
+
+## Data sources
+
+| Source | Use |
+|--------|-----|
+| [ETCSL](https://etcsl.orinst.ox.ac.uk/) (Oxford OTA zip, CC BY 3.0 UK) | Sumerian literary corpus + English translations |
+| [ORACC](https://oracc.museum.upenn.edu/) | Future: royal inscriptions (ETCSRI), AMGG |
+| [CDLI](https://cdli.earth/) | Tablet photos & catalog links |
+
+Enuma Elish, Atrahasis (Akkadian), and Anunnaki lexicon rows use **starter excerpts** until ORACC/Akkadian layers are wired.
 
 ## Architecture
 
 | Piece | Location |
 |-------|----------|
-| Loci seed | `data/loci.json` + `data/witness_deltas.json` |
-| Starter corpus | `data/corpus.json` (9 excerpt refs — expand via ORACC) |
-| Static UI | `web/` — `index.html`, `loci.html`, `text.html` |
-
-## Starter loci (12)
-
-- **Anunnaki** — divine council, not astronauts  
-- **Enuma Elish / Tiamat** — myth vs “planet collision”  
-- **Atrahasis** — human creation & flood  
-- **Gilgamesh XI** — Utnapishtim  
-- **Sumerian King List** — antediluvian reigns as literary time  
-- **Debunk rows** — Nibiru planet, gold-mining slaves  
-- **Method row** — clay witnesses & lacunae  
-
-## Data sources (target)
-
-- [ORACC](https://oracc.museum.upenn.edu/) — ETCSL, AMGG (CC0 JSON)
-- [CDLI](https://cdli.ucla.edu/) — tablet photos & catalog
-- Academic translations (George, Foster, Lambert, etc.)
-
-`scripts/build_corpus.py` will pull ORACC when endpoints are stable; v0 ships curated starter excerpts.
+| ETCSL zip | `data/etcsl.zip` (gitignored, fetched by script) |
+| Search index | `data/etcsl.db` → Release `etcsl.db.gz` |
+| Loci | `data/loci.json` + `data/witness_deltas.json` |
+| Static UI | `web/` |
 
 ## License
 
-Corpus text: follow source licenses (ORACC CC0 for fetched data). Project code & witness notes: MIT.
+Code: MIT. ETCSL text: [CC BY 3.0 UK](https://etcsl.orinst.ox.ac.uk/) — cite Black et al., ETCSL, Oxford 1998–2006.

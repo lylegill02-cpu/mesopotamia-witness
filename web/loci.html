@@ -54,7 +54,8 @@
     <h1>Loci map</h1>
     <p>Tablet-backed passages vs pop Anunnaki claims — English witness notes first</p>
     <nav>
-      <a href="index.html">Home</a>
+      <a href="index.html">Search ETCSL</a>
+      <a href="texts.html">Browse catalog</a>
       <a href="data/loci_chart.json">Download JSON</a>
     </nav>
   </header>
@@ -103,7 +104,11 @@
       const sources = (loc.sources || []).map((s) => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a></li>`).join("");
       const related = (loc.related_refs || []).map((r) => `<a class="ref" href="text.html?ref=${encodeURIComponent(r)}">${esc(r)}</a>`).join(" · ");
       const tags = (loc.tags || []).map((t) => `<span class="tag">${esc(t)}</span>`).join("");
-      const readBtn = loc.ref ? `<a class="btn btn-primary" href="text.html?ref=${encodeURIComponent(loc.ref)}">Read passage →</a>` : "";
+      const readBtn = loc.text_id
+        ? `<a class="btn btn-primary" href="text.html?text_id=${encodeURIComponent(loc.text_id)}">Read full text →</a>`
+        : loc.ref
+          ? `<a class="btn btn-primary" href="text.html?ref=${encodeURIComponent(loc.ref)}">Read passage →</a>`
+          : "";
 
       return `
         <div class="detail" id="${esc(loc.id)}">

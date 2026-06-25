@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "edition": "mesopotamia-witness-v0",
+    "note": "Starter corpus for guided loci; not a full ETCSL mirror yet."
+  },
+  "refs": {
+    "AMGG.anunna": {
+      "ref": "AMGG.anunna",
+      "composition": "Anunna / Anunnaki (AMGG)",
+      "translation": "Scholarly usage: Anunna/Anunnaki names Mesopotamian deities — members of the divine assembly linked to heaven and the underworld. The term appears in Akkadian ritual and myth; it is not attested as a Sumerian phrase meaning ‘those who from heaven came.’",
+      "transliteration": "",
+      "layer": "primary",
+      "source_note": "Starter excerpt — replace with ORACC/CDLI edition when wired"
+    },
+    "Enuma.E1": {
+      "ref": "Enuma.E1",
+      "composition": "Enuma Elish — Tablet I (opening)",
+      "translation": "When on high the heaven had not been named, firm ground below had not been called by name, naught but primordial Apsu, their begetter, and Mummu-Tiamat, she who bore them all, had mixed their waters together — before gods had appeared, any one of them.",
+      "transliteration": "",
+      "layer": "primary",
+      "source_note": "Starter excerpt — replace with ORACC/CDLI edition when wired"
+    },
+    "Enuma.Tiamat": {
+      "ref": "Enuma.Tiamat",
+      "composition": "Enuma Elish — Marduk vs Tiamat",
+      "translation": "Marduk catches Tiamat in his net; winds distend her belly; he splits her like a shellfish into two halves — with one half he forms the sky, establishes stations for the great gods.",
+      "transliteration": "",
+      "layer": "primary",
+      "source_note": "Starter excerpt — replace with ORACC/CDLI edition when wired"
+    },
+    "Atrahasis.1": {
+      "ref": "Atrahasis.1",
+      "composition": "Atrahasis — creation of humanity",
+      "translation": "Let the goddess create a mortal man so that he may bear the yoke of the gods… They slaughtered Aw-ilu in their assembly; Nintu mixed clay with his flesh and blood.",
+      "transliteration": "",
+      "layer": "primary",
+      "source_note": "Starter excerpt — replace with ORACC/CDLI edition when wired"
+    },
+    "Atrahasis.Flood": {
+      "ref": "Atrahasis.Flood",
+      "composition": "Atrahasis — flood",
+      "translation": "Tear down your house, build a boat; abandon possessions and seek life… Board the boat and save living things — the flood which the king discussed will come.",
+      "transliteration": "",
+      "layer": "primary",
+      "source_note": "Starter excerpt — replace with ORACC/CDLI edition when wired"
+    },
+    "Gilgamesh.XI": {
+      "ref": "Gilgamesh.XI",
+      "composition": "Gilgamesh — Utnapishtim’s flood (Tablet XI)",
+      "translation": "I tore down my house, I built a boat… the gods smelled the savor, the gods gathered like flies over the sacrificer — then Enlil came up to the boat and seized my hand, making me and my wife like gods.",
+      "transliteration": "",
+      "layer": "primary",
+      "source_note": "Starter excerpt — replace with ORACC/CDLI edition when wired"
+    },
+    "SKL.antediluvian": {
+      "ref": "SKL.antediluvian",
+      "composition": "Sumerian King List — antediluvian section",
+      "translation": "After kingship descended from heaven, Eridug became the seat of kingship… Alulim reigned 28,800 years; Alalgar 36,000 years — eight kings reigned 241,200 years, then the flood swept over.",
+      "transliteration": "",
+      "layer": "primary",
+      "source_note": "Starter excerpt — replace with ORACC/CDLI edition when wired"
+    },
+    "Eridu.Genesis": {
+      "ref": "Eridu.Genesis",
+      "composition": "Eridu Genesis (fragmentary)",
+      "translation": "[Fragmentary] … kingship descends … cities are built … the gods send a flood … Responsible editions mark many breaks; continuous ‘full text’ online versions often smooth gaps.",
+      "transliteration": "",
+      "layer": "primary",
+      "source_note": "Starter excerpt — replace with ORACC/CDLI edition when wired"
+    },
+    "Inanna.descent": {
+      "ref": "Inanna.descent",
+      "composition": "Descent of Inanna",
+      "translation": "From the ‘great above’ she set her mind toward the ‘great below’ — Inanna abandoned heaven, abandoned earth, and descended to the netherworld; at each gate a garment is removed until she stands naked.",
+      "transliteration": "",
+      "layer": "primary",
+      "source_note": "Starter excerpt — replace with ORACC/CDLI edition when wired"
+    }
+  }
+}

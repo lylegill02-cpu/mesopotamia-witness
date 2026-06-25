@@ -1,0 +1,6 @@
+data/corpus.json
+data/loci_chart.json
+*.pyc
+__pycache__/
+.env
+.DS_Store

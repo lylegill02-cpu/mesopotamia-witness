@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Loci map — Mesopotamia Witness</title>
+  <style>
+    :root {
+      --bg: #e8e4dc;
+      --ink: #1a1814;
+      --muted: #5a5348;
+      --accent: #6b3a12;
+      --card: #faf6ee;
+      --border: #c9bfb0;
+      --ok: #2d5016;
+      --warn: #8b6914;
+      --bad: #6b3a12;
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: "Segoe UI", system-ui, sans-serif; background: var(--bg); color: var(--ink); line-height: 1.5; }
+    header { padding: 1.25rem 1rem; border-bottom: 2px solid var(--ink); background: var(--card); }
+    header h1 { margin: 0; font-size: 1.35rem; }
+    header p { margin: 0.3rem 0 0; color: var(--muted); font-size: 0.9rem; }
+    nav { margin-top: 0.75rem; font-size: 0.9rem; }
+    nav a { color: var(--accent); margin-right: 1rem; }
+    main { max-width: 72rem; margin: 0 auto; padding: 1rem 1rem 3rem; }
+    .help { background: #ddd6c8; border: 1px solid var(--border); border-radius: 6px; padding: 0.85rem 1rem; margin-bottom: 1rem; font-size: 0.9rem; }
+    .filters { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1rem; }
+    select, button, .btn { font: inherit; padding: 0.45rem 0.65rem; border: 1px solid var(--border); border-radius: 4px; background: var(--card); text-decoration: none; color: inherit; display: inline-block; }
+    button, .btn-primary { background: var(--ink); color: var(--card); border: none; cursor: pointer; }
+    table { width: 100%; border-collapse: collapse; background: var(--card); border: 1px solid var(--border); font-size: 0.88rem; }
+    th, td { border-bottom: 1px solid var(--border); padding: 0.55rem 0.5rem; text-align: left; vertical-align: top; }
+    th { background: #ddd6c8; font-size: 0.75rem; text-transform: uppercase; }
+    tr.locus-row { cursor: pointer; }
+    tr.locus-row:hover td { background: #f5f0e6; }
+    tr.detail-row td { background: #f5f0e6; padding: 0; }
+    tr.detail-row.hidden { display: none; }
+    .detail { padding: 0.85rem 1rem 1rem; font-size: 0.9rem; }
+    .snippet-box { background: var(--card); border: 1px solid var(--border); border-radius: 4px; padding: 0.65rem 0.75rem; margin: 0.5rem 0 0.75rem; font-style: italic; line-height: 1.55; }
+    .witness-delta { background: var(--card); border: 1px solid var(--border); border-radius: 6px; padding: 0.75rem 0.85rem; margin: 0 0 0.85rem; }
+    .witness-delta h4 { margin: 0 0 0.5rem; font-size: 0.75rem; text-transform: uppercase; color: var(--muted); }
+    .witness-delta dt { font-size: 0.72rem; text-transform: uppercase; color: var(--muted); margin-top: 0.45rem; }
+    .witness-delta dd { margin: 0.15rem 0 0; line-height: 1.45; }
+    .witness-delta .trust { margin: 0; font-size: 0.85rem; padding: 0.45rem 0.55rem; border-radius: 4px; }
+    .trust-high { background: #e8f0e4; color: var(--ok); }
+    .trust-medium { background: #f5f0e0; color: var(--warn); }
+    .trust-low { background: #f5e8e4; color: var(--bad); }
+    .tag { display: inline-block; font-size: 0.68rem; padding: 0.1rem 0.35rem; border-radius: 3px; background: #ddd6c8; margin: 0.1rem 0.15rem 0.1rem 0; }
+    a.ref { color: var(--accent); font-weight: 600; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Loci map</h1>
+    <p>Tablet-backed passages vs pop Anunnaki claims — English witness notes first</p>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="data/loci_chart.json">Download JSON</a>
+    </nav>
+  </header>
+  <main>
+    <div class="help">
+      <strong>How to use</strong>
+      Click any row for <strong>What you can trust in English</strong> — pop claim vs scholarly reading.
+      “Read passage” opens the starter excerpt; full ORACC/CDLI wiring comes in v1.
+    </div>
+    <div class="filters">
+      <select id="filter-tag">
+        <option value="">All tags</option>
+        <option value="debunk">Debunk / pop claims</option>
+        <option value="starter">Starter texts</option>
+        <option value="anunnaki">Anunnaki</option>
+        <option value="flood">Flood narratives</option>
+      </select>
+      <button type="button" id="reload">Refresh</button>
+    </div>
+    <table>
+      <thead>
+        <tr>
+          <th>Ref</th>
+          <th>Topic</th>
+          <th>Type</th>
+          <th>Pop noise</th>
+        </tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </main>
+  <script type="module">
+    import { lociChartUrl } from "./js/config.js";
+    import { renderWitnessDelta } from "./js/witness-delta.js";
+
+    let all = [];
+    let openId = null;
+
+    function esc(s) {
+      return String(s || "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+    }
+
+    function renderDetail(loc) {
+      const v = loc.verified || {};
+      const w = loc.witnesses || {};
+      const sources = (loc.sources || []).map((s) => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a></li>`).join("");
+      const related = (loc.related_refs || []).map((r) => `<a class="ref" href="text.html?ref=${encodeURIComponent(r)}">${esc(r)}</a>`).join(" · ");
+      const tags = (loc.tags || []).map((t) => `<span class="tag">${esc(t)}</span>`).join("");
+      const readBtn = loc.ref ? `<a class="btn btn-primary" href="text.html?ref=${encodeURIComponent(loc.ref)}">Read passage →</a>` : "";
+
+      return `
+        <div class="detail" id="${esc(loc.id)}">
+          ${renderWitnessDelta(loc)}
+          <p>${esc(loc.tradition_note)}</p>
+          ${v.snippet ? `<h4 style="font-size:0.75rem;text-transform:uppercase;color:var(--muted)">Starter excerpt</h4><div class="snippet-box">${esc(v.snippet)}</div>` : ""}
+          ${w.uncensored?.length ? `<h4 style="font-size:0.75rem;text-transform:uppercase;color:var(--muted)">Trust</h4><ul>${w.uncensored.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>` : ""}
+          ${w.censored?.length ? `<h4 style="font-size:0.75rem;text-transform:uppercase;color:var(--muted)">Often wrong</h4><ul>${w.censored.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>` : ""}
+          ${sources ? `<h4 style="font-size:0.75rem;text-transform:uppercase;color:var(--muted)">Further reading</h4><ul>${sources}</ul>` : ""}
+          ${related ? `<p><strong>Related:</strong> ${related}</p>` : ""}
+          ${tags ? `<p>${tags}</p>` : ""}
+          <div style="margin-top:0.75rem">${readBtn}</div>
+        </div>
+      `;
+    }
+
+    function renderRows(items) {
+      const tbody = document.getElementById("rows");
+      tbody.innerHTML = "";
+      for (const loc of items) {
+        const d = loc.denial || {};
+        const tr = document.createElement("tr");
+        tr.className = `locus-row${openId === loc.id ? " open" : ""}`;
+        tr.innerHTML = `
+          <td>${loc.ref ? `<span class="ref">${esc(loc.ref)}</span>` : `<em>pattern</em>`}<br><small>${esc(loc.layer || "")}</small></td>
+          <td>${esc(loc.topic?.en)}</td>
+          <td><strong>${esc(loc.tradition_status)}</strong></td>
+          <td>${d.modern_digital ?? "—"}</td>
+        `;
+        tr.addEventListener("click", () => { openId = openId === loc.id ? null : loc.id; applyFilters(); });
+        tbody.appendChild(tr);
+        const detailTr = document.createElement("tr");
+        detailTr.className = `detail-row${openId === loc.id ? "" : " hidden"}`;
+        const td = document.createElement("td");
+        td.colSpan = 4;
+        td.innerHTML = renderDetail(loc);
+        detailTr.appendChild(td);
+        tbody.appendChild(detailTr);
+      }
+    }
+
+    function applyFilters() {
+      const tag = document.getElementById("filter-tag").value;
+      let items = all;
+      if (tag) items = items.filter((x) => (x.tags || []).includes(tag));
+      renderRows(items);
+      if (location.hash) {
+        const id = location.hash.slice(1);
+        if (all.some((x) => x.id === id)) { openId = id; renderRows(items); }
+      }
+    }
+
+    async function load() {
+      const r = await fetch(lociChartUrl());
+      if (!r.ok) return;
+      all = (await r.json()).loci || [];
+      if (location.hash) openId = location.hash.slice(1);
+      applyFilters();
+    }
+
+    document.getElementById("filter-tag").addEventListener("change", applyFilters);
+    document.getElementById("reload").addEventListener("click", load);
+    load();
+  </script>
+</body>
+</html>

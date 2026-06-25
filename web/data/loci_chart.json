@@ -1,0 +1,724 @@
+{
+  "schema_version": 1,
+  "title": "Mesopotamia loci — tablet witnesses vs popular claims",
+  "description": "Guided passages: what cuneiform sources support vs what modern Anunnaki/alien media claims.",
+  "verified_count": 9,
+  "loci": [
+    {
+      "id": "anunna-divine-council",
+      "ref": "AMGG.anunna",
+      "corpus": "amgg",
+      "layer": "lexicon",
+      "topic": {
+        "en": "Anunna / Anunnaki — divine council (not astronauts)",
+        "he": ""
+      },
+      "tradition_status": "ikkar",
+      "tradition_note": "Entry locus: the name at the center of pop ‘Anunnaki’ lore. Scholarly AMGG/ORACC usage vs Sitchin-era mistranslation.",
+      "denial": {
+        "print_historical": 0,
+        "commentary_residue": 0,
+        "modern_digital": 3,
+        "in_build": 1
+      },
+      "needle": "Anunna",
+      "witnesses": {
+        "uncensored": [
+          "AMGG (Oracc)",
+          "CAD / academic Akkadian lexica"
+        ],
+        "censored": [
+          "Sitchin-derived summaries",
+          "Ancient Aliens paraphrases"
+        ]
+      },
+      "sources": [
+        {
+          "label": "AMGG — Ancient Mesopotamian Gods and Goddesses",
+          "url": "https://oracc.museum.upenn.edu/amgg/"
+        }
+      ],
+      "related_refs": [
+        "Enuma.E1",
+        "Atrahasis.1"
+      ],
+      "tags": [
+        "anunnaki",
+        "debunk",
+        "divine_council",
+        "starter"
+      ],
+      "english_summary": "What Anunnaki actually means in cuneiform scholarship — gods, not alien miners.",
+      "english_keywords": [
+        "anunnaki",
+        "anunna",
+        "sitchin",
+        "aliens",
+        "gods",
+        "pantheon"
+      ],
+      "witness_delta": {
+        "standard_text": "Popular books (especially Zecharia Sitchin) claim Anunnaki means ‘those who from heaven to Earth came’ — ancient astronauts who created humans as a slave race to mine gold.",
+        "witness_reading": "In Akkadian scholarly usage, Anunna/Anunnaki denotes Mesopotamian deities — often the divine council associated with heaven and the underworld. The word is attested in cuneiform ritual and myth; it is not a Sumerian phrase about space travel. Linguists parse it within Semitic/Sumerian divine nomenclature, not as an acronym of alien origin.",
+        "plain_english": "Anunnaki are gods in Mesopotamian religion — a pantheon tier, not a species of astronauts. The alien-mining story is a 20th-century reinterpretation, not something the tablets state.",
+        "trust_level": "low",
+        "trust_note": "Most YouTube summaries and Sitchin-derived pages repeat the mistranslation. Use ORACC/AMGG or academic Akkadian lexica; ignore pop ‘ancient aliens’ captions."
+      },
+      "verified": {
+        "present": true,
+        "snippet": "Scholarly usage: Anunna/Anunnaki names Mesopotamian deities — members of the divine assembly linked to heaven and the underworld. The term appears in Akkadian ritual and myth; it is not attested as a Sumerian phrase meaning ‘those who from heaven came.’"
+      },
+      "suppression_index": 1,
+      "available_now": true
+    },
+    {
+      "id": "enuma-elish-creation",
+      "ref": "Enuma.E1",
+      "corpus": "enuma",
+      "layer": "primary",
+      "topic": {
+        "en": "Enuma Elish — Babylonian creation epic (Tablet I opening)",
+        "he": ""
+      },
+      "tradition_status": "aggadah",
+      "tradition_note": "State myth elevating Marduk; Neo-Assyrian library copies are major witnesses.",
+      "denial": {
+        "print_historical": 0,
+        "commentary_residue": 0,
+        "modern_digital": 2,
+        "in_build": 1
+      },
+      "needle": "Apsu",
+      "witnesses": {
+        "uncensored": [
+          "Ashurbanipal library tablets",
+          "Standard Babylonian recension"
+        ],
+        "censored": [
+          "Planet-mapping conspiracy summaries"
+        ]
+      },
+      "sources": [
+        {
+          "label": "Enuma Elish (overview)",
+          "url": "https://en.wikipedia.org/wiki/En%C5%ABma_Eli%C5%A1"
+        }
+      ],
+      "related_refs": [
+        "Enuma.Tiamat",
+        "AMGG.anunna"
+      ],
+      "tags": [
+        "creation",
+        "marduk",
+        "babylon",
+        "starter"
+      ],
+      "english_summary": "Babylon’s creation poem — political theology, not hidden astronomy.",
+      "english_keywords": [
+        "enuma elish",
+        "creation",
+        "marduk",
+        "babylon",
+        "myth"
+      ],
+      "witness_delta": {
+        "standard_text": "Internet summaries often treat Enuma Elish as a literal chronology of solar-system formation or as proof of a pre-human alien civilization.",
+        "witness_reading": "Enuma Elish is a 1st-millennium BCE Akkadian epic (best known from Neo-Assyrian copies such as Ashurbanipal’s library) describing Marduk’s rise and Babylon’s cosmic order. It is royal-political theology cast as creation narrative — comparable to other ancient state myths, not a scientific cosmology.",
+        "plain_english": "A Babylonian creation poem used to exalt Marduk and the city of Babylon. Read it as myth and politics, not as a hidden astronomy textbook.",
+        "trust_level": "medium",
+        "trust_note": "Public-domain translations (King, Pritchard/ANET summaries) are dated but directionally correct. Avoid sites that map each god name to a planet as ‘proof’ of alien contact."
+      },
+      "verified": {
+        "present": true,
+        "snippet": "When on high the heaven had not been named, firm ground below had not been called by name, naught but primordial Apsu, their begetter, and Mummu-Tiamat, she who bore them all, had mixed their waters together — before gods had appeared, any one of them."
+      },
+      "suppression_index": 1,
+      "available_now": true
+    },
+    {
+      "id": "enuma-tiamat-battle",
+      "ref": "Enuma.Tiamat",
+      "corpus": "enuma",
+      "layer": "primary",
+      "topic": {
+        "en": "Tiamat battle — sea-goddess, not exploded planet",
+        "he": ""
+      },
+      "tradition_status": "aggadah",
+      "tradition_note": "Chaoskampf pattern: Marduk defeats Tiamat and forms cosmos from her body.",
+      "denial": {
+        "print_historical": 0,
+        "commentary_residue": 0,
+        "modern_digital": 3,
+        "in_build": 1
+      },
+      "needle": "Tiamat",
+      "witnesses": {
+        "uncensored": [
+          "Standard Babylonian Enuma Elish"
+        ],
+        "censored": [
+          "Nibiru/Tiamat planet collision lore"
+        ]
+      },
+      "sources": [],
+      "related_refs": [
+        "Enuma.E1",
+        "popular-nibiru-planet"
+      ],
+      "tags": [
+        "tiamat",
+        "debunk",
+        "nibiru",
+        "creation"
+      ],
+      "english_summary": "Tiamat in myth vs Tiamat as ‘destroyed planet’ — no tablet support for the latter.",
+      "english_keywords": [
+        "tiamat",
+        "nibiru",
+        "planet",
+        "marduk",
+        "chaos"
+      ],
+      "witness_delta": {
+        "standard_text": "Tiamat is widely sold online as a ‘planet Nibiru’ destroyed in a cosmic war that created Earth and the asteroid belt.",
+        "witness_reading": "In Enuma Elish, Tiamat is a primordial goddess (often rendered ‘salt sea’ / chaotic waters) who leads older gods against Marduk. Marduk splits her body to form sky and earth — standard ancient Near Eastern combat-myth pattern (Chaoskampf), attested in Akkadian poetry.",
+        "plain_english": "Tiamat is a sea-goddess in myth, not a rogue planet. The ‘exploded planet’ story is modern speculation with no cuneiform support.",
+        "trust_level": "low",
+        "trust_note": "Sitchin-style Nibiru/Tiamat identifications are rejected by Assyriologists. Compare any dramatic claim to a scholarly translation line-by-line."
+      },
+      "verified": {
+        "present": true,
+        "snippet": "Marduk catches Tiamat in his net; winds distend her belly; he splits her like a shellfish into two halves — with one half he forms the sky, establishes stations for the great gods."
+      },
+      "suppression_index": 1,
+      "available_now": true
+    },
+    {
+      "id": "atrahasis-human-clay",
+      "ref": "Atrahasis.1",
+      "corpus": "atrahasis",
+      "layer": "primary",
+      "topic": {
+        "en": "Atrahasis — humans created from clay and divine blood",
+        "he": ""
+      },
+      "tradition_status": "aggadah",
+      "tradition_note": "Old Babylonian flood epic cycle; human creation scene is among the most cited Mesopotamian parallels in comparative mythology.",
+      "denial": {
+        "print_historical": 0,
+        "commentary_residue": 0,
+        "modern_digital": 2,
+        "in_build": 1
+      },
+      "needle": "clay",
+      "witnesses": {
+        "uncensored": [
+          "Old Babylonian Atrahasis tablets"
+        ],
+        "censored": [
+          "Alien genetic engineering retellings"
+        ]
+      },
+      "sources": [],
+      "related_refs": [
+        "Atrahasis.Flood",
+        "popular-gold-mining-slaves"
+      ],
+      "tags": [
+        "creation",
+        "humanity",
+        "atrahasis",
+        "starter"
+      ],
+      "english_summary": "Why humans toil and die — mythic etiology, not a lab log.",
+      "english_keywords": [
+        "atrahasis",
+        "creation",
+        "clay",
+        "human",
+        "enki",
+        "enlil"
+      ],
+      "witness_delta": {
+        "standard_text": "Pop retellings say humans were genetically engineered hybrids so Anunnaki could enslave them in gold mines.",
+        "witness_reading": "Atrahasis (Old Babylonian copies) describes the gods creating humans from clay mixed with the flesh and blood of a slain god (often We-ila/Ilawela) so humans could bear the gods’ labor. The motif is mythic etiology for human mortality and toil — parallel themes appear in other Mesopotamian and later Near Eastern traditions.",
+        "plain_english": "Humans are made from clay and divine substance to do hard work for the gods — a myth about why life is short and laborious, not a lab report about alien DNA.",
+        "trust_level": "high",
+        "trust_note": "Academic translations of Atrahasis (Lambert, Moran, Foster) agree on the core scene. Pop sites add ‘mining’ where the tablets say ‘labor’ or ‘toil’."
+      },
+      "verified": {
+        "present": true,
+        "snippet": "Let the goddess create a mortal man so that he may bear the yoke of the gods… They slaughtered Aw-ilu in their assembly; Nintu mixed clay with his flesh and blood."
+      },
+      "suppression_index": 1,
+      "available_now": true
+    },
+    {
+      "id": "atrahasis-flood",
+      "ref": "Atrahasis.Flood",
+      "corpus": "atrahasis",
+      "layer": "primary",
+      "topic": {
+        "en": "Atrahasis flood narrative",
+        "he": ""
+      },
+      "tradition_status": "maaseh",
+      "tradition_note": "Enlil sends flood; Enki warns hero; boat survival — literary precursor to Gilgamesh XI.",
+      "denial": {
+        "print_historical": 0,
+        "commentary_residue": 0,
+        "modern_digital": 1,
+        "in_build": 1
+      },
+      "needle": "flood",
+      "witnesses": {
+        "uncensored": [
+          "Atrahasis Old Babylonian witnesses"
+        ],
+        "censored": []
+      },
+      "sources": [],
+      "related_refs": [
+        "Gilgamesh.XI",
+        "Eridu.Genesis"
+      ],
+      "tags": [
+        "flood",
+        "atrahasis",
+        "comparative"
+      ],
+      "english_summary": "Mesopotamian flood story in its native theological frame.",
+      "english_keywords": [
+        "flood",
+        "atrahasis",
+        "noah",
+        "ark",
+        "deluge"
+      ],
+      "witness_delta": {
+        "standard_text": "Some channels present the Mesopotamian flood as proof of a global cover-up or extraterrestrial weather control.",
+        "witness_reading": "Atrahasis includes a great flood sent because human noise disturbs the chief god Enlil; the wise god Enki/Ea warns the hero to build a boat. The narrative is literary and theological — an older cousin to the Gilgamesh flood tablet and biblical Noah traditions.",
+        "plain_english": "A Mesopotamian flood story about divine annoyance and one survivor — myth and shared cultural memory, not documentation of alien intervention.",
+        "trust_level": "high",
+        "trust_note": "Compare Atrahasis, Gilgamesh Tablet XI, and later retellings as related traditions; scholarly synopses are reliable for plot."
+      },
+      "verified": {
+        "present": true,
+        "snippet": "Tear down your house, build a boat; abandon possessions and seek life… Board the boat and save living things — the flood which the king discussed will come."
+      },
+      "suppression_index": 0,
+      "available_now": true
+    },
+    {
+      "id": "gilgamesh-flood-utnapishtim",
+      "ref": "Gilgamesh.XI",
+      "corpus": "gilgamesh",
+      "layer": "primary",
+      "topic": {
+        "en": "Gilgamesh Tablet XI — Utnapishtim’s flood",
+        "he": ""
+      },
+      "tradition_status": "maaseh",
+      "tradition_note": "Embedded flashback; Standard Babylonian recension best known from Nineveh copies.",
+      "denial": {
+        "print_historical": 0,
+        "commentary_residue": 0,
+        "modern_digital": 1,
+        "in_build": 1
+      },
+      "needle": "Utnapishtim",
+      "witnesses": {
+        "uncensored": [
+          "Nineveh Gilgamesh tablets"
+        ],
+        "censored": []
+      },
+      "sources": [],
+      "related_refs": [
+        "Atrahasis.Flood"
+      ],
+      "tags": [
+        "gilgamesh",
+        "flood",
+        "starter"
+      ],
+      "english_summary": "The flood tale Gilgamesh hears on his quest for immortality.",
+      "english_keywords": [
+        "gilgamesh",
+        "utnapishtim",
+        "flood",
+        "immortality",
+        "tablet 11"
+      ],
+      "witness_delta": {
+        "standard_text": "Utnapishtim’s flood is sometimes framed as eyewitness proof of a worldwide deluge caused by planetary collision.",
+        "witness_reading": "Standard Babylonian Gilgamesh (Tablet XI) has Utnapishtim recount a divine flood and ark-like survival; gods grant him immortality afterward. The episode is embedded in a hero’s quest narrative — one recension among several Mesopotamian flood accounts.",
+        "plain_english": "Gilgamesh hears an ancient flood tale on his search for eternal life. It’s literature within literature — important for history of ideas, not a geology report.",
+        "trust_level": "high",
+        "trust_note": "George’s or Foster’s Gilgamesh translations are the usual English anchors. Free paraphrases on social media often omit that multiple tablet versions differ."
+      },
+      "verified": {
+        "present": true,
+        "snippet": "I tore down my house, I built a boat… the gods smelled the savor, the gods gathered like flies over the sacrificer — then Enlil came up to the boat and seized my hand, making me and my wife like gods."
+      },
+      "suppression_index": 0,
+      "available_now": true
+    },
+    {
+      "id": "sumerian-king-list-antediluvian",
+      "ref": "SKL.antediluvian",
+      "corpus": "skl",
+      "layer": "primary",
+      "topic": {
+        "en": "Sumerian King List — antediluvian reigns",
+        "he": ""
+      },
+      "tradition_status": "aggadah",
+      "tradition_note": "Formulaic pre-flood kingship; not a geological timeline.",
+      "denial": {
+        "print_historical": 0,
+        "commentary_residue": 0,
+        "modern_digital": 3,
+        "in_build": 1
+      },
+      "needle": "years",
+      "witnesses": {
+        "uncensored": [
+          "Multiple SKL manuscript traditions"
+        ],
+        "censored": [
+          "Alien ruler year-count sites"
+        ]
+      },
+      "sources": [],
+      "related_refs": [
+        "Eridu.Genesis"
+      ],
+      "tags": [
+        "king list",
+        "antediluvian",
+        "debunk"
+      ],
+      "english_summary": "Impossibly long reigns = mythic time before the flood, not alien lifespans.",
+      "english_keywords": [
+        "sumerian king list",
+        "antediluvian",
+        "long reigns",
+        "kings"
+      ],
+      "witness_delta": {
+        "standard_text": "Antediluvian kings reigning tens of thousands of years are taken as evidence of long-lived alien rulers or lost super-civilizations.",
+        "witness_reading": "The Sumerian King List blends legendary and historical rulers; pre-flood reigns of enormous length are formulaic kingship tropes (similar to exaggerated regnal spans in other ancient king lists). Assyriologists treat the antediluvian section as ideological genealogy, not datable chronology.",
+        "plain_english": "Impossibly long reigns signal mythic time before the flood — a literary device, not a timeline you can map to archaeology or aliens.",
+        "trust_level": "medium",
+        "trust_note": "Jacobsen’s and subsequent scholarly editions explain the list’s genre. Beware sites that convert reign lengths into ‘years between alien visits.’"
+      },
+      "verified": {
+        "present": true,
+        "snippet": "After kingship descended from heaven, Eridug became the seat of kingship… Alulim reigned 28,800 years; Alalgar 36,000 years — eight kings reigned 241,200 years, then the flood swept over."
+      },
+      "suppression_index": 1,
+      "available_now": true
+    },
+    {
+      "id": "eridu-genesis",
+      "ref": "Eridu.Genesis",
+      "corpus": "etcsl",
+      "layer": "primary",
+      "topic": {
+        "en": "Eridu Genesis — fragmentary Sumerian creation/flood",
+        "he": ""
+      },
+      "tradition_status": "aggadah",
+      "tradition_note": "Damaged Nippur tablets; responsible reading marks lacunae.",
+      "denial": {
+        "print_historical": 0,
+        "commentary_residue": 0,
+        "modern_digital": 2,
+        "in_build": 1
+      },
+      "needle": "Nippur",
+      "witnesses": {
+        "uncensored": [
+          "Nippur tablet witnesses"
+        ],
+        "censored": [
+          "Gap-free internet paraphrases"
+        ]
+      },
+      "sources": [],
+      "related_refs": [
+        "Atrahasis.Flood"
+      ],
+      "tags": [
+        "eridu",
+        "fragments",
+        "creation"
+      ],
+      "english_summary": "Important but broken — beware smooth ‘full translations’ with no gaps.",
+      "english_keywords": [
+        "eridu genesis",
+        "nippur",
+        "fragment",
+        "creation"
+      ],
+      "witness_delta": {
+        "standard_text": "Fragmentary Sumerian creation texts are stitched online into complete ‘hidden histories’ with confident dating.",
+        "witness_reading": "Eridu Genesis (known from damaged Nippur tablets) narrates creation of cities, kingship, and a flood — overlapping Atrahasis/Gilgamesh motifs. Gaps in the cuneiform mean many lines are reconstructed; responsible editions mark breaks and uncertainties.",
+        "plain_english": "A broken Sumerian story about cities, kings, and flood — valuable but incomplete. Anyone selling a ‘full transcript’ is filling holes with imagination.",
+        "trust_level": "medium",
+        "trust_note": "Trust editions that show lacunae (…). ETCSL/ORACC-style apparatus beats polished narrative rewrites."
+      },
+      "verified": {
+        "present": true,
+        "snippet": "[Fragmentary] … kingship descends … cities are built … the gods send a flood … Responsible editions mark many breaks; continuous ‘full text’ online versions often smooth gaps."
+      },
+      "suppression_index": 1,
+      "available_now": true
+    },
+    {
+      "id": "descent-inanna",
+      "ref": "Inanna.descent",
+      "corpus": "etcsl",
+      "layer": "primary",
+      "topic": {
+        "en": "Descent of Inanna / Ishtar to the netherworld",
+        "he": ""
+      },
+      "tradition_status": "aggadah",
+      "tradition_note": "Death-and-return myth with multiple recensions.",
+      "denial": {
+        "print_historical": 0,
+        "commentary_residue": 0,
+        "modern_digital": 2,
+        "in_build": 1
+      },
+      "needle": "netherworld",
+      "witnesses": {
+        "uncensored": [
+          "Sumerian and Akkadian recensions"
+        ],
+        "censored": [
+          "Underworld ‘alien base’ retellings"
+        ]
+      },
+      "sources": [],
+      "related_refs": [],
+      "tags": [
+        "inanna",
+        "ishtar",
+        "netherworld",
+        "starter"
+      ],
+      "english_summary": "Goddess descent and return — fertility/sovereignty myth.",
+      "english_keywords": [
+        "inanna",
+        "ishtar",
+        "descent",
+        "underworld",
+        "ereshkigal"
+      ],
+      "witness_delta": {
+        "standard_text": "Inanna’s descent is repackaged as evidence of underworld alien bases or genetic resurrection tech.",
+        "witness_reading": "Inanna (Ishtar) descends to the netherworld, is stripped of power, killed, and revived — a Sumerian/Akkadian myth about fertility, death, and cosmic order. Attested in multiple recensions with variant details.",
+        "plain_english": "A goddess goes to the land of the dead and returns — classic myth about seasons and sovereignty, not sci-fi resurrection hardware.",
+        "trust_level": "high",
+        "trust_note": "Standard literary translations (Wolkstein-Kramer presentation, academic editions) are clear. Ignore ‘portal’ metaphors imported from modern UFO lore."
+      },
+      "verified": {
+        "present": true,
+        "snippet": "From the ‘great above’ she set her mind toward the ‘great below’ — Inanna abandoned heaven, abandoned earth, and descended to the netherworld; at each gate a garment is removed until she stands naked."
+      },
+      "suppression_index": 1,
+      "available_now": true
+    },
+    {
+      "id": "popular-nibiru-planet",
+      "ref": null,
+      "corpus": "debunk",
+      "layer": "pattern",
+      "topic": {
+        "en": "Pop claim: Nibiru — 12th planet / Anunnaki homeworld",
+        "he": ""
+      },
+      "tradition_status": "machloket",
+      "tradition_note": "Pattern row — modern claim vs cuneiform astronomical usage.",
+      "denial": {
+        "print_historical": 0,
+        "commentary_residue": 0,
+        "modern_digital": 3,
+        "in_build": 1
+      },
+      "needle": "Nibiru",
+      "witnesses": {
+        "uncensored": [
+          "Babylonian astronomical cuneiform"
+        ],
+        "censored": [
+          "Sitchin planet Nibiru narrative"
+        ]
+      },
+      "sources": [],
+      "related_refs": [
+        "Enuma.Tiamat",
+        "AMGG.anunna"
+      ],
+      "tags": [
+        "debunk",
+        "nibiru",
+        "pattern"
+      ],
+      "english_summary": "Separating Babylonian Nibiru references from doomsday planet lore.",
+      "english_keywords": [
+        "nibiru",
+        "planet x",
+        "sitchin",
+        "12th planet"
+      ],
+      "witness_delta": {
+        "standard_text": "Nibiru is promoted as a hidden 12th planet on a 3,600-year orbit — home of the Anunnaki — soon to return.",
+        "witness_reading": "In cuneiform astronomical texts, MUL.NIBIRU (or related readings) appears in Babylonian sky-watching contexts with debated identification (often linked to Jupiter or a stellar point — scholars dispute details). Sitchin’s ‘12th planet’ reading is not accepted in Assyriology or astronomy.",
+        "plain_english": "Nibiru in pop culture ≠ Nibiru in cuneiform astronomy. The doomsday planet story is modern; the tablets do not describe returning astronauts.",
+        "trust_level": "low",
+        "trust_note": "NASA and Assyriological literature both reject the Sitchin planet claim. Use lexical discussions in real Babylonian astronomy sources, not conspiracy aggregators."
+      },
+      "verified": {
+        "present": false,
+        "snippet": ""
+      },
+      "suppression_index": 1,
+      "available_now": true
+    },
+    {
+      "id": "popular-gold-mining-slaves",
+      "ref": null,
+      "corpus": "debunk",
+      "layer": "pattern",
+      "topic": {
+        "en": "Pop claim: humans mined gold for Anunnaki",
+        "he": ""
+      },
+      "tradition_status": "machloket",
+      "tradition_note": "Pattern row — flagship alien narrative with no primary-text chain.",
+      "denial": {
+        "print_historical": 0,
+        "commentary_residue": 0,
+        "modern_digital": 3,
+        "in_build": 1
+      },
+      "needle": "gold",
+      "witnesses": {
+        "uncensored": [
+          "Mesopotamian economic/cult texts (mundane gold use)"
+        ],
+        "censored": [
+          "Gold-mining slave race narrative"
+        ]
+      },
+      "sources": [],
+      "related_refs": [
+        "AMGG.anunna",
+        "Atrahasis.1"
+      ],
+      "tags": [
+        "debunk",
+        "gold",
+        "slavery",
+        "pattern"
+      ],
+      "english_summary": "The mining-slave plot is modern — demand a tablet ID before believing.",
+      "english_keywords": [
+        "gold",
+        "mining",
+        "slaves",
+        "anunnaki",
+        "sitchin"
+      ],
+      "witness_delta": {
+        "standard_text": "The flagship claim: Anunnaki enslaved humans to mine African gold to save Nibiru’s atmosphere.",
+        "witness_reading": "No Mesopotamian primary text describes Anunnaki gold-mining operations or atmospheric repair missions. The chain is assembled from mistranslated words, speculative Sumerian–Hebrew–Biblical fusion, and modern mining metaphors. Gold appears in Mesopotamian economic and cult texts in mundane contexts — not this plot.",
+        "plain_english": "The gold-mining slave narrative is modern fan-fiction built on the Anunnaki name — not attested in Sumerian or Akkadian sources.",
+        "trust_level": "low",
+        "trust_note": "If a page cites ‘Sumerian tablets’ for gold mines, ask for composition ID (ETCSL/ORACC/CDLI number) and line — it usually cannot provide one."
+      },
+      "verified": {
+        "present": false,
+        "snippet": ""
+      },
+      "suppression_index": 1,
+      "available_now": true
+    },
+    {
+      "id": "witness-tablet-variants",
+      "ref": null,
+      "corpus": "meta",
+      "layer": "pattern",
+      "topic": {
+        "en": "How cuneiform witnesses work (clay copies, gaps, recensions)",
+        "he": ""
+      },
+      "tradition_status": "ikkar",
+      "tradition_note": "Method locus — compare tablets like Bavli compares manuscripts.",
+      "denial": {
+        "print_historical": 0,
+        "commentary_residue": 0,
+        "modern_digital": 2,
+        "in_build": 0
+      },
+      "needle": "lacuna",
+      "witnesses": {
+        "uncensored": [
+          "CDLI",
+          "ORACC",
+          "academic editions"
+        ],
+        "censored": [
+          "Single smooth paraphrase pages"
+        ]
+      },
+      "sources": [
+        {
+          "label": "CDLI — Cuneiform Digital Library Initiative",
+          "url": "https://cdli.ucla.edu/"
+        },
+        {
+          "label": "ORACC",
+          "url": "https://oracc.museum.upenn.edu/"
+        }
+      ],
+      "related_refs": [
+        "Eridu.Genesis"
+      ],
+      "tags": [
+        "method",
+        "witnesses",
+        "pattern",
+        "starter"
+      ],
+      "english_summary": "Why this project exists — clay witnesses, not one true PDF.",
+      "english_keywords": [
+        "tablet",
+        "witness",
+        "lacuna",
+        "cdli",
+        "oracc",
+        "recension"
+      ],
+      "witness_delta": {
+        "standard_text": "Many websites present one smooth English paragraph as ‘what the tablet says’ without naming which tablet, copy, or century.",
+        "witness_reading": "Cuneiform traditions survive as partial copies on clay from different cities and periods (Old Babylonian, Standard Babylonian, Neo-Assyrian). Editions compare witnesses; lines differ, break off, or appear only in one copy. Responsible reading tracks recension — like manuscript families in other ancient literatures.",
+        "plain_english": "Mesopotamian ‘witnesses’ are clay tablets, not monks’ manuscripts — but the rule is the same: compare copies, mark gaps, don’t trust a single polished retelling.",
+        "trust_level": "high",
+        "trust_note": "ORACC, CDLI, and academic editions show sigla and breaks. This project’s job is to make that habit accessible in English."
+      },
+      "verified": {
+        "present": false,
+        "snippet": ""
+      },
+      "suppression_index": 0,
+      "available_now": true
+    }
+  ]
+}

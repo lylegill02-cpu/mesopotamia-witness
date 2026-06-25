@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Read passage — Mesopotamia Witness</title>
+  <style>
+    :root {
+      --bg: #e8e4dc;
+      --ink: #1a1814;
+      --muted: #5a5348;
+      --accent: #6b3a12;
+      --card: #faf6ee;
+      --border: #c9bfb0;
+    }
+    body { margin: 0; font-family: Georgia, "Segoe UI", serif; background: var(--bg); color: var(--ink); line-height: 1.65; }
+    header { padding: 1rem; border-bottom: 2px solid var(--ink); background: var(--card); }
+    header h1 { margin: 0; font-size: 1.15rem; }
+    nav { margin-top: 0.5rem; font-size: 0.88rem; }
+    nav a { color: var(--accent); margin-right: 1rem; }
+    main { max-width: 44rem; margin: 0 auto; padding: 1rem 1rem 3rem; }
+    .panel { background: var(--card); border: 1px solid var(--border); border-radius: 6px; padding: 1rem; margin-top: 1rem; }
+    .translation { font-size: 1.08rem; line-height: 1.7; }
+    .meta { color: var(--muted); font-size: 0.88rem; margin: 0 0 0.75rem; font-family: "Segoe UI", sans-serif; }
+    .witness-delta { background: #ddd6c8; border: 1px solid var(--border); border-radius: 6px; padding: 0.75rem; margin-bottom: 1rem; font-family: "Segoe UI", sans-serif; font-size: 0.88rem; }
+    .witness-delta h4 { margin: 0 0 0.5rem; font-size: 0.75rem; text-transform: uppercase; color: var(--muted); }
+    .witness-delta dt { font-size: 0.72rem; text-transform: uppercase; color: var(--muted); margin-top: 0.4rem; }
+    .witness-delta dd { margin: 0.1rem 0 0; line-height: 1.45; }
+    .witness-delta .trust { margin: 0.5rem 0 0; padding: 0.4rem; border-radius: 4px; font-size: 0.84rem; background: #f5e8e4; }
+    .ext a { color: var(--accent); margin-right: 0.75rem; font-family: "Segoe UI", sans-serif; font-size: 0.88rem; }
+    .hidden { display: none; }
+    .error { color: var(--accent); }
+  </style>
+</head>
+<body>
+  <header>
+    <h1 id="title">Loading…</h1>
+    <nav>
+      <a href="loci.html">← Loci map</a>
+      <a href="index.html">Home</a>
+    </nav>
+  </header>
+  <main>
+    <div id="error" class="error hidden"></div>
+    <div id="content" class="hidden"></div>
+  </main>
+  <script type="module">
+    import { corpusUrl, lociChartUrl } from "./js/config.js";
+    import { renderWitnessDelta, locusForRef } from "./js/witness-delta.js";
+
+    const ref = new URLSearchParams(location.search).get("ref");
+    const title = document.getElementById("title");
+    const content = document.getElementById("content");
+    const errorEl = document.getElementById("error");
+
+    if (!ref) {
+      title.textContent = "No passage selected";
+      errorEl.textContent = "Pick a passage from the loci map.";
+      errorEl.classList.remove("hidden");
+    } else {
+      title.textContent = ref;
+      document.title = ref + " — Mesopotamia Witness";
+      try {
+        const [corpusR, lociR] = await Promise.all([fetch(corpusUrl()), fetch(lociChartUrl())]);
+        const corpus = corpusR.ok ? await corpusR.json() : { refs: {} };
+        const loci = lociR.ok ? (await lociR.json()).loci : [];
+        const entry = corpus.refs?.[ref];
+        const loc = locusForRef(loci, ref);
+        if (!entry && !loc) {
+          errorEl.textContent = "Could not find " + ref;
+          errorEl.classList.remove("hidden");
+        } else {
+          content.classList.remove("hidden");
+          const witness = loc ? renderWitnessDelta(loc) : "";
+          const links = `
+            <p class="ext">
+              <a href="https://cdli.ucla.edu/" target="_blank" rel="noopener">CDLI</a>
+              <a href="https://oracc.museum.upenn.edu/" target="_blank" rel="noopener">ORACC</a>
+              <a href="https://oracc.museum.upenn.edu/amgg/" target="_blank" rel="noopener">AMGG (gods)</a>
+            </p>`;
+          content.innerHTML =
+            (witness ? witness : "") +
+            (entry
+              ? `<div class="panel"><p class="meta">${entry.composition || ""}${entry.source_note ? " · " + entry.source_note : ""}</p><div class="translation">${entry.translation || ""}</div></div>`
+              : `<div class="panel"><p class="meta">No starter excerpt yet — use external editions.</p></div>`) +
+            links;
+        }
+      } catch (e) {
+        errorEl.textContent = e.message || "Failed to load";
+        errorEl.classList.remove("hidden");
+      }
+    }
+  </script>
+</body>
+</html>

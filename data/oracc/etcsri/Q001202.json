@@ -1,0 +1,47 @@
+{
+  "text_id": "oracc.etcsri.Q001202",
+  "corpus": "oracc",
+  "title": "E-IGI.NIM-pa'e 1 (RIME 1.01.07.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001202",
+  "paragraphs": [
+    {
+      "para_id": "Q001202.1",
+      "line_range": "1",
+      "translation": "(1) For Diĝir-mah , E-iginim-pa-e , ruler of Adab , ..., builder of the E-mah ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001202.1",
+      "line_label": "1",
+      "transliteration": "diŋir - maḫ"
+    },
+    {
+      "line_id": "Q001202.2",
+      "line_label": "2",
+      "transliteration": "e₂ - igi - nim - pa - e₃"
+    },
+    {
+      "line_id": "Q001202.3",
+      "line_label": "3",
+      "transliteration": "ensiₓ ( GAR . PA . TE . SI )"
+    },
+    {
+      "line_id": "Q001202.4",
+      "line_label": "4",
+      "transliteration": "adab ki"
+    },
+    {
+      "line_id": "Q001202.5",
+      "line_label": "5",
+      "transliteration": "[... ] ⸢ x ⸣ x"
+    },
+    {
+      "line_id": "Q001202.6",
+      "line_label": "6",
+      "transliteration": "[ e₂ ] - maḫ du₃ - a"
+    }
+  ]
+}

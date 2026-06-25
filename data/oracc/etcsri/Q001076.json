@@ -1,0 +1,62 @@
+{
+  "text_id": "oracc.etcsri.Q001076",
+  "corpus": "oracc",
+  "title": "En-anatum I 06 (RIME 1.09.04.06 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001076",
+  "paragraphs": [
+    {
+      "para_id": "Q001076.1",
+      "line_range": "1",
+      "translation": "(i 1) For Inana of the Ebgal , En-ana-tum , ruler of Lagaš , built the Ebgal , made it exceed all the mountains . ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001076.1",
+      "line_label": "i 1",
+      "transliteration": "d inana"
+    },
+    {
+      "line_id": "Q001076.2",
+      "line_label": "i 2",
+      "transliteration": "eb - gal - ra"
+    },
+    {
+      "line_id": "Q001076.3",
+      "line_label": "i 3",
+      "transliteration": "en - an - na - tum₂"
+    },
+    {
+      "line_id": "Q001076.4",
+      "line_label": "i 4",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001076.5",
+      "line_label": "i 5",
+      "transliteration": "lagaš ki - ke₄"
+    },
+    {
+      "line_id": "Q001076.6",
+      "line_label": "i 6",
+      "transliteration": "eb - gal"
+    },
+    {
+      "line_id": "Q001076.7",
+      "line_label": "i 7",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001076.8",
+      "line_label": "i 8",
+      "transliteration": "kur - kur - ra"
+    },
+    {
+      "line_id": "Q001076.9",
+      "line_label": "i 9",
+      "transliteration": "[ mu - na - dirig ]"
+    }
+  ]
+}

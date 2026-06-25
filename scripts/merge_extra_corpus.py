@@ -22,8 +22,10 @@ def load_json_corpus() -> list[dict]:
     for directory in DIRS:
         if not directory.exists():
             continue
-        for path in sorted(directory.glob("*.json")):
-            if path.name.startswith("_"):
+        paths = sorted(directory.glob("*.json"))
+        paths += sorted(directory.glob("*/*.json"))
+        for path in paths:
+            if path.name.startswith("_") or path.name.endswith("_index.json"):
                 continue
             data = json.loads(path.read_text(encoding="utf-8"))
             if data.get("text_id"):

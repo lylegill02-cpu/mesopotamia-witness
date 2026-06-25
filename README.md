@@ -8,7 +8,7 @@ Mirrors the [Bavli Uncensored](https://github.com/lylegill02-cpu/bavli-uncensore
 
 https://lylegill02-cpu.github.io/mesopotamia-witness/
 
-- **Search** — ETCSL Sumerian (~394) + Akkadian trio + ORACC (AMGG Anunna, ETCSRI sample)
+- **Search** — ETCSL Sumerian (~394) + Akkadian trio + ORACC AMGG + **25 ETCSRI** royal inscriptions
 - **Flood comparison** — Atrahasis, Gilgamesh XI, Sumerian parallels side-by-side
 - **Eridu Genesis** — fragment witness page for ETCSL `c.1.7.4`
 - **Loci map** — 12 guided passages with pop-vs-scholarly witness notes
@@ -17,7 +17,7 @@ https://lylegill02-cpu.github.io/mesopotamia-witness/
 
 ```bash
 python scripts/build_all.py
-python scripts/publish_release.py v1.2.0-search
+python scripts/publish_release.py v1.3.0-search
 ```
 
 `build_all.py` fetches ETCSL + ORACC HTML, merges Akkadian/ORACC JSON into `corpus.db`, validates, exports `web/data/`, and syncs loci. CI deploys committed `web/` + runs loci sync only — **publish a new Release** after rebuilding locally when search index changes.

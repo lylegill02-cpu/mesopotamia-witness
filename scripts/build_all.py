@@ -11,7 +11,6 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 SCRIPTS = ROOT / "scripts"
 WEB_DATA = ROOT / "web" / "data"
-EXTRA_DIRS = (ROOT / "data" / "akkadian", ROOT / "data" / "oracc")
 
 
 def run(name: str) -> None:
@@ -43,7 +42,28 @@ def export_extra_catalogs() -> None:
         shutil.copy2(out, WEB_DATA / f"{corpus}_catalog.json")
         print(f"Wrote {out} ({len(texts)} texts)")
 
+    etcsri_dir = ROOT / "data" / "oracc" / "etcsri"
+    etcsri_texts = []
+    if etcsri_dir.exists():
+        for path in sorted(etcsri_dir.glob("Q*.json")):
+            doc = json.loads(path.read_text(encoding="utf-8"))
+            etcsri_texts.append(
+                {
+                    "text_id": doc["text_id"],
+                    "title": doc.get("title"),
+                    "line_count": len(doc.get("lines", [])),
+                }
+            )
+    etcsri_catalog = {"corpus": "etcsri", "count": len(etcsri_texts), "texts": etcsri_texts}
+    etcsri_out = ROOT / "data" / "etcsri_catalog.json"
+    etcsri_out.write_text(json.dumps(etcsri_catalog, ensure_ascii=False, indent=2), encoding="utf-8")
+    shutil.copy2(etcsri_out, WEB_DATA / "etcsri_catalog.json")
+    print(f"Wrote {etcsri_out} ({len(etcsri_texts)} texts)")
+
     shutil.copy2(ROOT / "data" / "flood_comparison.json", WEB_DATA / "flood_comparison.json")
+    idx = ROOT / "data" / "etcsri_index.json"
+    if idx.exists():
+        shutil.copy2(idx, WEB_DATA / "etcsri_index.json")
 
 
 def copy_web_data() -> None:
@@ -56,6 +76,8 @@ def copy_web_data() -> None:
         "flood_comparison.json",
         "akkadian_catalog.json",
         "oracc_catalog.json",
+        "etcsri_catalog.json",
+        "etcsri_index.json",
     ):
         src = ROOT / "data" / name
         if src.exists():
@@ -65,7 +87,9 @@ def copy_web_data() -> None:
 def main() -> None:
     run("fetch_etcsl.py")
     run("build_etcsl_index.py")
+    run("rebuild_enuma.py")
     run("fetch_oracc.py")
+    run("fetch_etcsri_bulk.py")
     run("merge_extra_corpus.py")
     run("export_corpus.py")
     export_extra_catalogs()

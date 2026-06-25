@@ -1,0 +1,47 @@
+{
+  "text_id": "oracc.etcsri.Q001174",
+  "corpus": "oracc",
+  "title": "Anonymous Lagaš 02 (FAOS 05/1, AnLag 02)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001174",
+  "paragraphs": [
+    {
+      "para_id": "Q001174.1",
+      "line_range": "1",
+      "translation": "(1) For Bau , the kind woman , Luma-mešni , scribe of the granary supervisor , ... for his well-being ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001174.1",
+      "line_label": "1",
+      "transliteration": "d ba - u₂"
+    },
+    {
+      "line_id": "Q001174.2",
+      "line_label": "2",
+      "transliteration": "munus sag₉ - ga"
+    },
+    {
+      "line_id": "Q001174.3",
+      "line_label": "3",
+      "transliteration": "lum - ma - meš₃ - ni"
+    },
+    {
+      "line_id": "Q001174.4",
+      "line_label": "4",
+      "transliteration": "dub - sar"
+    },
+    {
+      "line_id": "Q001174.5",
+      "line_label": "5",
+      "transliteration": "ka - guru₇ - ka - ke₄"
+    },
+    {
+      "line_id": "Q001174.6",
+      "line_label": "6",
+      "transliteration": "nam - til₃ - la - ni - še₃"
+    }
+  ]
+}

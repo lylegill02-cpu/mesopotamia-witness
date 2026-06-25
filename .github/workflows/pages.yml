@@ -37,6 +37,8 @@ jobs:
           cp data/flood_comparison.json web/data/flood_comparison.json
           cp data/akkadian_catalog.json web/data/akkadian_catalog.json
           cp data/oracc_catalog.json web/data/oracc_catalog.json
+          cp data/etcsri_catalog.json web/data/etcsri_catalog.json
+          cp data/etcsri_index.json web/data/etcsri_index.json
 
       - uses: actions/configure-pages@v5
 

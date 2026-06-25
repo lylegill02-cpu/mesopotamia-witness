@@ -1,0 +1,52 @@
+{
+  "text_id": "oracc.etcsri.Q001245",
+  "corpus": "oracc",
+  "title": "Me-silim 2 (RIME 1.08.01.02 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001245",
+  "paragraphs": [
+    {
+      "para_id": "Q001245.1",
+      "line_range": "1",
+      "translation": "(1) Me-silim , king of Kiš , performed the burgi ritual in the E-kiri ."
+    },
+    {
+      "para_id": "Q001245.5",
+      "line_range": "5",
+      "translation": "(5) ( At that time ) Nin-kisale-si was the ruler of Adab ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001245.1",
+      "line_label": "1",
+      "transliteration": "me - silim"
+    },
+    {
+      "line_id": "Q001245.2",
+      "line_label": "2",
+      "transliteration": "lugal kiš"
+    },
+    {
+      "line_id": "Q001245.3",
+      "line_label": "3",
+      "transliteration": "e₂ - kiri₆"
+    },
+    {
+      "line_id": "Q001245.4",
+      "line_label": "4",
+      "transliteration": "bur mu - gi₄"
+    },
+    {
+      "line_id": "Q001245.5",
+      "line_label": "5",
+      "transliteration": "nin - kisal - si"
+    },
+    {
+      "line_id": "Q001245.6",
+      "line_label": "6",
+      "transliteration": "ensiₓ ( GAR . PA . TE . SI ) adab"
+    }
+  ]
+}

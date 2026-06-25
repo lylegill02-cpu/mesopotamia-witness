@@ -1,0 +1,87 @@
+{
+  "text_id": "oracc.etcsri.Q004105",
+  "corpus": "oracc",
+  "title": "Mes-kigala 2002add (RIME 2.09.01.add2002 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004105",
+  "paragraphs": [
+    {
+      "para_id": "Q004105.1",
+      "line_range": "1",
+      "translation": "(i 1) To Barag-Enlile-ĝara , the king of Adab , E-zišagŋala , overseer of the soldiers , dedicated this ( vase ) for the well-being of Meš-kigala , governor of Adab ."
+    },
+    {
+      "para_id": "Q004105.10",
+      "line_range": "10",
+      "translation": "(ii 1) Meš-kigala , governor of Adab , the builder of Iškur's temple , ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004105.1",
+      "line_label": "i 1",
+      "transliteration": "barag - d en - lil₂ - ŋar"
+    },
+    {
+      "line_id": "Q004105.2",
+      "line_label": "i 2",
+      "transliteration": "lugal adab ki"
+    },
+    {
+      "line_id": "Q004105.3",
+      "line_label": "i 3",
+      "transliteration": "e₂ - zi - šag₄ - ŋal₂"
+    },
+    {
+      "line_id": "Q004105.4",
+      "line_label": "i 4",
+      "transliteration": "ugula aga₃ - us₂ - sa ? - ke₄"
+    },
+    {
+      "line_id": "Q004105.5",
+      "line_label": "i 5",
+      "transliteration": "nam - til₃"
+    },
+    {
+      "line_id": "Q004105.6",
+      "line_label": "i 6",
+      "transliteration": "meš₃ - ki - gal - la"
+    },
+    {
+      "line_id": "Q004105.7",
+      "line_label": "i 7",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q004105.8",
+      "line_label": "i 8",
+      "transliteration": "adab ki - še₃"
+    },
+    {
+      "line_id": "Q004105.9",
+      "line_label": "i 9",
+      "transliteration": "a mu - na - ru"
+    },
+    {
+      "line_id": "Q004105.10",
+      "line_label": "ii 1",
+      "transliteration": "meš₃ - ki - gal - la"
+    },
+    {
+      "line_id": "Q004105.11",
+      "line_label": "ii 2",
+      "transliteration": "ensiₓ ( GAR . PA . TE . SI )"
+    },
+    {
+      "line_id": "Q004105.12",
+      "line_label": "ii 3",
+      "transliteration": "adab ki"
+    },
+    {
+      "line_id": "Q004105.13",
+      "line_label": "ii 4",
+      "transliteration": "lu₂ e₂ d iškur du₃ - a"
+    }
+  ]
+}

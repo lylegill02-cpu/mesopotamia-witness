@@ -1,0 +1,131 @@
+{
+  "corpus": "etcsri",
+  "count": 25,
+  "texts": [
+    {
+      "text_id": "oracc.etcsri.Q001054",
+      "title": "A-kurgal 2a (RIME 1.09.02.02a composite)",
+      "line_count": 1
+    },
+    {
+      "text_id": "oracc.etcsri.Q001076",
+      "title": "En-anatum I 06 (RIME 1.09.04.06 composite)",
+      "line_count": 9
+    },
+    {
+      "text_id": "oracc.etcsri.Q001117",
+      "title": "En-metena 04 (RIME 1.09.05.04 composite)",
+      "line_count": 60
+    },
+    {
+      "text_id": "oracc.etcsri.Q001173",
+      "title": "Anonymous Lagaš 01 (FAOS 05/1, AnLag 01)",
+      "line_count": 3
+    },
+    {
+      "text_id": "oracc.etcsri.Q001174",
+      "title": "Anonymous Lagaš 02 (FAOS 05/1, AnLag 02)",
+      "line_count": 6
+    },
+    {
+      "text_id": "oracc.etcsri.Q001176",
+      "title": "Anonymous Lagaš 04 (FAOS 05/1, AnLag 04)",
+      "line_count": 2
+    },
+    {
+      "text_id": "oracc.etcsri.Q001177",
+      "title": "Anonymous Lagaš 05 (FAOS 05/1, AnLag 05)",
+      "line_count": 3
+    },
+    {
+      "text_id": "oracc.etcsri.Q001183",
+      "title": "Aga-ak 1 (RIME 1.05.01.01 composite)",
+      "line_count": 3
+    },
+    {
+      "text_id": "oracc.etcsri.Q001198",
+      "title": "Me-ba-LAK551 1 (RIME 1.01.02.01 composite)",
+      "line_count": 3
+    },
+    {
+      "text_id": "oracc.etcsri.Q001199",
+      "title": "Bara-heNIdu 2001 (RIME 1.01.03.2001 composite)",
+      "line_count": 8
+    },
+    {
+      "text_id": "oracc.etcsri.Q001201",
+      "title": "E-IGI.NIM-pa'e 2 (RIME 1.01.07.02 composite)",
+      "line_count": 7
+    },
+    {
+      "text_id": "oracc.etcsri.Q001202",
+      "title": "E-IGI.NIM-pa'e 1 (RIME 1.01.07.01 composite)",
+      "line_count": 6
+    },
+    {
+      "text_id": "oracc.etcsri.Q001203",
+      "title": "Lugalda-lu 1 (RIME 1.01.04.01 composite)",
+      "line_count": 3
+    },
+    {
+      "text_id": "oracc.etcsri.Q001204",
+      "title": "LUM-ma 1 (RIME 1.01.05.01 composite)",
+      "line_count": 2
+    },
+    {
+      "text_id": "oracc.etcsri.Q001205",
+      "title": "LUM-ma 2 (RIME 1.01.05.02 composite)",
+      "line_count": 2
+    },
+    {
+      "text_id": "oracc.etcsri.Q001212",
+      "title": "Anonymous Adab 07 (FAOS 05/2, AnAdab 07)",
+      "line_count": 4
+    },
+    {
+      "text_id": "oracc.etcsri.Q001213",
+      "title": "Anonymous Adab 08 (FAOS 05/2, AnAdab 08)",
+      "line_count": 1
+    },
+    {
+      "text_id": "oracc.etcsri.Q001214",
+      "title": "Bara-heNIdu 1 (RIME 1.01.03.01 composite)",
+      "line_count": 2
+    },
+    {
+      "text_id": "oracc.etcsri.Q001218",
+      "title": "Anonymous Adab 13 (FAOS 05/2, AnAdab 13)",
+      "line_count": 2
+    },
+    {
+      "text_id": "oracc.etcsri.Q001223",
+      "title": "Anonymous Ešnuna 1 (FAOS 05/2, AnEshn 01)",
+      "line_count": 3
+    },
+    {
+      "text_id": "oracc.etcsri.Q001224",
+      "title": "Anonymous Ešnuna 2 (FAOS 05/2, AnEshn 02)",
+      "line_count": 4
+    },
+    {
+      "text_id": "oracc.etcsri.Q001245",
+      "title": "Me-silim 2 (RIME 1.08.01.02 composite)",
+      "line_count": 6
+    },
+    {
+      "text_id": "oracc.etcsri.Q001246",
+      "title": "Me-silim 3 (RIME 1.08.01.03 composite)",
+      "line_count": 5
+    },
+    {
+      "text_id": "oracc.etcsri.Q003637",
+      "title": "Mes-kigala 2001 (RIME 1.01.09.2001 composite)",
+      "line_count": 5
+    },
+    {
+      "text_id": "oracc.etcsri.Q004105",
+      "title": "Mes-kigala 2002add (RIME 2.09.01.add2002 composite)",
+      "line_count": 13
+    }
+  ]
+}

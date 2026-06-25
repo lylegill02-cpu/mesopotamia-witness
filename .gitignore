@@ -6,6 +6,8 @@ data/etcsl.zip
 data/etcsl_catalog.json
 data/etcsl_texts.json
 data/akkadian/_king_enuma_raw.txt
+data/etcsri_index.json
+data/etcsri_catalog.json
 data/oracc/_cache/
 data/oracc/_*.html
 data/_amgg_manifest.json

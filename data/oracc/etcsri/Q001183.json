@@ -1,0 +1,32 @@
+{
+  "text_id": "oracc.etcsri.Q001183",
+  "corpus": "oracc",
+  "title": "Aga-ak 1 (RIME 1.05.01.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001183",
+  "paragraphs": [
+    {
+      "para_id": "Q001183.1",
+      "line_range": "1",
+      "translation": "(1) Tun-ak , ruler of ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001183.1",
+      "line_label": "1",
+      "transliteration": "tun₃ - ak"
+    },
+    {
+      "line_id": "Q001183.2",
+      "line_label": "2",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001183.3",
+      "line_label": "3",
+      "transliteration": "BAḪAR₂ - E₂"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "text_id": "oracc.etcsri.Q001214",
+  "corpus": "oracc",
+  "title": "Bara-heNIdu 1 (RIME 1.01.03.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001214",
+  "paragraphs": [
+    {
+      "para_id": "Q001214.1",
+      "line_range": "1",
+      "translation": "(1) E-kiri , Baragane-dug , ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001214.1",
+      "line_label": "1",
+      "transliteration": "e₂ - [ kiri₆ ]"
+    },
+    {
+      "line_id": "Q001214.2",
+      "line_label": "2",
+      "transliteration": "⸢ barag ⸣ - [ gan - ne₂ - dug₃ ]"
+    }
+  ]
+}

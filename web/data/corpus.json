@@ -2,9 +2,9 @@
   "meta": {
     "edition": "mesopotamia-witness-v3-oracc",
     "source": "ETCSL + Akkadian PD + ORACC",
-    "text_count": 399,
+    "text_count": 424,
     "etcsl_count": 394,
-    "akkadian_count": 5
+    "akkadian_count": 30
   },
   "refs": {
     "Inanna.descent": {
@@ -35,7 +35,7 @@
       "ref": "Enuma.E1",
       "text_id": "akkadian.enuma.elish",
       "composition": "Enuma Elish (The Seven Tablets of Creation)",
-      "translation": "When in the height heaven was not named, And the earth beneath did not yet bear a name, And the primeval Apsu, who begat them, And chaos, Tiamut, the mother of them both Their waters were mingled together, And no field was formed, no marsh was to be seen; When of the gods none had been called into being, And none bore a name, and no destinies were ordained; Then were created the gods in the midst of heaven, Lahmu and Lahamu were called into being... Ages increased,... Then Ansar and Kisar were created, and over them.... Long were the days, then there came forth..... Anu, their son,... Ansar and Anu... And the god Anu... Nudimmud, whom his fathers, his begetters..... Abounding in all wisdom,...' He was exceeding strong... He had no rival - Thus were established and were... the great gods. But Tiamat and Apsu were still in confusion... They were troubled and... In disorder... Apru was not diminished",
+      "translation": "When in the height heaven was not named, And the earth beneath did not yet bear a name, And the primeval Apsu, who begat them, And chaos, Tiamat, the mother of them both Their waters were mingled together, And no field was formed, no marsh was to be seen; When of the gods none had been called into being, And none bore a name, and no destinies were ordained; Then were created the gods in the midst of heaven, Lahmu and Lahamu were called into being.. Ages increased,.. Then Ansar and Kisar were created, and over them.. Long were the days, then there came forth... Anu, their son,.. Ansar and Anu.. And the god Anu.. Nudimmud, whom his fathers, his begetters... Abounding in all wisdom,..' He was exceeding strong.. He had no rival - Thus were established and were.. the great gods. But Tiamat and Apsu were still in confusion.. They were troubled and.. In disorder.. Apsu was not diminished in might.. And Tiamat roared.. She smote, and their deeds.. Their way was evil.. Then Apsu, the begetter of the great gods, Cried unto Mummu, his minister, and said unto him: \"O Mummu, thou minister that rejoicest my spirit, Come, unto Tiamat let us go! So they went and before Tiamat they lay down, They consulted on a plan with regard to the gods, their sons. Apsu opened his mouth and spake, And unto Tiamat, the glistening one, he addressed the word: ..their way..",
       "layer": "akkadian",
       "source_note": "Public-domain English translation — see text reader for source"
     },
@@ -43,7 +43,7 @@
       "ref": "Enuma.Tiamat",
       "text_id": "akkadian.enuma.elish",
       "composition": "Enuma Elish (The Seven Tablets of Creation)",
-      "translation": "When in the height heaven was not named, And the earth beneath did not yet bear a name, And the primeval Apsu, who begat them, And chaos, Tiamut, the mother of them both Their waters were mingled together, And no field was formed, no marsh was to be seen; When of the gods none had been called into being, And none bore a name, and no destinies were ordained; Then were created the gods in the midst of heaven, Lahmu and Lahamu were called into being... Ages increased,... Then Ansar and Kisar were created, and over them.... Long were the days, then there came forth..... Anu, their son,... Ansar and Anu... And the god Anu... Nudimmud, whom his fathers, his begetters..... Abounding in all wisdom,...' He was exceeding strong... He had no rival - Thus were established and were... the great gods. But Tiamat and Apsu were still in confusion... They were troubled and... In disorder... Apru was not diminished",
+      "translation": "When in the height heaven was not named, And the earth beneath did not yet bear a name, And the primeval Apsu, who begat them, And chaos, Tiamat, the mother of them both Their waters were mingled together, And no field was formed, no marsh was to be seen; When of the gods none had been called into being, And none bore a name, and no destinies were ordained; Then were created the gods in the midst of heaven, Lahmu and Lahamu were called into being.. Ages increased,.. Then Ansar and Kisar were created, and over them.. Long were the days, then there came forth... Anu, their son,.. Ansar and Anu.. And the god Anu.. Nudimmud, whom his fathers, his begetters... Abounding in all wisdom,..' He was exceeding strong.. He had no rival - Thus were established and were.. the great gods. But Tiamat and Apsu were still in confusion.. They were troubled and.. In disorder.. Apsu was not diminished in might.. And Tiamat roared.. She smote, and their deeds.. Their way was evil.. Then Apsu, the begetter of the great gods, Cried unto Mummu, his minister, and said unto him: \"O Mummu, thou minister that rejoicest my spirit, Come, unto Tiamat let us go! So they went and before Tiamat they lay down, They consulted on a plan with regard to the gods, their sons. Apsu opened his mouth and spake, And unto Tiamat, the glistening one, he addressed the word: ..their way..",
       "layer": "akkadian",
       "source_note": "Public-domain English translation — see text reader for source"
     },

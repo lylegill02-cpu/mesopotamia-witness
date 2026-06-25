@@ -1,0 +1,27 @@
+{
+  "text_id": "oracc.etcsri.Q001218",
+  "corpus": "oracc",
+  "title": "Anonymous Adab 13 (FAOS 05/2, AnAdab 13)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001218",
+  "paragraphs": [
+    {
+      "para_id": "Q001218.1",
+      "line_range": "1",
+      "translation": "(1) E-kiri , Šubur ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001218.1",
+      "line_label": "1",
+      "transliteration": "e₂ - kiri₆"
+    },
+    {
+      "line_id": "Q001218.2",
+      "line_label": "2",
+      "transliteration": "šubur"
+    }
+  ]
+}

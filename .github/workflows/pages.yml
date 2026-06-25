@@ -23,8 +23,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Sync static data
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build static data
         run: |
+          python scripts/merge_witness_deltas.py
+          python scripts/build_corpus.py
+          python scripts/sync_loci.py
           mkdir -p web/data
           cp data/loci_chart.json web/data/loci_chart.json
           cp data/corpus.json web/data/corpus.json

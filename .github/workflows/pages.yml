@@ -36,6 +36,7 @@ jobs:
           cp data/english_glossary.json web/data/english_glossary.json
           cp data/flood_comparison.json web/data/flood_comparison.json
           cp data/akkadian_catalog.json web/data/akkadian_catalog.json
+          cp data/oracc_catalog.json web/data/oracc_catalog.json
 
       - uses: actions/configure-pages@v5
 

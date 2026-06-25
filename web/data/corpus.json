@@ -1,10 +1,10 @@
 {
   "meta": {
-    "edition": "mesopotamia-witness-v2-akkadian",
-    "source": "ETCSL + Akkadian PD translations",
-    "text_count": 397,
+    "edition": "mesopotamia-witness-v3-oracc",
+    "source": "ETCSL + Akkadian PD + ORACC",
+    "text_count": 399,
     "etcsl_count": 394,
-    "akkadian_count": 3
+    "akkadian_count": 5
   },
   "refs": {
     "Inanna.descent": {
@@ -27,7 +27,7 @@
       "ref": "Eridu.Genesis",
       "text_id": "c.1.7.4",
       "composition": "The Flood story -- a composite transliteration",
-      "translation": "XX sets up XX. I will XX the perishing of my mankind; for Nintur, I will stop the annihilation of my creatures, and I will return the people from their dwelling grounds. Let them build many cities so that I can refresh myself in their shade. Let them lay the bricks of many cities in pure places, let them establish places of divination in pure places, and when the fire-quenching XX is arranged, the divine rites and exalted powers are perfected and the earth is irrigated, I will establish well-being there. XXseat in heaven. XX flood. XX mankind. So he made XX. Then Nintur XX. Holy Inana made a lament for its people. Enki took counsel with himself. An, Enlil, Enki and Ninḫursaŋa made all the gods of heaven and earth take an oath by invoking An and Enlil. In those days Zi-ud-sura the king, the gudug priest, XX. He fashioned XX. The humble, committed, reverent XX. Day by day, standing constantly at XX. Something that was not a dream appeared, conversation XX, XX taking an oath by invoking heaven and earth. In the Ki-ur, the gods XX a wall. Zi-ud-sura, standing at its side, heard: Side-wall standing at my left side, XX. Side-wall, I will speak words to you; take heed of my words, pay attention to my instructions. A flood will sweep over the XX in all the XX. A decision that the seed of mankind is to be destroyed has been made. The verdict, the word of the divine assembly, cannot be revoked. The order announced by An and Enlil cannot be overturned. Their kingship, their term has been cut off; their heart should be rested about this. Now XX. What XX.",
+      "translation": "XX sets up XX. I will XX the perishing of my mankind; for Nintur, I will stop the annihilation of my creatures, and I will return the people from their dwelling grounds. Let them build many cities so that I can refresh myself in their shade. Let them lay the bricks of many cities in pure places, let them establish places of divination in pure places, and when the fire-quenching XX is arranged, the divine rites and exalted powers are perfected and the earth is irrigated, I will establish well-being there. After An, Enlil, Enki and Ninḫursaŋa had fashioned the black-headed people, they also made animals multiply everywhere, and made herds of four-legged animals exist on the plains, as is befitting.",
       "layer": "etcsl",
       "source_note": "ETCSL (Oxford) — CC BY 3.0 UK"
     },
@@ -35,7 +35,7 @@
       "ref": "Enuma.E1",
       "text_id": "akkadian.enuma.elish",
       "composition": "Enuma Elish (The Seven Tablets of Creation)",
-      "translation": "When in the height heaven was not named, And the earth beneath did not yet bear a name, And the primeval Apsu, who begat them, And chaos, Tiamut, the mother of them both Their waters were mingled together, And no field was formed, no marsh was to be seen; When of the gods none had been called into being, And none bore a name, and no destinies were ordained; Then were created the gods in the midst of heaven, Lahmu and Lahamu were called into being... Tiamat made weighty her handiwork, Evil she wrought against the gods her children. To avenge Apsu, Tiamat planned evil, But how she had collected her forces, the god unto Ea divulged. Ea harkened to this thing, and He was grievously afflicted and he sat in sorrow. The days went by, and his anger was appeased, And to the place of Ansar his father he took his way. He went and, standing before Ansar, the father who begat him, All that Tiamat had plotted",
+      "translation": "When in the height heaven was not named, And the earth beneath did not yet bear a name, And the primeval Apsu, who begat them, And chaos, Tiamut, the mother of them both Their waters were mingled together, And no field was formed, no marsh was to be seen; When of the gods none had been called into being, And none bore a name, and no destinies were ordained; Then were created the gods in the midst of heaven, Lahmu and Lahamu were called into being... Ages increased,... Then Ansar and Kisar were created, and over them.... Long were the days, then there came forth..... Anu, their son,... Ansar and Anu... And the god Anu... Nudimmud, whom his fathers, his begetters..... Abounding in all wisdom,...' He was exceeding strong... He had no rival - Thus were established and were... the great gods. But Tiamat and Apsu were still in confusion... They were troubled and... In disorder... Apru was not diminished",
       "layer": "akkadian",
       "source_note": "Public-domain English translation — see text reader for source"
     },
@@ -43,7 +43,7 @@
       "ref": "Enuma.Tiamat",
       "text_id": "akkadian.enuma.elish",
       "composition": "Enuma Elish (The Seven Tablets of Creation)",
-      "translation": "When in the height heaven was not named, And the earth beneath did not yet bear a name, And the primeval Apsu, who begat them, And chaos, Tiamut, the mother of them both Their waters were mingled together, And no field was formed, no marsh was to be seen; When of the gods none had been called into being, And none bore a name, and no destinies were ordained; Then were created the gods in the midst of heaven, Lahmu and Lahamu were called into being... Tiamat made weighty her handiwork, Evil she wrought against the gods her children. To avenge Apsu, Tiamat planned evil, But how she had collected her forces, the god unto Ea divulged. Ea harkened to this thing, and He was grievously afflicted and he sat in sorrow. The days went by, and his anger was appeased, And to the place of Ansar his father he took his way. He went and, standing before Ansar, the father who begat him, All that Tiamat had plotted",
+      "translation": "When in the height heaven was not named, And the earth beneath did not yet bear a name, And the primeval Apsu, who begat them, And chaos, Tiamut, the mother of them both Their waters were mingled together, And no field was formed, no marsh was to be seen; When of the gods none had been called into being, And none bore a name, and no destinies were ordained; Then were created the gods in the midst of heaven, Lahmu and Lahamu were called into being... Ages increased,... Then Ansar and Kisar were created, and over them.... Long were the days, then there came forth..... Anu, their son,... Ansar and Anu... And the god Anu... Nudimmud, whom his fathers, his begetters..... Abounding in all wisdom,...' He was exceeding strong... He had no rival - Thus were established and were... the great gods. But Tiamat and Apsu were still in confusion... They were troubled and... In disorder... Apru was not diminished",
       "layer": "akkadian",
       "source_note": "Public-domain English translation — see text reader for source"
     },
@@ -73,10 +73,11 @@
     },
     "AMGG.anunna": {
       "ref": "AMGG.anunna",
-      "composition": "Anunna / Anunnaki (AMGG)",
-      "translation": "Scholarly usage: Anunna/Anunnaki names Mesopotamian deities — members of the divine assembly linked to heaven and the underworld. The term appears in Akkadian ritual and myth; it is not attested as a Sumerian phrase meaning ‘those who from heaven came.’",
-      "layer": "lexicon",
-      "source_note": "AMGG / Assyriology — not in ETCSL"
+      "text_id": "oracc.amgg.anunna",
+      "composition": "Anunna (Anunnaku, Anunnaki) (a group of gods)",
+      "translation": "The term Anunna indicates a group of gods in the Mesopotamian pantheon. Later on, it is sometimes used to describe the underworld gods (as opposed to the gods of heaven, the Igigi ). A recent and comprehensive study of the term Anunna is still lacking; such a study is made more difficult by the term having slightly different meanings in different time periods.",
+      "layer": "oracc",
+      "source_note": "ORACC AMGG — CC BY-SA 3.0"
     }
   }
 }

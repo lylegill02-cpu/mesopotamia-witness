@@ -1,6 +1,6 @@
 /** Site config — works locally and on GitHub Pages. */
 export const REPO = "lylegill02-cpu/mesopotamia-witness";
-export const DB_RELEASE_TAG = "v1.1.0-search";
+export const DB_RELEASE_TAG = "v1.2.0-search";
 
 export function basePath() {
   const m = location.pathname.match(/^(\/[^/]+)\//);
@@ -39,11 +39,15 @@ export function akkadianCatalogUrl() {
   return assetUrl("/data/akkadian_catalog.json");
 }
 
+export function oraccCatalogUrl() {
+  return assetUrl("/data/oracc_catalog.json");
+}
+
 export function dbDownloadUrl() {
   const base = `https://github.com/${REPO}/releases/download/${DB_RELEASE_TAG}`;
   return `${base}/corpus.db.gz`;
 }
 
 export function dbDownloadUrlFallback() {
-  return `https://github.com/${REPO}/releases/download/v1.0.0-search/etcsl.db.gz`;
+  return `https://github.com/${REPO}/releases/download/v1.1.0-search/corpus.db.gz`;
 }

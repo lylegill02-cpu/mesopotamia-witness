@@ -4,6 +4,7 @@ import { lociChartUrl, glossaryUrl } from "./config.js";
 import { renderWitnessDelta, locusForTextId, locusForRef } from "./witness-delta.js";
 
 let glossary = null;
+let lociCache = null;
 
 export async function ensureSearch(onProgress) {
   await loadIndex(onProgress);
@@ -39,17 +40,45 @@ export async function openText(textId, onProgress) {
   return getText(textId);
 }
 
-export async function findLocus(textId, ref) {
+async function loadLoci() {
+  if (lociCache) return lociCache;
   const r = await fetch(lociChartUrl());
-  if (!r.ok) return null;
-  const data = await r.json();
-  const loci = data.loci || [];
+  if (!r.ok) return [];
+  lociCache = (await r.json()).loci || [];
+  return lociCache;
+}
+
+function keywordMatch(loci, textId, query) {
+  const q = String(query || "").toLowerCase().trim();
+  if (!q || q.length < 3) return null;
+  for (const loc of loci) {
+    if (textId && loc.text_id === textId) return loc;
+    const bag = [
+      loc.needle,
+      loc.ref,
+      loc.topic?.en,
+      ...(loc.english_keywords || []),
+      ...(loc.tags || []),
+    ]
+      .filter(Boolean)
+      .join(" ")
+      .toLowerCase();
+    if (bag.includes(q)) return loc;
+  }
+  return null;
+}
+
+export async function findLocus(textId, ref, query) {
+  const loci = await loadLoci();
   if (textId) {
     const byText = loci.find((x) => x.text_id === textId);
     if (byText) return byText;
   }
-  if (ref) return locusForRef(loci, ref);
-  return null;
+  if (ref) {
+    const byRef = locusForRef(loci, ref);
+    if (byRef) return byRef;
+  }
+  return keywordMatch(loci, textId, query);
 }
 
 export { renderWitnessDelta, locusForTextId, locusForRef };

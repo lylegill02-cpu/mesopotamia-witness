@@ -41,6 +41,7 @@
         "Enuma.E1",
         "Atrahasis.1"
       ],
+      "text_id": "oracc.amgg.anunna",
       "tags": [
         "anunnaki",
         "debunk",
@@ -411,7 +412,16 @@
           "Gap-free internet paraphrases"
         ]
       },
-      "sources": [],
+      "sources": [
+        {
+          "label": "ETCSL 1.7.4 — The Flood story (Eridu Genesis / Ziusudra)",
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.1.7.4"
+        },
+        {
+          "label": "CDLI — Nippur flood tablets",
+          "url": "https://cdli.earth/search/all?q=zi-ud-sura"
+        }
+      ],
       "related_refs": [
         "Atrahasis.Flood"
       ],

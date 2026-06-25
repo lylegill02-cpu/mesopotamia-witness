@@ -6,19 +6,22 @@
       "text_id": "akkadian.atrahasis",
       "title": "Atrahasis (Akkadian flood epic)",
       "translation_source": "Composite public-domain renderings after King, Thompson, and Budge (creation & flood tablets)",
-      "paragraph_count": 11
+      "paragraph_count": 11,
+      "line_count": 7
     },
     {
       "text_id": "akkadian.enuma.elish",
       "title": "Enuma Elish (The Seven Tablets of Creation)",
       "translation_source": "L.W. King, The Seven Tablets of Creation, London 1902 (public domain)",
-      "paragraph_count": 77
+      "paragraph_count": 77,
+      "line_count": 0
     },
     {
       "text_id": "akkadian.gilgamesh.xi",
       "title": "Gilgamesh — Tablet XI (Utnapishtim's flood)",
       "translation_source": "R. Campbell Thompson, The Epic of Gilgamish (1928) — public domain",
-      "paragraph_count": 10
+      "paragraph_count": 10,
+      "line_count": 9
     }
   ]
 }

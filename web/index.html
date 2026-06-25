@@ -55,10 +55,11 @@
 <body>
   <header>
     <h1>Mesopotamia Witness</h1>
-    <p>Search ETCSL Sumerian + Akkadian trio (Enuma Elish, Atrahasis, Gilgamesh XI)</p>
+    <p>Search ETCSL Sumerian + Akkadian trio + ORACC (AMGG, ETCSRI)</p>
     <nav>
       <a href="loci.html">← Loci map</a>
       <a href="flood.html">Flood comparison</a>
+      <a href="eridu.html">Eridu Genesis</a>
       <a href="texts.html">Browse catalog</a>
     </nav>
   </header>
@@ -119,7 +120,7 @@
         for (const hit of hits) {
           let locusHtml = "";
           if (!lociCache.has(hit.text_id)) {
-            lociCache.set(hit.text_id, await findLocus(hit.text_id));
+            lociCache.set(hit.text_id, await findLocus(hit.text_id, null, query));
           }
           const loc = lociCache.get(hit.text_id);
           if (loc) locusHtml = renderWitnessDelta(loc, { compact: true });

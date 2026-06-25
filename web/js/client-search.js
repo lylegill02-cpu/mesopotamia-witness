@@ -29,7 +29,7 @@ export function searchEnglish(query, { limit = 25 } = {}) {
     FROM paragraphs p
     JOIN texts t ON t.text_id = p.text_id
     WHERE p.translation_norm LIKE '%' || ? ESCAPE '\\'
-    ORDER BY t.text_id, COALESCE(p.line_start, 9999)
+    ORDER BY t.text_id, COALESCE(p.ord, p.line_start, 9999), p.id
     LIMIT ?
   `);
   stmt.bind([q, limit]);
@@ -104,7 +104,7 @@ export function getText(textId) {
 
   const paraStmt = conn.prepare(`
     SELECT line_range, translation FROM paragraphs
-    WHERE text_id = ? ORDER BY COALESCE(line_start, 9999), id
+    WHERE text_id = ? ORDER BY COALESCE(ord, line_start, 9999), id
   `);
   paraStmt.bind([textId]);
   const paragraphs = [];

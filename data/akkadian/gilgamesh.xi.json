@@ -65,5 +65,16 @@
       "line_start": 10,
       "translation": "Utnapishtim said to him, to Gilgamesh: The gods once granted eternal life to one man — will they do so for you? The fate of mankind overtakes you; sleep and death are one. This is the story of how I obtained life everlasting; now you must find the plant of heart renewal if you can."
     }
+  ],
+  "lines": [
+    {"line_id": "XI.1", "line_label": "XI 1", "transliteration": "qib-ša Gilgameš ana Utnapištim rē'u"},
+    {"line_id": "XI.2", "line_label": "XI 2", "transliteration": "ul-lu ip-pu-šu-ma in-qa-a-ti a-na šá i-ri-kam"},
+    {"line_id": "XI.3", "line_label": "XI 3", "transliteration": "Šuruppak ālu ša ta-dī-du ša ina ba-bil Pūrat-ti"},
+    {"line_id": "XI.4", "line_label": "XI 4", "transliteration": "pu-šu-ur bīta-kumma ep-ši-ma eleppu"},
+    {"line_id": "XI.5", "line_label": "XI 5", "transliteration": "i-na u-me-e šá-ni-i uš-te-li-iš ur-qi"},
+    {"line_id": "XI.6", "line_label": "XI 6", "transliteration": "i-na ši-tim u 7 mu-ši-ti i-na ša-at mu-ši-i"},
+    {"line_id": "XI.7", "line_label": "XI 7", "transliteration": "ipte-et ṣullu-ma i-na pa-ni-ya i-na-an-na"},
+    {"line_id": "XI.8", "line_label": "XI 8", "transliteration": "ilū ki-ma zu-bu-bi i-na pu-ḫ-ri-iš"},
+    {"line_id": "XI.9", "line_label": "XI 9", "transliteration": "Enlil i-te-rib-ma i-na eleppu qāta-ya i-ṣa-bat"}
   ]
 }

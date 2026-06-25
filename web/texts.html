@@ -20,20 +20,23 @@
 <body>
   <header>
     <h1>Text catalog</h1>
-    <nav><a href="index.html">← Search</a><a href="loci.html">Loci map</a><a href="flood.html">Flood comparison</a></nav>
+    <nav><a href="index.html">← Search</a><a href="loci.html">Loci map</a><a href="flood.html">Flood comparison</a><a href="eridu.html">Eridu Genesis</a></nav>
   </header>
   <main>
-    <h2 style="font-size:1rem;margin:0 0 0.5rem">Akkadian trio</h2>
+    <h2 style="font-size:1rem;margin:0 0 0.5rem">ORACC (AMGG + ETCSRI)</h2>
+    <div id="oracc-list"></div>
+    <h2 style="font-size:1rem;margin:1.25rem 0 0.5rem">Akkadian trio</h2>
     <div id="akk-list"></div>
     <h2 style="font-size:1rem;margin:1.25rem 0 0.5rem">ETCSL Sumerian (~394)</h2>
     <input type="search" id="filter" placeholder="Filter by title or ID…" />
     <div id="list"></div>
   </main>
   <script type="module">
-    import { etcslTextsUrl, akkadianCatalogUrl } from "./js/config.js";
+    import { etcslTextsUrl, akkadianCatalogUrl, oraccCatalogUrl } from "./js/config.js";
     let all = [];
     const list = document.getElementById("list");
     const akkList = document.getElementById("akk-list");
+    const oraccList = document.getElementById("oracc-list");
     function esc(s){return String(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;");}
     function renderRow(t) {
       return `<a class="row" href="text.html?text_id=${encodeURIComponent(t.text_id)}">
@@ -48,13 +51,13 @@
       const q = e.target.value.toLowerCase();
       render(all.filter(t => (t.title||"").toLowerCase().includes(q) || t.text_id.includes(q)));
     });
-    const [r, akk] = await Promise.all([fetch(etcslTextsUrl()), fetch(akkadianCatalogUrl())]);
+    const [r, akk, oracc] = await Promise.all([
+      fetch(etcslTextsUrl()), fetch(akkadianCatalogUrl()), fetch(oraccCatalogUrl()),
+    ]);
     all = (await r.json()).texts || [];
     render(all);
-    if (akk.ok) {
-      const akkTexts = (await akk.json()).texts || [];
-      akkList.innerHTML = akkTexts.map(renderRow).join("");
-    }
+    if (akk.ok) akkList.innerHTML = ((await akk.json()).texts || []).map(renderRow).join("");
+    if (oracc.ok) oraccList.innerHTML = ((await oracc.json()).texts || []).map(renderRow).join("");
   </script>
 </body>
 </html>

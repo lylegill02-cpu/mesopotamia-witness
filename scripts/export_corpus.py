@@ -23,6 +23,7 @@ LOCI_TEXT_IDS = {
     "Atrahasis.1": "akkadian.atrahasis",
     "Atrahasis.Flood": "akkadian.atrahasis",
     "Gilgamesh.XI": "akkadian.gilgamesh.xi",
+    "AMGG.anunna": "oracc.amgg.anunna",
 }
 
 
@@ -37,7 +38,7 @@ def db_path() -> Path:
 def excerpt(conn: sqlite3.Connection, text_id: str, max_paras: int = 2) -> str:
     rows = conn.execute(
         """SELECT translation FROM paragraphs
-           WHERE text_id = ? ORDER BY COALESCE(line_start, 9999), id LIMIT ?""",
+           WHERE text_id = ? ORDER BY COALESCE(ord, line_start, 9999), id LIMIT ?""",
         (text_id, max_paras),
     ).fetchall()
     return " ".join(r[0] for r in rows)
@@ -71,6 +72,8 @@ def main() -> None:
         note = (
             "ETCSL (Oxford) — CC BY 3.0 UK"
             if layer == "etcsl"
+            else "ORACC AMGG — CC BY-SA 3.0"
+            if text_id.startswith("oracc.")
             else "Public-domain English translation — see text reader for source"
         )
         refs[ref] = {
@@ -91,8 +94,8 @@ def main() -> None:
 
     corpus = {
         "meta": {
-            "edition": "mesopotamia-witness-v2-akkadian",
-            "source": "ETCSL + Akkadian PD translations",
+            "edition": "mesopotamia-witness-v3-oracc",
+            "source": "ETCSL + Akkadian PD + ORACC",
             "text_count": len(all_texts),
             "etcsl_count": len(etcsl_texts),
             "akkadian_count": len(all_texts) - len(etcsl_texts),

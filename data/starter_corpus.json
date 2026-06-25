@@ -1,12 +1,4 @@
 {
-  "meta": { "note": "Lexicon / pattern loci without full-text index entries" },
-  "refs": {
-    "AMGG.anunna": {
-      "ref": "AMGG.anunna",
-      "composition": "Anunna / Anunnaki (AMGG)",
-      "translation": "Scholarly usage: Anunna/Anunnaki names Mesopotamian deities — members of the divine assembly linked to heaven and the underworld. The term appears in Akkadian ritual and myth; it is not attested as a Sumerian phrase meaning ‘those who from heaven came.’",
-      "layer": "lexicon",
-      "source_note": "AMGG / Assyriology — not in ETCSL"
-    }
-  }
+  "meta": { "note": "Reserved for refs without DB entries" },
+  "refs": {}
 }

@@ -71,5 +71,14 @@
       "line_start": 23,
       "translation": "When the flood had ended and the people had not been seen, the gods gathered like flies over the sacrificer. Enlil was furious that any humans had survived. Ea spoke and rebuked Enlil for sending the flood without counsel. Enlil then blessed Atra-hasis and his wife, making them like gods, granting them eternal life in the distance."
     }
+  ],
+  "lines": [
+    {"line_id": "I.4a", "line_label": "I 4", "transliteration": "i-na pu-ḫ-ri-iš i-na qātišunu i-na-bi-iṣ-ṣu"},
+    {"line_id": "I.4b", "line_label": "I 4", "transliteration": "ilu We-ila i-na qātišunu i-na-bi-iṣ-ṣu"},
+    {"line_id": "I.4c", "line_label": "I 4", "transliteration": "ṭī-am ṭup-pi-iš i-na-ad-di"},
+    {"line_id": "III.2a", "line_label": "III 2", "transliteration": "pu-šu-ur bīta-kumma ep-ši-ma eleppu"},
+    {"line_id": "III.2b", "line_label": "III 2", "transliteration": "mu-ṣi-ir ṣēnē u nammaštē"},
+    {"line_id": "III.3a", "line_label": "III 3", "transliteration": "i-na 7 u-me u 7 mu-ši-ti"},
+    {"line_id": "III.4a", "line_label": "III 4", "transliteration": "ilū ki-ma zu-bu-bi i-na pu-ḫ-ri-iš"}
   ]
 }

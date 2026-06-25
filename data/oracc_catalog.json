@@ -1,0 +1,20 @@
+{
+  "corpus": "oracc",
+  "count": 2,
+  "texts": [
+    {
+      "text_id": "oracc.amgg.anunna",
+      "title": "Anunna (Anunnaku, Anunnaki) (a group of gods)",
+      "translation_source": "ORACC AMGG — CC BY-SA 3.0",
+      "paragraph_count": 13,
+      "line_count": 3
+    },
+    {
+      "text_id": "oracc.etcsri.Q004866",
+      "title": "A-Ane-pada 7add (RIME 1.13.06.add07 composite)",
+      "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+      "paragraph_count": 2,
+      "line_count": 10
+    }
+  ]
+}

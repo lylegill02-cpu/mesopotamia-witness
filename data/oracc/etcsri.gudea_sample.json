@@ -1,0 +1,72 @@
+{
+  "text_id": "oracc.etcsri.Q004866",
+  "corpus": "oracc",
+  "title": "A-Ane-pada 7add (RIME 1.13.06.add07 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004866",
+  "paragraphs": [
+    {
+      "para_id": "Q004866.1",
+      "line_range": "1",
+      "translation": "(i 1) The dwelling AB.IGI.BUR , the sanctuary , the mountain of snakes , where ? Inana ..., the Abzu ( whose ) god no crown ( i.e ., ruler ) would disobey , its owner , the god of Aya-ane-pada , Enki , the father who created him , made his ( = Aya-ane-pada’s ) lordship apparent ."
+    },
+    {
+      "para_id": "Q004866.8",
+      "line_range": "8",
+      "translation": "(ii 1) He ( = Aya-ane-pada ) ( then ) established the AB.IGI.BUR for him ( = Enki ) , called its name for him , and fashioned his crown for him ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004866.1",
+      "line_label": "i 1",
+      "transliteration": "unu AB - IGI - BUR"
+    },
+    {
+      "line_id": "Q004866.2",
+      "line_label": "i 2",
+      "transliteration": "eš₃ kur muš d inana NA [( X )]"
+    },
+    {
+      "line_id": "Q004866.3",
+      "line_label": "i 3",
+      "transliteration": "abzu diŋir men na - me nu - ⸢ še ⸣"
+    },
+    {
+      "line_id": "Q004866.4",
+      "line_label": "i 4",
+      "transliteration": "lugal - bi diŋir aya₂ - an - ne₂ - pad₃ - da"
+    },
+    {
+      "line_id": "Q004866.5",
+      "line_label": "i 5",
+      "transliteration": "d en - ki aya₂ tud - da - ni"
+    },
+    {
+      "line_id": "Q004866.6",
+      "line_label": "i 6",
+      "transliteration": "nam - men - na - ne₂"
+    },
+    {
+      "line_id": "Q004866.7",
+      "line_label": "i 7",
+      "transliteration": "pa mu - ni - ⸢ e₃ ⸣"
+    },
+    {
+      "line_id": "Q004866.8",
+      "line_label": "ii 1",
+      "transliteration": "AB - IGI - BUR mu - na - ŋar"
+    },
+    {
+      "line_id": "Q004866.9",
+      "line_label": "ii 2",
+      "transliteration": "mu - na - še₂₁ ! ( NA₂ )"
+    },
+    {
+      "line_id": "Q004866.10",
+      "line_label": "ii 3",
+      "transliteration": "men - ni mu - na - ⸢ dim₂ ⸣"
+    }
+  ]
+}

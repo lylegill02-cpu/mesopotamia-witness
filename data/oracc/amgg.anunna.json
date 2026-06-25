@@ -1,0 +1,92 @@
+{
+  "text_id": "oracc.amgg.anunna",
+  "corpus": "oracc",
+  "title": "Anunna (Anunnaku, Anunnaki) (a group of gods)",
+  "language": "english",
+  "translation_source": "ORACC AMGG — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/amgg/Listofdeities/Anunna/index.html",
+  "paragraphs": [
+    {
+      "para_id": "p1",
+      "line_range": "Overview",
+      "translation": "The term Anunna indicates a group of gods in the Mesopotamian pantheon. Later on, it is sometimes used to describe the underworld gods (as opposed to the gods of heaven, the Igigi )."
+    },
+    {
+      "para_id": "p2",
+      "line_range": "Functions",
+      "translation": "A recent and comprehensive study of the term Anunna is still lacking; such a study is made more difficult by the term having slightly different meanings in different time periods."
+    },
+    {
+      "para_id": "p3",
+      "line_range": "Functions",
+      "translation": "In the Sumerian textual corpus, Anunna (Akkadian: Anunnaki, Anunnaku) describes the highest gods in the Mesopotamian pantheon, but it can also be used to indicate the pantheon of a particular city or city-state, such as the Anunna of Eridu or the Anunna of Lagaš ( Falkenstein 1965 , see also Katz 2003: 403 ). It is not clear how many gods and which particular gods this term includes; one text speaks of the 'fifty Anunna of Eridu' ( Falkenstein 1965: 130 ; Edzard 1965: 42 )."
+    },
+    {
+      "para_id": "p4",
+      "line_range": "Functions",
+      "translation": "One of the main functions of the Anunna gods was to decide the fates ( Falkenstein 1965: 131 ), as attested, for example, in the Sumerian myth Enki and the World Order ( ETCSL 1.1.3 , l. 207). However, already in the Sumerian sources the Anunna are sometimes associated with the netherworld, as evidenced in the myth Inana's Descent into the Netherworld ( ETCSL 1.4.1 , line 167), where the Anunna, the seven judges, pass judgement over Inana's trespassing into the netherworld."
+    },
+    {
+      "para_id": "p5",
+      "line_range": "Functions",
+      "translation": "The suggestion that in the Sumerian textual corpus, Anunna are only mentioned in literary texts and that there is no evidence for their worship ( Falkenstein 1965 ) will have to be reconsidered in light of new textual evidence from the Ur III period, in which it appears that offerings were made to Anunna (Anunna on CDLI). However, as there are only three attestations from administrative texts, the evidence is still rather meagre."
+    },
+    {
+      "para_id": "p6",
+      "line_range": "Functions",
+      "translation": "The meaning of the term Anunna changed after the Old Babylonian period, when it was used to describe the gods of the netherworld, in opposition to the term Igigi ( Black and Green 1998 : 34). In some cases, Igigi seems to have the same meaning that Anunna had in Sumerian texts ( Kienast 1965: 143 ). The so-called Babylonian Creation Story, Enūma eliš TT (Tablet VI, lines 39-44), narrates how Marduk assigned 300 Anunna gods for duty in the heavens, and the same number for duty in the netherworld, giving a total of 600 Anunna gods ( Foster 2005: 470 )."
+    },
+    {
+      "para_id": "p7",
+      "line_range": "Functions",
+      "translation": "It appears that there was some confusion surrounding this terms already in antiquity ( Kienast 1965: 144 ). In the Poem of Erra (e.g., Tablets I, lines 62-63; II, lines 8-9; V, line 3, see Foster 2005 : 880-911), the Igigi are clearly separated from the Anunna."
+    },
+    {
+      "para_id": "p8",
+      "line_range": "Functions",
+      "translation": "The Anunnaku are sometimes invoked in curse formulas and also appear in incantations, but are overwhelmingly attested in literary and mythological texts. In the Epic of Gilgameš , the phrase \"judge of the Anunnaki\" is mentioned as a title of Gilgameš (Tablet VIII, line 210, unfortunately in broken context, see George 2003 : 663, 861-2). This is possibly a reference to Gilgameš's function as a judge in the netherworld."
+    },
+    {
+      "para_id": "p9",
+      "line_range": "Divine Genealogy and Syncretisms",
+      "translation": "Because this term encompasses the major deities of the Mesopotamian pantheon, the genealogical relationships were different than those of the individual deities that are part of the Anunna. An is sometimes mentioned as the father of the Anunna, and some texts indicate that the relationship between the Anunna was brotherly/sisterly ( Falkenstein 1965: 129-30 )."
+    },
+    {
+      "para_id": "p10",
+      "line_range": "Cult Place(s)",
+      "translation": "Currently, we have no knowledge of a sanctuary dedicated to the Anunna gods, presumably because all the Anunna gods had their individual temples in various cities across Mesopotamia."
+    },
+    {
+      "para_id": "p11",
+      "line_range": "Time Periods Attested",
+      "translation": "The term Anunna first appears in the Post-Akkadian period, namely in some Gudea inscriptions, and in a few Ur III texts. In its Akkadian forms Anunnaku and Anunnaki continue to occur until the Seleucid period (see the link to Anunnaku in CAMS below)."
+    },
+    {
+      "para_id": "p12",
+      "line_range": "Iconography",
+      "translation": "There are no known depictions of Anunna or Anunnaku, only of individual deities."
+    },
+    {
+      "para_id": "p13",
+      "line_range": "Name and Spellings",
+      "translation": "There has been some discussion as to the meaning of the name Anunna (see Falkenstein 1965: 128-30 ). The most likely suggestions translate the term as something like \"Those of princely seed,\" ( Falkenstein 1965: 129 ; Edzard 1965: 42 )."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "forms.sumerian",
+      "line_label": "Sumerian",
+      "transliteration": "Sumerian: d a-nun, d a-nun-na, d a-nun-na-ke 4 -ne, d a-nun-ke 4 -ne"
+    },
+    {
+      "line_id": "forms.akkadian",
+      "line_label": "Akkadian",
+      "transliteration": "Akkadian: d a-nun-na-ki , e-nun-na-ki , e-nu-uk-ki , d e-nu-uk-ki ; logographic: d A.NUN, d A.NUN.NA, d A.NUN.NA.KE.E.NE; cryptographic: d géš-u (also see Kienast 1965: 142-43 )."
+    },
+    {
+      "line_id": "forms.normalized",
+      "line_label": "Normalized",
+      "transliteration": "Anuna(k), Anunna, Anunnaki, Anunnaku, Anunnakku"
+    }
+  ]
+}

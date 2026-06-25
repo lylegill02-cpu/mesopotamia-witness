@@ -42,6 +42,7 @@
         "Enuma.E1",
         "Atrahasis.1"
       ],
+      "text_id": "oracc.amgg.anunna",
       "tags": [
         "anunnaki",
         "debunk",
@@ -66,7 +67,7 @@
       },
       "verified": {
         "present": true,
-        "snippet": "Scholarly usage: Anunna/Anunnaki names Mesopotamian deities — members of the divine assembly linked to heaven and the underworld. The term appears in Akkadian ritual and myth; it is not attested as a Sumerian phrase meaning ‘those who from heaven came.’"
+        "snippet": "The term Anunna indicates a group of gods in the Mesopotamian pantheon. Later on, it is sometimes used to describe the underworld gods (as opposed to the gods of heaven, the Igigi ). A recent and comprehensive study of the term Anunna is still lacking; such a study is made more d"
       },
       "suppression_index": 1,
       "available_now": true
@@ -454,7 +455,16 @@
           "Gap-free internet paraphrases"
         ]
       },
-      "sources": [],
+      "sources": [
+        {
+          "label": "ETCSL 1.7.4 — The Flood story (Eridu Genesis / Ziusudra)",
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.1.7.4"
+        },
+        {
+          "label": "CDLI — Nippur flood tablets",
+          "url": "https://cdli.earth/search/all?q=zi-ud-sura"
+        }
+      ],
       "related_refs": [
         "Atrahasis.Flood"
       ],

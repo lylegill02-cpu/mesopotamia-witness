@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Eridu Genesis — Mesopotamia Witness</title>
+  <style>
+    :root { --bg:#e8e4dc; --ink:#1a1814; --muted:#5a5348; --accent:#6b3a12; --card:#faf6ee; --border:#c9bfb0; --warn:#8b6914; }
+    body { margin:0; font-family:Georgia,"Segoe UI",serif; background:var(--bg); color:var(--ink); line-height:1.65; }
+    header { padding:1rem; border-bottom:2px solid var(--ink); background:var(--card); font-family:"Segoe UI",sans-serif; }
+    nav a { color:var(--accent); margin-right:1rem; font-weight:600; }
+    main { max-width:44rem; margin:0 auto; padding:1rem 1rem 3rem; }
+    .callout { background:#f5f0e0; border:1px solid var(--border); border-radius:6px; padding:0.85rem 1rem; margin:1rem 0; font-family:"Segoe UI",sans-serif; font-size:0.92rem; }
+    .callout strong { color:var(--warn); }
+    .panel { background:var(--card); border:1px solid var(--border); border-radius:6px; padding:1rem; margin-top:1rem; }
+    .para { margin:0.65rem 0; }
+    .meta { font-size:0.78rem; color:var(--muted); font-family:"Segoe UI",sans-serif; }
+    .progress { font-size:0.88rem; color:var(--muted); font-family:"Segoe UI",sans-serif; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Eridu Genesis — Sumerian flood witness</h1>
+    <nav>
+      <a href="loci.html">← Loci map</a>
+      <a href="flood.html">Flood comparison</a>
+      <a href="text.html?text_id=c.1.7.4">Full ETCSL text</a>
+    </nav>
+  </header>
+  <main>
+    <div class="callout">
+      <strong>Fragment witness.</strong> ETCSL <code>c.1.7.4</code> (“The Flood story”) preserves the Sumerian Eridu Genesis / Ziusudra tradition from damaged Nippur tablets. Responsible editions mark lacunae — smooth “full translations” online often fill gaps.
+    </div>
+    <p>Compare this Sumerian witness to the Akkadian flood accounts on the <a href="flood.html">flood comparison</a> page (Atrahasis, Gilgamesh XI).</p>
+    <div class="progress" id="progress">Loading ETCSL text…</div>
+    <div id="content"></div>
+  </main>
+  <script type="module">
+    import { openText, findLocus, renderWitnessDelta } from "./js/app.js";
+
+    const textId = "c.1.7.4";
+    const progress = document.getElementById("progress");
+    const content = document.getElementById("content");
+
+    try {
+      const loc = await findLocus(textId, "Eridu.Genesis");
+      const text = await openText(textId, (msg) => { progress.textContent = msg; });
+      progress.textContent = "";
+      let html = loc ? renderWitnessDelta(loc) : "";
+      html += `<div class="panel"><h2>${text.title}</h2><p class="meta">${text.text_id} · ETCSL Sumerian</p>`;
+      for (const p of text.paragraphs || []) {
+        html += `<div class="para">${p.translation}</div>`;
+      }
+      html += `</div>`;
+      html += `<p class="meta"><a href="https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.1.7.4" target="_blank" rel="noopener">ETCSL 1.7.4 at Oxford</a></p>`;
+      content.innerHTML = html;
+    } catch (err) {
+      progress.textContent = "";
+      content.innerHTML = `<p>${err.message}</p>`;
+    }
+  </script>
+</body>
+</html>

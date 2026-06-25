@@ -1,8 +1,10 @@
 {
   "meta": {
-    "edition": "mesopotamia-witness-v1-etcsl",
-    "source": "ETCSL + starter excerpts",
-    "text_count": 394
+    "edition": "mesopotamia-witness-v2-akkadian",
+    "source": "ETCSL + Akkadian PD translations",
+    "text_count": 397,
+    "etcsl_count": 394,
+    "akkadian_count": 3
   },
   "refs": {
     "Inanna.descent": {
@@ -29,48 +31,52 @@
       "layer": "etcsl",
       "source_note": "ETCSL (Oxford) — CC BY 3.0 UK"
     },
+    "Enuma.E1": {
+      "ref": "Enuma.E1",
+      "text_id": "akkadian.enuma.elish",
+      "composition": "Enuma Elish (The Seven Tablets of Creation)",
+      "translation": "When in the height heaven was not named, And the earth beneath did not yet bear a name, And the primeval Apsu, who begat them, And chaos, Tiamut, the mother of them both Their waters were mingled together, And no field was formed, no marsh was to be seen; When of the gods none had been called into being, And none bore a name, and no destinies were ordained; Then were created the gods in the midst of heaven, Lahmu and Lahamu were called into being... Tiamat made weighty her handiwork, Evil she wrought against the gods her children. To avenge Apsu, Tiamat planned evil, But how she had collected her forces, the god unto Ea divulged. Ea harkened to this thing, and He was grievously afflicted and he sat in sorrow. The days went by, and his anger was appeased, And to the place of Ansar his father he took his way. He went and, standing before Ansar, the father who begat him, All that Tiamat had plotted",
+      "layer": "akkadian",
+      "source_note": "Public-domain English translation — see text reader for source"
+    },
+    "Enuma.Tiamat": {
+      "ref": "Enuma.Tiamat",
+      "text_id": "akkadian.enuma.elish",
+      "composition": "Enuma Elish (The Seven Tablets of Creation)",
+      "translation": "When in the height heaven was not named, And the earth beneath did not yet bear a name, And the primeval Apsu, who begat them, And chaos, Tiamut, the mother of them both Their waters were mingled together, And no field was formed, no marsh was to be seen; When of the gods none had been called into being, And none bore a name, and no destinies were ordained; Then were created the gods in the midst of heaven, Lahmu and Lahamu were called into being... Tiamat made weighty her handiwork, Evil she wrought against the gods her children. To avenge Apsu, Tiamat planned evil, But how she had collected her forces, the god unto Ea divulged. Ea harkened to this thing, and He was grievously afflicted and he sat in sorrow. The days went by, and his anger was appeased, And to the place of Ansar his father he took his way. He went and, standing before Ansar, the father who begat him, All that Tiamat had plotted",
+      "layer": "akkadian",
+      "source_note": "Public-domain English translation — see text reader for source"
+    },
+    "Atrahasis.1": {
+      "ref": "Atrahasis.1",
+      "text_id": "akkadian.atrahasis",
+      "composition": "Atrahasis (Akkadian flood epic)",
+      "translation": "The gods had to dig out canals, they had to clear channels, the lifelines of the land. The gods dug the Tigris river and the Euphrates river, and they dug irrigation ditches. For forty years they endured this labor; the vast earth resounded with their groans. Enlil, counselor of the gods, Ellil, set the other gods to digging. The Igigi gods dug the riverbeds, but the work was too hard. They burned their tools and surrounded the house of Enlil in the night, saying: Let us confront our father Enlil, let us get relief from our labor.",
+      "layer": "akkadian",
+      "source_note": "Public-domain English translation — see text reader for source"
+    },
+    "Atrahasis.Flood": {
+      "ref": "Atrahasis.Flood",
+      "text_id": "akkadian.atrahasis",
+      "composition": "Atrahasis (Akkadian flood epic)",
+      "translation": "The gods had to dig out canals, they had to clear channels, the lifelines of the land. The gods dug the Tigris river and the Euphrates river, and they dug irrigation ditches. For forty years they endured this labor; the vast earth resounded with their groans. Enlil, counselor of the gods, Ellil, set the other gods to digging. The Igigi gods dug the riverbeds, but the work was too hard. They burned their tools and surrounded the house of Enlil in the night, saying: Let us confront our father Enlil, let us get relief from our labor.",
+      "layer": "akkadian",
+      "source_note": "Public-domain English translation — see text reader for source"
+    },
     "Gilgamesh.XI": {
       "ref": "Gilgamesh.XI",
-      "text_id": "c.1.8.1.4",
-      "composition": "Gilgameš, Enkidu and the nether world -- a composite transliteration",
-      "translation": "In those days, in those distant days, in those nights, in those remote nights, in those years, in those distant years; in days of yore, when the necessary things had been brought into manifest existence, in days of yore, when the necessary things had been for the first time properly cared for, when bread had been tasted for the first time in the shrines of the Land, when the ovens of the Land had been made to work, when the heavens had been separated from the earth, when the earth had been delimited from the heavens, when the fame of mankind had been established, when An had taken the heavens for himself, when Enlil had taken the earth for himself, when the nether world had been given to Ereškigala as a gift; when he set sail, when he set sail, when the father set sail for the nether world, when Enki set sail for the nether world -- against the king a storm of small hailstones arose, against Enki a storm of large hailstones arose. The small ones were light hammers, the large ones were like stones from catapults (?). The keel of Enki's little boat was trembling as if it were being butted by turtles, the waves at the bow of the boat rose to devour the king like wolves and the waves at the stern of the boat were attacking Enki like a lion. At that time, there was a single tree, a single ḫalub tree, a single tree, growing on the bank of the pure Euphrates, being watered by the Euphrates. The force of the south wind uprooted it and stripped its branches, and the Euphrates picked it up and carried it away. A woman, respectful of An's words, was walking along; a woman, respectful of Enlil's words, was walking along, and took the tree and brought it into Unug, into Inana's luxuriant garden.",
-      "layer": "etcsl",
-      "source_note": "ETCSL (Oxford) — CC BY 3.0 UK"
+      "text_id": "akkadian.gilgamesh.xi",
+      "composition": "Gilgamesh — Tablet XI (Utnapishtim's flood)",
+      "translation": "Gilgamesh spoke to him, to Utnapishtim the faraway: I have looked upon you; your form is no different; you are like me. Why have the gods given to you and not to me a heart that does not fear death? Utnapishtim said to Gilgamesh: I will reveal to you, Gilgamesh, a hidden matter, a secret of the gods I will tell you. Shuruppak, a city which you yourself know, which stands on the banks of the Euphrates — that city was old and the gods were in it.",
+      "layer": "akkadian",
+      "source_note": "Public-domain English translation — see text reader for source"
     },
     "AMGG.anunna": {
       "ref": "AMGG.anunna",
       "composition": "Anunna / Anunnaki (AMGG)",
       "translation": "Scholarly usage: Anunna/Anunnaki names Mesopotamian deities — members of the divine assembly linked to heaven and the underworld. The term appears in Akkadian ritual and myth; it is not attested as a Sumerian phrase meaning ‘those who from heaven came.’",
       "layer": "lexicon",
-      "source_note": "AMGG / Assyriology — not ETCSL"
-    },
-    "Enuma.E1": {
-      "ref": "Enuma.E1",
-      "composition": "Enuma Elish — Tablet I (opening)",
-      "translation": "When on high the heaven had not been named, firm ground below had not been called by name, naught but primordial Apsu, their begetter, and Mummu-Tiamat, she who bore them all, had mixed their waters together — before gods had appeared, any one of them.",
-      "layer": "akkadian",
-      "source_note": "Akkadian epic — not in ETCSL (Sumerian literary corpus)"
-    },
-    "Enuma.Tiamat": {
-      "ref": "Enuma.Tiamat",
-      "composition": "Enuma Elish — Marduk vs Tiamat",
-      "translation": "Marduk catches Tiamat in his net; winds distend her belly; he splits her like a shellfish into two halves — with one half he forms the sky, establishes stations for the great gods.",
-      "layer": "akkadian",
-      "source_note": "Akkadian epic — not in ETCSL"
-    },
-    "Atrahasis.1": {
-      "ref": "Atrahasis.1",
-      "composition": "Atrahasis — creation of humanity",
-      "translation": "Let the goddess create a mortal man so that he may bear the yoke of the gods… They slaughtered Aw-ilu in their assembly; Nintu mixed clay with his flesh and blood.",
-      "layer": "akkadian",
-      "source_note": "Akkadian — not in ETCSL"
-    },
-    "Atrahasis.Flood": {
-      "ref": "Atrahasis.Flood",
-      "composition": "Atrahasis — flood",
-      "translation": "Tear down your house, build a boat; abandon possessions and seek life… Board the boat and save living things — the flood which the king discussed will come.",
-      "layer": "akkadian",
-      "source_note": "Akkadian — compare ETCSL c.1.7.4 (Sumerian flood story)"
+      "source_note": "AMGG / Assyriology — not in ETCSL"
     }
   }
 }

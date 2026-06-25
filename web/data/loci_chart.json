@@ -108,6 +108,7 @@
         "Enuma.Tiamat",
         "AMGG.anunna"
       ],
+      "text_id": "akkadian.enuma.elish",
       "tags": [
         "creation",
         "marduk",
@@ -131,7 +132,7 @@
       },
       "verified": {
         "present": true,
-        "snippet": "When on high the heaven had not been named, firm ground below had not been called by name, naught but primordial Apsu, their begetter, and Mummu-Tiamat, she who bore them all, had mixed their waters together — before gods had appeared, any one of them."
+        "snippet": "When in the height heaven was not named, And the earth beneath did not yet bear a name, And the primeval Apsu, who begat them, And chaos, Tiamut, the mother of them both Their waters were mingled together, And no field was formed, no marsh was to be seen; When of the gods none ha"
       },
       "suppression_index": 1,
       "available_now": true
@@ -167,6 +168,7 @@
         "Enuma.E1",
         "popular-nibiru-planet"
       ],
+      "text_id": "akkadian.enuma.elish",
       "tags": [
         "tiamat",
         "debunk",
@@ -190,7 +192,7 @@
       },
       "verified": {
         "present": true,
-        "snippet": "Marduk catches Tiamat in his net; winds distend her belly; he splits her like a shellfish into two halves — with one half he forms the sky, establishes stations for the great gods."
+        "snippet": "When in the height heaven was not named, And the earth beneath did not yet bear a name, And the primeval Apsu, who begat them, And chaos, Tiamut, the mother of them both Their waters were mingled together, And no field was formed, no marsh was to be seen; When of the gods none ha"
       },
       "suppression_index": 1,
       "available_now": true
@@ -226,6 +228,7 @@
         "Atrahasis.Flood",
         "popular-gold-mining-slaves"
       ],
+      "text_id": "akkadian.atrahasis",
       "tags": [
         "creation",
         "humanity",
@@ -250,7 +253,7 @@
       },
       "verified": {
         "present": true,
-        "snippet": "Let the goddess create a mortal man so that he may bear the yoke of the gods… They slaughtered Aw-ilu in their assembly; Nintu mixed clay with his flesh and blood."
+        "snippet": "The gods had to dig out canals, they had to clear channels, the lifelines of the land. The gods dug the Tigris river and the Euphrates river, and they dug irrigation ditches. For forty years they endured this labor; the vast earth resounded with their groans. Enlil, counselor of "
       },
       "suppression_index": 1,
       "available_now": true
@@ -284,6 +287,7 @@
         "Gilgamesh.XI",
         "Eridu.Genesis"
       ],
+      "text_id": "akkadian.atrahasis",
       "tags": [
         "flood",
         "atrahasis",
@@ -306,7 +310,7 @@
       },
       "verified": {
         "present": true,
-        "snippet": "Tear down your house, build a boat; abandon possessions and seek life… Board the boat and save living things — the flood which the king discussed will come."
+        "snippet": "The gods had to dig out canals, they had to clear channels, the lifelines of the land. The gods dug the Tigris river and the Euphrates river, and they dug irrigation ditches. For forty years they endured this labor; the vast earth resounded with their groans. Enlil, counselor of "
       },
       "suppression_index": 0,
       "available_now": true
@@ -339,7 +343,7 @@
       "related_refs": [
         "Atrahasis.Flood"
       ],
-      "text_id": "c.1.8.1.4",
+      "text_id": "akkadian.gilgamesh.xi",
       "tags": [
         "gilgamesh",
         "flood",
@@ -362,7 +366,7 @@
       },
       "verified": {
         "present": true,
-        "snippet": "In those days, in those distant days, in those nights, in those remote nights, in those years, in those distant years; in days of yore, when the necessary things had been brought into manifest existence, in days of yore, when the necessary things had been for the first time prope"
+        "snippet": "Gilgamesh spoke to him, to Utnapishtim the faraway: I have looked upon you; your form is no different; you are like me. Why have the gods given to you and not to me a heart that does not fear death? Utnapishtim said to Gilgamesh: I will reveal to you, Gilgamesh, a hidden matter, "
       },
       "suppression_index": 0,
       "available_now": true

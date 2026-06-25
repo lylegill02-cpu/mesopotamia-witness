@@ -39,7 +39,8 @@ def verify_ref(ref: str | None, text_id: str | None, corpus: dict) -> dict:
         text = refs[ref].get("translation") or refs[ref].get("transliteration") or ""
         return {"present": True, "snippet": text[:280]}
     if text_id:
-        return {"present": True, "snippet": f"ETCSL {text_id} — open full text in reader"}
+        layer = "Akkadian" if str(text_id).startswith("akkadian.") else "ETCSL"
+        return {"present": True, "snippet": f"{layer} {text_id} — open full text in reader"}
     if ref:
         return {"present": False, "snippet": ""}
     return {"present": False, "snippet": ""}

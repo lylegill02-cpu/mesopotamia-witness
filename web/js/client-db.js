@@ -1,4 +1,4 @@
-import { dbDownloadUrl } from "./config.js";
+import { dbDownloadUrl, dbDownloadUrlFallback } from "./config.js";
 
 let db = null;
 let SQL = null;
@@ -16,8 +16,12 @@ export async function loadIndex(onProgress) {
     locateFile: (file) => `https://cdn.jsdelivr.net/npm/sql.js@1.10.3/dist/${file}`,
   });
 
-  onProgress?.("Downloading ETCSL search index (~4 MB, once per session)…");
-  const resp = await fetch(dbDownloadUrl());
+  onProgress?.("Downloading search index (~4 MB, once per session)…");
+  let resp = await fetch(dbDownloadUrl());
+  if (!resp.ok) {
+    onProgress?.("Trying previous index…");
+    resp = await fetch(dbDownloadUrlFallback());
+  }
   if (!resp.ok) {
     throw new Error(
       `Search index not available (${resp.status}). The release may still be publishing — try again shortly.`

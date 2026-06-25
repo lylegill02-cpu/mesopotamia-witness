@@ -85,8 +85,9 @@
           document.title = (text.title || text.text_id) + " — Mesopotamia Witness";
 
           bodyHtml += `<div class="panel"><h2>${text.text_id}</h2>`;
+          const engLabel = text.corpus === "akkadian" ? "English (PD translation)" : "English (ETCSL)";
           if (text.paragraphs?.length) {
-            bodyHtml += `<h3>English (ETCSL)</h3>`;
+            bodyHtml += `<h3>${engLabel}</h3>`;
             for (const p of text.paragraphs) {
               const range = p.line_range ? `Lines ${p.line_range}` : "";
               bodyHtml += `<div class="para"><span class="para-range">${range}</span><br>${p.translation}</div>`;
@@ -110,6 +111,7 @@
           <a href="https://etcsl.orinst.ox.ac.uk/" target="_blank" rel="noopener">ETCSL (Oxford)</a>
           <a href="https://cdli.earth/" target="_blank" rel="noopener">CDLI</a>
           <a href="https://oracc.museum.upenn.edu/" target="_blank" rel="noopener">ORACC</a>
+          <a href="flood.html">Flood comparison</a>
         </p>`;
         content.innerHTML = bodyHtml;
         content.classList.remove("hidden");

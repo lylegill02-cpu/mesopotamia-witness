@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Flood comparison — Mesopotamia Witness</title>
+  <style>
+    :root {
+      --bg: #e8e4dc;
+      --ink: #1a1814;
+      --muted: #5a5348;
+      --accent: #6b3a12;
+      --card: #faf6ee;
+      --border: #c9bfb0;
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: "Segoe UI", system-ui, sans-serif; background: var(--bg); color: var(--ink); line-height: 1.55; }
+    header { padding: 1.25rem 1rem; border-bottom: 2px solid var(--ink); background: var(--card); }
+    header h1 { margin: 0; font-size: 1.35rem; }
+    header p { margin: 0.35rem 0 0; color: var(--muted); font-size: 0.9rem; }
+    nav { margin-top: 0.6rem; font-size: 0.9rem; }
+    nav a { color: var(--accent); margin-right: 1rem; font-weight: 600; }
+    main { max-width: 56rem; margin: 0 auto; padding: 1.25rem 1rem 3rem; }
+    .intro { background: #ddd6c8; border: 1px solid var(--border); border-radius: 6px; padding: 0.85rem 1rem; margin-bottom: 1.25rem; font-size: 0.92rem; }
+    section { margin-bottom: 2rem; }
+    section h2 { margin: 0 0 0.75rem; font-size: 1.05rem; border-bottom: 1px solid var(--border); padding-bottom: 0.35rem; }
+    table { width: 100%; border-collapse: collapse; background: var(--card); border: 1px solid var(--border); font-size: 0.9rem; }
+    th, td { border-bottom: 1px solid var(--border); padding: 0.65rem 0.75rem; text-align: left; vertical-align: top; }
+    th { background: #ddd6c8; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.04em; width: 11rem; }
+    td a { color: var(--accent); font-weight: 600; text-decoration: none; }
+    td a:hover { text-decoration: underline; }
+    .debunk td { background: #f5e8e4; }
+    .error { color: var(--accent); }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Flood traditions — witness comparison</h1>
+    <p>Atrahasis · Gilgamesh XI · Sumerian parallels — same motifs, different witnesses</p>
+    <nav>
+      <a href="loci.html">← Loci map</a>
+      <a href="index.html">Search</a>
+      <a href="text.html?text_id=akkadian.atrahasis">Atrahasis</a>
+      <a href="text.html?text_id=akkadian.gilgamesh.xi">Gilgamesh XI</a>
+    </nav>
+  </header>
+  <main>
+    <div class="intro" id="intro">Loading comparison…</div>
+    <div id="themes"></div>
+  </main>
+  <script type="module">
+    import { floodComparisonUrl } from "./js/config.js";
+
+    function esc(s) {
+      return String(s || "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+    }
+
+    function rowLink(row) {
+      if (row.text_id) {
+        return `<a href="text.html?text_id=${encodeURIComponent(row.text_id)}">${esc(row.label)}</a>`;
+      }
+      if (row.ref) {
+        return `<a href="text.html?ref=${encodeURIComponent(row.ref)}">${esc(row.label)}</a>`;
+      }
+      return esc(row.label);
+    }
+
+    async function load() {
+      const themesEl = document.getElementById("themes");
+      const intro = document.getElementById("intro");
+      try {
+        const r = await fetch(floodComparisonUrl());
+        if (!r.ok) throw new Error("Could not load flood comparison data");
+        const data = await r.json();
+        intro.innerHTML = `<strong>${esc(data.title)}</strong> — ${esc(data.description)}`;
+
+        themesEl.innerHTML = (data.themes || []).map((theme) => {
+          const rows = (theme.rows || []).map((row) => {
+            const cls = row.source_id === "debunk" ? "debunk" : "";
+            return `<tr class="${cls}"><th>${rowLink(row)}</th><td>${esc(row.english)}</td></tr>`;
+          }).join("");
+          return `<section><h2>${esc(theme.label)}</h2><table>${rows}</table></section>`;
+        }).join("");
+      } catch (err) {
+        intro.textContent = "";
+        themesEl.innerHTML = `<p class="error">${esc(err.message)}</p>`;
+      }
+    }
+
+    load();
+  </script>
+</body>
+</html>

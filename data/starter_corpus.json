@@ -1,40 +1,12 @@
 {
-  "meta": { "note": "Starter excerpts for Akkadian / pattern loci not in ETCSL" },
+  "meta": { "note": "Lexicon / pattern loci without full-text index entries" },
   "refs": {
     "AMGG.anunna": {
       "ref": "AMGG.anunna",
       "composition": "Anunna / Anunnaki (AMGG)",
       "translation": "Scholarly usage: Anunna/Anunnaki names Mesopotamian deities — members of the divine assembly linked to heaven and the underworld. The term appears in Akkadian ritual and myth; it is not attested as a Sumerian phrase meaning ‘those who from heaven came.’",
       "layer": "lexicon",
-      "source_note": "AMGG / Assyriology — not ETCSL"
-    },
-    "Enuma.E1": {
-      "ref": "Enuma.E1",
-      "composition": "Enuma Elish — Tablet I (opening)",
-      "translation": "When on high the heaven had not been named, firm ground below had not been called by name, naught but primordial Apsu, their begetter, and Mummu-Tiamat, she who bore them all, had mixed their waters together — before gods had appeared, any one of them.",
-      "layer": "akkadian",
-      "source_note": "Akkadian epic — not in ETCSL (Sumerian literary corpus)"
-    },
-    "Enuma.Tiamat": {
-      "ref": "Enuma.Tiamat",
-      "composition": "Enuma Elish — Marduk vs Tiamat",
-      "translation": "Marduk catches Tiamat in his net; winds distend her belly; he splits her like a shellfish into two halves — with one half he forms the sky, establishes stations for the great gods.",
-      "layer": "akkadian",
-      "source_note": "Akkadian epic — not in ETCSL"
-    },
-    "Atrahasis.1": {
-      "ref": "Atrahasis.1",
-      "composition": "Atrahasis — creation of humanity",
-      "translation": "Let the goddess create a mortal man so that he may bear the yoke of the gods… They slaughtered Aw-ilu in their assembly; Nintu mixed clay with his flesh and blood.",
-      "layer": "akkadian",
-      "source_note": "Akkadian — not in ETCSL"
-    },
-    "Atrahasis.Flood": {
-      "ref": "Atrahasis.Flood",
-      "composition": "Atrahasis — flood",
-      "translation": "Tear down your house, build a boat; abandon possessions and seek life… Board the boat and save living things — the flood which the king discussed will come.",
-      "layer": "akkadian",
-      "source_note": "Akkadian — compare ETCSL c.1.7.4 (Sumerian flood story)"
+      "source_note": "AMGG / Assyriology — not in ETCSL"
     }
   }
 }

@@ -25,7 +25,7 @@ export function searchEnglish(query, { limit = 25 } = {}) {
   const conn = getDb();
   const q = escLike(norm(query));
   const stmt = conn.prepare(`
-    SELECT p.text_id, t.title, p.line_range, p.translation AS text
+    SELECT p.text_id, COALESCE(t.corpus, 'etcsl') AS corpus, t.title, p.line_range, p.translation AS text
     FROM paragraphs p
     JOIN texts t ON t.text_id = p.text_id
     WHERE p.translation_norm LIKE '%' || ? ESCAPE '\\'
@@ -50,7 +50,7 @@ export function searchTransliteration(query, { limit = 25 } = {}) {
   const conn = getDb();
   const q = escLike(norm(query));
   const stmt = conn.prepare(`
-    SELECT l.text_id, t.title, l.line_label, l.transliteration AS text
+    SELECT l.text_id, COALESCE(t.corpus, 'etcsl') AS corpus, t.title, l.line_label, l.transliteration AS text
     FROM lines l
     JOIN texts t ON t.text_id = l.text_id
     WHERE l.translit_norm LIKE '%' || ? ESCAPE '\\'
@@ -80,13 +80,15 @@ export function searchAll(query, { limit = 30 } = {}) {
 
 export function getText(textId) {
   const conn = getDb();
-  const meta = conn.prepare("SELECT text_id, title FROM texts WHERE text_id = ?");
+  const meta = conn.prepare(
+    "SELECT text_id, title, COALESCE(corpus,'etcsl') AS corpus FROM texts WHERE text_id = ?"
+  );
   meta.bind([textId]);
   if (!meta.step()) {
     meta.free();
     return null;
   }
-  const { text_id, title } = meta.getAsObject();
+  const { text_id, title, corpus } = meta.getAsObject();
   meta.free();
 
   const linesStmt = conn.prepare(`
@@ -112,7 +114,7 @@ export function getText(textId) {
   paraStmt.free();
 
   if (!lines.length && !paragraphs.length) return null;
-  return { text_id, title, lines, paragraphs };
+  return { text_id, title, corpus, lines, paragraphs };
 }
 
 export function listTexts({ q = "", limit = 50 } = {}) {

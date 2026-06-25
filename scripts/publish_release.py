@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Publish etcsl.db as a GitHub Release asset for client-side search."""
+"""Publish corpus.db as a GitHub Release asset for client-side search."""
 from __future__ import annotations
 
 import argparse
@@ -9,7 +9,7 @@ import subprocess
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-DB = ROOT / "data" / "etcsl.db"
+DB = ROOT / "data" / "corpus.db"
 DIST = ROOT / "dist"
 
 
@@ -20,15 +20,15 @@ def gzip_file(src: Path, dest: Path) -> None:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Create GitHub release with ETCSL search index")
-    parser.add_argument("tag", help='Release tag, e.g. "v1.0.0-search"')
+    parser = argparse.ArgumentParser(description="Create GitHub release with search index")
+    parser.add_argument("tag", help='Release tag, e.g. "v1.1.0-search"')
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
 
     if not DB.exists():
-        raise SystemExit("Missing data/etcsl.db — run: python scripts/build_all.py")
+        raise SystemExit("Missing data/corpus.db — run: python scripts/build_all.py")
 
-    db_gz = DIST / "etcsl.db.gz"
+    db_gz = DIST / "corpus.db.gz"
     gzip_file(DB, db_gz)
     mb = db_gz.stat().st_size / (1024 * 1024)
     print(f"Compressed: {db_gz} ({mb:.1f} MB)")
@@ -45,7 +45,7 @@ def main() -> None:
             "--title",
             f"Mesopotamia Witness {args.tag}",
             "--notes",
-            "ETCSL search index (~4 MB download). Used by the static site for English + transliteration search.",
+            "Unified search index: ETCSL Sumerian + Akkadian trio (Enuma Elish, Atrahasis, Gilgamesh XI).",
             str(db_gz),
         ],
         check=True,

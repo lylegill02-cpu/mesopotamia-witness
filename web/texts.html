@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>ETCSL catalog — Mesopotamia Witness</title>
+  <title>Catalog — Mesopotamia Witness</title>
   <style>
     :root { --bg:#e8e4dc; --ink:#1a1814; --muted:#5a5348; --accent:#6b3a12; --card:#faf6ee; --border:#c9bfb0; }
     body { margin:0; font-family:"Segoe UI",system-ui,sans-serif; background:var(--bg); color:var(--ink); }
@@ -19,32 +19,42 @@
 </head>
 <body>
   <header>
-    <h1>ETCSL catalog</h1>
-    <nav><a href="index.html">← Search</a><a href="loci.html">Loci map</a></nav>
+    <h1>Text catalog</h1>
+    <nav><a href="index.html">← Search</a><a href="loci.html">Loci map</a><a href="flood.html">Flood comparison</a></nav>
   </header>
   <main>
+    <h2 style="font-size:1rem;margin:0 0 0.5rem">Akkadian trio</h2>
+    <div id="akk-list"></div>
+    <h2 style="font-size:1rem;margin:1.25rem 0 0.5rem">ETCSL Sumerian (~394)</h2>
     <input type="search" id="filter" placeholder="Filter by title or ID…" />
     <div id="list"></div>
   </main>
   <script type="module">
-    import { etcslTextsUrl } from "./js/config.js";
+    import { etcslTextsUrl, akkadianCatalogUrl } from "./js/config.js";
     let all = [];
     const list = document.getElementById("list");
+    const akkList = document.getElementById("akk-list");
     function esc(s){return String(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;");}
-    function render(items){
-      list.innerHTML = items.map(t => `
-        <a class="row" href="text.html?text_id=${encodeURIComponent(t.text_id)}">
+    function renderRow(t) {
+      return `<a class="row" href="text.html?text_id=${encodeURIComponent(t.text_id)}">
           <div class="id">${esc(t.text_id)}</div>
           <div class="title">${esc(t.title)}</div>
-        </a>`).join("");
+        </a>`;
+    }
+    function render(items){
+      list.innerHTML = items.map(renderRow).join("");
     }
     document.getElementById("filter").addEventListener("input", (e) => {
       const q = e.target.value.toLowerCase();
       render(all.filter(t => (t.title||"").toLowerCase().includes(q) || t.text_id.includes(q)));
     });
-    const r = await fetch(etcslTextsUrl());
+    const [r, akk] = await Promise.all([fetch(etcslTextsUrl()), fetch(akkadianCatalogUrl())]);
     all = (await r.json()).texts || [];
     render(all);
+    if (akk.ok) {
+      const akkTexts = (await akk.json()).texts || [];
+      akkList.innerHTML = akkTexts.map(renderRow).join("");
+    }
   </script>
 </body>
 </html>

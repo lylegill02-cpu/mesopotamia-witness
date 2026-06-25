@@ -32,8 +32,10 @@ jobs:
           python scripts/merge_witness_deltas.py
           python scripts/sync_loci.py
           mkdir -p web/data
-          cp data/loci_chart.json web/data/loci_chart.json
+          cp data/loci_chart.json web/data/
           cp data/english_glossary.json web/data/english_glossary.json
+          cp data/flood_comparison.json web/data/flood_comparison.json
+          cp data/akkadian_catalog.json web/data/akkadian_catalog.json
 
       - uses: actions/configure-pages@v5
 

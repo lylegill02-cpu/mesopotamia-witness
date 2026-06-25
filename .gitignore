@@ -1,9 +1,11 @@
 data/corpus.json
+data/corpus.db
 data/loci_chart.json
 data/etcsl.db
 data/etcsl.zip
 data/etcsl_catalog.json
 data/etcsl_texts.json
+data/akkadian/_king_enuma_raw.txt
 dist/
 *.pyc
 __pycache__/

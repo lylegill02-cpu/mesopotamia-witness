@@ -1,0 +1,128 @@
+{
+  "title": "Mesopotamian flood traditions — witness comparison",
+  "description": "Same motif across Sumerian and Akkadian sources — compare in English without treating them as one story.",
+  "themes": [
+    {
+      "id": "divine_motive",
+      "label": "Why the flood comes",
+      "rows": [
+        {
+          "source_id": "akkadian.atrahasis",
+          "label": "Atrahasis (Akkadian)",
+          "text_id": "akkadian.atrahasis",
+          "ref": "Atrahasis.Flood",
+          "english": "Human noise disturbs Enlil; gods agree to wipe out mankind after plague and famine fail."
+        },
+        {
+          "source_id": "akkadian.gilgamesh.xi",
+          "label": "Gilgamesh Tablet XI",
+          "text_id": "akkadian.gilgamesh.xi",
+          "ref": "Gilgamesh.XI",
+          "english": "Anu and Enlil complain that human clamor prevents sleep; council sends the flood."
+        },
+        {
+          "source_id": "etcsl.c.1.7.4",
+          "label": "ETCSL Flood story (Sumerian)",
+          "text_id": "c.1.7.4",
+          "ref": "Eridu.Genesis",
+          "english": "Sumerian flood narrative in a shorter literary setting — overlaps Atrahasis/Gilgamesh motifs."
+        },
+        {
+          "source_id": "etcsl.c.2.1.1",
+          "label": "Sumerian King List",
+          "text_id": "c.2.1.1",
+          "ref": "SKL.antediluvian",
+          "english": "Antediluvian kings reign impossibly long; then 'the flood swept over' — mythic time marker, not geology."
+        }
+      ]
+    },
+    {
+      "id": "warning",
+      "label": "Who is warned, and how",
+      "rows": [
+        {
+          "source_id": "akkadian.atrahasis",
+          "label": "Atrahasis",
+          "text_id": "akkadian.atrahasis",
+          "english": "Ea warns indirectly through a reed wall — Enlil must not know the plan openly."
+        },
+        {
+          "source_id": "akkadian.gilgamesh.xi",
+          "label": "Gilgamesh XI",
+          "text_id": "akkadian.gilgamesh.xi",
+          "english": "Ea tells Utnapishtim (Atrahasis figure) to tear down his house and build a boat."
+        },
+        {
+          "source_id": "etcsl.c.1.7.4",
+          "label": "Sumerian Flood story",
+          "text_id": "c.1.7.4",
+          "english": "Divine warning to a human survivor — parallel structure, fragmentary in witnesses."
+        }
+      ]
+    },
+    {
+      "id": "boat",
+      "label": "The boat / survival",
+      "rows": [
+        {
+          "source_id": "akkadian.atrahasis",
+          "label": "Atrahasis",
+          "text_id": "akkadian.atrahasis",
+          "english": "Boat with equal length and breadth; animals and family aboard; seven days of storm."
+        },
+        {
+          "source_id": "akkadian.gilgamesh.xi",
+          "label": "Gilgamesh XI",
+          "text_id": "akkadian.gilgamesh.xi",
+          "english": "Detailed boat measures; six days and seven nights of wind and flood; landing on a mountain."
+        },
+        {
+          "source_id": "etcsl.c.1.7.4",
+          "label": "Sumerian Flood story",
+          "text_id": "c.1.7.4",
+          "english": "Boat motif present in Sumerian recension — compare line-by-line to Akkadian versions."
+        }
+      ]
+    },
+    {
+      "id": "aftermath",
+      "label": "After the flood",
+      "rows": [
+        {
+          "source_id": "akkadian.atrahasis",
+          "label": "Atrahasis",
+          "text_id": "akkadian.atrahasis",
+          "english": "Gods gather like flies over the sacrifice; Enlil blesses survivors with distant immortality."
+        },
+        {
+          "source_id": "akkadian.gilgamesh.xi",
+          "label": "Gilgamesh XI",
+          "text_id": "akkadian.gilgamesh.xi",
+          "english": "Utnapishtim and wife kneel; Enlil grants them eternal life at the mouth of the rivers."
+        },
+        {
+          "source_id": "etcsl.c.2.1.1",
+          "label": "King List",
+          "text_id": "c.2.1.1",
+          "english": "Kingship descends again after the flood — new political age, not repopulation science."
+        }
+      ]
+    },
+    {
+      "id": "pop_claims",
+      "label": "Pop culture vs tablets",
+      "rows": [
+        {
+          "source_id": "debunk",
+          "label": "Viral claim",
+          "english": "The flood proves a global cover-up, planetary collision, or alien weather control."
+        },
+        {
+          "source_id": "scholarly",
+          "label": "Witness read",
+          "english": "Multiple Mesopotamian literary traditions share a flood motif — theological and narrative, not a single geology report. Compare witnesses; do not merge into one 'hidden history'."
+        }
+      ]
+    }
+  ]
+}

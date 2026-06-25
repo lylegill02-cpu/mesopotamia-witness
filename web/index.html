@@ -55,15 +55,16 @@
 <body>
   <header>
     <h1>Mesopotamia Witness</h1>
-    <p>Search ~394 ETCSL Sumerian literary texts — English translation + transliteration</p>
+    <p>Search ETCSL Sumerian + Akkadian trio (Enuma Elish, Atrahasis, Gilgamesh XI)</p>
     <nav>
       <a href="loci.html">← Loci map</a>
+      <a href="flood.html">Flood comparison</a>
       <a href="texts.html">Browse catalog</a>
     </nav>
   </header>
   <main>
     <p class="help">
-      First search downloads ~4 MB once (ETCSL index). Try <strong>flood</strong>, <strong>Inanna</strong>, <strong>Gilgameš</strong>, <strong>king list</strong>, <strong>nether world</strong>.
+      First search downloads ~4 MB once (unified index). Try <strong>Tiamat</strong>, <strong>Utnapishtim</strong>, <strong>Atrahasis</strong>, <strong>flood</strong>, <strong>Inanna</strong>, <strong>king list</strong>.
       Loci rows with witness notes appear when a hit matches a guided passage.
     </p>
     <div class="search-row">
@@ -126,7 +127,7 @@
           const div = document.createElement("div");
           div.className = "result";
           div.innerHTML = `
-            <div class="meta">${esc(hit.layer)} · ${esc(hit.text_id)}${hit.line_range ? " · lines " + esc(hit.line_range) : hit.line_label ? " · line " + esc(hit.line_label) : ""}</div>
+            <div class="meta">${esc(hit.corpus || "etcsl")} · ${esc(hit.layer)} · ${esc(hit.text_id)}${hit.line_range ? " · lines " + esc(hit.line_range) : hit.line_label ? " · line " + esc(hit.line_label) : ""}</div>
             <h3><a href="text.html?text_id=${encodeURIComponent(hit.text_id)}">${esc(hit.title || hit.text_id)}</a></h3>
             <div class="snippet">${esc(hit.snippet)}</div>
             ${locusHtml}

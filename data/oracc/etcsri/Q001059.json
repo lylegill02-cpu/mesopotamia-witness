@@ -1,0 +1,117 @@
+{
+  "text_id": "oracc.etcsri.Q001059",
+  "corpus": "oracc",
+  "title": "E-anatum 07a (RIME 1.09.03.07a composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001059",
+  "paragraphs": [
+    {
+      "para_id": "Q001059.1",
+      "line_range": "1",
+      "translation": "(i 1) E-ana-tum , ruler of Lagaš , who makes the foreign lands submit to Ninĝirsu , subjugated Elam and Subartu to Ninĝirsu ."
+    },
+    {
+      "para_id": "Q001059.9",
+      "line_range": "9",
+      "translation": "(ii 4) He built the temple of Tiraš and made it resplendent for him ."
+    },
+    {
+      "para_id": "Q001059.12",
+      "line_range": "12",
+      "translation": "(ii 7) E-ana-tum , who submits to the orders of Ninĝirsu , is someone , who has no opponent throughout all lands by the might of Ninĝirsu ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001059.1",
+      "line_label": "i 1",
+      "transliteration": "[ d nin - ŋir₂ - su₂ - ra ]"
+    },
+    {
+      "line_id": "Q001059.2",
+      "line_label": "i 2",
+      "transliteration": "[ e₂ - an - na ] - ⸢ tum₂ ⸣"
+    },
+    {
+      "line_id": "Q001059.3",
+      "line_label": "i 3",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001059.4",
+      "line_label": "i 4",
+      "transliteration": "⸢ lagaš ki ⸣ - ke₄"
+    },
+    {
+      "line_id": "Q001059.5",
+      "line_label": "i 5",
+      "transliteration": "[ kur gu₂ ŋar ] - ŋar"
+    },
+    {
+      "line_id": "Q001059.6",
+      "line_label": "ii 1",
+      "transliteration": "⸢ d ⸣ nin - ⸢ ŋir₂ ⸣ - su₂ - ke₄"
+    },
+    {
+      "line_id": "Q001059.7",
+      "line_label": "ii 2",
+      "transliteration": "[ elam ] šubur"
+    },
+    {
+      "line_id": "Q001059.8",
+      "line_label": "ii 3",
+      "transliteration": "⸢ gu₂ ⸣ mu - na - ŋar"
+    },
+    {
+      "line_id": "Q001059.9",
+      "line_label": "ii 4",
+      "transliteration": "e₂ ti - ra - aš₂ ki !"
+    },
+    {
+      "line_id": "Q001059.10",
+      "line_label": "ii 5",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001059.11",
+      "line_label": "ii 6",
+      "transliteration": "pa ⸢ mu - na ⸣ - e₃"
+    },
+    {
+      "line_id": "Q001059.12",
+      "line_label": "ii 7",
+      "transliteration": "⸢ e₂ ⸣ - an - [ na ] - tum₂"
+    },
+    {
+      "line_id": "Q001059.13",
+      "line_label": "ii 8",
+      "transliteration": "lu₂ inim - ma sig₁₀ - ga"
+    },
+    {
+      "line_id": "Q001059.14",
+      "line_label": "iii 1",
+      "transliteration": "d [ nin ] - ŋir₂ - [ su₂ ] - ka"
+    },
+    {
+      "line_id": "Q001059.15",
+      "line_label": "iii 2",
+      "transliteration": "kur - kur - še₃"
+    },
+    {
+      "line_id": "Q001059.16",
+      "line_label": "iii 3",
+      "transliteration": "a₂ d nin - ŋir₂ - su₂ - ka - ta"
+    },
+    {
+      "line_id": "Q001059.17",
+      "line_label": "iii 4",
+      "transliteration": "lu₂ - lu₇ gaba mu - ru - ⸢ da ⸣"
+    },
+    {
+      "line_id": "Q001059.18",
+      "line_label": "iii 5",
+      "transliteration": "nu - tuku"
+    }
+  ]
+}

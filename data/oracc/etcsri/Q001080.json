@@ -1,0 +1,177 @@
+{
+  "text_id": "oracc.etcsri.Q001080",
+  "corpus": "oracc",
+  "title": "En-anatum I 10 (RIME 1.09.04.10 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001080",
+  "paragraphs": [
+    {
+      "para_id": "Q001080.1",
+      "line_range": "1",
+      "translation": "(i 1) When he built the Ebgal for Inana , restored his temple for Nindara , the mighty master , built his temple for Hendursaĝa , built his great temple in Urub for Lugal-Uruba , and built her temple in Saĝub for Ama-ĝeštin-ana , then for Lugal-Uruba , his powerful servant En-ana-tum , ruler of Lagaš , child of Aya-kurgal , ruler of Lagaš , built the great storehouse of Urub ."
+    },
+    {
+      "para_id": "Q001080.28",
+      "line_range": "28",
+      "translation": "(iii 7) May this ( stone boulder ) pay obeisance to Lugal-Uruba in the great temple of Urub , for his ( En-ana-tum’s ) well-being ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001080.1",
+      "line_label": "i 1",
+      "transliteration": "d lugal - urub ki - ra"
+    },
+    {
+      "line_id": "Q001080.2",
+      "line_label": "i 2",
+      "transliteration": "arad₂ kalag - ga - ni"
+    },
+    {
+      "line_id": "Q001080.3",
+      "line_label": "i 3",
+      "transliteration": "en - an - na - tum₂"
+    },
+    {
+      "line_id": "Q001080.4",
+      "line_label": "i 4",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001080.5",
+      "line_label": "i 5",
+      "transliteration": "lagaš ki - ke₄"
+    },
+    {
+      "line_id": "Q001080.6",
+      "line_label": "i 6",
+      "transliteration": "dumu aya₂ - kur - gal"
+    },
+    {
+      "line_id": "Q001080.7",
+      "line_label": "i 7",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001080.8",
+      "line_label": "i 8",
+      "transliteration": "lagaš ki - ka - ke₄"
+    },
+    {
+      "line_id": "Q001080.9",
+      "line_label": "i 9",
+      "transliteration": "ud d inana - ra"
+    },
+    {
+      "line_id": "Q001080.10",
+      "line_label": "i 10",
+      "transliteration": "eb - gal mu - na - du₃ - a"
+    },
+    {
+      "line_id": "Q001080.11",
+      "line_label": "i 11",
+      "transliteration": "d nin - dar"
+    },
+    {
+      "line_id": "Q001080.12",
+      "line_label": "ii 1",
+      "transliteration": "lugal uru₁₆ - ra"
+    },
+    {
+      "line_id": "Q001080.13",
+      "line_label": "ii 2",
+      "transliteration": "e₂ - ni"
+    },
+    {
+      "line_id": "Q001080.14",
+      "line_label": "ii 3",
+      "transliteration": "ki - be₂ mu - na - gi₄ - a"
+    },
+    {
+      "line_id": "Q001080.15",
+      "line_label": "ii 4",
+      "transliteration": "d ḫendur - saŋ - ra"
+    },
+    {
+      "line_id": "Q001080.16",
+      "line_label": "ii 5",
+      "transliteration": "e₂ - ni mu - na - du₃ - a"
+    },
+    {
+      "line_id": "Q001080.17",
+      "line_label": "ii 6",
+      "transliteration": "d lugal - urub ki - ra"
+    },
+    {
+      "line_id": "Q001080.18",
+      "line_label": "ii 7",
+      "transliteration": "e₂ gal urub ki - ka - ni"
+    },
+    {
+      "line_id": "Q001080.19",
+      "line_label": "ii 8",
+      "transliteration": "mu - na - du₃ - a"
+    },
+    {
+      "line_id": "Q001080.20",
+      "line_label": "ii 9",
+      "transliteration": "d ama - ŋeštin - an - na - ra"
+    },
+    {
+      "line_id": "Q001080.21",
+      "line_label": "ii 10",
+      "transliteration": "e₂ saŋ - ubₓ ( EZEN × ḪAL )- ka - ni"
+    },
+    {
+      "line_id": "Q001080.22",
+      "line_label": "iii 1",
+      "transliteration": "mu - na - du₃ - a"
+    },
+    {
+      "line_id": "Q001080.23",
+      "line_label": "iii 2",
+      "transliteration": "ud - ba"
+    },
+    {
+      "line_id": "Q001080.24",
+      "line_label": "iii 3",
+      "transliteration": "en - an - na - tum₂ - me"
+    },
+    {
+      "line_id": "Q001080.25",
+      "line_label": "iii 4",
+      "transliteration": "ganun maḫ"
+    },
+    {
+      "line_id": "Q001080.26",
+      "line_label": "iii 5",
+      "transliteration": "urub ki - ba"
+    },
+    {
+      "line_id": "Q001080.27",
+      "line_label": "iii 6",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001080.28",
+      "line_label": "iii 7",
+      "transliteration": "nam - til₃ - la - ni - še₃"
+    },
+    {
+      "line_id": "Q001080.29",
+      "line_label": "iii 8",
+      "transliteration": "d lugal - urub ki - ra"
+    },
+    {
+      "line_id": "Q001080.30",
+      "line_label": "iii 9",
+      "transliteration": "e₂ gal urub ki - ka"
+    },
+    {
+      "line_id": "Q001080.31",
+      "line_label": "iii 10",
+      "transliteration": "giri₁₇ šu ḫe₂ - na - še₃ - ŋal₂"
+    }
+  ]
+}

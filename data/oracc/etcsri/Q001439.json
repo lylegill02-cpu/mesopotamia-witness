@@ -1,0 +1,37 @@
+{
+  "text_id": "oracc.etcsri.Q001439",
+  "corpus": "oracc",
+  "title": "Lu-dingirana 2001 / CDLI Seals 001431 (CDLI Seals 001431 (physical))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001439",
+  "paragraphs": [
+    {
+      "para_id": "Q001439.1",
+      "line_range": "1",
+      "translation": "(1) Lu-diĝirana , temple administrator of Isin : Lu-diĝira , the scribe , is his servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001439.1",
+      "line_label": "1",
+      "transliteration": "lu₂ - diŋir - ra - ⸢ na ⸣"
+    },
+    {
+      "line_id": "Q001439.2",
+      "line_label": "2",
+      "transliteration": "⸢ saŋŋa ⸣ isin₂ ki"
+    },
+    {
+      "line_id": "Q001439.3",
+      "line_label": "3",
+      "transliteration": "lu₂ - diŋir - ra"
+    },
+    {
+      "line_id": "Q001439.4",
+      "line_label": "4-5",
+      "transliteration": "dub - sar arad₂ - < da > ; ni"
+    }
+  ]
+}

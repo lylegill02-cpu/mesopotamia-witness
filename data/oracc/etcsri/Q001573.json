@@ -1,0 +1,42 @@
+{
+  "text_id": "oracc.etcsri.Q001573",
+  "corpus": "oracc",
+  "title": "Ur-Ningirsu II 10 (RIME 3/1.01.08.10 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001573",
+  "paragraphs": [
+    {
+      "para_id": "Q001573.1",
+      "line_range": "1",
+      "translation": "(1) Ur-Ninĝirsu , ruler of Lagaš , son of Gudea , ruler of Lagaš ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001573.1",
+      "line_label": "1",
+      "transliteration": "[ ur - d nin - ŋir₂ - su ]"
+    },
+    {
+      "line_id": "Q001573.2",
+      "line_label": "2",
+      "transliteration": "⸢ ensi₂ ⸣"
+    },
+    {
+      "line_id": "Q001573.3",
+      "line_label": "3",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001573.4",
+      "line_label": "4",
+      "transliteration": "dumu gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q001573.5",
+      "line_label": "5",
+      "transliteration": "ensi₂ lagaš ki"
+    }
+  ]
+}

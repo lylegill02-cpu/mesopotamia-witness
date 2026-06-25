@@ -1,0 +1,27 @@
+{
+  "text_id": "oracc.etcsri.Q004893",
+  "corpus": "oracc",
+  "title": "Lagaš II Unidentified 1063add (FAOS 09/1, Lagash 61)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004893",
+  "paragraphs": [
+    {
+      "para_id": "Q004893.1",
+      "line_range": "1",
+      "translation": "(1) ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004893.1",
+      "line_label": "1",
+      "transliteration": "[... ] GIM"
+    },
+    {
+      "line_id": "Q004893.2",
+      "line_label": "2",
+      "transliteration": "[... ]"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "text_id": "oracc.etcsri.Q002166",
+  "corpus": "oracc",
+  "title": "Rim-Sin I 2001 (RIME 4.02.14.2001 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q002166",
+  "paragraphs": [
+    {
+      "para_id": "Q002166.1",
+      "line_range": "1",
+      "translation": "(1) Iltani , daughter of Ilum-bani , presented ( this ) dish for the well-being of Rim-Sin , king of Larsam ( and ) for her own well-being to Inana of Zabalam ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q002166.1",
+      "line_label": "1",
+      "transliteration": "d inana zabala ki"
+    },
+    {
+      "line_id": "Q002166.2",
+      "line_label": "2",
+      "transliteration": "nin - a - ni - ir"
+    },
+    {
+      "line_id": "Q002166.3",
+      "line_label": "3",
+      "transliteration": "nam - til₃"
+    },
+    {
+      "line_id": "Q002166.4",
+      "line_label": "4",
+      "transliteration": "ri - ⸢ im ⸣ - d suen"
+    },
+    {
+      "line_id": "Q002166.5",
+      "line_label": "5",
+      "transliteration": "⸢ lugal ⸣ larsam ki - ma - še₃"
+    },
+    {
+      "line_id": "Q002166.6",
+      "line_label": "6",
+      "transliteration": "il - ta - ni"
+    },
+    {
+      "line_id": "Q002166.7",
+      "line_label": "7",
+      "transliteration": "dumu - ⸢ munus ⸣ DIŊIR - ⸢ ba ⸣ - ni"
+    },
+    {
+      "line_id": "Q002166.8",
+      "line_label": "8",
+      "transliteration": "na₄ dilim₂"
+    },
+    {
+      "line_id": "Q002166.9",
+      "line_label": "9",
+      "transliteration": "nam - til₃ - la - ni - še₃"
+    },
+    {
+      "line_id": "Q002166.10",
+      "line_label": "10",
+      "transliteration": "in - na - an - ba"
+    }
+  ]
+}

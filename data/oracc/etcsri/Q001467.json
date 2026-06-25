@@ -1,0 +1,177 @@
+{
+  "text_id": "oracc.etcsri.Q001467",
+  "corpus": "oracc",
+  "title": "Ur-Bau 06 (RIME 3/1.01.06.06 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001467",
+  "paragraphs": [
+    {
+      "para_id": "Q001467.1",
+      "line_range": "1",
+      "translation": "(i 1) For Ninĝirsu , Enlil's powerful warrior , Ur-Bau , ruler of Lagaš , the child born to Ninagala , built his E-ninnu-anzud-babbar , ( and ) built his E-dura ."
+    },
+    {
+      "para_id": "Q001467.13",
+      "line_range": "13",
+      "translation": "(ii 5) For Bau , the kind woman , the child of An , he built her temple in Iri-kug ."
+    },
+    {
+      "para_id": "Q001467.18",
+      "line_range": "18",
+      "translation": "(iii 1) For Ninkugnuna he built her temple in Urub ."
+    },
+    {
+      "para_id": "Q001467.21",
+      "line_range": "21",
+      "translation": "(iii 4) For Enki , his master , he built his temple ."
+    },
+    {
+      "para_id": "Q001467.25",
+      "line_range": "25",
+      "translation": "(iii 8) For Ninagala , his personal god , he built his temple ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001467.1",
+      "line_label": "i 1",
+      "transliteration": "d nin - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q001467.2",
+      "line_label": "i 2",
+      "transliteration": "ur - saŋ kalag - ga"
+    },
+    {
+      "line_id": "Q001467.3",
+      "line_label": "i 3",
+      "transliteration": "d en - lil₂ - la₂ - ra"
+    },
+    {
+      "line_id": "Q001467.4",
+      "line_label": "i 4",
+      "transliteration": "ur - d ba - u₂"
+    },
+    {
+      "line_id": "Q001467.5",
+      "line_label": "i 5",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001467.6",
+      "line_label": "i 6",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001467.7",
+      "line_label": "i 7",
+      "transliteration": "dumu tud - da"
+    },
+    {
+      "line_id": "Q001467.8",
+      "line_label": "i 8",
+      "transliteration": "d nin - a₂ - gal - ka - ke₄"
+    },
+    {
+      "line_id": "Q001467.9",
+      "line_label": "ii 1",
+      "transliteration": "e₂ - ninnu - anzud₂ mušen - babbar₂ - ra - ni"
+    },
+    {
+      "line_id": "Q001467.10",
+      "line_label": "ii 2",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001467.11",
+      "line_label": "ii 3",
+      "transliteration": "e₂ - anše du₂₄ - ur₃ - ka - ni"
+    },
+    {
+      "line_id": "Q001467.12",
+      "line_label": "ii 4",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001467.13",
+      "line_label": "ii 5",
+      "transliteration": "d ba - u₂"
+    },
+    {
+      "line_id": "Q001467.14",
+      "line_label": "ii 6",
+      "transliteration": "munus sag₉ - ga"
+    },
+    {
+      "line_id": "Q001467.15",
+      "line_label": "ii 7",
+      "transliteration": "dumu an - na - ra"
+    },
+    {
+      "line_id": "Q001467.16",
+      "line_label": "ii 8",
+      "transliteration": "e₂ iri - kug - ga - ka - ni"
+    },
+    {
+      "line_id": "Q001467.17",
+      "line_label": "ii 9",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001467.18",
+      "line_label": "iii 1",
+      "transliteration": "d nin - kug - nun - na - ra"
+    },
+    {
+      "line_id": "Q001467.19",
+      "line_label": "iii 2",
+      "transliteration": "e₂ urub ki - ka - ni"
+    },
+    {
+      "line_id": "Q001467.20",
+      "line_label": "iii 3",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001467.21",
+      "line_label": "iii 4",
+      "transliteration": "d en - ki"
+    },
+    {
+      "line_id": "Q001467.22",
+      "line_label": "iii 5",
+      "transliteration": "lugal - a - ni"
+    },
+    {
+      "line_id": "Q001467.23",
+      "line_label": "iii 6",
+      "transliteration": "e₂ - a - ni"
+    },
+    {
+      "line_id": "Q001467.24",
+      "line_label": "iii 7",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001467.25",
+      "line_label": "iii 8",
+      "transliteration": "d nin - a₂ - gal"
+    },
+    {
+      "line_id": "Q001467.26",
+      "line_label": "iii 9",
+      "transliteration": "diŋir - ra - ni"
+    },
+    {
+      "line_id": "Q001467.27",
+      "line_label": "iii 10",
+      "transliteration": "e₂ - a - ni"
+    },
+    {
+      "line_id": "Q001467.28",
+      "line_label": "iii 11",
+      "transliteration": "mu - na - du₃"
+    }
+  ]
+}

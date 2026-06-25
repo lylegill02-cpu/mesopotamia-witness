@@ -1,0 +1,52 @@
+{
+  "text_id": "oracc.etcsri.Q001862",
+  "corpus": "oracc",
+  "title": "Ibbi-Suen 2008 / CDLI Seals 005789 (CDLI Seals 005789 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001862",
+  "paragraphs": [
+    {
+      "para_id": "Q001862.1",
+      "line_range": "1",
+      "translation": "(1) Dada , governor of Nibru : Ĝ̃irini-isag , the scribe , child of Lu-kala , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001862.1",
+      "line_label": "1",
+      "transliteration": "da - da"
+    },
+    {
+      "line_id": "Q001862.2",
+      "line_label": "2",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001862.3",
+      "line_label": "3",
+      "transliteration": "nibru ki"
+    },
+    {
+      "line_id": "Q001862.4",
+      "line_label": "4",
+      "transliteration": "ŋiri₃ - ni - i₃ - sag₉"
+    },
+    {
+      "line_id": "Q001862.5",
+      "line_label": "5",
+      "transliteration": "dub - ⸢ sar ⸣"
+    },
+    {
+      "line_id": "Q001862.6",
+      "line_label": "6",
+      "transliteration": "dumu lu₂ - kal - la"
+    },
+    {
+      "line_id": "Q001862.7",
+      "line_label": "7",
+      "transliteration": "arad₂ - [ zu ]"
+    }
+  ]
+}

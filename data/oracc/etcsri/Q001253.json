@@ -1,0 +1,47 @@
+{
+  "text_id": "oracc.etcsri.Q001253",
+  "corpus": "oracc",
+  "title": "Abzu-kidu 1 (RIME 1.11.03.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001253",
+  "paragraphs": [
+    {
+      "para_id": "Q001253.1",
+      "line_range": "1",
+      "translation": "(1) To Inana , A-kalam , spouse of Abzu-kidug , ruler of Nibru , dedicated this ( bowl ) ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001253.1",
+      "line_label": "1",
+      "transliteration": "d inana"
+    },
+    {
+      "line_id": "Q001253.2",
+      "line_label": "2",
+      "transliteration": "a - kalam"
+    },
+    {
+      "line_id": "Q001253.3",
+      "line_label": "3",
+      "transliteration": "dam abzu - ki - dug₃"
+    },
+    {
+      "line_id": "Q001253.4",
+      "line_label": "4",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001253.5",
+      "line_label": "5",
+      "transliteration": "nibru ki"
+    },
+    {
+      "line_id": "Q001253.6",
+      "line_label": "6",
+      "transliteration": "a mu - ru"
+    }
+  ]
+}

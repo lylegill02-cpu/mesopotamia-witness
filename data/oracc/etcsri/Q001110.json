@@ -1,0 +1,172 @@
+{
+  "text_id": "oracc.etcsri.Q001110",
+  "corpus": "oracc",
+  "title": "En-metena 02 (RIME 1.09.05.02 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001110",
+  "paragraphs": [
+    {
+      "para_id": "Q001110.1",
+      "line_range": "1",
+      "translation": "(i 1) For Ninĝirsu , Enlil’s warrior ."
+    },
+    {
+      "para_id": "Q001110.3",
+      "line_range": "3",
+      "translation": "(i 3) En-metena , ruler of Lagaš , chosen by Nanše in the heart , chief governor of Ninĝirsu , constructed the lofty dyke of the border demarcated by Enlil for Ninĝirsu . For Ninĝirsu , his master who loves him , En-metena extended it from the Idnun canal until Mubikura . He erected a stela for him in the field at Ninĝirsu’s border ."
+    },
+    {
+      "para_id": "Q001110.24",
+      "line_range": "24",
+      "translation": "(v 1) The personal god of En-metena , the constructor of Ninĝirsu’s lofty dyke , is Šul-MUŠxPA ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001110.1",
+      "line_label": "i 1",
+      "transliteration": "d nin - ŋir₂ - su₂"
+    },
+    {
+      "line_id": "Q001110.2",
+      "line_label": "i 2",
+      "transliteration": "ur - saŋ ! d en - lil₂ ( E₂ )- ra"
+    },
+    {
+      "line_id": "Q001110.3",
+      "line_label": "i 3",
+      "transliteration": "en - mete - na"
+    },
+    {
+      "line_id": "Q001110.4",
+      "line_label": "i 4",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001110.5",
+      "line_label": "i 5",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001110.6",
+      "line_label": "i 6",
+      "transliteration": "[ šag₄ pad₃ ] - da"
+    },
+    {
+      "line_id": "Q001110.7",
+      "line_label": "ii 1",
+      "transliteration": "d nanše"
+    },
+    {
+      "line_id": "Q001110.8",
+      "line_label": "ii 2",
+      "transliteration": "ensi₂ - gal"
+    },
+    {
+      "line_id": "Q001110.9",
+      "line_label": "ii 3",
+      "transliteration": "d nin - ŋir₂ - su₂ - ka - ke₄"
+    },
+    {
+      "line_id": "Q001110.10",
+      "line_label": "ii 4",
+      "transliteration": "eg₂ maḫ ki - sur - ra"
+    },
+    {
+      "line_id": "Q001110.11",
+      "line_label": "ii 5",
+      "transliteration": "d en - lil₂ ( E₂ )- le"
+    },
+    {
+      "line_id": "Q001110.12",
+      "line_label": "ii 6",
+      "transliteration": "d nin - ŋir₂ - su₂ - ra sur ! ( NI -) ra"
+    },
+    {
+      "line_id": "Q001110.13",
+      "line_label": "iii 1",
+      "transliteration": "mu - na - ak"
+    },
+    {
+      "line_id": "Q001110.14",
+      "line_label": "iii 2",
+      "transliteration": "en - mete - na - ke₄"
+    },
+    {
+      "line_id": "Q001110.15",
+      "line_label": "iii 3",
+      "transliteration": "lugal ki an - na - aŋ₂ - ŋa₂ - ni"
+    },
+    {
+      "line_id": "Q001110.16",
+      "line_label": "iii 4",
+      "transliteration": "d nin - ŋir₂ - su₂ - ra"
+    },
+    {
+      "line_id": "Q001110.17",
+      "line_label": "iii 5",
+      "transliteration": "id₂ - nun - ta"
+    },
+    {
+      "line_id": "Q001110.18",
+      "line_label": "iv 1",
+      "transliteration": "mu - bi - kur - ra"
+    },
+    {
+      "line_id": "Q001110.19",
+      "line_label": "iv 2",
+      "transliteration": "e - na - ta - ni - e₃"
+    },
+    {
+      "line_id": "Q001110.20",
+      "line_label": "iv 3",
+      "transliteration": "na - ru₂ - a"
+    },
+    {
+      "line_id": "Q001110.21",
+      "line_label": "iv 4",
+      "transliteration": "a - šag₄ ašag ki - sur - ra"
+    },
+    {
+      "line_id": "Q001110.22",
+      "line_label": "iv 5",
+      "transliteration": "d nin - ŋir₂ - su₂ - ka"
+    },
+    {
+      "line_id": "Q001110.23",
+      "line_label": "iv 6",
+      "transliteration": "mu - na ! ( KI -) du₃"
+    },
+    {
+      "line_id": "Q001110.24",
+      "line_label": "v 1",
+      "transliteration": "en - mete - na"
+    },
+    {
+      "line_id": "Q001110.25",
+      "line_label": "v 2",
+      "transliteration": "lu₂ eg₂ maḫ"
+    },
+    {
+      "line_id": "Q001110.26",
+      "line_label": "v 3",
+      "transliteration": "d nin - ŋir₂ - su₂ - ka"
+    },
+    {
+      "line_id": "Q001110.27",
+      "line_label": "v 4",
+      "transliteration": "ak - ka"
+    },
+    {
+      "line_id": "Q001110.28",
+      "line_label": "v 5",
+      "transliteration": "diŋir - ra - ni"
+    },
+    {
+      "line_id": "Q001110.29",
+      "line_label": "v 6",
+      "transliteration": "d šul - MUŠ × PA - am₆"
+    }
+  ]
+}

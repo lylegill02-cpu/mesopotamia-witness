@@ -1,0 +1,42 @@
+{
+  "text_id": "oracc.etcsri.Q001300",
+  "corpus": "oracc",
+  "title": "Anonymous Nippur 46 (FAOS 05/2, AnNip 46)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001300",
+  "paragraphs": [
+    {
+      "para_id": "Q001300.1",
+      "line_range": "1",
+      "translation": "(1) To Inana , Ilum-alsu , the temple administrator , and Aka , his spouse , dedicated this ( vessel ) ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001300.1",
+      "line_label": "1",
+      "transliteration": "d inana"
+    },
+    {
+      "line_id": "Q001300.2",
+      "line_label": "2",
+      "transliteration": "i₃ - lum - al - su₃"
+    },
+    {
+      "line_id": "Q001300.3",
+      "line_label": "3",
+      "transliteration": "saŋŋa"
+    },
+    {
+      "line_id": "Q001300.4",
+      "line_label": "4-5",
+      "transliteration": "AK dam - ne₂"
+    },
+    {
+      "line_id": "Q001300.5",
+      "line_label": "6",
+      "transliteration": "a mu - ru"
+    }
+  ]
+}

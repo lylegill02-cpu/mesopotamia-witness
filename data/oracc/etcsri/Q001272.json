@@ -1,0 +1,47 @@
+{
+  "text_id": "oracc.etcsri.Q001272",
+  "corpus": "oracc",
+  "title": "Anonymous Nippur 14 (FAOS 05/2, AnNip 14)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001272",
+  "paragraphs": [
+    {
+      "para_id": "Q001272.1",
+      "line_range": "1",
+      "translation": "(1) To Inana , Gan-ezen , the spouse of ..., child of Gunidu , dedicated this ( vessel ) ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001272.1",
+      "line_label": "1",
+      "transliteration": "d ⸢ inana ⸣"
+    },
+    {
+      "line_id": "Q001272.2",
+      "line_label": "2",
+      "transliteration": "gan - ezen"
+    },
+    {
+      "line_id": "Q001272.3",
+      "line_label": "3",
+      "transliteration": "⸢ dam ⸣ [(... )]"
+    },
+    {
+      "line_id": "Q001272.4",
+      "line_label": "4",
+      "transliteration": "[... ] - ⸢ KA ⸣"
+    },
+    {
+      "line_id": "Q001272.5",
+      "line_label": "5",
+      "transliteration": "dumu gu - NI - DU"
+    },
+    {
+      "line_id": "Q001272.6",
+      "line_label": "6",
+      "transliteration": "a mu - ru"
+    }
+  ]
+}

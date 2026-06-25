@@ -1,0 +1,32 @@
+{
+  "text_id": "oracc.etcsri.Q001335",
+  "corpus": "oracc",
+  "title": "A-Ane-pada 2 (RIME 1.13.06.02 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001335",
+  "paragraphs": [
+    {
+      "para_id": "Q001335.1",
+      "line_range": "1",
+      "translation": "(1) For ..., Aya-Ane-pada , king of Urim , ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001335.1",
+      "line_label": "1",
+      "transliteration": "d ⸢ x ⸣ - [... ]"
+    },
+    {
+      "line_id": "Q001335.2",
+      "line_label": "2",
+      "transliteration": "aya₂ - an - [ ne₂ - pad₃ - da ]"
+    },
+    {
+      "line_id": "Q001335.3",
+      "line_label": "3",
+      "transliteration": "lugal [ urim₅ ki ]"
+    }
+  ]
+}

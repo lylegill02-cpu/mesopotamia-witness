@@ -1,0 +1,27 @@
+{
+  "text_id": "oracc.etcsri.Q001322",
+  "corpus": "oracc",
+  "title": "Aka 1 (RIME 1.12.02.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001322",
+  "paragraphs": [
+    {
+      "para_id": "Q001322.1",
+      "line_range": "1",
+      "translation": "(1) Ak-Aštar , king of Umma ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001322.1",
+      "line_label": "1",
+      "transliteration": "AK - d INANA"
+    },
+    {
+      "line_id": "Q001322.2",
+      "line_label": "2",
+      "transliteration": "lugal umma ki"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "text_id": "oracc.etcsri.Q001568",
+  "corpus": "oracc",
+  "title": "Ur-Ningirsu II 05 (RIME 3/1.01.08.05 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001568",
+  "paragraphs": [
+    {
+      "para_id": "Q001568.1",
+      "line_range": "1",
+      "translation": "(1) To Ninĝirsu , the powerful warrior of Enlil , his master , Ur-Ninĝirsu , ruler of Lagaš , son of Gudea , ruler of Lagaš , dedicated this ( mace ) for his well-being ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001568.1",
+      "line_label": "1",
+      "transliteration": "d ⸢ nin ⸣ - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q001568.2",
+      "line_label": "2",
+      "transliteration": "ur - saŋ kalag - ga"
+    },
+    {
+      "line_id": "Q001568.3",
+      "line_label": "3",
+      "transliteration": "d en - lil₂ - la₂"
+    },
+    {
+      "line_id": "Q001568.4",
+      "line_label": "4",
+      "transliteration": "lugal - a - ni"
+    },
+    {
+      "line_id": "Q001568.5",
+      "line_label": "5",
+      "transliteration": "⸢ ur ⸣ - d nin - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q001568.6",
+      "line_label": "6",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001568.7",
+      "line_label": "7",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001568.8",
+      "line_label": "8",
+      "transliteration": "dumu gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q001568.9",
+      "line_label": "9",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001568.10",
+      "line_label": "10",
+      "transliteration": "lagaš ki - ka - ke₄"
+    },
+    {
+      "line_id": "Q001568.11",
+      "line_label": "11",
+      "transliteration": "nam - til₃ - la - ni - še₃"
+    },
+    {
+      "line_id": "Q001568.12",
+      "line_label": "12",
+      "transliteration": "a mu - na - ru"
+    }
+  ]
+}

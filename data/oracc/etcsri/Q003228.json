@@ -1,0 +1,77 @@
+{
+  "text_id": "oracc.etcsri.Q003228",
+  "corpus": "oracc",
+  "title": "Gudea 101add (RIME 3/1.01.07.add101 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q003228",
+  "paragraphs": [
+    {
+      "para_id": "Q003228.1",
+      "line_range": "1",
+      "translation": "(1) For Ninĝirsu , the powerful warrior of Enlil , his master , Gudea , ruler of Lagaš , built his E-ninnu-anzud-babbar , ( and ) set up a stela before it ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q003228.1",
+      "line_label": "1",
+      "transliteration": "d nin - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q003228.2",
+      "line_label": "2",
+      "transliteration": "ur - saŋ kalag - ga"
+    },
+    {
+      "line_id": "Q003228.3",
+      "line_label": "3",
+      "transliteration": "d en - lil₂ - la₂"
+    },
+    {
+      "line_id": "Q003228.4",
+      "line_label": "4",
+      "transliteration": "lugal - a - ni"
+    },
+    {
+      "line_id": "Q003228.5",
+      "line_label": "5",
+      "transliteration": "gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q003228.6",
+      "line_label": "6",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q003228.7",
+      "line_label": "7",
+      "transliteration": "lagaš ki - ke₄"
+    },
+    {
+      "line_id": "Q003228.8",
+      "line_label": "8",
+      "transliteration": "e₂ - ninnu - anzud₂ mušen - babbar₂ - ra - ni"
+    },
+    {
+      "line_id": "Q003228.9",
+      "line_label": "9",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q003228.10",
+      "line_label": "10",
+      "transliteration": "igi - bi - še₃"
+    },
+    {
+      "line_id": "Q003228.11",
+      "line_label": "11",
+      "transliteration": "na - ru₂ - a"
+    },
+    {
+      "line_id": "Q003228.12",
+      "line_label": "12",
+      "transliteration": "mu - na - du₃"
+    }
+  ]
+}

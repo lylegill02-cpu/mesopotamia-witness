@@ -1,0 +1,137 @@
+{
+  "text_id": "oracc.etcsri.Q001370",
+  "corpus": "oracc",
+  "title": "Lugal-kigine-dudu 2 (RIME 1.14.14.02 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001370",
+  "paragraphs": [
+    {
+      "para_id": "Q001370.1",
+      "line_range": "1",
+      "translation": "(1) For An , king of all lands , and Inana , lady of the E-ana , Lugal-kiĝeneš-dudu , king of Kiš ."
+    },
+    {
+      "para_id": "Q001370.5",
+      "line_range": "5",
+      "translation": "(5) After Inana combined the title of en and the title of king for Lugal-kiĝeneš-dudu , he ruled as en in Unug , while he ruled as king in Urim ."
+    },
+    {
+      "para_id": "Q001370.15",
+      "line_range": "15",
+      "translation": "(15) When Inana blessed Lugal-kiĝeneš-dudu , Lugal-kiĝeneš-dudu dedicated this ( vessel ) to Inana , his lady for his ( own ) well-being ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001370.1",
+      "line_label": "1",
+      "transliteration": "an lugal kur - kur - ra"
+    },
+    {
+      "line_id": "Q001370.2",
+      "line_label": "2",
+      "transliteration": "d inana nin e₂ - an - na - ra"
+    },
+    {
+      "line_id": "Q001370.3",
+      "line_label": "3",
+      "transliteration": "lugal - ki - ŋen - ne₂ - du₇ - du₇"
+    },
+    {
+      "line_id": "Q001370.4",
+      "line_label": "4",
+      "transliteration": "lugal kiš ki"
+    },
+    {
+      "line_id": "Q001370.5",
+      "line_label": "5",
+      "transliteration": "ud d inana - ke₄"
+    },
+    {
+      "line_id": "Q001370.6",
+      "line_label": "6",
+      "transliteration": "lugal - ki - ŋen - ne₂ - du₇ - du₇ - ra"
+    },
+    {
+      "line_id": "Q001370.7",
+      "line_label": "7",
+      "transliteration": "nam - en"
+    },
+    {
+      "line_id": "Q001370.8",
+      "line_label": "8",
+      "transliteration": "nam - lugal - da"
+    },
+    {
+      "line_id": "Q001370.9",
+      "line_label": "9",
+      "transliteration": "e - na - da - tab - ba - a"
+    },
+    {
+      "line_id": "Q001370.10",
+      "line_label": "10",
+      "transliteration": "unug ki - ga"
+    },
+    {
+      "line_id": "Q001370.11",
+      "line_label": "11",
+      "transliteration": "nam - en mu - ak - ⸢ ke₄ ⸣"
+    },
+    {
+      "line_id": "Q001370.12",
+      "line_label": "12",
+      "transliteration": "urim₂ ⸢ ki ⸣ - ma"
+    },
+    {
+      "line_id": "Q001370.13",
+      "line_label": "13",
+      "transliteration": "nam - lugal"
+    },
+    {
+      "line_id": "Q001370.14",
+      "line_label": "14",
+      "transliteration": "mu - ak - [ ke₄ ]"
+    },
+    {
+      "line_id": "Q001370.15",
+      "line_label": "15",
+      "transliteration": "ud d ⸢ inana ⸣ - [ ke₄ ]"
+    },
+    {
+      "line_id": "Q001370.16",
+      "line_label": "16",
+      "transliteration": "lugal - ⸢ ki ⸣ - [ ŋen ] - ne₂ - du₇ - [ du₇ - ra ]"
+    },
+    {
+      "line_id": "Q001370.17",
+      "line_label": "17",
+      "transliteration": "[ gu₃ zid e - na - de₂ - a ]"
+    },
+    {
+      "line_id": "Q001370.18",
+      "line_label": "18",
+      "transliteration": "[ ud - ba ]"
+    },
+    {
+      "line_id": "Q001370.19",
+      "line_label": "19",
+      "transliteration": "[ lugal - ki ] - ⸢ ŋen ⸣ - [ ne₂ - du₇ ] - ⸢ du₇ ⸣ - de₃"
+    },
+    {
+      "line_id": "Q001370.20",
+      "line_label": "20",
+      "transliteration": "nam - ⸢ til₃ ⸣ - la - ni - še₃"
+    },
+    {
+      "line_id": "Q001370.21",
+      "line_label": "21",
+      "transliteration": "d inana nin - ni"
+    },
+    {
+      "line_id": "Q001370.22",
+      "line_label": "22",
+      "transliteration": "a mu - na - ru"
+    }
+  ]
+}

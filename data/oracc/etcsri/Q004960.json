@@ -1,0 +1,42 @@
+{
+  "text_id": "oracc.etcsri.Q004960",
+  "corpus": "oracc",
+  "title": "Ibbi-Suen 2025add / CDLI Seals 005586 (CDLI Seals 005586 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004960",
+  "paragraphs": [
+    {
+      "para_id": "Q004960.1",
+      "line_range": "1",
+      "translation": "(1) Ibbi-Suen , king of Urim : Humanzi , the overseer of ..., is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004960.1",
+      "line_label": "1",
+      "transliteration": "[ d i - bi₂ - d suen ]"
+    },
+    {
+      "line_id": "Q004960.2",
+      "line_label": "2",
+      "transliteration": "lugal urim₅ ki"
+    },
+    {
+      "line_id": "Q004960.3",
+      "line_label": "3",
+      "transliteration": "ḫu - ma - an - zi"
+    },
+    {
+      "line_id": "Q004960.4",
+      "line_label": "4",
+      "transliteration": "nu - banda₃ e₂ - [... ]"
+    },
+    {
+      "line_id": "Q004960.5",
+      "line_label": "5",
+      "transliteration": "arad₂ - [ zu ]"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "text_id": "oracc.etcsri.Q009693",
+  "corpus": "oracc",
+  "title": "Enlil-bani 12add (RIME 4.01.10.12 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q009693",
+  "paragraphs": [
+    {
+      "para_id": "Q009693.1",
+      "line_range": "1",
+      "translation": "(i 1) For Annunītum of Agade , his lady , Enlil-bani , the shepherd , who makes everything abundant for Nibru , the powerful king , king of Isin , king of Sumer and Akkad , the spouse chosen in the heart by Inana , built the Ulmaš , her beloved temple in Isin ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q009693.1",
+      "line_label": "i 1",
+      "transliteration": "an - nu - ni - tum"
+    },
+    {
+      "line_id": "Q009693.2",
+      "line_label": "i 2",
+      "transliteration": "a - ga - de₃ ki"
+    },
+    {
+      "line_id": "Q009693.3",
+      "line_label": "i 3",
+      "transliteration": "nin - a - ni - ir"
+    },
+    {
+      "line_id": "Q009693.4",
+      "line_label": "i 4",
+      "transliteration": "d en - lil₂ - ba - ni"
+    },
+    {
+      "line_id": "Q009693.5",
+      "line_label": "i 5",
+      "transliteration": "sipad niŋ₂ - nam šar₂ - ra"
+    },
+    {
+      "line_id": "Q009693.6",
+      "line_label": "i 6",
+      "transliteration": "nibru ki"
+    },
+    {
+      "line_id": "Q009693.7",
+      "line_label": "i 7",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q009693.8",
+      "line_label": "i 8",
+      "transliteration": "lugal i₃ - si - in ki - na"
+    },
+    {
+      "line_id": "Q009693.9",
+      "line_label": "ii 1",
+      "transliteration": "lugal ki - en - gi ki - uri"
+    },
+    {
+      "line_id": "Q009693.10",
+      "line_label": "ii 2",
+      "transliteration": "dam šag₄ - ge pad₃ - da"
+    },
+    {
+      "line_id": "Q009693.11",
+      "line_label": "ii 3",
+      "transliteration": "d inana - ke₄"
+    },
+    {
+      "line_id": "Q009693.12",
+      "line_label": "ii 4",
+      "transliteration": "ul - maš"
+    },
+    {
+      "line_id": "Q009693.13",
+      "line_label": "ii 5",
+      "transliteration": "⸢ e₂ ⸣ ki aŋ₂ - ŋa₂ - ni"
+    },
+    {
+      "line_id": "Q009693.14",
+      "line_label": "ii 6",
+      "transliteration": "šag₄ i₃ - si - in ki - na - ka"
+    },
+    {
+      "line_id": "Q009693.15",
+      "line_label": "ii 7",
+      "transliteration": "mu - na - du₃"
+    }
+  ]
+}

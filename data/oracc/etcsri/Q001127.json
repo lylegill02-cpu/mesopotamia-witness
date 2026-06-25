@@ -1,0 +1,127 @@
+{
+  "text_id": "oracc.etcsri.Q001127",
+  "corpus": "oracc",
+  "title": "URU-KA-gina 10 (RIME 1.09.09.10 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001127",
+  "paragraphs": [
+    {
+      "para_id": "Q001127.1",
+      "line_range": "1",
+      "translation": "(i 1') ...."
+    },
+    {
+      "para_id": "Q001127.4",
+      "line_range": "4",
+      "translation": "(ii 1') For Šul-šagana he built the Kitušakkile , and built the Bursaĝ , his house from which the regular offerings are delivered for him ."
+    },
+    {
+      "para_id": "Q001127.11",
+      "line_range": "11",
+      "translation": "(iii 1') For Enlil , he built the Adda in Imsaĝ . For Ninĝirsu he dug her beloved canal , the Pa-Saman-kaša ."
+    },
+    {
+      "para_id": "Q001127.20",
+      "line_range": "20",
+      "translation": "(iv 1') ... Iri-kagina , king of Lagaš , ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001127.1",
+      "line_label": "i 1'",
+      "transliteration": "[... ] ⸢ x ⸣"
+    },
+    {
+      "line_id": "Q001127.2",
+      "line_label": "i 2'",
+      "transliteration": "[... ] ⸢ x ⸣"
+    },
+    {
+      "line_id": "Q001127.4",
+      "line_label": "ii 1'",
+      "transliteration": "[ d šul - šag₄ - ga - na ] - ra"
+    },
+    {
+      "line_id": "Q001127.5",
+      "line_label": "ii 2'",
+      "transliteration": "ki - tuš - akkil - le₂"
+    },
+    {
+      "line_id": "Q001127.6",
+      "line_label": "ii 3'",
+      "transliteration": "mu - na - du₃ ! ( NI )"
+    },
+    {
+      "line_id": "Q001127.7",
+      "line_label": "ii 4'",
+      "transliteration": "bur - saŋ e₂ sa₂ - dug₄ an - na - ta ! - guru₃ - a - ni"
+    },
+    {
+      "line_id": "Q001127.8",
+      "line_label": "ii 5'",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001127.9",
+      "line_label": "ii 6'",
+      "transliteration": "bad₃ ŋir₂ - su ki - ke₄"
+    },
+    {
+      "line_id": "Q001127.11",
+      "line_label": "iii 1'",
+      "transliteration": "[ d en - lil₂ ( E₂ )- la ]"
+    },
+    {
+      "line_id": "Q001127.12",
+      "line_label": "iii 2'",
+      "transliteration": "[ e₂ - ad - da ]"
+    },
+    {
+      "line_id": "Q001127.13",
+      "line_label": "iii 3'",
+      "transliteration": "im - [ saŋ ] - ŋa₂ - ⸢ ka ⸣ - ni"
+    },
+    {
+      "line_id": "Q001127.14",
+      "line_label": "iii 4'",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001127.15",
+      "line_label": "iii 5'",
+      "transliteration": "d nin - ŋir₂ - su - ra"
+    },
+    {
+      "line_id": "Q001127.16",
+      "line_label": "iii 6'",
+      "transliteration": "id₂ ki aŋ₂ - ŋa₂ - ni"
+    },
+    {
+      "line_id": "Q001127.17",
+      "line_label": "iii 7'",
+      "transliteration": "id₂ pa₅ - d samanₓ ( ŠE . NUN . ŠE₃ . BU )- kaš₄ - ša₄"
+    },
+    {
+      "line_id": "Q001127.18",
+      "line_label": "iii 8'",
+      "transliteration": "al mu - na - du₃"
+    },
+    {
+      "line_id": "Q001127.20",
+      "line_label": "iv 1'",
+      "transliteration": "[ iri - ka - gen₆ - na ]"
+    },
+    {
+      "line_id": "Q001127.21",
+      "line_label": "iv 2'",
+      "transliteration": "⸢ lugal ⸣"
+    },
+    {
+      "line_id": "Q001127.22",
+      "line_label": "iv 3'",
+      "transliteration": "⸢ lagaš ⸣ [ ki - ... ]"
+    }
+  ]
+}

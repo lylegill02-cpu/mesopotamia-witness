@@ -1,0 +1,37 @@
+{
+  "text_id": "oracc.etcsri.Q001724",
+  "corpus": "oracc",
+  "title": "Šulgi 93 / CDLI Seals 004278 (CDLI Seals 004278 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001724",
+  "paragraphs": [
+    {
+      "para_id": "Q001724.1",
+      "line_range": "1",
+      "translation": "(1) Tulid-Šamši , erešdiĝir priestess of Nanna : … is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001724.1",
+      "line_label": "1",
+      "transliteration": "tu - li₂ - id - UTU ši"
+    },
+    {
+      "line_id": "Q001724.2",
+      "line_label": "2",
+      "transliteration": "ereš - diŋir d nanna"
+    },
+    {
+      "line_id": "Q001724.3",
+      "line_label": "3",
+      "transliteration": "arad₂ - e₂ ? - x - x - x"
+    },
+    {
+      "line_id": "Q001724.4",
+      "line_label": "4",
+      "transliteration": "arad₂ - zu"
+    }
+  ]
+}

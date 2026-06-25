@@ -1,0 +1,47 @@
+{
+  "text_id": "oracc.etcsri.Q001354",
+  "corpus": "oracc",
+  "title": "Anonymous Ur 16 (FAOS 05/2, AnUr 16)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001354",
+  "paragraphs": [
+    {
+      "para_id": "Q001354.1",
+      "line_range": "1",
+      "translation": "(1) To Ama-ĝeštin , Ninam , spouse of ..., dedicated this ( vessel ) for her ( own ) well-being , and for the well-being of her spouse and child ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001354.1",
+      "line_label": "1",
+      "transliteration": "⸢ d ⸣ ama - ⸢ ŋeštin ⸣ - ra ! ( KE₄ )"
+    },
+    {
+      "line_id": "Q001354.2",
+      "line_label": "2",
+      "transliteration": "nin - nam"
+    },
+    {
+      "line_id": "Q001354.3",
+      "line_label": "3",
+      "transliteration": "dam e₂ ? - x - ke₄"
+    },
+    {
+      "line_id": "Q001354.4",
+      "line_label": "4",
+      "transliteration": "nam - til₃ - la - ni - še₃"
+    },
+    {
+      "line_id": "Q001354.5",
+      "line_label": "5",
+      "transliteration": "nam - < til₃ > dumu - na - še₃"
+    },
+    {
+      "line_id": "Q001354.6",
+      "line_label": "6",
+      "transliteration": "a mu - na - ši - ru"
+    }
+  ]
+}

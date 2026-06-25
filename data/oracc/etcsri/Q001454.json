@@ -1,0 +1,52 @@
+{
+  "text_id": "oracc.etcsri.Q001454",
+  "corpus": "oracc",
+  "title": "Utu-hegal 2 (RIME 2.13.06.02 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001454",
+  "paragraphs": [
+    {
+      "para_id": "Q001454.1",
+      "line_range": "1",
+      "translation": "(1) Utu-heĝal , king of the four quarters , returned the border territory of Ninĝirsu , Enlil's powerful warrior , under ( Ninĝirsu's ) authority ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001454.1",
+      "line_label": "1",
+      "transliteration": "ki - sur - ra"
+    },
+    {
+      "line_id": "Q001454.2",
+      "line_label": "2",
+      "transliteration": "d nin - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q001454.3",
+      "line_label": "3",
+      "transliteration": "ur - saŋ kalag - ga"
+    },
+    {
+      "line_id": "Q001454.4",
+      "line_label": "4",
+      "transliteration": "d en - lil₂ - la₂ - ka"
+    },
+    {
+      "line_id": "Q001454.5",
+      "line_label": "5",
+      "transliteration": "d utu - ḫe₂ - ŋal₂"
+    },
+    {
+      "line_id": "Q001454.6",
+      "line_label": "6",
+      "transliteration": "lugal an - ub - da limmu₅ - ba - ke₄ !"
+    },
+    {
+      "line_id": "Q001454.7",
+      "line_label": "7",
+      "transliteration": "šu - na mu - ni - gi₄"
+    }
+  ]
+}

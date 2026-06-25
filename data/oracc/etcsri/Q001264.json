@@ -1,0 +1,52 @@
+{
+  "text_id": "oracc.etcsri.Q001264",
+  "corpus": "oracc",
+  "title": "Anonymous Nippur 06 (FAOS 05/2, AnNip 06)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001264",
+  "paragraphs": [
+    {
+      "para_id": "Q001264.1",
+      "line_range": "1",
+      "translation": "(1) To Ninlil , Enlila , child of Adda , dedicated this ( vessel ) as votive offering for the well-being of his spouse and child ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001264.1",
+      "line_label": "1",
+      "transliteration": "d nin - lil₂"
+    },
+    {
+      "line_id": "Q001264.2",
+      "line_label": "2",
+      "transliteration": "d en - lil₂ ( E₂ )- la₂"
+    },
+    {
+      "line_id": "Q001264.3",
+      "line_label": "3",
+      "transliteration": "dumu ad - da - ke₄"
+    },
+    {
+      "line_id": "Q001264.4",
+      "line_label": "4",
+      "transliteration": "ga - til₃ - la - še₃"
+    },
+    {
+      "line_id": "Q001264.5",
+      "line_label": "5",
+      "transliteration": "nam - til₃"
+    },
+    {
+      "line_id": "Q001264.6",
+      "line_label": "6",
+      "transliteration": "dam dumu - na - še₃"
+    },
+    {
+      "line_id": "Q001264.7",
+      "line_label": "7",
+      "transliteration": "a mu - na - ru"
+    }
+  ]
+}

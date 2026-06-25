@@ -1,0 +1,57 @@
+{
+  "text_id": "oracc.etcsri.Q001915",
+  "corpus": "oracc",
+  "title": "Unattributed Ur III 1046 / CDLI Seals 000344 (CDLI Seals 000344 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001915",
+  "paragraphs": [
+    {
+      "para_id": "Q001915.1",
+      "line_range": "1",
+      "translation": "(i 1) Šulgi , the powerful man , king of Urim , king of the four quarters , presented this ( seal ) to Ṣilluš-Dagan , governor of Simurrum , his servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001915.1",
+      "line_label": "i 1",
+      "transliteration": "d šul - gi"
+    },
+    {
+      "line_id": "Q001915.2",
+      "line_label": "i 2",
+      "transliteration": "nita kalag - ga"
+    },
+    {
+      "line_id": "Q001915.3",
+      "line_label": "i 3",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q001915.4",
+      "line_label": "i 4",
+      "transliteration": "lugal an - ub - da limmu₂ - ba - ke₄"
+    },
+    {
+      "line_id": "Q001915.5",
+      "line_label": "ii 1",
+      "transliteration": "ṣi - lu - uš - d da - gan"
+    },
+    {
+      "line_id": "Q001915.6",
+      "line_label": "ii 2",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001915.7",
+      "line_label": "ii 3",
+      "transliteration": "si - mu - ru - ⸢ um ki ⸣ - [ ma ]"
+    },
+    {
+      "line_id": "Q001915.8",
+      "line_label": "ii 4",
+      "transliteration": "arad₂ - da - ni - [ ir ] in - na - [ ba ]"
+    }
+  ]
+}

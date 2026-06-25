@@ -1,0 +1,52 @@
+{
+  "text_id": "oracc.etcsri.Q004117",
+  "corpus": "oracc",
+  "title": "Amar-Suena 2015add / CDLI Seals 005904 (CDLI Seals 005904 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004117",
+  "paragraphs": [
+    {
+      "para_id": "Q004117.1",
+      "line_range": "1",
+      "translation": "(i 1) Amar-Suena , the powerful ..., king of Urim , king of the four quarters : Anum-mutappil , the courier , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004117.1",
+      "line_label": "i 1",
+      "transliteration": "d amar - d suen"
+    },
+    {
+      "line_id": "Q004117.2",
+      "line_label": "i 2",
+      "transliteration": "[ x ] kalag - ga"
+    },
+    {
+      "line_id": "Q004117.3",
+      "line_label": "i 3",
+      "transliteration": "[ lugal urim₅ ki - ma ]"
+    },
+    {
+      "line_id": "Q004117.4",
+      "line_label": "i 4",
+      "transliteration": "[ lugal an - ub - da limmu₂ - ba ]"
+    },
+    {
+      "line_id": "Q004117.5",
+      "line_label": "ii 1",
+      "transliteration": "AN - mu - ta₂ - pil"
+    },
+    {
+      "line_id": "Q004117.6",
+      "line_label": "ii 2",
+      "transliteration": "ra₂ - gaba"
+    },
+    {
+      "line_id": "Q004117.7",
+      "line_label": "ii 3",
+      "transliteration": "arad₂ - zu"
+    }
+  ]
+}

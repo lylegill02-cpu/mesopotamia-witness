@@ -1,0 +1,62 @@
+{
+  "text_id": "oracc.etcsri.Q001257",
+  "corpus": "oracc",
+  "title": "Ur-Enlil 1 (RIME 1.11.02.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001257",
+  "paragraphs": [
+    {
+      "para_id": "Q001257.1",
+      "line_range": "1",
+      "translation": "(1) To Ninlil , Aba-Enlil , child of Lugal-niĝbarag-dug , the merchant , ... ( this bowl ) for the well-being of Ur-Enlil , ruler of Nibru , ( and ) for the well-being of his spouse and child ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001257.1",
+      "line_label": "1",
+      "transliteration": "[ d ] nin - lil₂"
+    },
+    {
+      "line_id": "Q001257.2",
+      "line_label": "2",
+      "transliteration": "a - ba - d en - lil₂"
+    },
+    {
+      "line_id": "Q001257.3",
+      "line_label": "3",
+      "transliteration": "dumu lugal - [ niŋ₂ ] - baragₓ ( BAD )- dug₃"
+    },
+    {
+      "line_id": "Q001257.4",
+      "line_label": "4",
+      "transliteration": "dam - ⸢ gara₃ - ke₄ ⸣"
+    },
+    {
+      "line_id": "Q001257.5",
+      "line_label": "5",
+      "transliteration": "nam - til₃"
+    },
+    {
+      "line_id": "Q001257.6",
+      "line_label": "6",
+      "transliteration": "ur - d en - lil₂"
+    },
+    {
+      "line_id": "Q001257.7",
+      "line_label": "7",
+      "transliteration": "ensi₂ nibru ki - da"
+    },
+    {
+      "line_id": "Q001257.8",
+      "line_label": "8",
+      "transliteration": "⸢ nam ⸣ - til₃"
+    },
+    {
+      "line_id": "Q001257.9",
+      "line_label": "9",
+      "transliteration": "[ dam dumu ] - ⸢ na ⸣ - da"
+    }
+  ]
+}

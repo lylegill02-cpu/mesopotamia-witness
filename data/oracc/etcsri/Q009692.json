@@ -1,0 +1,67 @@
+{
+  "text_id": "oracc.etcsri.Q009692",
+  "corpus": "oracc",
+  "title": "En-metena 36add (D. Nadali -- L. Verderame, Iraq 2021)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q009692",
+  "paragraphs": [
+    {
+      "para_id": "Q009692.1",
+      "line_range": "1",
+      "translation": "(i 1) The personal god of En-metena , ruler of Lagaš , child of En-ana-tum , ruler of Lagaš , the builder of Nanše’s lofty temple terrace , is Šul-MUŠxPA ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q009692.1",
+      "line_label": "i 1",
+      "transliteration": "⸢ en ⸣ - mete - na"
+    },
+    {
+      "line_id": "Q009692.2",
+      "line_label": "i 2",
+      "transliteration": "⸢ ensi₂ ⸣"
+    },
+    {
+      "line_id": "Q009692.3",
+      "line_label": "i 3",
+      "transliteration": "[ lagaš ki ]"
+    },
+    {
+      "line_id": "Q009692.4",
+      "line_label": "i 4",
+      "transliteration": "[ dumu ] ⸢ en - an ⸣ - na - ⸢ tum₂ ⸣"
+    },
+    {
+      "line_id": "Q009692.5",
+      "line_label": "i 5",
+      "transliteration": "⸢ ensi₂ ⸣"
+    },
+    {
+      "line_id": "Q009692.6",
+      "line_label": "ii 1",
+      "transliteration": "[ lagaš ] ⸢ ki - ka ⸣"
+    },
+    {
+      "line_id": "Q009692.7",
+      "line_label": "ii 2",
+      "transliteration": "⸢ lu₂ ⸣ gi - ⸢ gu₃ ⸣ - [ na ] maḫ"
+    },
+    {
+      "line_id": "Q009692.8",
+      "line_label": "ii 3",
+      "transliteration": "[ d ] ⸢ nanše ⸣ du₃ - a"
+    },
+    {
+      "line_id": "Q009692.9",
+      "line_label": "ii 4",
+      "transliteration": "[ diŋir ] - ⸢ ra ⸣ - ni"
+    },
+    {
+      "line_id": "Q009692.10",
+      "line_label": "ii 5",
+      "transliteration": "[ d ] ⸢ šul ⸣ - [ MUŠ × PA - am₆ ]"
+    }
+  ]
+}

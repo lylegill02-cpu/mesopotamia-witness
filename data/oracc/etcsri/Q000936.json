@@ -1,0 +1,57 @@
+{
+  "text_id": "oracc.etcsri.Q000936",
+  "corpus": "oracc",
+  "title": "Ur-Namma 04 (RIME 3/2.01.01.04 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000936",
+  "paragraphs": [
+    {
+      "para_id": "Q000936.1",
+      "line_range": "1",
+      "translation": "(i 1) For Nanna , his master , Ur-Namma , king of Urim , built his temple ( and ) built the wall of Urim ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000936.1",
+      "line_label": "i 1",
+      "transliteration": "d nanna"
+    },
+    {
+      "line_id": "Q000936.2",
+      "line_label": "i 2",
+      "transliteration": "lugal - a - ni"
+    },
+    {
+      "line_id": "Q000936.3",
+      "line_label": "i 3",
+      "transliteration": "ur - d namma"
+    },
+    {
+      "line_id": "Q000936.4",
+      "line_label": "i 4",
+      "transliteration": "lugal urim₅ ki - ma - ke₄"
+    },
+    {
+      "line_id": "Q000936.5",
+      "line_label": "ii 1",
+      "transliteration": "e₂ - a - ni"
+    },
+    {
+      "line_id": "Q000936.6",
+      "line_label": "ii 2",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q000936.7",
+      "line_label": "ii 3",
+      "transliteration": "bad₃ urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q000936.8",
+      "line_label": "ii 4",
+      "transliteration": "mu - na - du₃"
+    }
+  ]
+}

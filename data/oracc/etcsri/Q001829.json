@@ -1,0 +1,117 @@
+{
+  "text_id": "oracc.etcsri.Q001829",
+  "corpus": "oracc",
+  "title": "Šu-Suen 32 / CDLI Seals 000542 (CDLI Seals 000542 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001829",
+  "paragraphs": [
+    {
+      "para_id": "Q001829.1",
+      "line_range": "1",
+      "translation": "(1) Šu-Suen , the powerful king , king of Urim , king of the four quarters presented this ( seal ) to Babati , the archivist , the royal comptroller , the military governor of Maškan-šarrum , the governor of Awal , the administrator of ..., the canal inspector of the irrigated lands , ... Belat-suḫnir and Belat-terraban , the brother of Abi-simti , his beloved mother , his servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001829.1",
+      "line_label": "1",
+      "transliteration": "[ d šu ] - d suen"
+    },
+    {
+      "line_id": "Q001829.2",
+      "line_label": "2",
+      "transliteration": "[ lugal ] kalag - ga"
+    },
+    {
+      "line_id": "Q001829.3",
+      "line_label": "3",
+      "transliteration": "[ lugal ] urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q001829.4",
+      "line_label": "4",
+      "transliteration": "[ lugal ] an - ub - [ da ] limmu₂ - ba - ke₄"
+    },
+    {
+      "line_id": "Q001829.5",
+      "line_label": "5",
+      "transliteration": "⸢ ba ⸣ - ba - ti"
+    },
+    {
+      "line_id": "Q001829.6",
+      "line_label": "6",
+      "transliteration": "bisaŋ - dub - ba"
+    },
+    {
+      "line_id": "Q001829.7",
+      "line_label": "7",
+      "transliteration": "⸢ ša₃ ⸣ - tam lugal"
+    },
+    {
+      "line_id": "Q001829.8",
+      "line_label": "8",
+      "transliteration": "šagina"
+    },
+    {
+      "line_id": "Q001829.9",
+      "line_label": "9",
+      "transliteration": "maš - kan₂ - šar - ru - um ki - ma"
+    },
+    {
+      "line_id": "Q001829.10",
+      "line_label": "10",
+      "transliteration": "⸢ ensi₂ ⸣"
+    },
+    {
+      "line_id": "Q001829.11",
+      "line_label": "11",
+      "transliteration": "a - ⸢ wa - al ⸣ [ ki ]"
+    },
+    {
+      "line_id": "Q001829.12",
+      "line_label": "12",
+      "transliteration": "⸢ šabra ⸣ [... ]"
+    },
+    {
+      "line_id": "Q001829.13",
+      "line_label": "13",
+      "transliteration": "ku₃ - [ gal ]"
+    },
+    {
+      "line_id": "Q001829.14",
+      "line_label": "14",
+      "transliteration": "ma - ⸢ da ⸣ [ a dug₄ - ga ]"
+    },
+    {
+      "line_id": "Q001829.16",
+      "line_label": "16",
+      "transliteration": "d be - ⸢ la ⸣ - [ at - šuḫ - nir ]"
+    },
+    {
+      "line_id": "Q001829.17",
+      "line_label": "17",
+      "transliteration": "u₃ d [ be - la - at ] - te - ra - ba - ⸢ an ⸣"
+    },
+    {
+      "line_id": "Q001829.18",
+      "line_label": "18",
+      "transliteration": "šeš a - bi₂ - si₂ - im - ⸢ ti ⸣"
+    },
+    {
+      "line_id": "Q001829.19",
+      "line_label": "19",
+      "transliteration": "ama ki aŋ₂ - ŋa₂ - na"
+    },
+    {
+      "line_id": "Q001829.20",
+      "line_label": "20",
+      "transliteration": "arad₂ - da - ni - ir"
+    },
+    {
+      "line_id": "Q001829.21",
+      "line_label": "21",
+      "transliteration": "in - na - ⸢ ba ⸣"
+    }
+  ]
+}

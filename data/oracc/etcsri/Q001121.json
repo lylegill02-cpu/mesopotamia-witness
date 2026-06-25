@@ -1,0 +1,32 @@
+{
+  "text_id": "oracc.etcsri.Q001121",
+  "corpus": "oracc",
+  "title": "En-entarzi 1 (RIME 1.09.07.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001121",
+  "paragraphs": [
+    {
+      "para_id": "Q001121.1",
+      "line_range": "1",
+      "translation": "(1) Geme-Bau , child of En-entarzid , temple administrator of Ninĝirsu ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001121.1",
+      "line_label": "1",
+      "transliteration": "⸢ geme₂ ⸣ - d ba - u₂"
+    },
+    {
+      "line_id": "Q001121.2",
+      "line_label": "2",
+      "transliteration": "dumu en - en₃ - ⸢ tar - zid ⸣"
+    },
+    {
+      "line_id": "Q001121.3",
+      "line_label": "3",
+      "transliteration": "saŋŋa d nin - ⸢ ŋir₂ - su - ka ⸣"
+    }
+  ]
+}

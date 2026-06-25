@@ -1,0 +1,37 @@
+{
+  "text_id": "oracc.etcsri.Q001781",
+  "corpus": "oracc",
+  "title": "Šulgi 2053 (RIME 3/2.01.02.02053 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001781",
+  "paragraphs": [
+    {
+      "para_id": "Q001781.1",
+      "line_range": "1",
+      "translation": "(1) To Ninlil , his lady , ... for the well-being of Šulgi , ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001781.1",
+      "line_label": "1",
+      "transliteration": "d < nin - lil₂ >"
+    },
+    {
+      "line_id": "Q001781.2",
+      "line_label": "2",
+      "transliteration": "nin - < a - ni >"
+    },
+    {
+      "line_id": "Q001781.3",
+      "line_label": "3",
+      "transliteration": "nam - < ti - il >"
+    },
+    {
+      "line_id": "Q001781.4",
+      "line_label": "4",
+      "transliteration": "d ⸢ šul ⸣ - < gi >"
+    }
+  ]
+}

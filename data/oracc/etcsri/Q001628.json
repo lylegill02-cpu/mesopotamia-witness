@@ -1,0 +1,62 @@
+{
+  "text_id": "oracc.etcsri.Q001628",
+  "corpus": "oracc",
+  "title": "Ur-Namma 23 (RIME 3/2.01.01.23 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001628",
+  "paragraphs": [
+    {
+      "para_id": "Q001628.1",
+      "line_range": "1",
+      "translation": "(1) For Ninsumun , his personal god , Ur-Namma , the powerful man , king of Urim , king of Sumer and Akkad , built the E-mah , his beloved temple ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001628.1",
+      "line_label": "1",
+      "transliteration": "d ⸢ nin ⸣ - sumun₂"
+    },
+    {
+      "line_id": "Q001628.2",
+      "line_label": "2",
+      "transliteration": "diŋir - ra - ni"
+    },
+    {
+      "line_id": "Q001628.3",
+      "line_label": "3",
+      "transliteration": "ur - d namma"
+    },
+    {
+      "line_id": "Q001628.4",
+      "line_label": "4",
+      "transliteration": "nita kalag - ga"
+    },
+    {
+      "line_id": "Q001628.5",
+      "line_label": "5",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q001628.6",
+      "line_label": "6",
+      "transliteration": "lugal ki - en - gi ki - uri - ke₄"
+    },
+    {
+      "line_id": "Q001628.7",
+      "line_label": "7",
+      "transliteration": "e₂ - maḫ"
+    },
+    {
+      "line_id": "Q001628.8",
+      "line_label": "8",
+      "transliteration": "⸢ e₂ ⸣ [ ki ] ⸢ aŋ₂ - ŋa₂ - ni ⸣"
+    },
+    {
+      "line_id": "Q001628.9",
+      "line_label": "9",
+      "transliteration": "mu - na - du₃"
+    }
+  ]
+}

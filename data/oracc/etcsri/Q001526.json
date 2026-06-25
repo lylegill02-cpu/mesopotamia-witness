@@ -1,0 +1,72 @@
+{
+  "text_id": "oracc.etcsri.Q001526",
+  "corpus": "oracc",
+  "title": "Gudea 094 (RIME 3/1.01.07.094 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001526",
+  "paragraphs": [
+    {
+      "para_id": "Q001526.1",
+      "line_range": "1",
+      "translation": "(back 1) To Ninegala , her lady , ... ( this object ) for the well-being of Gudea , ruler of Lagaš ."
+    },
+    {
+      "para_id": "Q001526.8",
+      "line_range": "8",
+      "translation": "(base 1') She fashioned ( her statue ) and brought it before her in the temple . The name of this statue is \" Ninegala ( is ) my lady !\"."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001526.1",
+      "line_label": "back 1",
+      "transliteration": "d nin - e₂ - gal"
+    },
+    {
+      "line_id": "Q001526.2",
+      "line_label": "back 2",
+      "transliteration": "nin - a - ni"
+    },
+    {
+      "line_id": "Q001526.3",
+      "line_label": "back 3",
+      "transliteration": "nam - til₃"
+    },
+    {
+      "line_id": "Q001526.4",
+      "line_label": "back 4",
+      "transliteration": "gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q001526.5",
+      "line_label": "back 5",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001526.6",
+      "line_label": "back 6",
+      "transliteration": "lagaš ⸢ ki ⸣ - ka - še₃"
+    },
+    {
+      "line_id": "Q001526.8",
+      "line_label": "base 1'",
+      "transliteration": "⸢ mu ⸣ - tud e₂ - a mu - ⸢ na ⸣ - ni - ⸢ kurₓ ( LIL ) ⸣"
+    },
+    {
+      "line_id": "Q001526.9",
+      "line_label": "base 2'",
+      "transliteration": "alan - ba nin - ŋu₁₀"
+    },
+    {
+      "line_id": "Q001526.10",
+      "line_label": "base 3'",
+      "transliteration": "⸢ d ⸣ [ nin - e₂ - gal ]"
+    },
+    {
+      "line_id": "Q001526.11",
+      "line_label": "base 4'",
+      "transliteration": "⸢ mu ⸣ - [ bi ]"
+    }
+  ]
+}

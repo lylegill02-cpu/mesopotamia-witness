@@ -1,0 +1,72 @@
+{
+  "text_id": "oracc.etcsri.Q004276",
+  "corpus": "oracc",
+  "title": "Idattu 1 (RIME 4.add38.01.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004276",
+  "paragraphs": [
+    {
+      "para_id": "Q004276.1",
+      "line_range": "1",
+      "translation": "(1) For Idattu , grandchild of Ebarat , child of Kindattu , Utu's shepherd , Inana's beloved , king of Anšan , king of the Šimaškians and Elam , Kiten-rakittapi , the grand vizier of Elam and chancellor , his servant , fashioned this ( bowl ) ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004276.1",
+      "line_label": "1",
+      "transliteration": "d i - da - du"
+    },
+    {
+      "line_id": "Q004276.2",
+      "line_label": "2",
+      "transliteration": "dumu - dumu d e - ba - ra - at"
+    },
+    {
+      "line_id": "Q004276.3",
+      "line_label": "3",
+      "transliteration": "dumu d ki - in - da - du"
+    },
+    {
+      "line_id": "Q004276.4",
+      "line_label": "4",
+      "transliteration": "sipad d utu"
+    },
+    {
+      "line_id": "Q004276.5",
+      "line_label": "5",
+      "transliteration": "ki aŋ₂ d inana"
+    },
+    {
+      "line_id": "Q004276.6",
+      "line_label": "6",
+      "transliteration": "lugal an - ša - an ki"
+    },
+    {
+      "line_id": "Q004276.7",
+      "line_label": "7",
+      "transliteration": "lugal si - ma - aš - ki u₃ elam - ma"
+    },
+    {
+      "line_id": "Q004276.8",
+      "line_label": "8",
+      "transliteration": "ki - te - en - ra - ki - id - da - bi"
+    },
+    {
+      "line_id": "Q004276.9",
+      "line_label": "9",
+      "transliteration": "sukkal - maḫ elam - ma u₃ te - eb - bi - ir"
+    },
+    {
+      "line_id": "Q004276.10",
+      "line_label": "10",
+      "transliteration": "arad₂ - da - a - ne₂"
+    },
+    {
+      "line_id": "Q004276.11",
+      "line_label": "11",
+      "transliteration": "mu - na - dim₂"
+    }
+  ]
+}

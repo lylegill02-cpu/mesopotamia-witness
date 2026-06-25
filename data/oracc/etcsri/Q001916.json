@@ -1,0 +1,37 @@
+{
+  "text_id": "oracc.etcsri.Q001916",
+  "corpus": "oracc",
+  "title": "Ur-Ningirsu 1 (RIME 3/2.02.01.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001916",
+  "paragraphs": [
+    {
+      "para_id": "Q001916.1",
+      "line_range": "1",
+      "translation": "(1) Ur-Ninĝirsu , ( also called ? ) En-me-zid-ana , the šennu priest , the beloved en priest of Nanše ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001916.1",
+      "line_label": "1",
+      "transliteration": "ur - d nin - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q001916.2",
+      "line_label": "2",
+      "transliteration": "en - me - zid - an - na"
+    },
+    {
+      "line_id": "Q001916.3",
+      "line_label": "3",
+      "transliteration": "šennuₓ ( ME . AD . KU₃ )"
+    },
+    {
+      "line_id": "Q001916.4",
+      "line_label": "4",
+      "transliteration": "en ki aŋ₂ d nanše"
+    }
+  ]
+}

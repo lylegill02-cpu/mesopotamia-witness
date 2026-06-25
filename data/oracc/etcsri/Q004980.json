@@ -1,0 +1,57 @@
+{
+  "text_id": "oracc.etcsri.Q004980",
+  "corpus": "oracc",
+  "title": "Ibbi-Suen 2046add",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004980",
+  "paragraphs": [
+    {
+      "para_id": "Q004980.1",
+      "line_range": "1",
+      "translation": "(i 1) Ibbi-Suen , the powerful king , king of Urim , king of the four quarters : Ur-Enlil , child of Šarrum-bani , the general , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004980.1",
+      "line_label": "i 1",
+      "transliteration": "d i - bi₂ - d suen"
+    },
+    {
+      "line_id": "Q004980.2",
+      "line_label": "i 2",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q004980.3",
+      "line_label": "i 3",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q004980.4",
+      "line_label": "i 4",
+      "transliteration": "lugal an - ub - da limmu₂ - ba"
+    },
+    {
+      "line_id": "Q004980.5",
+      "line_label": "ii 1",
+      "transliteration": "ur - d en - [ lil₂ ]"
+    },
+    {
+      "line_id": "Q004980.6",
+      "line_label": "ii 2",
+      "transliteration": "dumu šar - ru - um - ba - ni"
+    },
+    {
+      "line_id": "Q004980.7",
+      "line_label": "ii 3",
+      "transliteration": "šagina"
+    },
+    {
+      "line_id": "Q004980.8",
+      "line_label": "ii 4",
+      "transliteration": "arad₂ - zu"
+    }
+  ]
+}

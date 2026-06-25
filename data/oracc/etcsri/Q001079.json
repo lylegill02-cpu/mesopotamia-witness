@@ -1,0 +1,77 @@
+{
+  "text_id": "oracc.etcsri.Q001079",
+  "corpus": "oracc",
+  "title": "En-anatum I 19 (RIME 1.09.04.19 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001079",
+  "paragraphs": [
+    {
+      "para_id": "Q001079.1",
+      "line_range": "1",
+      "translation": "(1) To Ninĝirsu of the Eninnu , Barag-kisumun , a man of En-ana-tum , ruler of Lagaš , the envoy , dedicated this ( mace ) for the well-being of his king , En-ana-tum ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001079.1",
+      "line_label": "1",
+      "transliteration": "d nin - ŋir₂ - su₂"
+    },
+    {
+      "line_id": "Q001079.2",
+      "line_label": "2",
+      "transliteration": "e₂ - ninnu - ra"
+    },
+    {
+      "line_id": "Q001079.3",
+      "line_label": "3",
+      "transliteration": "en - an - na - tum₂"
+    },
+    {
+      "line_id": "Q001079.4",
+      "line_label": "4",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001079.5",
+      "line_label": "5",
+      "transliteration": "lagaš ki - ka"
+    },
+    {
+      "line_id": "Q001079.6",
+      "line_label": "6",
+      "transliteration": "ŋuruš ! - a - ni"
+    },
+    {
+      "line_id": "Q001079.7",
+      "line_label": "7",
+      "transliteration": "barag - ki - sumun"
+    },
+    {
+      "line_id": "Q001079.8",
+      "line_label": "8",
+      "transliteration": "sukkal - le"
+    },
+    {
+      "line_id": "Q001079.9",
+      "line_label": "9",
+      "transliteration": "nam - til₃"
+    },
+    {
+      "line_id": "Q001079.10",
+      "line_label": "10",
+      "transliteration": "lugal - ni"
+    },
+    {
+      "line_id": "Q001079.11",
+      "line_label": "11",
+      "transliteration": "en - an - na - tum₂ - ma - še₃"
+    },
+    {
+      "line_id": "Q001079.12",
+      "line_label": "12",
+      "transliteration": "a mu - na - še₃ - ru"
+    }
+  ]
+}

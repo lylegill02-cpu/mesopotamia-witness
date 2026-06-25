@@ -8,7 +8,8 @@ Mirrors the [Bavli Uncensored](https://github.com/lylegill02-cpu/bavli-uncensore
 
 https://lylegill02-cpu.github.io/mesopotamia-witness/
 
-- **Search** — ETCSL Sumerian (~394) + Akkadian trio + ORACC AMGG + **25 ETCSRI** royal inscriptions
+- **Search** — ETCSL Sumerian (~394) + Akkadian trio + ORACC AMGG + **ETCSRI** (~1,456) + **eBL Gilgamesh XI** (329 ATF lines)
+- **Who we are** — [Inkwell](https://inkwell.wiki/) witness project (sibling to Bavli Uncensored)
 - **Flood comparison** — Atrahasis, Gilgamesh XI, Sumerian parallels side-by-side
 - **Eridu Genesis** — fragment witness page for ETCSL `c.1.7.4`
 - **Loci map** — 12 guided passages with pop-vs-scholarly witness notes
@@ -17,7 +18,7 @@ https://lylegill02-cpu.github.io/mesopotamia-witness/
 
 ```bash
 python scripts/build_all.py
-python scripts/publish_release.py v1.3.0-search
+python scripts/publish_release.py v1.4.1-search
 ```
 
 `build_all.py` fetches ETCSL + ORACC HTML, merges Akkadian/ORACC JSON into `corpus.db`, validates, exports `web/data/`, and syncs loci. CI deploys committed `web/` + runs loci sync only — **publish a new Release** after rebuilding locally when search index changes.
@@ -29,7 +30,8 @@ python scripts/publish_release.py v1.3.0-search
 | [ETCSL](https://etcsl.orinst.ox.ac.uk/) (Oxford OTA zip, CC BY 3.0 UK) | Sumerian literary corpus |
 | King / Thompson PD composites | Enuma Elish, Atrahasis, Gilgamesh XI (English + sample Akkadian lines) |
 | [ORACC AMGG](https://oracc.museum.upenn.edu/amgg/) (CC BY-SA 3.0) | Anunna lexicon entry |
-| [ORACC ETCSRI](https://oracc.museum.upenn.edu/etcsri/) | Royal inscription sample |
+| [ORACC ETCSRI](https://oracc.museum.upenn.edu/etcsri/) | Royal inscriptions (full paginated corpus) |
+| [eBL](https://www.ebl.lmu.de/) | Gilgamesh Standard Babylonian (ORACC ATF via eBL API) |
 | [CDLI](https://cdli.earth/) | Tablet photos & catalog links |
 
 ## Architecture

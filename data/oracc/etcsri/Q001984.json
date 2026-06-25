@@ -1,0 +1,102 @@
+{
+  "text_id": "oracc.etcsri.Q001984",
+  "corpus": "oracc",
+  "title": "Enlil-bani 02 (RIME 4.01.10.02 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001984",
+  "paragraphs": [
+    {
+      "para_id": "Q001984.1",
+      "line_range": "1",
+      "translation": "(1) Enlil-bani , the shepherd , who makes everything abundant for Nibru , the powerful king , king of Isin , king of Sumer and Akkad , the spouse chosen in the heart by Inana , the beloved of Enlil and Ninisina , built the great city wall of Isin . The name of this city wall is “Enlil-bani is a firm foundation ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001984.1",
+      "line_label": "1",
+      "transliteration": "d en - lil₂ - ba - ni"
+    },
+    {
+      "line_id": "Q001984.2",
+      "line_label": "2",
+      "transliteration": "sipad niŋ₂ - nam šar₂ - ra"
+    },
+    {
+      "line_id": "Q001984.3",
+      "line_label": "3",
+      "transliteration": "nibru ki"
+    },
+    {
+      "line_id": "Q001984.4",
+      "line_label": "4",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q001984.5",
+      "line_label": "5",
+      "transliteration": "lugal i₃ - si - in ki - na"
+    },
+    {
+      "line_id": "Q001984.6",
+      "line_label": "6",
+      "transliteration": "lugal ki - en - gi ki - uri"
+    },
+    {
+      "line_id": "Q001984.7",
+      "line_label": "7",
+      "transliteration": "dam šag₄ - ge pad₃ - da"
+    },
+    {
+      "line_id": "Q001984.8",
+      "line_label": "8",
+      "transliteration": "d inana"
+    },
+    {
+      "line_id": "Q001984.9",
+      "line_label": "9",
+      "transliteration": "ki aŋ₂ d en - lil₂"
+    },
+    {
+      "line_id": "Q001984.10",
+      "line_label": "10",
+      "transliteration": "u₃ d nin - isin₂ si - na - ka - ke₄"
+    },
+    {
+      "line_id": "Q001984.11",
+      "line_label": "11",
+      "transliteration": "bad₃ gal"
+    },
+    {
+      "line_id": "Q001984.12",
+      "line_label": "12",
+      "transliteration": "i₃ - si - in ki - na"
+    },
+    {
+      "line_id": "Q001984.13",
+      "line_label": "13",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001984.14",
+      "line_label": "14",
+      "transliteration": "bad₃ - ba"
+    },
+    {
+      "line_id": "Q001984.15",
+      "line_label": "15",
+      "transliteration": "d en - lil₂ - ba - ni"
+    },
+    {
+      "line_id": "Q001984.16",
+      "line_label": "16",
+      "transliteration": "SUḪUŠ ki - in"
+    },
+    {
+      "line_id": "Q001984.17",
+      "line_label": "17",
+      "transliteration": "mu - bi - im"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "text_id": "oracc.etcsri.Q001547",
+  "corpus": "oracc",
+  "title": "Gudea Statue H (RIME 3/1.01.07, St H composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001547",
+  "paragraphs": [
+    {
+      "para_id": "Q001547.1",
+      "line_range": "1",
+      "translation": "(i 1) For Bau , the kind woman , the child of An , the lady of Iri-kug , the lady of abundance , the child of holy An , his lady , after building her beloved temple , the E-tarsirsir , the temple which is the ornament of Iri-kug , Gudea , ruler of Lagaš , transported diorite from the mountains of Magan , fashioned his statue from it , named it for her sake \" The lady , the beloved child of holy An , mother Bau from E-tarsirsir , granted well-being to Gudea \"; and brought it before her in the temple in Iri-kug ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001547.1",
+      "line_label": "i 1",
+      "transliteration": "d ba - u₂"
+    },
+    {
+      "line_id": "Q001547.2",
+      "line_label": "i 2",
+      "transliteration": "munus sag₉ - ga"
+    },
+    {
+      "line_id": "Q001547.3",
+      "line_label": "i 3",
+      "transliteration": "dumu an - na"
+    },
+    {
+      "line_id": "Q001547.4",
+      "line_label": "i 4",
+      "transliteration": "nin ⸢ iri ⸣ - kug - ga"
+    },
+    {
+      "line_id": "Q001547.5",
+      "line_label": "i 5",
+      "transliteration": "nin ḫe₂ - ⸢ ŋal₂ ⸣ dumu an kug - ga"
+    },
+    {
+      "line_id": "Q001547.6",
+      "line_label": "i 6",
+      "transliteration": "nin - a - ni"
+    },
+    {
+      "line_id": "Q001547.7",
+      "line_label": "i 7",
+      "transliteration": "gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q001547.8",
+      "line_label": "i 8",
+      "transliteration": "⸢ ensi₂ ⸣"
+    },
+    {
+      "line_id": "Q001547.9",
+      "line_label": "i 9",
+      "transliteration": "⸢ lagaš ki ⸣ - ke₄"
+    },
+    {
+      "line_id": "Q001547.10",
+      "line_label": "ii 1",
+      "transliteration": "ud e₂ - tar - sir₂ - sir₂"
+    },
+    {
+      "line_id": "Q001547.11",
+      "line_label": "ii 2",
+      "transliteration": "e₂ ki aŋ₂ - ni"
+    },
+    {
+      "line_id": "Q001547.12",
+      "line_label": "ii 3",
+      "transliteration": "e₂ ḫe₂ - du₇ iri - kug - ga"
+    },
+    {
+      "line_id": "Q001547.13",
+      "line_label": "ii 4",
+      "transliteration": "mu - na - du₃ - a"
+    },
+    {
+      "line_id": "Q001547.14",
+      "line_label": "ii 5",
+      "transliteration": "kur ma₂ - gan ki - ta"
+    },
+    {
+      "line_id": "Q001547.15",
+      "line_label": "ii 6",
+      "transliteration": "na₄ esi ! ( PA ) im - ta - ed₃"
+    },
+    {
+      "line_id": "Q001547.16",
+      "line_label": "ii 7",
+      "transliteration": "alan - na - ni - še₃"
+    },
+    {
+      "line_id": "Q001547.17",
+      "line_label": "ii 8",
+      "transliteration": "mu - tud"
+    },
+    {
+      "line_id": "Q001547.18",
+      "line_label": "iii 1",
+      "transliteration": "nin dumu ki aŋ₂ an kug - ga - ke₄"
+    },
+    {
+      "line_id": "Q001547.19",
+      "line_label": "iii 2",
+      "transliteration": "ama d ba - u₂"
+    },
+    {
+      "line_id": "Q001547.20",
+      "line_label": "iii 3",
+      "transliteration": "e₂ - tar - sir₂ - sir₂ - ta"
+    },
+    {
+      "line_id": "Q001547.21",
+      "line_label": "iii 4",
+      "transliteration": "gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q001547.22",
+      "line_label": "iii 5",
+      "transliteration": "⸢ nam ⸣ - til₃ mu - na - šum₂"
+    },
+    {
+      "line_id": "Q001547.23",
+      "line_label": "iii 6",
+      "transliteration": "mu - še₃ mu - na - še₂₁"
+    },
+    {
+      "line_id": "Q001547.24",
+      "line_label": "iii 7",
+      "transliteration": "e₂ iri - kug - ga - ka"
+    },
+    {
+      "line_id": "Q001547.25",
+      "line_label": "iii 8",
+      "transliteration": "mu - na - ni ! ( DU₃ -) kur₉ ( REC145 )"
+    }
+  ]
+}

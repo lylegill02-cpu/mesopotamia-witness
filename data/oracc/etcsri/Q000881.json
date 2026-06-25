@@ -1,0 +1,107 @@
+{
+  "text_id": "oracc.etcsri.Q000881",
+  "corpus": "oracc",
+  "title": "Pirig-me 1 (RIME 3/1.01.02.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000881",
+  "paragraphs": [
+    {
+      "para_id": "Q000881.1",
+      "line_range": "1",
+      "translation": "(1) For Ninĝirsu , the powerful warrior of Enlil , Piriĝ-me , ruler of Lagaš , child of Ur-Ninĝirsu , ruler of Lagaš , chosen by Nanše in the heart , whose name was proclaimed by Ninĝirsu , the child born by Ninsumun , constructed a weir on the Ursaĝ-ani canal ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000881.1",
+      "line_label": "1",
+      "transliteration": "d nin - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q000881.2",
+      "line_label": "2",
+      "transliteration": "ur - saŋ kalag - ga"
+    },
+    {
+      "line_id": "Q000881.3",
+      "line_label": "3",
+      "transliteration": "d en - lil₂ - la₂ - ra"
+    },
+    {
+      "line_id": "Q000881.4",
+      "line_label": "4",
+      "transliteration": "piriŋ - me₃"
+    },
+    {
+      "line_id": "Q000881.5",
+      "line_label": "5",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q000881.6",
+      "line_label": "6",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q000881.7",
+      "line_label": "7",
+      "transliteration": "dumu ur - d nin - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q000881.8",
+      "line_label": "8",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q000881.9",
+      "line_label": "9",
+      "transliteration": "lagaš ki - ka - ke₄"
+    },
+    {
+      "line_id": "Q000881.10",
+      "line_label": "10",
+      "transliteration": "šag₄ - ge pad₃ - da"
+    },
+    {
+      "line_id": "Q000881.11",
+      "line_label": "11",
+      "transliteration": "d nanše - ke₄"
+    },
+    {
+      "line_id": "Q000881.12",
+      "line_label": "12",
+      "transliteration": "mu pad₃ - da"
+    },
+    {
+      "line_id": "Q000881.13",
+      "line_label": "13",
+      "transliteration": "d nin - ŋir₂ - su - ka - ke₄"
+    },
+    {
+      "line_id": "Q000881.14",
+      "line_label": "14",
+      "transliteration": "dumu tud - da"
+    },
+    {
+      "line_id": "Q000881.15",
+      "line_label": "15",
+      "transliteration": "d nin - sumun₂ - ka - ke₄"
+    },
+    {
+      "line_id": "Q000881.16",
+      "line_label": "16",
+      "transliteration": "⸢ ŋeš - keš₂ - ra₂ ⸣"
+    },
+    {
+      "line_id": "Q000881.17",
+      "line_label": "17",
+      "transliteration": "id₂ ur - saŋ - a₂ - ni - a"
+    },
+    {
+      "line_id": "Q000881.18",
+      "line_label": "18",
+      "transliteration": "mu - na - ⸢ ak ⸣"
+    }
+  ]
+}

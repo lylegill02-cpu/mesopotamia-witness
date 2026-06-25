@@ -1,0 +1,72 @@
+{
+  "text_id": "oracc.etcsri.Q001446",
+  "corpus": "oracc",
+  "title": "Namahni 1 (RIME 2.11.12.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001446",
+  "paragraphs": [
+    {
+      "para_id": "Q001446.1",
+      "line_range": "1",
+      "translation": "(1) For Ninura , the mother of Umma , Nammahni , the governor of Umma built and restored her E-ula ."
+    },
+    {
+      "para_id": "Q001446.9",
+      "line_range": "9",
+      "translation": "(9) At that time Yarlagan was the king of Gutium ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001446.1",
+      "line_label": "1",
+      "transliteration": "d nin - ur₄ - ra"
+    },
+    {
+      "line_id": "Q001446.2",
+      "line_label": "2",
+      "transliteration": "ama umma ki - ra"
+    },
+    {
+      "line_id": "Q001446.3",
+      "line_label": "3",
+      "transliteration": "nam - maḫ - ni"
+    },
+    {
+      "line_id": "Q001446.4",
+      "line_label": "4",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001446.5",
+      "line_label": "5",
+      "transliteration": "umma ki - ke₄"
+    },
+    {
+      "line_id": "Q001446.6",
+      "line_label": "6",
+      "transliteration": "e₂ - u₃ - la - ni"
+    },
+    {
+      "line_id": "Q001446.7",
+      "line_label": "7",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001446.8",
+      "line_label": "8",
+      "transliteration": "ki - be₂ mu - na - gi₄"
+    },
+    {
+      "line_id": "Q001446.9",
+      "line_label": "9",
+      "transliteration": "ud - ba ia₃ - ar - la - ga - an"
+    },
+    {
+      "line_id": "Q001446.10",
+      "line_label": "10",
+      "transliteration": "lugal gu - ti - um - kam"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "text_id": "oracc.etcsri.Q004873",
+  "corpus": "oracc",
+  "title": "URU-KA-gina 34add (RIME 1.09.09.02, ex. add05)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004873",
+  "paragraphs": [
+    {
+      "para_id": "Q004873.2",
+      "line_range": "2",
+      "translation": "(i 1') ... were the rulerś onion plots ."
+    },
+    {
+      "para_id": "Q004873.6",
+      "line_range": "6",
+      "translation": "(i 5') The team donkeys and the unblemished oxen ...."
+    },
+    {
+      "para_id": "Q004873.10",
+      "line_range": "10",
+      "translation": "(ii 1') Bau became the owner of all the households and fields of the female ( members ' of the ruler's family ) . ... all the households fields of the ( ruler's ) children ."
+    },
+    {
+      "para_id": "Q004873.20",
+      "line_range": "20",
+      "translation": "(iii 1') The ... of Niĝin are ( entitled to ) 180 loaves of bread and and 1 mud vessel of beer ."
+    },
+    {
+      "para_id": "Q004873.24",
+      "line_range": "24",
+      "translation": "(iii 5') The double men's toll through the gate ( of the netherworld ) is revoked ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004873.2",
+      "line_label": "i 1'",
+      "transliteration": "[... ]"
+    },
+    {
+      "line_id": "Q004873.3",
+      "line_label": "i 2'",
+      "transliteration": "[ ki ] ⸢ šum₂ ⸣ - ma"
+    },
+    {
+      "line_id": "Q004873.4",
+      "line_label": "i 3'",
+      "transliteration": "⸢ ensi₂ ⸣ - ka"
+    },
+    {
+      "line_id": "Q004873.5",
+      "line_label": "i 4'",
+      "transliteration": "⸢ e - ŋal₂ ⸣ - lam"
+    },
+    {
+      "line_id": "Q004873.6",
+      "line_label": "i 5'",
+      "transliteration": "⸢ anše surₓ ( ERIN₂ )- ra ⸣"
+    },
+    {
+      "line_id": "Q004873.7",
+      "line_label": "i 6'",
+      "transliteration": "[ gud ] ⸢ du₇ ⸣ - [ du₇ ]"
+    },
+    {
+      "line_id": "Q004873.10",
+      "line_label": "ii 1'",
+      "transliteration": "[ e₂ e₂ - mi₂ - e ]"
+    },
+    {
+      "line_id": "Q004873.11",
+      "line_label": "ii 2'",
+      "transliteration": "[ ašag ] ⸢ e₂ ⸣ - mi₂ - e"
+    },
+    {
+      "line_id": "Q004873.12",
+      "line_label": "ii 3'",
+      "transliteration": "en - na tuku - a"
+    },
+    {
+      "line_id": "Q004873.13",
+      "line_label": "ii 4'",
+      "transliteration": "d ba - u₂"
+    },
+    {
+      "line_id": "Q004873.14",
+      "line_label": "ii 5'",
+      "transliteration": "nin - bi"
+    },
+    {
+      "line_id": "Q004873.15",
+      "line_label": "ii 6'",
+      "transliteration": "e₂ nam - dumu"
+    },
+    {
+      "line_id": "Q004873.16",
+      "line_label": "ii 7'",
+      "transliteration": "ašag nam - dumu"
+    },
+    {
+      "line_id": "Q004873.17",
+      "line_label": "ii 8'",
+      "transliteration": "en - na ⸢ tuku - a ⸣"
+    },
+    {
+      "line_id": "Q004873.20",
+      "line_label": "iii 1'",
+      "transliteration": "3( geš₂ c ) ninda"
+    },
+    {
+      "line_id": "Q004873.21",
+      "line_label": "iii 2'",
+      "transliteration": "1( aš c ) mud₃ ( LAK449 ) kaš"
+    },
+    {
+      "line_id": "Q004873.22",
+      "line_label": "iii 3'",
+      "transliteration": "ABBA₂ - IGI"
+    },
+    {
+      "line_id": "Q004873.23",
+      "line_label": "iii 4'",
+      "transliteration": "niŋin₆ ki - kam"
+    },
+    {
+      "line_id": "Q004873.24",
+      "line_label": "iii 5'",
+      "transliteration": "addirₓ ( PAD . GISAL . SI )"
+    },
+    {
+      "line_id": "Q004873.25",
+      "line_label": "iii 6'",
+      "transliteration": "⸢ a - bul₅ ⸣ - la"
+    },
+    {
+      "line_id": "Q004873.26",
+      "line_label": "iii 7'",
+      "transliteration": "ŋuruš min - ma - ⸢ ka ⸣"
+    },
+    {
+      "line_id": "Q004873.27",
+      "line_label": "iii 8'",
+      "transliteration": "inim i₃ - ⸢ gi₄ ⸣"
+    }
+  ]
+}

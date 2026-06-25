@@ -1,0 +1,122 @@
+{
+  "text_id": "oracc.etcsri.Q001073",
+  "corpus": "oracc",
+  "title": "En-anatum I 03 (RIME 1.09.04.03 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001073",
+  "paragraphs": [
+    {
+      "para_id": "Q001073.1",
+      "line_range": "1",
+      "translation": "(i 1) When Ninĝirsu chose him in the heart , En-ana-tum , ruler of Lagaš , child of Aya-kurgal , ruler of Lagaš , transported white cedar timbers from the mountains for him ."
+    },
+    {
+      "para_id": "Q001073.11",
+      "line_range": "11",
+      "translation": "(ii 4) From among those ( En-ana-tum ) used for the temple , he installed some white cedar timbers ( also ) as its roof for ( Ninĝirsu ) ."
+    },
+    {
+      "para_id": "Q001073.15",
+      "line_range": "15",
+      "translation": "(iii 2) For Ninĝirsu , his master who loves him , he recorded ( his ) name on the lions of halub wood he had seated for him as doorkeepers ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001073.1",
+      "line_label": "i 1",
+      "transliteration": "en - an - na - tum₂"
+    },
+    {
+      "line_id": "Q001073.2",
+      "line_label": "i 2",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001073.3",
+      "line_label": "i 3",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001073.4",
+      "line_label": "i 4",
+      "transliteration": "dumu aya₂ - kur - gal"
+    },
+    {
+      "line_id": "Q001073.5",
+      "line_label": "i 5",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001073.6",
+      "line_label": "i 6",
+      "transliteration": "lagaš ki - ka - ke₄ ! ( RA )"
+    },
+    {
+      "line_id": "Q001073.7",
+      "line_label": "i 7",
+      "transliteration": "ud d nin - ŋir₂ - su₂ - ke₄"
+    },
+    {
+      "line_id": "Q001073.8",
+      "line_label": "ii 1",
+      "transliteration": "šag₄ - ge ba - pad₃ - da - a"
+    },
+    {
+      "line_id": "Q001073.9",
+      "line_label": "ii 2",
+      "transliteration": "eren babbar₂"
+    },
+    {
+      "line_id": "Q001073.10",
+      "line_label": "ii 3",
+      "transliteration": "kur - ta mu - na - ta - ed₃"
+    },
+    {
+      "line_id": "Q001073.11",
+      "line_label": "ii 4",
+      "transliteration": "e₂ - še₃ mu - na - sig₉ - sig₉ - ga - a"
+    },
+    {
+      "line_id": "Q001073.12",
+      "line_label": "ii 5",
+      "transliteration": "saŋ - šu₄ - bi"
+    },
+    {
+      "line_id": "Q001073.13",
+      "line_label": "ii 6",
+      "transliteration": "eren babbar₂"
+    },
+    {
+      "line_id": "Q001073.14",
+      "line_label": "iii 1",
+      "transliteration": "mu - na - ni - gub"
+    },
+    {
+      "line_id": "Q001073.15",
+      "line_label": "iii 2",
+      "transliteration": "ur ḫa - lu - ub₂"
+    },
+    {
+      "line_id": "Q001073.16",
+      "line_label": "iii 3",
+      "transliteration": "i₃ - du₈ - še₃ mu - na - durunₓ ( KU . KU )- na - a"
+    },
+    {
+      "line_id": "Q001073.17",
+      "line_label": "iii 4",
+      "transliteration": "lugal ki an - na - aŋ₂ - ŋa₂ - ni"
+    },
+    {
+      "line_id": "Q001073.18",
+      "line_label": "iii 5",
+      "transliteration": "d nin - ŋir₂ - su₂ - ra"
+    },
+    {
+      "line_id": "Q001073.19",
+      "line_label": "iii 6",
+      "transliteration": "mu mu - na - ŋar"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "text_id": "oracc.etcsri.Q001193",
+  "corpus": "oracc",
+  "title": "Anonymous Lagaš 25 (FAOS 05/1, AnLag 25)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001193",
+  "paragraphs": [
+    {
+      "para_id": "Q001193.2",
+      "line_range": "2",
+      "translation": "(i 1') ... Enki .... .... Nanše ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001193.2",
+      "line_label": "i 1'",
+      "transliteration": "[... ] [ d ] en - ⸢ ki ⸣ - ka"
+    },
+    {
+      "line_id": "Q001193.3",
+      "line_label": "i 2'",
+      "transliteration": "[... ] d nanše"
+    },
+    {
+      "line_id": "Q001193.4",
+      "line_label": "i 3'",
+      "transliteration": "[... ] ⸢ x x ⸣"
+    },
+    {
+      "line_id": "Q001193.6",
+      "line_label": "ii 1'",
+      "transliteration": "x [... ]"
+    },
+    {
+      "line_id": "Q001193.7",
+      "line_label": "ii 2'",
+      "transliteration": "x [... ]"
+    },
+    {
+      "line_id": "Q001193.8",
+      "line_label": "ii 3'",
+      "transliteration": "x [... ]"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "text_id": "oracc.etcsri.Q005020",
+  "corpus": "oracc",
+  "title": "Ibbi-Suen 2093add / CDLI Seals 000467 (CDLI Seals 000467 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q005020",
+  "paragraphs": [
+    {
+      "para_id": "Q005020.1",
+      "line_range": "1",
+      "translation": "(i 1) Ibbi-Suen , the powerful king , king of Urim , king of the four quarters : Ur-kugnuna , child of Lu-Suen , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q005020.1",
+      "line_label": "i 1",
+      "transliteration": "d i - bi₂ - d suen"
+    },
+    {
+      "line_id": "Q005020.2",
+      "line_label": "i 2",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q005020.3",
+      "line_label": "i 3",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q005020.4",
+      "line_label": "i 4",
+      "transliteration": "lugal an - ub - da limmu₂ - ba"
+    },
+    {
+      "line_id": "Q005020.5",
+      "line_label": "ii 1",
+      "transliteration": "ur - kug - nun - na"
+    },
+    {
+      "line_id": "Q005020.6",
+      "line_label": "ii 2",
+      "transliteration": "dub - sar"
+    },
+    {
+      "line_id": "Q005020.7",
+      "line_label": "ii 3",
+      "transliteration": "dumu lu₂ - d suen"
+    },
+    {
+      "line_id": "Q005020.8",
+      "line_label": "ii 4",
+      "transliteration": "arad₂ - zu"
+    }
+  ]
+}

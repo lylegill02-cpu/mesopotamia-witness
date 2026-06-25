@@ -1,0 +1,52 @@
+{
+  "text_id": "oracc.etcsri.Q001255",
+  "corpus": "oracc",
+  "title": "Nammah 1 (RIME 1.11.01.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001255",
+  "paragraphs": [
+    {
+      "para_id": "Q001255.1",
+      "line_range": "1",
+      "translation": "(1) To RU-kalama , Pa-UN , spouse of Nammah , ruler of Nibru , dedicated this ( bowl ) ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001255.1",
+      "line_label": "1",
+      "transliteration": "d RU - kalam ! - ma"
+    },
+    {
+      "line_id": "Q001255.2",
+      "line_label": "2",
+      "transliteration": "pa₄ - UN"
+    },
+    {
+      "line_id": "Q001255.3",
+      "line_label": "3",
+      "transliteration": "dam"
+    },
+    {
+      "line_id": "Q001255.4",
+      "line_label": "4",
+      "transliteration": "nam - maḫ"
+    },
+    {
+      "line_id": "Q001255.5",
+      "line_label": "5",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001255.6",
+      "line_label": "6",
+      "transliteration": "nibru ki"
+    },
+    {
+      "line_id": "Q001255.7",
+      "line_label": "7",
+      "transliteration": "a mu - ru"
+    }
+  ]
+}

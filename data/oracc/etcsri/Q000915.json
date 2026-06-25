@@ -1,0 +1,77 @@
+{
+  "text_id": "oracc.etcsri.Q000915",
+  "corpus": "oracc",
+  "title": "Gudea 048 (RIME 3/1.01.07.048 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000915",
+  "paragraphs": [
+    {
+      "para_id": "Q000915.1",
+      "line_range": "1",
+      "translation": "(1) For Ninĝirsu , the powerful warrior of Enlil , his master , Gudea , ruler of Lagaš , the builder of Ninĝirsu's E-ninnu , built his E-ĝidru , the temple of seven niches ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000915.1",
+      "line_label": "1",
+      "transliteration": "d nin - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q000915.2",
+      "line_label": "2",
+      "transliteration": "ur - saŋ kalag - ga"
+    },
+    {
+      "line_id": "Q000915.3",
+      "line_label": "3",
+      "transliteration": "d en - lil₂ - la₂"
+    },
+    {
+      "line_id": "Q000915.4",
+      "line_label": "4",
+      "transliteration": "lugal - a - ni"
+    },
+    {
+      "line_id": "Q000915.5",
+      "line_label": "5",
+      "transliteration": "gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q000915.6",
+      "line_label": "6",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q000915.7",
+      "line_label": "7",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q000915.8",
+      "line_label": "8",
+      "transliteration": "lu₂ e₂ - ninnu"
+    },
+    {
+      "line_id": "Q000915.9",
+      "line_label": "9",
+      "transliteration": "d nin - ŋir₂ - su - ka"
+    },
+    {
+      "line_id": "Q000915.10",
+      "line_label": "10",
+      "transliteration": "in - du₃ - a"
+    },
+    {
+      "line_id": "Q000915.11",
+      "line_label": "11",
+      "transliteration": "e₂ - ŋidru e₂ ub imin - a - ni"
+    },
+    {
+      "line_id": "Q000915.12",
+      "line_label": "12",
+      "transliteration": "mu - na - du₃"
+    }
+  ]
+}

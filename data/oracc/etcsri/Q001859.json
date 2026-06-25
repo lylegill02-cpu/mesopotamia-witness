@@ -1,0 +1,62 @@
+{
+  "text_id": "oracc.etcsri.Q001859",
+  "corpus": "oracc",
+  "title": "Ibbi-Suen 2004 (RIME 3/2.01.05.2004 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001859",
+  "paragraphs": [
+    {
+      "para_id": "Q001859.1",
+      "line_range": "1",
+      "translation": "(1) To Bau , her lady , ' Aman-ili , the spouse of Arad-Nanna , governor of Lagaš , dedicated this ( eye stone ) for the well-being of Ibbi-Suen ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001859.1",
+      "line_label": "1",
+      "transliteration": "d ba - u₂"
+    },
+    {
+      "line_id": "Q001859.2",
+      "line_label": "2",
+      "transliteration": "nin - a - ni - ir"
+    },
+    {
+      "line_id": "Q001859.3",
+      "line_label": "3",
+      "transliteration": "nam - til₃"
+    },
+    {
+      "line_id": "Q001859.4",
+      "line_label": "4",
+      "transliteration": "d i - bi₂ - d suen - ka - še₃"
+    },
+    {
+      "line_id": "Q001859.5",
+      "line_label": "5",
+      "transliteration": "ʾa₃ - ma - an - i₃ - li₂"
+    },
+    {
+      "line_id": "Q001859.6",
+      "line_label": "6",
+      "transliteration": "dam arad₂ - d nanna"
+    },
+    {
+      "line_id": "Q001859.7",
+      "line_label": "7",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001859.8",
+      "line_label": "8",
+      "transliteration": "lagaš ki - ka - ke₄"
+    },
+    {
+      "line_id": "Q001859.9",
+      "line_label": "9",
+      "transliteration": "a mu - na - ru"
+    }
+  ]
+}

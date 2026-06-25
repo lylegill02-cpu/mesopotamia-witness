@@ -1,0 +1,37 @@
+{
+  "text_id": "oracc.etcsri.Q001908",
+  "corpus": "oracc",
+  "title": "Unattributed Ur III 1039 (RIME 3/2.01.06.1039 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001908",
+  "paragraphs": [
+    {
+      "para_id": "Q001908.2",
+      "line_range": "2",
+      "translation": "(i 1') ..., ... of ..., the poweful man , king of Urim ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001908.2",
+      "line_label": "i 1'",
+      "transliteration": "[ nita kalag ] - ga"
+    },
+    {
+      "line_id": "Q001908.3",
+      "line_label": "i 2'",
+      "transliteration": "[ lugal ] ⸢ urim₅ ⸣ ki - ⸢ ma ⸣ - ka - še₃"
+    },
+    {
+      "line_id": "Q001908.4",
+      "line_label": "i 3'",
+      "transliteration": "[ x ] - ⸢ aga₃ ? ⸣ - zid"
+    },
+    {
+      "line_id": "Q001908.6",
+      "line_label": "ii 1",
+      "transliteration": "[... ] ⸢ SAR ⸣"
+    }
+  ]
+}

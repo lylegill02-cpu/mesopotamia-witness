@@ -1,0 +1,157 @@
+{
+  "text_id": "oracc.etcsri.Q001033",
+  "corpus": "oracc",
+  "title": "Ur-Nanše 18 (RIME 1.09.01.18 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001033",
+  "paragraphs": [
+    {
+      "para_id": "Q001033.1",
+      "line_range": "1",
+      "translation": "(i 1) Ur-Nanše , king of Lagaš , child of Gunidu , citizen of Gursar , built the Ebgal ."
+    },
+    {
+      "para_id": "Q001033.8",
+      "line_range": "8",
+      "translation": "(ii 4) He built the Kinir ."
+    },
+    {
+      "para_id": "Q001033.10",
+      "line_range": "10",
+      "translation": "(ii 6) He built the Nine-ĝara ."
+    },
+    {
+      "para_id": "Q001033.12",
+      "line_range": "12",
+      "translation": "(iii 2) He built the Bagara ."
+    },
+    {
+      "para_id": "Q001033.14",
+      "line_range": "14",
+      "translation": "(iii 4) He built the E-dam ."
+    },
+    {
+      "para_id": "Q001033.16",
+      "line_range": "16",
+      "translation": "(iii 6) He built the Tiraš"
+    },
+    {
+      "para_id": "Q001033.18",
+      "line_range": "18",
+      "translation": "(iv 2) He built the A-eden ."
+    },
+    {
+      "para_id": "Q001033.20",
+      "line_range": "20",
+      "translation": "(iv 4) He built the E-ĝidru ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001033.1",
+      "line_label": "i 1",
+      "transliteration": "ur - d nanše"
+    },
+    {
+      "line_id": "Q001033.2",
+      "line_label": "i 2",
+      "transliteration": "lugal"
+    },
+    {
+      "line_id": "Q001033.3",
+      "line_label": "i 3",
+      "transliteration": "lagaš"
+    },
+    {
+      "line_id": "Q001033.4",
+      "line_label": "i 4",
+      "transliteration": "dumu gu - NI - DU"
+    },
+    {
+      "line_id": "Q001033.5",
+      "line_label": "ii 1",
+      "transliteration": "dumu gur - sar"
+    },
+    {
+      "line_id": "Q001033.6",
+      "line_label": "ii 2",
+      "transliteration": "eb - gal"
+    },
+    {
+      "line_id": "Q001033.7",
+      "line_label": "ii 3",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001033.8",
+      "line_label": "ii 4",
+      "transliteration": "ki - nir"
+    },
+    {
+      "line_id": "Q001033.9",
+      "line_label": "ii 5",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001033.10",
+      "line_label": "ii 6",
+      "transliteration": "nin - ŋar"
+    },
+    {
+      "line_id": "Q001033.11",
+      "line_label": "iii 1",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001033.12",
+      "line_label": "iii 2",
+      "transliteration": "ba - gara₂"
+    },
+    {
+      "line_id": "Q001033.13",
+      "line_label": "iii 3",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001033.14",
+      "line_label": "iii 4",
+      "transliteration": "e₂ - dam"
+    },
+    {
+      "line_id": "Q001033.15",
+      "line_label": "iii 5",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001033.16",
+      "line_label": "iii 6",
+      "transliteration": "ti - ra - aš₂"
+    },
+    {
+      "line_id": "Q001033.17",
+      "line_label": "iv 1",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001033.18",
+      "line_label": "iv 2",
+      "transliteration": "a - eden"
+    },
+    {
+      "line_id": "Q001033.19",
+      "line_label": "iv 3",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001033.20",
+      "line_label": "iv 4",
+      "transliteration": "e₂ - ŋidru"
+    },
+    {
+      "line_id": "Q001033.21",
+      "line_label": "iv 5",
+      "transliteration": "mu - du₃"
+    }
+  ]
+}

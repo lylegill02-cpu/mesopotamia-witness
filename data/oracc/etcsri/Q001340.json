@@ -1,0 +1,22 @@
+{
+  "text_id": "oracc.etcsri.Q001340",
+  "corpus": "oracc",
+  "title": "Anonymous Ur 02 (FAOS 05/2, AnUr 02)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001340",
+  "paragraphs": [
+    {
+      "para_id": "Q001340.1",
+      "line_range": "1",
+      "translation": "(1) Aya-ulgal ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001340.1",
+      "line_label": "1",
+      "transliteration": "aya₂ - ul₄ - gal"
+    }
+  ]
+}

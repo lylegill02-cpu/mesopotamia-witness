@@ -1,0 +1,67 @@
+{
+  "text_id": "oracc.etcsri.Q001244",
+  "corpus": "oracc",
+  "title": "Me-silim 1 (RIME 1.08.01.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001244",
+  "paragraphs": [
+    {
+      "para_id": "Q001244.1",
+      "line_range": "1",
+      "translation": "(1) Me-silim , king of Kiš , builder of Ninĝirsu's temple , diplayed this ( mace ) for Ninĝirsu ."
+    },
+    {
+      "para_id": "Q001244.7",
+      "line_range": "7",
+      "translation": "(7) ( At that time ) Lugal-šag-engur was the ruler of Lagaš ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001244.1",
+      "line_label": "1",
+      "transliteration": "me - silim"
+    },
+    {
+      "line_id": "Q001244.2",
+      "line_label": "2",
+      "transliteration": "lugal"
+    },
+    {
+      "line_id": "Q001244.3",
+      "line_label": "3",
+      "transliteration": "kiš ki"
+    },
+    {
+      "line_id": "Q001244.4",
+      "line_label": "4",
+      "transliteration": "e₂ du₃ d nin - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q001244.5",
+      "line_label": "5",
+      "transliteration": "d nin - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q001244.6",
+      "line_label": "6",
+      "transliteration": "mu - gub"
+    },
+    {
+      "line_id": "Q001244.7",
+      "line_label": "7",
+      "transliteration": "lugal - šag₄ - engur"
+    },
+    {
+      "line_id": "Q001244.8",
+      "line_label": "8",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001244.9",
+      "line_label": "9",
+      "transliteration": "⸢ lagaš ⸣ [ ki ? ]"
+    }
+  ]
+}

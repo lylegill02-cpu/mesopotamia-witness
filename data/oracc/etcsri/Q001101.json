@@ -1,0 +1,197 @@
+{
+  "text_id": "oracc.etcsri.Q001101",
+  "corpus": "oracc",
+  "title": "En-metena 23 (RIME 1.09.05.23 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001101",
+  "paragraphs": [
+    {
+      "para_id": "Q001101.1",
+      "line_range": "1",
+      "translation": "(1) For Lugal-Uruba , Ama-ušumgal-ana ."
+    },
+    {
+      "para_id": "Q001101.3",
+      "line_range": "3",
+      "translation": "(3) When Nanše gave the kingship of Lagaš to En-metena , ruler of Lagaš , chosen by Nanše in the heart , chief governor of Ninĝirsu , child of En-ana-tum , and Ninĝirsu proclaimed his name , then for Lugal-Uruba , En-metena , ruler of Lagaš , built his great temple in Urub , decorated it with gold and silver , and assigned precious metals , lapis lazuli , 20 oxen , and 20 sheep to Lugal-Uruba's courtyard as regular offering ."
+    },
+    {
+      "para_id": "Q001101.31",
+      "line_range": "31",
+      "translation": "(31) The personal god of En-metena , the builder of Lugal-Uruba's temple , is Šul-MUŠxPA ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001101.1",
+      "line_label": "1",
+      "transliteration": "d lugal - urub ki"
+    },
+    {
+      "line_id": "Q001101.2",
+      "line_label": "2",
+      "transliteration": "d ama - ušumgal - an - na - ra"
+    },
+    {
+      "line_id": "Q001101.3",
+      "line_label": "3",
+      "transliteration": "en - mete - na"
+    },
+    {
+      "line_id": "Q001101.4",
+      "line_label": "4",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001101.5",
+      "line_label": "5",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001101.6",
+      "line_label": "6",
+      "transliteration": "šag₄ pad₃ - da"
+    },
+    {
+      "line_id": "Q001101.7",
+      "line_label": "7",
+      "transliteration": "d nanše"
+    },
+    {
+      "line_id": "Q001101.8",
+      "line_label": "8",
+      "transliteration": "ensi₂ - gal"
+    },
+    {
+      "line_id": "Q001101.9",
+      "line_label": "9",
+      "transliteration": "d nin - ŋir₂ - su₂ - ka"
+    },
+    {
+      "line_id": "Q001101.10",
+      "line_label": "10",
+      "transliteration": "dumu en - an - na - tum₂"
+    },
+    {
+      "line_id": "Q001101.11",
+      "line_label": "11",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001101.12",
+      "line_label": "12",
+      "transliteration": "lagaš ki - ka - ra"
+    },
+    {
+      "line_id": "Q001101.13",
+      "line_label": "13",
+      "transliteration": "ud d nanše"
+    },
+    {
+      "line_id": "Q001101.14",
+      "line_label": "14",
+      "transliteration": "nam - lugal"
+    },
+    {
+      "line_id": "Q001101.15",
+      "line_label": "15",
+      "transliteration": "lagaš ki - sa"
+    },
+    {
+      "line_id": "Q001101.16",
+      "line_label": "16",
+      "transliteration": "mu - na - šum₂ - ma - a"
+    },
+    {
+      "line_id": "Q001101.17",
+      "line_label": "17",
+      "transliteration": "d nin - ŋir₂ - su₂ - ke₄"
+    },
+    {
+      "line_id": "Q001101.18",
+      "line_label": "18",
+      "transliteration": "mu e - ne₂ - pad₃ - da - a"
+    },
+    {
+      "line_id": "Q001101.19",
+      "line_label": "19",
+      "transliteration": "ud - ba"
+    },
+    {
+      "line_id": "Q001101.20",
+      "line_label": "20",
+      "transliteration": "en - mete - na - ke₄"
+    },
+    {
+      "line_id": "Q001101.21",
+      "line_label": "21",
+      "transliteration": "d lugal - urub ki - ra"
+    },
+    {
+      "line_id": "Q001101.22",
+      "line_label": "22",
+      "transliteration": "e₂ gal urub ki - ka - ni"
+    },
+    {
+      "line_id": "Q001101.23",
+      "line_label": "23",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001101.24",
+      "line_label": "24",
+      "transliteration": "kug - sig₁₇ kug - babbar₂ - ra"
+    },
+    {
+      "line_id": "Q001101.25",
+      "line_label": "25",
+      "transliteration": "šu mu - na - ni - tag"
+    },
+    {
+      "line_id": "Q001101.26",
+      "line_label": "26",
+      "transliteration": "kug za - gin₃"
+    },
+    {
+      "line_id": "Q001101.27",
+      "line_label": "27",
+      "transliteration": "gud 2( u c )"
+    },
+    {
+      "line_id": "Q001101.28",
+      "line_label": "28",
+      "transliteration": "udu 2( u c )"
+    },
+    {
+      "line_id": "Q001101.29",
+      "line_label": "29",
+      "transliteration": "kisal d lugal - urub ki - ka - ke₄"
+    },
+    {
+      "line_id": "Q001101.30",
+      "line_label": "30",
+      "transliteration": "sa₂ i₃ - mi - dug₄ - dug₄"
+    },
+    {
+      "line_id": "Q001101.31",
+      "line_label": "31",
+      "transliteration": "en - mete - na"
+    },
+    {
+      "line_id": "Q001101.32",
+      "line_label": "32",
+      "transliteration": "⸢ lu₂ ⸣ e₂ d lugal - urub ki du₃ - a"
+    },
+    {
+      "line_id": "Q001101.33",
+      "line_label": "33",
+      "transliteration": "diŋir - ra - ni"
+    },
+    {
+      "line_id": "Q001101.34",
+      "line_label": "34",
+      "transliteration": "d šul - MUŠ × PA - am₆"
+    }
+  ]
+}

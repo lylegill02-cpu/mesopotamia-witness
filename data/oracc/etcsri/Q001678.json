@@ -1,0 +1,27 @@
+{
+  "text_id": "oracc.etcsri.Q001678",
+  "corpus": "oracc",
+  "title": "Šulgi 46 (RIME 3/2.01.02.046 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001678",
+  "paragraphs": [
+    {
+      "para_id": "Q001678.1",
+      "line_range": "1",
+      "translation": "(1) Fruit plate of Šulgi , the king ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001678.1",
+      "line_label": "1",
+      "transliteration": "gurun dug"
+    },
+    {
+      "line_id": "Q001678.2",
+      "line_label": "2",
+      "transliteration": "d šul - gi lugal"
+    }
+  ]
+}

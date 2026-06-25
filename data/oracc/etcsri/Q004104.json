@@ -1,0 +1,117 @@
+{
+  "text_id": "oracc.etcsri.Q004104",
+  "corpus": "oracc",
+  "title": "Lipit-Eštar 09add (RIME 4.01.05.add09 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004104",
+  "paragraphs": [
+    {
+      "para_id": "Q004104.1",
+      "line_range": "1",
+      "translation": "(i 1) When I , Lipit-Eštar , the humble shepherd of Nibru , the true farmer of Urim , ceaseless provider of Eridug , the en priest suitable for Unug , king of Isin , king of Sumer and Akkad , the favourite of Inana , established justice in Sumer and Akkad , then I dug the moat of Isin , my royal city ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004104.1",
+      "line_label": "i 1",
+      "transliteration": "d li - pi₂ - it - eš₁₈ - tar₂"
+    },
+    {
+      "line_id": "Q004104.2",
+      "line_label": "i 2",
+      "transliteration": "sipad sun₅ - na"
+    },
+    {
+      "line_id": "Q004104.3",
+      "line_label": "i 3",
+      "transliteration": "nibru ki"
+    },
+    {
+      "line_id": "Q004104.4",
+      "line_label": "i 4",
+      "transliteration": "engar zid"
+    },
+    {
+      "line_id": "Q004104.5",
+      "line_label": "i 5",
+      "transliteration": "urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q004104.6",
+      "line_label": "i 6",
+      "transliteration": "muš₃ nu - tum₂ - mu"
+    },
+    {
+      "line_id": "Q004104.7",
+      "line_label": "i 7",
+      "transliteration": "eridug ki - ga"
+    },
+    {
+      "line_id": "Q004104.8",
+      "line_label": "i 8",
+      "transliteration": "en me - te"
+    },
+    {
+      "line_id": "Q004104.9",
+      "line_label": "i 9",
+      "transliteration": "unug ki - ga"
+    },
+    {
+      "line_id": "Q004104.10",
+      "line_label": "i 10",
+      "transliteration": "lugal i₃ - si - in ki - na"
+    },
+    {
+      "line_id": "Q004104.11",
+      "line_label": "i 11",
+      "transliteration": "lugal ki - en - gi ki - uri"
+    },
+    {
+      "line_id": "Q004104.12",
+      "line_label": "ii 1",
+      "transliteration": "šag₄ - ge de₆ - a"
+    },
+    {
+      "line_id": "Q004104.13",
+      "line_label": "ii 2",
+      "transliteration": "d inana - me - en"
+    },
+    {
+      "line_id": "Q004104.14",
+      "line_label": "ii 3",
+      "transliteration": "ḫi - ri - tum"
+    },
+    {
+      "line_id": "Q004104.15",
+      "line_label": "ii 4",
+      "transliteration": "i₃ - si - in ki - na"
+    },
+    {
+      "line_id": "Q004104.16",
+      "line_label": "ii 5",
+      "transliteration": "iri ki nam - lugal - ŋa₂ - ka"
+    },
+    {
+      "line_id": "Q004104.17",
+      "line_label": "ii 6",
+      "transliteration": "ud niŋ₂ - si - sa₂"
+    },
+    {
+      "line_id": "Q004104.18",
+      "line_label": "ii 7",
+      "transliteration": "ki - en - gi ki - uri - a"
+    },
+    {
+      "line_id": "Q004104.19",
+      "line_label": "ii 8",
+      "transliteration": "i - ni - in - ŋar - ra - a"
+    },
+    {
+      "line_id": "Q004104.20",
+      "line_label": "ii 9",
+      "transliteration": "mu - ba - al"
+    }
+  ]
+}

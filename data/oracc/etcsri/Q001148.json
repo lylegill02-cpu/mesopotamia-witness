@@ -1,0 +1,47 @@
+{
+  "text_id": "oracc.etcsri.Q001148",
+  "corpus": "oracc",
+  "title": "URU-KA-gina 32add (FAOS 05/1, Ukg 32)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001148",
+  "paragraphs": [
+    {
+      "para_id": "Q001148.1",
+      "line_range": "1",
+      "translation": "(1) Guards of the city wall : Inana-ursaĝ , overseer of the palace staff . Iri-kagina , king of Lagaš ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001148.1",
+      "line_label": "1",
+      "transliteration": "en - nu bad₃"
+    },
+    {
+      "line_id": "Q001148.2",
+      "line_label": "2",
+      "transliteration": "d inana - ur - saŋ"
+    },
+    {
+      "line_id": "Q001148.3",
+      "line_label": "3",
+      "transliteration": "ugula šag₄ e₂ - gal - ka"
+    },
+    {
+      "line_id": "Q001148.4",
+      "line_label": "4",
+      "transliteration": "iri - ka - gen₆ - na"
+    },
+    {
+      "line_id": "Q001148.5",
+      "line_label": "5",
+      "transliteration": "lugal"
+    },
+    {
+      "line_id": "Q001148.6",
+      "line_label": "6",
+      "transliteration": "lagaš ki"
+    }
+  ]
+}

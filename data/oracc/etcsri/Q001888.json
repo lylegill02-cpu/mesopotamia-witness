@@ -1,0 +1,42 @@
+{
+  "text_id": "oracc.etcsri.Q001888",
+  "corpus": "oracc",
+  "title": "Unattributed Ur III 1018 (RIME 3/2.01.06.1018 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001888",
+  "paragraphs": [
+    {
+      "para_id": "Q001888.1",
+      "line_range": "1",
+      "translation": "(1') ... writes his own name there , ... Mešlamta-ea , my ... that person !"
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001888.1",
+      "line_label": "1'",
+      "transliteration": "[ mu - ni ] bi₂ - ⸢ ib₂ ⸣ - sar - a"
+    },
+    {
+      "line_id": "Q001888.2",
+      "line_label": "2'",
+      "transliteration": "[ lu₂ ] - ba"
+    },
+    {
+      "line_id": "Q001888.3",
+      "line_label": "3'",
+      "transliteration": "[ d meš₃ ] - lam - ta - ⸢ e₃ ⸣ - < a >"
+    },
+    {
+      "line_id": "Q001888.4",
+      "line_label": "4'",
+      "transliteration": "[ x ] - ŋu₁₀"
+    },
+    {
+      "line_id": "Q001888.5",
+      "line_label": "5'",
+      "transliteration": "[... ] - ⸢ x ⸣"
+    }
+  ]
+}

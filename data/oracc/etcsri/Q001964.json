@@ -1,0 +1,97 @@
+{
+  "text_id": "oracc.etcsri.Q001964",
+  "corpus": "oracc",
+  "title": "Lipit-Eštar 07 (RIME 4.01.05.07 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001964",
+  "paragraphs": [
+    {
+      "para_id": "Q001964.1",
+      "line_range": "1",
+      "translation": "(1) For Inana of Mur , her Inana , Lamassatum , ( Lipit-Estar's ) mother built the E-maruru , her beloved storehouse in Isin for the well-being of Lipit-Eštar , the shepherd who heeds the gods , king of Sumer and Akkad , spouse of Inana , and also for her ( own ) well-being ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001964.1",
+      "line_label": "1",
+      "transliteration": "d inana"
+    },
+    {
+      "line_id": "Q001964.2",
+      "line_label": "2",
+      "transliteration": "mu - ur₅ ki"
+    },
+    {
+      "line_id": "Q001964.3",
+      "line_label": "3",
+      "transliteration": "d inana - ka - ni - ir"
+    },
+    {
+      "line_id": "Q001964.4",
+      "line_label": "4",
+      "transliteration": "nam - til₃"
+    },
+    {
+      "line_id": "Q001964.5",
+      "line_label": "5",
+      "transliteration": "d li - pi₂ - it - eš₄ - tar₂"
+    },
+    {
+      "line_id": "Q001964.6",
+      "line_label": "6",
+      "transliteration": "sipad ŋeš tuku"
+    },
+    {
+      "line_id": "Q001964.7",
+      "line_label": "7",
+      "transliteration": "diŋir - re - e - ne"
+    },
+    {
+      "line_id": "Q001964.8",
+      "line_label": "8",
+      "transliteration": "lugal ki - en - gi ki - uri"
+    },
+    {
+      "line_id": "Q001964.9",
+      "line_label": "9",
+      "transliteration": "dam d inana - ka - še₃"
+    },
+    {
+      "line_id": "Q001964.10",
+      "line_label": "10",
+      "transliteration": "la - ma - sa₃ - tum"
+    },
+    {
+      "line_id": "Q001964.11",
+      "line_label": "11",
+      "transliteration": "ama - ne₂"
+    },
+    {
+      "line_id": "Q001964.12",
+      "line_label": "12",
+      "transliteration": "u₃ nam - til₃ - la - ni - še₃"
+    },
+    {
+      "line_id": "Q001964.13",
+      "line_label": "13",
+      "transliteration": "e₂ - mar - uru₅"
+    },
+    {
+      "line_id": "Q001964.14",
+      "line_label": "14",
+      "transliteration": "šutum₂ ki aŋ₂ - ŋa₂ - ni"
+    },
+    {
+      "line_id": "Q001964.15",
+      "line_label": "15",
+      "transliteration": "šag₄ i₃ - si - in ki - na - ka"
+    },
+    {
+      "line_id": "Q001964.16",
+      "line_label": "16",
+      "transliteration": "mu - na - du₃"
+    }
+  ]
+}

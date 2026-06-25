@@ -1,0 +1,77 @@
+{
+  "text_id": "oracc.etcsri.Q001049",
+  "corpus": "oracc",
+  "title": "Ur-Nanše 32 (RIME 1.09.01.32 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001049",
+  "paragraphs": [
+    {
+      "para_id": "Q001049.1",
+      "line_range": "1",
+      "translation": "(iv 1) Šul-MUŠxPA , the personal god of the king , carried the pure earth-basket ."
+    },
+    {
+      "para_id": "Q001049.5",
+      "line_range": "5",
+      "translation": "(iv 5) Ur-Nanše , king of Lagaš , child of Gunidu , citizen of Gursar , built the shrine of Ĝirsu ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001049.1",
+      "line_label": "iv 1",
+      "transliteration": "d šul - MUŠ × PA"
+    },
+    {
+      "line_id": "Q001049.2",
+      "line_label": "iv 2",
+      "transliteration": "diŋir lugal"
+    },
+    {
+      "line_id": "Q001049.3",
+      "line_label": "iv 3",
+      "transliteration": "dupsik kug"
+    },
+    {
+      "line_id": "Q001049.4",
+      "line_label": "iv 4",
+      "transliteration": "e - il₂"
+    },
+    {
+      "line_id": "Q001049.5",
+      "line_label": "iv 5",
+      "transliteration": "ur - d nanše"
+    },
+    {
+      "line_id": "Q001049.6",
+      "line_label": "iv 6",
+      "transliteration": "lugal"
+    },
+    {
+      "line_id": "Q001049.7",
+      "line_label": "iv 7",
+      "transliteration": "lagaš"
+    },
+    {
+      "line_id": "Q001049.8",
+      "line_label": "iv 8",
+      "transliteration": "dumu gu - NI - DU"
+    },
+    {
+      "line_id": "Q001049.9",
+      "line_label": "iv 9",
+      "transliteration": "dumu gur - sar"
+    },
+    {
+      "line_id": "Q001049.10",
+      "line_label": "v 1",
+      "transliteration": "eš₃ ŋir₂ - su"
+    },
+    {
+      "line_id": "Q001049.11",
+      "line_label": "v 2",
+      "transliteration": "⸢ mu ⸣ - du₃"
+    }
+  ]
+}

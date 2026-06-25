@@ -1,0 +1,62 @@
+{
+  "text_id": "oracc.etcsri.Q001503",
+  "corpus": "oracc",
+  "title": "Gudea 065 (RIME 3/1.01.07.065 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001503",
+  "paragraphs": [
+    {
+      "para_id": "Q001503.1",
+      "line_range": "1",
+      "translation": "(Caption 1, 1) Ninĝišzida , his personal god ."
+    },
+    {
+      "para_id": "Q001503.3",
+      "line_range": "3",
+      "translation": "(Caption 2, 1) Gudea , ruler of Lagaš , who built ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001503.1",
+      "line_label": "Caption 1, 1",
+      "transliteration": "d nin - ŋeš - zid - da"
+    },
+    {
+      "line_id": "Q001503.2",
+      "line_label": "Caption 1, 2",
+      "transliteration": "diŋir - ra - ni"
+    },
+    {
+      "line_id": "Q001503.3",
+      "line_label": "Caption 2, 1",
+      "transliteration": "gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q001503.4",
+      "line_label": "Caption 2, 2",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001503.5",
+      "line_label": "Caption 2, 3",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001503.6",
+      "line_label": "Caption 2, 4",
+      "transliteration": "[ lu₂ ] ⸢ e₂ x x ⸣"
+    },
+    {
+      "line_id": "Q001503.7",
+      "line_label": "Caption 2, 5",
+      "transliteration": "[ x ] ⸢ x ⸣ - ni"
+    },
+    {
+      "line_id": "Q001503.8",
+      "line_label": "Caption 2, 6",
+      "transliteration": "⸢ mu - du₃ ? - a ? ⸣"
+    }
+  ]
+}

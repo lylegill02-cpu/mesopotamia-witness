@@ -1,0 +1,42 @@
+{
+  "text_id": "oracc.etcsri.Q001619",
+  "corpus": "oracc",
+  "title": "Ur-Namma 03 (RIME 3/2.01.01.03 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001619",
+  "paragraphs": [
+    {
+      "para_id": "Q001619.1",
+      "line_range": "1",
+      "translation": "(1) Ur-Namma , king of Urim , who built the temple of Nanna ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001619.1",
+      "line_label": "1",
+      "transliteration": "ur - d namma"
+    },
+    {
+      "line_id": "Q001619.2",
+      "line_label": "2",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q001619.3",
+      "line_label": "3",
+      "transliteration": "lu₂ e₂"
+    },
+    {
+      "line_id": "Q001619.4",
+      "line_label": "4",
+      "transliteration": "d nanna"
+    },
+    {
+      "line_id": "Q001619.5",
+      "line_label": "5",
+      "transliteration": "in - du₃ - a"
+    }
+  ]
+}

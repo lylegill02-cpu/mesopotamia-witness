@@ -1,0 +1,62 @@
+{
+  "text_id": "oracc.etcsri.Q001787",
+  "corpus": "oracc",
+  "title": "Šulgi 2059 (RIME 3/2.01.02.02059 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001787",
+  "paragraphs": [
+    {
+      "para_id": "Q001787.1",
+      "line_range": "1",
+      "translation": "(1) ..., úrnőjének , ... Sulgi , az erős férfi , Ur királya , Sumer és Akkád királya életéért ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001787.1",
+      "line_label": "1",
+      "transliteration": "d <[... ]>"
+    },
+    {
+      "line_id": "Q001787.2",
+      "line_label": "2",
+      "transliteration": "nin - < a - ni >"
+    },
+    {
+      "line_id": "Q001787.3",
+      "line_label": "3",
+      "transliteration": "nam - < ti - il >"
+    },
+    {
+      "line_id": "Q001787.4",
+      "line_label": "4",
+      "transliteration": "šul - < gi >"
+    },
+    {
+      "line_id": "Q001787.5",
+      "line_label": "5",
+      "transliteration": "nita < kalag - ga >"
+    },
+    {
+      "line_id": "Q001787.6",
+      "line_label": "6",
+      "transliteration": "lugal < urim₂ > ki - < ma >"
+    },
+    {
+      "line_id": "Q001787.7",
+      "line_label": "7",
+      "transliteration": "lugal < ki - en > - gi < ki - uri > - ka - še₃"
+    },
+    {
+      "line_id": "Q001787.8",
+      "line_label": "8",
+      "transliteration": "ur - ⸢ x ⸣ - [... ]"
+    },
+    {
+      "line_id": "Q001787.9",
+      "line_label": "9",
+      "transliteration": "⸢ ki ⸣ [... ]"
+    }
+  ]
+}

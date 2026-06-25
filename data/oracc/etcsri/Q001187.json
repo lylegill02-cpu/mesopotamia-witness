@@ -1,0 +1,27 @@
+{
+  "text_id": "oracc.etcsri.Q001187",
+  "corpus": "oracc",
+  "title": "Anonymous Lagaš 16 (FAOS 05/1, AnLag 16)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001187",
+  "paragraphs": [
+    {
+      "para_id": "Q001187.1",
+      "line_range": "1",
+      "translation": "(1) To Ninĝirsu of the Bagara , ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001187.1",
+      "line_label": "1",
+      "transliteration": "d nin - ŋir₂ - [ su₂ ]"
+    },
+    {
+      "line_id": "Q001187.2",
+      "line_label": "2",
+      "transliteration": "ba - gara₂ - [ ra ]"
+    }
+  ]
+}

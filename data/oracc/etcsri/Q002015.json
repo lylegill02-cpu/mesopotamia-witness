@@ -1,0 +1,127 @@
+{
+  "text_id": "oracc.etcsri.Q002015",
+  "corpus": "oracc",
+  "title": "Gungunum 2 (RIME 4.02.05.02 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q002015",
+  "paragraphs": [
+    {
+      "para_id": "Q002015.1",
+      "line_range": "1",
+      "translation": "(1) For Utu , the offspring of Nanna , the heir of the E-kišnuĝal , who was born by Ningal , his master , En-ana-tuma , the zirru priestess , the en priestess of Nanna in Urim , child of Išme-Dagan , king of Sumer and Akkad , built his E-hili , built his holy storehouse , and dedicated it to him for the well-being of Gungunum , the powerful man , king of Urim , and for her ( own ) well-being ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q002015.1",
+      "line_label": "1",
+      "transliteration": "d utu"
+    },
+    {
+      "line_id": "Q002015.2",
+      "line_label": "2",
+      "transliteration": "u₃ - tud - da"
+    },
+    {
+      "line_id": "Q002015.3",
+      "line_label": "3",
+      "transliteration": "d nanna"
+    },
+    {
+      "line_id": "Q002015.4",
+      "line_label": "4",
+      "transliteration": "ibilaₓ ( DUMU . NE )"
+    },
+    {
+      "line_id": "Q002015.5",
+      "line_label": "5",
+      "transliteration": "e₂ - kiš ki - nu - ŋal₂"
+    },
+    {
+      "line_id": "Q002015.6",
+      "line_label": "6",
+      "transliteration": "d nin - gal - e tud - da"
+    },
+    {
+      "line_id": "Q002015.7",
+      "line_label": "7",
+      "transliteration": "lugal - a - ni - ir"
+    },
+    {
+      "line_id": "Q002015.8",
+      "line_label": "8",
+      "transliteration": "nam - til₃"
+    },
+    {
+      "line_id": "Q002015.9",
+      "line_label": "9",
+      "transliteration": "gu - un - gu - nu - um"
+    },
+    {
+      "line_id": "Q002015.10",
+      "line_label": "10",
+      "transliteration": "nita kalag - ga"
+    },
+    {
+      "line_id": "Q002015.11",
+      "line_label": "11",
+      "transliteration": "lugal urim₅ ki - ma - ka - še₃"
+    },
+    {
+      "line_id": "Q002015.12",
+      "line_label": "12",
+      "transliteration": "en - an - na - tum₂ - ma"
+    },
+    {
+      "line_id": "Q002015.13",
+      "line_label": "13",
+      "transliteration": "zirruₓ ( EN . SAL . NUNUZ . ZI . AN . ŠEŠ . KI )"
+    },
+    {
+      "line_id": "Q002015.14",
+      "line_label": "14",
+      "transliteration": "en d nanna"
+    },
+    {
+      "line_id": "Q002015.15",
+      "line_label": "15",
+      "transliteration": "šag₄ urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q002015.16",
+      "line_label": "16",
+      "transliteration": "dumu d iš - me - d da - gan"
+    },
+    {
+      "line_id": "Q002015.17",
+      "line_label": "17",
+      "transliteration": "lugal ki - en - gi ki - uri"
+    },
+    {
+      "line_id": "Q002015.18",
+      "line_label": "18",
+      "transliteration": "e₂ - ḫi - li - a - ni in - du₃"
+    },
+    {
+      "line_id": "Q002015.19",
+      "line_label": "19",
+      "transliteration": "šutumₓ ( E₂ . GI . NA . AB . TUM ) kug - ga - ni"
+    },
+    {
+      "line_id": "Q002015.20",
+      "line_label": "20",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q002015.21",
+      "line_label": "21",
+      "transliteration": "nam - til₃ - la - ni - še₃"
+    },
+    {
+      "line_id": "Q002015.22",
+      "line_label": "22",
+      "transliteration": "a mu - na - ru"
+    }
+  ]
+}

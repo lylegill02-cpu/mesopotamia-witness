@@ -1,0 +1,67 @@
+{
+  "text_id": "oracc.etcsri.Q002241",
+  "corpus": "oracc",
+  "title": "Sin-kašid 04 (RIME 4.04.01.04 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q002241",
+  "paragraphs": [
+    {
+      "para_id": "Q002241.1",
+      "line_range": "1",
+      "translation": "(1) When Sin-kašid , the powerful man , king of Unug , king of Amnanum , provider of the E-ana , built the E-ana , then he ( also ) built his royal palace ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q002241.1",
+      "line_label": "1",
+      "transliteration": "d suen - ka₃ - ši - id"
+    },
+    {
+      "line_id": "Q002241.2",
+      "line_label": "2",
+      "transliteration": "nita kalag - ga"
+    },
+    {
+      "line_id": "Q002241.3",
+      "line_label": "3",
+      "transliteration": "lugal unug ki - ga"
+    },
+    {
+      "line_id": "Q002241.4",
+      "line_label": "4",
+      "transliteration": "lugal am - na - nu - um"
+    },
+    {
+      "line_id": "Q002241.5",
+      "line_label": "5",
+      "transliteration": "u₂ - a e₂ - an - na"
+    },
+    {
+      "line_id": "Q002241.6",
+      "line_label": "6",
+      "transliteration": "ud e₂ - an - na"
+    },
+    {
+      "line_id": "Q002241.7",
+      "line_label": "7",
+      "transliteration": "mu - du₃ - a"
+    },
+    {
+      "line_id": "Q002241.8",
+      "line_label": "8",
+      "transliteration": "e₂ - gal"
+    },
+    {
+      "line_id": "Q002241.9",
+      "line_label": "9",
+      "transliteration": "nam - lugal - la - ka - ni"
+    },
+    {
+      "line_id": "Q002241.10",
+      "line_label": "10",
+      "transliteration": "mu - du₃"
+    }
+  ]
+}

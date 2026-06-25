@@ -1,0 +1,87 @@
+{
+  "text_id": "oracc.etcsri.Q004880",
+  "corpus": "oracc",
+  "title": "Ur-Ninsumuna 1 (FAOS 09/2, Urninsun 1)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004880",
+  "paragraphs": [
+    {
+      "para_id": "Q004880.1",
+      "line_range": "1",
+      "translation": "(1) To Ninĝirsu , the powerful warrior of Enlil , his master , Ur-Ninsumuna , governor of Lagaš , dedicated this ( bowl ) for his well-being ."
+    },
+    {
+      "para_id": "Q004880.10",
+      "line_range": "10",
+      "translation": "(10) The name of this bowl is “May my master prolong my life!” ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004880.1",
+      "line_label": "1",
+      "transliteration": "d nin - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q004880.2",
+      "line_label": "2",
+      "transliteration": "ur - saŋ kalag - ga"
+    },
+    {
+      "line_id": "Q004880.3",
+      "line_label": "3",
+      "transliteration": "d en - lil₂ - la₂"
+    },
+    {
+      "line_id": "Q004880.4",
+      "line_label": "4",
+      "transliteration": "lugal - a - ni"
+    },
+    {
+      "line_id": "Q004880.5",
+      "line_label": "5",
+      "transliteration": "ur - d nin - ⸢ sumun₂ ⸣"
+    },
+    {
+      "line_id": "Q004880.6",
+      "line_label": "6",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q004880.7",
+      "line_label": "7",
+      "transliteration": "lagaš ki - ke₄"
+    },
+    {
+      "line_id": "Q004880.8",
+      "line_label": "8",
+      "transliteration": "nam - til₃ - la - ni - še₃"
+    },
+    {
+      "line_id": "Q004880.9",
+      "line_label": "9",
+      "transliteration": "a mu - na - ru"
+    },
+    {
+      "line_id": "Q004880.10",
+      "line_label": "10",
+      "transliteration": "bur - ba"
+    },
+    {
+      "line_id": "Q004880.11",
+      "line_label": "11",
+      "transliteration": "lugal - ŋu₁₀"
+    },
+    {
+      "line_id": "Q004880.12",
+      "line_label": "12",
+      "transliteration": "nam - til₃ - ŋu₁₀ ḫe₂ - su₃ - re"
+    },
+    {
+      "line_id": "Q004880.13",
+      "line_label": "13",
+      "transliteration": "mu - bi"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "text_id": "oracc.etcsri.Q001517",
+  "corpus": "oracc",
+  "title": "Gudea 085 (RIME 3/1.01.07.085 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001517",
+  "paragraphs": [
+    {
+      "para_id": "Q001517.2",
+      "line_range": "2",
+      "translation": "(1') He mixed the clay in a pure place , and made the ( first ) brick in an undefiled place . He purified the foundation by carrying around fire , and anointed the foundation pegs with oil of princely fragrance ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001517.2",
+      "line_label": "1'",
+      "transliteration": "[ im - bi ki dadag - ga - a ]"
+    },
+    {
+      "line_id": "Q001517.3",
+      "line_label": "2'",
+      "transliteration": "⸢ im ⸣ - [ mi - lu ]"
+    },
+    {
+      "line_id": "Q001517.4",
+      "line_label": "3'",
+      "transliteration": "⸢ šeg₁₂ ⸣ - [ bi ki sikil - a ]"
+    },
+    {
+      "line_id": "Q001517.5",
+      "line_label": "4'",
+      "transliteration": "im - ⸢ mi ⸣ - [ du₈ ]"
+    },
+    {
+      "line_id": "Q001517.6",
+      "line_label": "5'",
+      "transliteration": "⸢ uš ⸣ - bi ⸢ mu ⸣ - [ kug ]"
+    },
+    {
+      "line_id": "Q001517.7",
+      "line_label": "6'",
+      "transliteration": "⸢ izi ⸣ im - ta - [ la₂ ]"
+    },
+    {
+      "line_id": "Q001517.8",
+      "line_label": "7'",
+      "transliteration": "⸢ temen ⸣ - [ be₂ ]"
+    },
+    {
+      "line_id": "Q001517.9",
+      "line_label": "8'",
+      "transliteration": "[ i₃ ir nun - ka ]"
+    },
+    {
+      "line_id": "Q001517.10",
+      "line_label": "9'",
+      "transliteration": "[ šu tag ba - ni - dug₄ ]"
+    }
+  ]
+}

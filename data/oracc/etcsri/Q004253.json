@@ -1,0 +1,187 @@
+{
+  "text_id": "oracc.etcsri.Q004253",
+  "corpus": "oracc",
+  "title": "Lugal-ayamu 2001 (RIME 1.14.add21.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004253",
+  "paragraphs": [
+    {
+      "para_id": "Q004253.1",
+      "line_range": "1",
+      "translation": "(1) At the time when Lugal-ayaĝu , the temple administrator of Iškur , ruled in Adab , Damgalnuna chose Ur-Imma in her holy heart and told him “Build my temple for me!” , and after Ur-Imma had gone to Damgalnuna to tell her of his intentions , Ur-Imma , the powerful house-born slave of Damgalnuna , the powerful servant of Imma , the powerful descendant of Lugal-niĝbarag-dug’s clan , excavated ( her temple's ) 6 kuš and 1 zapah deep foundation pit . He assigned a nueša priest , a cupbearer , male and female servants to the temple ."
+    },
+    {
+      "para_id": "Q004253.24",
+      "line_range": "24",
+      "translation": "(24) Because of these , Damgalnuna decided a good fate for Ur-Imma , and ( when ) he requested from her the well-being of his mother , the well-being of his spouse and child , and the well-being his brothers , ( then ) Damgalnuna stood by him in this ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004253.1",
+      "line_label": "1",
+      "transliteration": "ud lugal - aya₂ - ŋu₁₀"
+    },
+    {
+      "line_id": "Q004253.2",
+      "line_label": "2",
+      "transliteration": "saŋŋa d iškur - ke₄"
+    },
+    {
+      "line_id": "Q004253.3",
+      "line_label": "3",
+      "transliteration": "nam - ensi₂"
+    },
+    {
+      "line_id": "Q004253.4",
+      "line_label": "4",
+      "transliteration": "adab ki in - ak - a"
+    },
+    {
+      "line_id": "Q004253.5",
+      "line_label": "5",
+      "transliteration": "ur - d immaₓ ( LAGAB × SIG₇ . ME ) ama - tud kalag - ga"
+    },
+    {
+      "line_id": "Q004253.6",
+      "line_label": "6",
+      "transliteration": "d dam - gal - nun - na - ka - ke₄"
+    },
+    {
+      "line_id": "Q004253.7",
+      "line_label": "7",
+      "transliteration": "arad₂ kalag - ga d immaₓ ( LAGAB × SIG₇ . ME )- ke₄"
+    },
+    {
+      "line_id": "Q004253.8",
+      "line_label": "8",
+      "transliteration": "šabalbal ? - la kalag - ga"
+    },
+    {
+      "line_id": "Q004253.9",
+      "line_label": "9",
+      "transliteration": "lugal - niŋ₂ - baragₓ ( BAD )- dug₃ ilduₓ ( IGI . NAGAR )- ke₄"
+    },
+    {
+      "line_id": "Q004253.10",
+      "line_label": "10",
+      "transliteration": "ud ur - d immaₓ ( LAGAB × SIG₇ . ME ) d dam - gal - nun - na - ke₄"
+    },
+    {
+      "line_id": "Q004253.11",
+      "line_label": "11",
+      "transliteration": "šag₄ - ga - ne₂ ba - an - pad₃ - da"
+    },
+    {
+      "line_id": "Q004253.12",
+      "line_label": "12",
+      "transliteration": "e₂ - ŋu₁₀ du₃ - ma"
+    },
+    {
+      "line_id": "Q004253.13",
+      "line_label": "13",
+      "transliteration": "in - na - dug₄ - ga"
+    },
+    {
+      "line_id": "Q004253.14",
+      "line_label": "14",
+      "transliteration": "ur - d immaₓ ( LAGAB × SIG₇ . ME )- ke₄ d dam - gal - nun - na - ra"
+    },
+    {
+      "line_id": "Q004253.15",
+      "line_label": "15",
+      "transliteration": "inim šag₄ - ga - na in - na - dug₄ - ga"
+    },
+    {
+      "line_id": "Q004253.16",
+      "line_label": "16",
+      "transliteration": "in - na - ŋen - na"
+    },
+    {
+      "line_id": "Q004253.17",
+      "line_label": "17",
+      "transliteration": "ud - ba ur - d immaₓ ( LAGAB × SIG₇ . ME )- ke₄"
+    },
+    {
+      "line_id": "Q004253.18",
+      "line_label": "18",
+      "transliteration": "uš - bi 6( diš ) kuš₃ 1( diš ) zapaḫ"
+    },
+    {
+      "line_id": "Q004253.19",
+      "line_label": "19",
+      "transliteration": "ki - ta im - ta - e₃"
+    },
+    {
+      "line_id": "Q004253.20",
+      "line_label": "20",
+      "transliteration": "nu - eš₃"
+    },
+    {
+      "line_id": "Q004253.21",
+      "line_label": "21",
+      "transliteration": "sagi"
+    },
+    {
+      "line_id": "Q004253.22",
+      "line_label": "22",
+      "transliteration": "arad₂ geme₂ e₂ - e ba - šum₂"
+    },
+    {
+      "line_id": "Q004253.23",
+      "line_label": "23",
+      "transliteration": "d dam - gal - nun - na - ke₄"
+    },
+    {
+      "line_id": "Q004253.24",
+      "line_label": "24",
+      "transliteration": "bar - bi - a"
+    },
+    {
+      "line_id": "Q004253.25",
+      "line_label": "25",
+      "transliteration": "ur - d immaₓ ( LAGAB × SIG₇ . ME )- ra"
+    },
+    {
+      "line_id": "Q004253.26",
+      "line_label": "26",
+      "transliteration": "nam dug₃ mu - < ni > - in - tar"
+    },
+    {
+      "line_id": "Q004253.27",
+      "line_label": "27",
+      "transliteration": "nam - til₃ ama - na"
+    },
+    {
+      "line_id": "Q004253.28",
+      "line_label": "28",
+      "transliteration": "nam - til₃ dam dumu - na"
+    },
+    {
+      "line_id": "Q004253.29",
+      "line_label": "29",
+      "transliteration": "nam - til₃ šeš - a - ne - ne"
+    },
+    {
+      "line_id": "Q004253.30",
+      "line_label": "30",
+      "transliteration": "al im - ma - na - dug₄"
+    },
+    {
+      "line_id": "Q004253.31",
+      "line_label": "31",
+      "transliteration": "d dam - gal - nun - na"
+    },
+    {
+      "line_id": "Q004253.32",
+      "line_label": "32",
+      "transliteration": "ur - d immaₓ ( LAGAB × SIG₇ . ME )- ra"
+    },
+    {
+      "line_id": "Q004253.33",
+      "line_label": "33",
+      "transliteration": "mu - na - gub"
+    }
+  ]
+}

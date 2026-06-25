@@ -1,0 +1,32 @@
+{
+  "text_id": "oracc.etcsri.Q001359",
+  "corpus": "oracc",
+  "title": "Anonymous Ur 21 (FAOS 05/2, AnUr 21)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001359",
+  "paragraphs": [
+    {
+      "para_id": "Q001359.1",
+      "line_range": "1",
+      "translation": "(1) To Nanna , ... for the well-being of ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001359.1",
+      "line_label": "1",
+      "transliteration": "d nanna"
+    },
+    {
+      "line_id": "Q001359.2",
+      "line_label": "2",
+      "transliteration": "nam - til₃"
+    },
+    {
+      "line_id": "Q001359.3",
+      "line_label": "3",
+      "transliteration": "[... ] - ⸢ še₃ ⸣"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "text_id": "oracc.etcsri.Q005001",
+  "corpus": "oracc",
+  "title": "Ibbi-Suen 2071add / CDLI Seals 005925 (CDLI Seals 005925 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q005001",
+  "paragraphs": [
+    {
+      "para_id": "Q005001.1",
+      "line_range": "1",
+      "translation": "(i 1) Ibbi-Suen , the god of his land , the powerful king , king of Urim : Suen-bani , the cook , child of Itiya , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q005001.1",
+      "line_label": "i 1",
+      "transliteration": "d i - bi₂ - d suen"
+    },
+    {
+      "line_id": "Q005001.2",
+      "line_label": "i 2",
+      "transliteration": "diŋir kalam - ma - na"
+    },
+    {
+      "line_id": "Q005001.3",
+      "line_label": "i 3",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q005001.4",
+      "line_label": "i 4",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q005001.5",
+      "line_label": "ii 1",
+      "transliteration": "d suen - ba - ni"
+    },
+    {
+      "line_id": "Q005001.6",
+      "line_label": "ii 2",
+      "transliteration": "muḫaldim"
+    },
+    {
+      "line_id": "Q005001.7",
+      "line_label": "ii 3",
+      "transliteration": "dumu i - ti - a"
+    },
+    {
+      "line_id": "Q005001.8",
+      "line_label": "ii 4",
+      "transliteration": "arad₂ - zu"
+    }
+  ]
+}

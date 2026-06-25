@@ -1,0 +1,187 @@
+{
+  "text_id": "oracc.etcsri.Q001063",
+  "corpus": "oracc",
+  "title": "E-anatum 09 (RIME 1.09.03.09 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001063",
+  "paragraphs": [
+    {
+      "para_id": "Q001063.1",
+      "line_range": "1",
+      "translation": "(i 1) E-ana-tum , ruler of Lagaš , given strength by Enlil , nourished on rich milk by Ninhursaĝa , whose name was proclaimed by Ninĝirsu , chosen by Nanše in the heart , child of Aya-kurgal , ruler of Lagaš , defeated the highlands of Elam . He defeated Arawa . He defeated Umma . He defeated Urim ."
+    },
+    {
+      "para_id": "Q001063.23",
+      "line_range": "23",
+      "translation": "(ii 12) At that time , he built a well of fired brick for Ninĝirsu in his courtyard and then Ninĝirsu was pleased by him , whose is personal god is Šul-MUŠxPA , by E-ana-tum ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001063.1",
+      "line_label": "i 1",
+      "transliteration": "e₂ - an - na - tum₂"
+    },
+    {
+      "line_id": "Q001063.2",
+      "line_label": "i 2",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001063.3",
+      "line_label": "i 3",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001063.4",
+      "line_label": "i 4",
+      "transliteration": "a₂ šum₂ - ma"
+    },
+    {
+      "line_id": "Q001063.5",
+      "line_label": "i 5",
+      "transliteration": "d en - lil₂ - ke₄"
+    },
+    {
+      "line_id": "Q001063.6",
+      "line_label": "i 6",
+      "transliteration": "ga zid gu₇ - a"
+    },
+    {
+      "line_id": "Q001063.7",
+      "line_label": "i 7",
+      "transliteration": "d nin - ḫur - saŋ - ke₄"
+    },
+    {
+      "line_id": "Q001063.8",
+      "line_label": "i 8",
+      "transliteration": "mu pad₃ - da"
+    },
+    {
+      "line_id": "Q001063.9",
+      "line_label": "i 9",
+      "transliteration": "d nin - ŋir₂ - su - ke₄"
+    },
+    {
+      "line_id": "Q001063.10",
+      "line_label": "i 10",
+      "transliteration": "šag₄ pad₃ - da"
+    },
+    {
+      "line_id": "Q001063.11",
+      "line_label": "i 11",
+      "transliteration": "d nanše - ke₄"
+    },
+    {
+      "line_id": "Q001063.12",
+      "line_label": "ii 1",
+      "transliteration": "dumu aya₂ - kur - gal"
+    },
+    {
+      "line_id": "Q001063.13",
+      "line_label": "ii 2",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001063.14",
+      "line_label": "ii 3",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001063.15",
+      "line_label": "ii 4",
+      "transliteration": "kur elam ki"
+    },
+    {
+      "line_id": "Q001063.16",
+      "line_label": "ii 5",
+      "transliteration": "aga₃ - kar₂ ! ( ŠE₃ ) be₂ - seg₁₀"
+    },
+    {
+      "line_id": "Q001063.17",
+      "line_label": "ii 6",
+      "transliteration": "URU × A ki"
+    },
+    {
+      "line_id": "Q001063.18",
+      "line_label": "ii 7",
+      "transliteration": "aga₃ - kar₂ ! ( ŠE₃ ) be₂ - seg₁₀"
+    },
+    {
+      "line_id": "Q001063.19",
+      "line_label": "ii 8",
+      "transliteration": "umma ki"
+    },
+    {
+      "line_id": "Q001063.20",
+      "line_label": "ii 9",
+      "transliteration": "aga₃ - kar₂ ! ( ŠE₃ ) be₂ - seg₁₀"
+    },
+    {
+      "line_id": "Q001063.21",
+      "line_label": "ii 10",
+      "transliteration": "urim₅ ki"
+    },
+    {
+      "line_id": "Q001063.22",
+      "line_label": "ii 11",
+      "transliteration": "aga₃ - kar₂ ! ( ŠE₃ ) be₂ - seg₁₀"
+    },
+    {
+      "line_id": "Q001063.23",
+      "line_label": "ii 12",
+      "transliteration": "ud - ba"
+    },
+    {
+      "line_id": "Q001063.24",
+      "line_label": "iii 1",
+      "transliteration": "d nin - ŋir₂ - su - ra"
+    },
+    {
+      "line_id": "Q001063.25",
+      "line_label": "iii 2",
+      "transliteration": "kisal daŋal - la - na"
+    },
+    {
+      "line_id": "Q001063.26",
+      "line_label": "iii 3",
+      "transliteration": "pu₂ šeg₁₂ alurₓ ( BAḪAR₂ )- ra"
+    },
+    {
+      "line_id": "Q001063.27",
+      "line_label": "iii 4",
+      "transliteration": "mu - na - ni - du₃"
+    },
+    {
+      "line_id": "Q001063.28",
+      "line_label": "iii 5",
+      "transliteration": "diŋir - ra - ni"
+    },
+    {
+      "line_id": "Q001063.29",
+      "line_label": "iii 6",
+      "transliteration": "d šul - MUŠ × PA"
+    },
+    {
+      "line_id": "Q001063.30",
+      "line_label": "iii 7",
+      "transliteration": "ud - ba"
+    },
+    {
+      "line_id": "Q001063.31",
+      "line_label": "iii 8",
+      "transliteration": "d nin - ŋir₂ - su - ke₄"
+    },
+    {
+      "line_id": "Q001063.32",
+      "line_label": "iii 9",
+      "transliteration": "e₂ - an - na - tum₂"
+    },
+    {
+      "line_id": "Q001063.33",
+      "line_label": "iii 10",
+      "transliteration": "ki mu - na - aŋ₂"
+    }
+  ]
+}

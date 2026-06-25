@@ -1,0 +1,52 @@
+{
+  "text_id": "oracc.etcsri.Q001870",
+  "corpus": "oracc",
+  "title": "Ibbi-Suen 2015 (RIME 3/2.01.05.2015 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001870",
+  "paragraphs": [
+    {
+      "para_id": "Q001870.1",
+      "line_range": "1",
+      "translation": "(1) To Ĝatumdug , his lady , E-heĝal , child of Anza , dedicated this ( bead ) for the well-being of Ibbi-Suen ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001870.1",
+      "line_label": "1",
+      "transliteration": "d ŋa₂ - tum₃ - dug₃"
+    },
+    {
+      "line_id": "Q001870.2",
+      "line_label": "2",
+      "transliteration": "nin - na - ni"
+    },
+    {
+      "line_id": "Q001870.3",
+      "line_label": "3",
+      "transliteration": "nam - til₃ << NI >>"
+    },
+    {
+      "line_id": "Q001870.4",
+      "line_label": "4",
+      "transliteration": "d i - bi₂ - d suen"
+    },
+    {
+      "line_id": "Q001870.5",
+      "line_label": "5",
+      "transliteration": "e₂ - ḫe₂ - ŋal₂"
+    },
+    {
+      "line_id": "Q001870.6",
+      "line_label": "6",
+      "transliteration": "dumu AN - ZA"
+    },
+    {
+      "line_id": "Q001870.7",
+      "line_label": "7",
+      "transliteration": "a mu - na - ru"
+    }
+  ]
+}

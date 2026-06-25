@@ -1,0 +1,212 @@
+{
+  "text_id": "oracc.etcsri.Q001083",
+  "corpus": "oracc",
+  "title": "En-anatum I 15 (RIME 1.09.04.15 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001083",
+  "paragraphs": [
+    {
+      "para_id": "Q001083.1",
+      "line_range": "1",
+      "translation": "(i 1) For Lugal-Uruba , Ama-ušumgal-ana ."
+    },
+    {
+      "para_id": "Q001083.3",
+      "line_range": "3",
+      "translation": "(i 3) When En-ana-tum , ruler of Lagaš , chosen by Nanše in the heart , chief governor of Ninĝirsu , the child born to Lugal-Uruba , the child of Aya-kurgal , ruler of Lagaš , the beloved brother of E-ana-tum , ruler of Lagaš , built the Ebgal for Inana , made the E-ana exceed all the mountains , ( then ) Me-ane-dug , child of En-ana-tum , ruler of Lagaš , fashioned his ( own ) statue , and brought it before Lugal-Uruba in the temple ."
+    },
+    {
+      "para_id": "Q001083.30",
+      "line_range": "30",
+      "translation": "(ii 9) May it pay obeisance to Lugal-Uruba in the great temple of Urub for the well-being of his father , En-ana-tum , for the well-being of his mother , Aya-šurmen , and for his own well-being ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001083.1",
+      "line_label": "i 1",
+      "transliteration": "[ d lugal - urub ki ]"
+    },
+    {
+      "line_id": "Q001083.2",
+      "line_label": "i 2",
+      "transliteration": "[ d ama - ušumgal ] - an - na - ra"
+    },
+    {
+      "line_id": "Q001083.3",
+      "line_label": "i 3",
+      "transliteration": "⸢ me ⸣ - an - ne₂ - ⸢ dug₃ ⸣"
+    },
+    {
+      "line_id": "Q001083.4",
+      "line_label": "i 4",
+      "transliteration": "[ dumu ] ⸢ en ⸣ - an - [ na - tum₂ ]"
+    },
+    {
+      "line_id": "Q001083.5",
+      "line_label": "i 5",
+      "transliteration": "[ ensi₂ ]"
+    },
+    {
+      "line_id": "Q001083.6",
+      "line_label": "i 6",
+      "transliteration": "[ lagaš ki - ka - ke₄ ]"
+    },
+    {
+      "line_id": "Q001083.7",
+      "line_label": "i 7",
+      "transliteration": "[ ud ] ⸢ en ⸣ - an - na - tum₂"
+    },
+    {
+      "line_id": "Q001083.8",
+      "line_label": "i 8",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001083.9",
+      "line_label": "i 9",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001083.10",
+      "line_label": "i 10",
+      "transliteration": "[ šag₄ ] pad₃ - da"
+    },
+    {
+      "line_id": "Q001083.11",
+      "line_label": "i 11",
+      "transliteration": "⸢ d ⸣ nanše"
+    },
+    {
+      "line_id": "Q001083.12",
+      "line_label": "i 12",
+      "transliteration": "ensi₂ - gal"
+    },
+    {
+      "line_id": "Q001083.13",
+      "line_label": "i 13",
+      "transliteration": "d nin - ŋir₂ - su₂ - ka"
+    },
+    {
+      "line_id": "Q001083.14",
+      "line_label": "i 14",
+      "transliteration": "⸢ dumu ⸣ tud - da"
+    },
+    {
+      "line_id": "Q001083.15",
+      "line_label": "i 15",
+      "transliteration": "d lugal - urub ki - ka"
+    },
+    {
+      "line_id": "Q001083.16",
+      "line_label": "i 16",
+      "transliteration": "dumu aya₂ - kur - gal"
+    },
+    {
+      "line_id": "Q001083.17",
+      "line_label": "i 17",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001083.18",
+      "line_label": "i 18",
+      "transliteration": "lagaš ki - ⸢ ka ⸣"
+    },
+    {
+      "line_id": "Q001083.19",
+      "line_label": "i 19",
+      "transliteration": "[ šeš ki aŋ₂ ]"
+    },
+    {
+      "line_id": "Q001083.20",
+      "line_label": "i 20",
+      "transliteration": "[ e₂ - an - na - tum₂ ]"
+    },
+    {
+      "line_id": "Q001083.21",
+      "line_label": "i 21",
+      "transliteration": "[ ensi₂ ]"
+    },
+    {
+      "line_id": "Q001083.22",
+      "line_label": "ii 1",
+      "transliteration": "[ lagaš ki - ka - ke₄ ]"
+    },
+    {
+      "line_id": "Q001083.23",
+      "line_label": "ii 2",
+      "transliteration": "d ⸢ inana ⸣ - [ ra ]"
+    },
+    {
+      "line_id": "Q001083.24",
+      "line_label": "ii 3",
+      "transliteration": "eb - [ gal ] mu - ⸢ na ⸣ - [ du₃ - a ]"
+    },
+    {
+      "line_id": "Q001083.25",
+      "line_label": "ii 4",
+      "transliteration": "e₂ - [ an - na kur - kur - ra ]"
+    },
+    {
+      "line_id": "Q001083.26",
+      "line_label": "ii 5",
+      "transliteration": "[ mu ] - ⸢ na ⸣ - [ dirig - ga ] - a"
+    },
+    {
+      "line_id": "Q001083.27",
+      "line_label": "ii 6",
+      "transliteration": "⸢ alan ⸣ - ni mu - tud"
+    },
+    {
+      "line_id": "Q001083.28",
+      "line_label": "ii 7",
+      "transliteration": "d lugal - urub ki - ra"
+    },
+    {
+      "line_id": "Q001083.29",
+      "line_label": "ii 8",
+      "transliteration": "e₂ - a mu - na - ni - kurₓ ( DU )"
+    },
+    {
+      "line_id": "Q001083.30",
+      "line_label": "ii 9",
+      "transliteration": "nam - til₃ ab - ba - ni"
+    },
+    {
+      "line_id": "Q001083.31",
+      "line_label": "ii 10",
+      "transliteration": "en - an - na - tum₂ - ma - še₃"
+    },
+    {
+      "line_id": "Q001083.32",
+      "line_label": "ii 11",
+      "transliteration": "nam - til₃ ama - ni"
+    },
+    {
+      "line_id": "Q001083.33",
+      "line_label": "ii 12",
+      "transliteration": "aya₂ - šurmen - še₃"
+    },
+    {
+      "line_id": "Q001083.34",
+      "line_label": "ii 13",
+      "transliteration": "nam - ⸢ til₃ ⸣ - la - ni - ⸢ še₃ ⸣"
+    },
+    {
+      "line_id": "Q001083.35",
+      "line_label": "ii 14",
+      "transliteration": "d lugal - urub ki - [ ra ]"
+    },
+    {
+      "line_id": "Q001083.36",
+      "line_label": "ii 15",
+      "transliteration": "[ e₂ gal urub ki - ka ]"
+    },
+    {
+      "line_id": "Q001083.37",
+      "line_label": "ii 16",
+      "transliteration": "[ giri₁₇ šu ḫe₂ - na - še₃ - ŋal₂ ]"
+    }
+  ]
+}

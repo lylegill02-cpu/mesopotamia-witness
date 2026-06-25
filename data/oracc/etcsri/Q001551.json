@@ -1,0 +1,127 @@
+{
+  "text_id": "oracc.etcsri.Q001551",
+  "corpus": "oracc",
+  "title": "Gudea Statue M (RIME 3/1.01.07, St M composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001551",
+  "paragraphs": [
+    {
+      "para_id": "Q001551.1",
+      "line_range": "1",
+      "translation": "(1) Gudea , ruler of Lagaš , who built the temple of Ninĝišzida and the temple of Ĝeštin-ana ."
+    },
+    {
+      "para_id": "Q001551.7",
+      "line_range": "7",
+      "translation": "(i 1) For Ĝeštin-ana , the lady who grew with him , the beloved spouse of Ninĝišzida , his lady , Gudea , ruler of Lagaš , built her temple in Ĝirsu . He fashioned his statue , named it for her sake \" She stood by the entreaties \", and brought it before her into the temple ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001551.1",
+      "line_label": "1",
+      "transliteration": "gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q001551.2",
+      "line_label": "2",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001551.3",
+      "line_label": "3",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001551.4",
+      "line_label": "4",
+      "transliteration": "lu₂ e₂ d nin - ŋeš - zid - da"
+    },
+    {
+      "line_id": "Q001551.5",
+      "line_label": "5",
+      "transliteration": "u₃ e₂ d ŋeštin - an - na - ka"
+    },
+    {
+      "line_id": "Q001551.6",
+      "line_label": "6",
+      "transliteration": "mu - du₃ - a"
+    },
+    {
+      "line_id": "Q001551.7",
+      "line_label": "i 1",
+      "transliteration": "d ŋeštin - an - na"
+    },
+    {
+      "line_id": "Q001551.8",
+      "line_label": "i 2",
+      "transliteration": "nin a - ne mu₂ - a"
+    },
+    {
+      "line_id": "Q001551.9",
+      "line_label": "i 3",
+      "transliteration": "dam ki aŋ₂"
+    },
+    {
+      "line_id": "Q001551.10",
+      "line_label": "i 4",
+      "transliteration": "d nin - ŋeš - zid - da - ka"
+    },
+    {
+      "line_id": "Q001551.11",
+      "line_label": "ii 1",
+      "transliteration": "nin - a - ni"
+    },
+    {
+      "line_id": "Q001551.12",
+      "line_label": "ii 2",
+      "transliteration": "gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q001551.13",
+      "line_label": "ii 3",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001551.14",
+      "line_label": "ii 4",
+      "transliteration": "lagaš ki - ke₄"
+    },
+    {
+      "line_id": "Q001551.15",
+      "line_label": "ii 5",
+      "transliteration": "e₂ ŋir₂ - su ki - ka - ni"
+    },
+    {
+      "line_id": "Q001551.16",
+      "line_label": "ii 6",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001551.17",
+      "line_label": "ii 7",
+      "transliteration": "alan - na - ni"
+    },
+    {
+      "line_id": "Q001551.18",
+      "line_label": "iii 1",
+      "transliteration": "mu - tud"
+    },
+    {
+      "line_id": "Q001551.19",
+      "line_label": "iii 2",
+      "transliteration": "nam - šita - e ba - gub"
+    },
+    {
+      "line_id": "Q001551.20",
+      "line_label": "iii 3",
+      "transliteration": "mu - še₃ mu - na - še₂₁"
+    },
+    {
+      "line_id": "Q001551.21",
+      "line_label": "iii 4",
+      "transliteration": "e₂ - a - ni - a mu - na - ni - kur₉ ( REC145 )"
+    }
+  ]
+}

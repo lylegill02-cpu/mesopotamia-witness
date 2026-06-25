@@ -1,0 +1,27 @@
+{
+  "text_id": "oracc.etcsri.Q001288",
+  "corpus": "oracc",
+  "title": "Anonymous Nippur 34 (FAOS 05/2, AnNip 34)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001288",
+  "paragraphs": [
+    {
+      "para_id": "Q001288.1",
+      "line_range": "1",
+      "translation": "(1) Andabsi , the chief ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001288.1",
+      "line_label": "1",
+      "transliteration": "an - dab₆ - si"
+    },
+    {
+      "line_id": "Q001288.2",
+      "line_label": "2",
+      "transliteration": "SAR gal"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "text_id": "oracc.etcsri.Q001474",
+  "corpus": "oracc",
+  "title": "Gudea 007 (RIME 3/1.01.07.007 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001474",
+  "paragraphs": [
+    {
+      "para_id": "Q001474.1",
+      "line_range": "1",
+      "translation": "(i 1) For Bau , the kind woman , the daughter of An , the lady of Iri-kug , his lady , Gudea , ruler of Lagaš , ... builder Ninĝirsu's E-ninnu-anzud-babbar , ... Bau ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001474.1",
+      "line_label": "i 1",
+      "transliteration": "[ d ba - u₂ ]"
+    },
+    {
+      "line_id": "Q001474.2",
+      "line_label": "i 2",
+      "transliteration": "[ munus ] ⸢ sag₉ ⸣ - ga"
+    },
+    {
+      "line_id": "Q001474.3",
+      "line_label": "i 3",
+      "transliteration": "[ dumu an ] - na"
+    },
+    {
+      "line_id": "Q001474.4",
+      "line_label": "i 4",
+      "transliteration": "[ nin iri - kug ] - ga"
+    },
+    {
+      "line_id": "Q001474.5",
+      "line_label": "i 5",
+      "transliteration": "[ nin - a ] - ⸢ ni ⸣"
+    },
+    {
+      "line_id": "Q001474.6",
+      "line_label": "i 6",
+      "transliteration": "[ gu₃ ] - ⸢ de₂ - a ⸣"
+    },
+    {
+      "line_id": "Q001474.7",
+      "line_label": "i 7",
+      "transliteration": "⸢ ensi₂ ⸣"
+    },
+    {
+      "line_id": "Q001474.8",
+      "line_label": "i 8",
+      "transliteration": "⸢ lagaš ⸣ ki"
+    },
+    {
+      "line_id": "Q001474.9",
+      "line_label": "ii 1",
+      "transliteration": "[ lu₂ ... ]"
+    },
+    {
+      "line_id": "Q001474.10",
+      "line_label": "ii 2",
+      "transliteration": "e₂ - [ ninnu - anzud₂ mušen - babbar₂ ]"
+    },
+    {
+      "line_id": "Q001474.11",
+      "line_label": "ii 3",
+      "transliteration": "d [ nin - ŋir₂ - su - ka ]"
+    },
+    {
+      "line_id": "Q001474.12",
+      "line_label": "ii 4",
+      "transliteration": "⸢ mu ⸣ - [ du₃ - a ]"
+    },
+    {
+      "line_id": "Q001474.13",
+      "line_label": "ii 5",
+      "transliteration": "⸢ x x ⸣ [... ]"
+    },
+    {
+      "line_id": "Q001474.14",
+      "line_label": "ii 6",
+      "transliteration": "mu - [... ]"
+    },
+    {
+      "line_id": "Q001474.15",
+      "line_label": "ii 7",
+      "transliteration": "d ⸢ ba ⸣ - [ u₂ ]"
+    }
+  ]
+}

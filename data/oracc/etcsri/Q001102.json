@@ -1,0 +1,112 @@
+{
+  "text_id": "oracc.etcsri.Q001102",
+  "corpus": "oracc",
+  "title": "En-metena 20 (RIME 1.09.05.20 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001102",
+  "paragraphs": [
+    {
+      "para_id": "Q001102.1",
+      "line_range": "1",
+      "translation": "(1) For Nanše of the Šeše-ĝara , En-metena , ruler of Lagaš , chosen by Nanše in the heart , chief governor of Ninĝirsu , chosen brother of Nindara , the mighty master , child of En-ana-tum , ruler of Lagaš , fashioned a door of white cedar , and installed it in the temple for his well-being ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001102.1",
+      "line_label": "1",
+      "transliteration": "d nanše"
+    },
+    {
+      "line_id": "Q001102.2",
+      "line_label": "2",
+      "transliteration": "šeš - ŋar - ra"
+    },
+    {
+      "line_id": "Q001102.3",
+      "line_label": "3",
+      "transliteration": "en - mete - na"
+    },
+    {
+      "line_id": "Q001102.4",
+      "line_label": "4",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001102.5",
+      "line_label": "5",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001102.6",
+      "line_label": "6",
+      "transliteration": "šag₄ pad₃ - da"
+    },
+    {
+      "line_id": "Q001102.7",
+      "line_label": "7",
+      "transliteration": "d nanše"
+    },
+    {
+      "line_id": "Q001102.8",
+      "line_label": "8",
+      "transliteration": "ensi₂ - gal"
+    },
+    {
+      "line_id": "Q001102.9",
+      "line_label": "9",
+      "transliteration": "d nin - ŋir₂ - su₂ - ka"
+    },
+    {
+      "line_id": "Q001102.10",
+      "line_label": "10",
+      "transliteration": "šeš pad₃ - da"
+    },
+    {
+      "line_id": "Q001102.11",
+      "line_label": "11",
+      "transliteration": "d nin - dar"
+    },
+    {
+      "line_id": "Q001102.12",
+      "line_label": "12",
+      "transliteration": "lugal uru₁₆ - na !"
+    },
+    {
+      "line_id": "Q001102.13",
+      "line_label": "13",
+      "transliteration": "dumu en - an - na - tum₂"
+    },
+    {
+      "line_id": "Q001102.14",
+      "line_label": "14",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001102.15",
+      "line_label": "15",
+      "transliteration": "lagaš ki - ka - ke₄"
+    },
+    {
+      "line_id": "Q001102.16",
+      "line_label": "16",
+      "transliteration": "ig eren babbar₂"
+    },
+    {
+      "line_id": "Q001102.17",
+      "line_label": "17",
+      "transliteration": "mu - na - dim₂"
+    },
+    {
+      "line_id": "Q001102.18",
+      "line_label": "18",
+      "transliteration": "nam - til₃ - la - ni - še₃"
+    },
+    {
+      "line_id": "Q001102.19",
+      "line_label": "19",
+      "transliteration": "e₂ - a mu - na - gub"
+    }
+  ]
+}

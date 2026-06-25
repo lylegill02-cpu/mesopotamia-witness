@@ -1,0 +1,37 @@
+{
+  "text_id": "oracc.etcsri.Q001733",
+  "corpus": "oracc",
+  "title": "Šulgi 2005 / CDLI Seals 002410 (CDLI Seals 002410 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001733",
+  "paragraphs": [
+    {
+      "para_id": "Q001733.1",
+      "line_range": "1",
+      "translation": "(1) Habaluge , governor of Adab : Amar-šuba , the scribe , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001733.1",
+      "line_label": "1",
+      "transliteration": "ḫa - ba - lu₅ - ge₂"
+    },
+    {
+      "line_id": "Q001733.2",
+      "line_label": "2",
+      "transliteration": "ensi₂ adab ki"
+    },
+    {
+      "line_id": "Q001733.3",
+      "line_label": "3",
+      "transliteration": "amar - šuba₃"
+    },
+    {
+      "line_id": "Q001733.4",
+      "line_label": "4",
+      "transliteration": "dub - sar arad₂ - zu"
+    }
+  ]
+}

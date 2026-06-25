@@ -1,0 +1,72 @@
+{
+  "text_id": "oracc.etcsri.Q001383",
+  "corpus": "oracc",
+  "title": "Anonymous Uruk 1 (FAOS 05/2, AnUruk 01)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001383",
+  "paragraphs": [
+    {
+      "para_id": "Q001383.1",
+      "line_range": "1",
+      "translation": "(1) After Ninimma filled ( Aya-diĝirĝu ) with awe by addressing him , Aya-diĝirĝu , father of Aka , the temple administrator of Utu , and Kumtuše , mother of Aya-diĝirĝu , dedicated ( this statue ) to Ninšubur ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001383.1",
+      "line_label": "1",
+      "transliteration": "d nin - šubur"
+    },
+    {
+      "line_id": "Q001383.2",
+      "line_label": "2",
+      "transliteration": "aya₂ - diŋir - ŋu₁₀"
+    },
+    {
+      "line_id": "Q001383.3",
+      "line_label": "3",
+      "transliteration": "ad - da"
+    },
+    {
+      "line_id": "Q001383.4",
+      "line_label": "4",
+      "transliteration": "AK saŋŋa d utu"
+    },
+    {
+      "line_id": "Q001383.5",
+      "line_label": "5",
+      "transliteration": "KUM - tuš - še₃ ama"
+    },
+    {
+      "line_id": "Q001383.6",
+      "line_label": "6",
+      "transliteration": "aya₂ - diŋir - ŋu₁₀ - ke₄"
+    },
+    {
+      "line_id": "Q001383.7",
+      "line_label": "7",
+      "transliteration": "ud d nin - imma₃ ?"
+    },
+    {
+      "line_id": "Q001383.8",
+      "line_label": "8",
+      "transliteration": "⸢ gu₃ ⸣ e - na - de₂ - a"
+    },
+    {
+      "line_id": "Q001383.9",
+      "line_label": "9",
+      "transliteration": "ni₂ mu - ni - ⸢ tuku ⸣"
+    },
+    {
+      "line_id": "Q001383.10",
+      "line_label": "10",
+      "transliteration": "[ aya₂ ] - diŋir - ⸢ ŋu₁₀ ⸣ KUM - tuš - še₃ !"
+    },
+    {
+      "line_id": "Q001383.11",
+      "line_label": "11",
+      "transliteration": "a [ mu - na - ru ]"
+    }
+  ]
+}

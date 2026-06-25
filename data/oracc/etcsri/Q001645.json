@@ -1,0 +1,32 @@
+{
+  "text_id": "oracc.etcsri.Q001645",
+  "corpus": "oracc",
+  "title": "Ur-Namma 50 (RIME 3/2.01.01.50 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001645",
+  "paragraphs": [
+    {
+      "para_id": "Q001645.1",
+      "line_range": "1",
+      "translation": "(1) Ur-Namma , the powerful man , king of Urim ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001645.1",
+      "line_label": "1",
+      "transliteration": "[ ur - d ] ⸢ namma ⸣"
+    },
+    {
+      "line_id": "Q001645.2",
+      "line_label": "2",
+      "transliteration": "[ nita kalag ] - ⸢ ga ⸣"
+    },
+    {
+      "line_id": "Q001645.3",
+      "line_label": "3",
+      "transliteration": "lugal urim₅ ki - ma"
+    }
+  ]
+}

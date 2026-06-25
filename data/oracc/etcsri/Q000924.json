@@ -1,0 +1,52 @@
+{
+  "text_id": "oracc.etcsri.Q000924",
+  "corpus": "oracc",
+  "title": "Gudea 072 (RIME 3/1.01.07.072 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000924",
+  "paragraphs": [
+    {
+      "para_id": "Q000924.1",
+      "line_range": "1",
+      "translation": "(1) For Ninšubur , his lady , Gudea , ruler of Lagaš , built her temple ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000924.1",
+      "line_label": "1",
+      "transliteration": "d nin - šubur"
+    },
+    {
+      "line_id": "Q000924.2",
+      "line_label": "2",
+      "transliteration": "nin - a - ni"
+    },
+    {
+      "line_id": "Q000924.3",
+      "line_label": "3",
+      "transliteration": "gu₃ - ⸢ de₂ ⸣ - a"
+    },
+    {
+      "line_id": "Q000924.4",
+      "line_label": "4",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q000924.5",
+      "line_label": "5",
+      "transliteration": "⸢ lagaš ⸣ ki - ke₄"
+    },
+    {
+      "line_id": "Q000924.6",
+      "line_label": "6",
+      "transliteration": "e₂ - a - ni"
+    },
+    {
+      "line_id": "Q000924.7",
+      "line_label": "7",
+      "transliteration": "mu - na - du₃"
+    }
+  ]
+}

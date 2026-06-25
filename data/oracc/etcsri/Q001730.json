@@ -1,0 +1,42 @@
+{
+  "text_id": "oracc.etcsri.Q001730",
+  "corpus": "oracc",
+  "title": "Šulgi 2002 / CDLI Seals 005446 (CDLI Seals 005446 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001730",
+  "paragraphs": [
+    {
+      "para_id": "Q001730.1",
+      "line_range": "1",
+      "translation": "(1) Ur-Ašgi , governor of Adab : Aya-kala , the retainer , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001730.1",
+      "line_label": "1",
+      "transliteration": "ur - d [ aš aš₇ - gi₄ ]"
+    },
+    {
+      "line_id": "Q001730.2",
+      "line_label": "2",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001730.3",
+      "line_label": "3",
+      "transliteration": "adab ki"
+    },
+    {
+      "line_id": "Q001730.4",
+      "line_label": "4",
+      "transliteration": "a - a - kal - la"
+    },
+    {
+      "line_id": "Q001730.5",
+      "line_label": "5",
+      "transliteration": "eŋir arad₂ - zu"
+    }
+  ]
+}

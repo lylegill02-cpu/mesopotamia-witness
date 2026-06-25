@@ -1,0 +1,47 @@
+{
+  "text_id": "oracc.etcsri.Q001145",
+  "corpus": "oracc",
+  "title": "URU-KA-gina 29add (FAOS 05/1, Ukg 29)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001145",
+  "paragraphs": [
+    {
+      "para_id": "Q001145.1",
+      "line_range": "1",
+      "translation": "(1) Guards of the city wall : Lu-zabar , the captain is Amar-ezen . Iri-kagina , king of Lagaš ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001145.1",
+      "line_label": "1",
+      "transliteration": "en - nu bad₃"
+    },
+    {
+      "line_id": "Q001145.2",
+      "line_label": "2",
+      "transliteration": "lu₂ - ⸢ zabar₃ ? ⸣"
+    },
+    {
+      "line_id": "Q001145.3",
+      "line_label": "3",
+      "transliteration": "ugula amar - ezen"
+    },
+    {
+      "line_id": "Q001145.4",
+      "line_label": "4",
+      "transliteration": "iri - ka - gen₆ - na"
+    },
+    {
+      "line_id": "Q001145.5",
+      "line_label": "5",
+      "transliteration": "lugal"
+    },
+    {
+      "line_id": "Q001145.6",
+      "line_label": "6",
+      "transliteration": "⸢ lagaš ⸣ ki"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "text_id": "oracc.etcsri.Q000996",
+  "corpus": "oracc",
+  "title": "Šu-Suen 12 (RIME 3/2.01.04.12 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000996",
+  "paragraphs": [
+    {
+      "para_id": "Q000996.1",
+      "line_range": "1",
+      "translation": "(1) For Šu-Suen , whose name was proclaimed by An , the beloved of Enlil , the king whom Enlil chose in his holy heart as the shepherd of the land and of the four quarters , the powerful king , king of Urim , king of the four quarters , his god , Ituria , governor of Ešnuna , his servant built his temple ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000996.1",
+      "line_label": "1",
+      "transliteration": "d šu - d suen"
+    },
+    {
+      "line_id": "Q000996.2",
+      "line_label": "2",
+      "transliteration": "mu pad₃ - da"
+    },
+    {
+      "line_id": "Q000996.3",
+      "line_label": "3",
+      "transliteration": "an - na"
+    },
+    {
+      "line_id": "Q000996.4",
+      "line_label": "4",
+      "transliteration": "ki aŋ₂ d en - lil₂ - la₂"
+    },
+    {
+      "line_id": "Q000996.5",
+      "line_label": "5",
+      "transliteration": "lugal d en - lil₂ - le"
+    },
+    {
+      "line_id": "Q000996.6",
+      "line_label": "6",
+      "transliteration": "šag₄ kug - ge pad₃ - da"
+    },
+    {
+      "line_id": "Q000996.7",
+      "line_label": "7",
+      "transliteration": "nam - sipad kalam - ma"
+    },
+    {
+      "line_id": "Q000996.8",
+      "line_label": "8",
+      "transliteration": "u₃ an - ub - da limmu₂ - ba - še₃"
+    },
+    {
+      "line_id": "Q000996.9",
+      "line_label": "9",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q000996.10",
+      "line_label": "10",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q000996.11",
+      "line_label": "11",
+      "transliteration": "lugal an - ub - da limmu₂ - ba"
+    },
+    {
+      "line_id": "Q000996.12",
+      "line_label": "12",
+      "transliteration": "diŋir - ra - ni - ir"
+    },
+    {
+      "line_id": "Q000996.13",
+      "line_label": "13",
+      "transliteration": "i - tu - ri - a"
+    },
+    {
+      "line_id": "Q000996.14",
+      "line_label": "14",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q000996.15",
+      "line_label": "15",
+      "transliteration": "aš₂ - nun - na ki - ka"
+    },
+    {
+      "line_id": "Q000996.16",
+      "line_label": "16",
+      "transliteration": "arad₂ - da - ni - e"
+    },
+    {
+      "line_id": "Q000996.17",
+      "line_label": "17",
+      "transliteration": "e₂ - a - ni"
+    },
+    {
+      "line_id": "Q000996.18",
+      "line_label": "18",
+      "transliteration": "mu - na - an - du₃"
+    }
+  ]
+}

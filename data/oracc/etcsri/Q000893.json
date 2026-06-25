@@ -1,0 +1,62 @@
+{
+  "text_id": "oracc.etcsri.Q000893",
+  "corpus": "oracc",
+  "title": "Gudea 011 (RIME 3/1.01.07.011 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000893",
+  "paragraphs": [
+    {
+      "para_id": "Q000893.1",
+      "line_range": "1",
+      "translation": "(1) For Ĝatumdug , the mother of Lagaš , his lady , Gudea , ruler of Lagaš , devotee of Ĝatumdug , built her temple in Iri-kug ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000893.1",
+      "line_label": "1",
+      "transliteration": "d ŋa₂ - tum₃ - dug₃"
+    },
+    {
+      "line_id": "Q000893.2",
+      "line_label": "2",
+      "transliteration": "ama lagaš ki"
+    },
+    {
+      "line_id": "Q000893.3",
+      "line_label": "3",
+      "transliteration": "nin - a - ni"
+    },
+    {
+      "line_id": "Q000893.4",
+      "line_label": "4",
+      "transliteration": "gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q000893.5",
+      "line_label": "5",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q000893.6",
+      "line_label": "6",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q000893.7",
+      "line_label": "7",
+      "transliteration": "ur d ŋa₂ - tum₃ - dug₃ - ke₄"
+    },
+    {
+      "line_id": "Q000893.8",
+      "line_label": "8",
+      "transliteration": "e₂ iri - kug - ga - ka - ni"
+    },
+    {
+      "line_id": "Q000893.9",
+      "line_label": "9",
+      "transliteration": "mu - na - du₃"
+    }
+  ]
+}

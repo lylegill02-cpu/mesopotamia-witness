@@ -1,0 +1,62 @@
+{
+  "text_id": "oracc.etcsri.Q001493",
+  "corpus": "oracc",
+  "title": "Gudea 050 (RIME 3/1.01.07.050 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001493",
+  "paragraphs": [
+    {
+      "para_id": "Q001493.1",
+      "line_range": "1",
+      "translation": "(1) For Ninĝirsu , the powerful warrior of Enlil , his master , Gudea , ruler of Lagaš , built his temple of Bagara ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001493.1",
+      "line_label": "1",
+      "transliteration": "d nin - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q001493.2",
+      "line_label": "2",
+      "transliteration": "ur - saŋ kalag - ga"
+    },
+    {
+      "line_id": "Q001493.3",
+      "line_label": "3",
+      "transliteration": "d en - lil₂ - la₂"
+    },
+    {
+      "line_id": "Q001493.4",
+      "line_label": "4",
+      "transliteration": "lugal - a - ni"
+    },
+    {
+      "line_id": "Q001493.5",
+      "line_label": "5",
+      "transliteration": "gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q001493.6",
+      "line_label": "6",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001493.7",
+      "line_label": "7",
+      "transliteration": "lagaš ki - ke₄"
+    },
+    {
+      "line_id": "Q001493.8",
+      "line_label": "r 1",
+      "transliteration": "e₂ ba - gara₂ - ka - ni"
+    },
+    {
+      "line_id": "Q001493.9",
+      "line_label": "r 2",
+      "transliteration": "mu - na - du₃"
+    }
+  ]
+}

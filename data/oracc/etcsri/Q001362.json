@@ -1,0 +1,157 @@
+{
+  "text_id": "oracc.etcsri.Q001362",
+  "corpus": "oracc",
+  "title": "En-šakuš-Ana 1 (RIME 1.14.17.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001362",
+  "paragraphs": [
+    {
+      "para_id": "Q001362.1",
+      "line_range": "1",
+      "translation": "(1) To Enlil , king of all lands ."
+    },
+    {
+      "para_id": "Q001362.3",
+      "line_range": "3",
+      "translation": "(3) When the gods commanded him , En-šakuš-ana , lord of Sumer , king of the Land , conquered Kiš , and captured Enbi-Eštar , king of Kiš . The leader of Akšak and the leader Kiš ... the city that he also did conquer ...."
+    },
+    {
+      "para_id": "Q001362.20",
+      "line_range": "20",
+      "translation": "(1') He returned ... under their control , ( but ) he dedicated their statues , their precious metal and lapis lazuli , their timber and goods for Nibru to Enlil ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001362.1",
+      "line_label": "1",
+      "transliteration": "d en - lil₂"
+    },
+    {
+      "line_id": "Q001362.2",
+      "line_label": "2",
+      "transliteration": "lugal kur - kur - ra"
+    },
+    {
+      "line_id": "Q001362.3",
+      "line_label": "3",
+      "transliteration": "en - ša₃ - kuš₂ - an - ⸢ na ⸣"
+    },
+    {
+      "line_id": "Q001362.4",
+      "line_label": "4",
+      "transliteration": "en ki - en - ⸢ gi ⸣"
+    },
+    {
+      "line_id": "Q001362.5",
+      "line_label": "5",
+      "transliteration": "lugal kalam - ⸢ ma ⸣"
+    },
+    {
+      "line_id": "Q001362.6",
+      "line_label": "6",
+      "transliteration": "ud diŋir - re - ne"
+    },
+    {
+      "line_id": "Q001362.7",
+      "line_label": "7",
+      "transliteration": "e - na - ne₂ - eš₂ - a"
+    },
+    {
+      "line_id": "Q001362.8",
+      "line_label": "8",
+      "transliteration": "kiš ki"
+    },
+    {
+      "line_id": "Q001362.9",
+      "line_label": "9",
+      "transliteration": "mu - ḫul"
+    },
+    {
+      "line_id": "Q001362.10",
+      "line_label": "10",
+      "transliteration": "en - bi₂ - eš₁₈ - tar₂"
+    },
+    {
+      "line_id": "Q001362.11",
+      "line_label": "11",
+      "transliteration": "lugal kiš ki"
+    },
+    {
+      "line_id": "Q001362.12",
+      "line_label": "12",
+      "transliteration": "mu - dab₅"
+    },
+    {
+      "line_id": "Q001362.13",
+      "line_label": "13",
+      "transliteration": "lu₂ akšak ki - ka - ke₄"
+    },
+    {
+      "line_id": "Q001362.14",
+      "line_label": "14",
+      "transliteration": "lu₂ kiš ki - ke₄"
+    },
+    {
+      "line_id": "Q001362.15",
+      "line_label": "15",
+      "transliteration": "iri na - ga - ḫul - a"
+    },
+    {
+      "line_id": "Q001362.16",
+      "line_label": "16",
+      "transliteration": "⸢ x ⸣ - ga"
+    },
+    {
+      "line_id": "Q001362.17",
+      "line_label": "17",
+      "transliteration": "⸢ x ⸣ - ne"
+    },
+    {
+      "line_id": "Q001362.18",
+      "line_label": "18",
+      "transliteration": "[... ] ⸢ x x x ⸣ [... ]"
+    },
+    {
+      "line_id": "Q001362.20",
+      "line_label": "1'",
+      "transliteration": "[ šu - ne ] - ⸢ ne ⸣ - a"
+    },
+    {
+      "line_id": "Q001362.21",
+      "line_label": "2'",
+      "transliteration": "mu - ne - gi₄"
+    },
+    {
+      "line_id": "Q001362.22",
+      "line_label": "3'",
+      "transliteration": "alan - bi"
+    },
+    {
+      "line_id": "Q001362.23",
+      "line_label": "4'",
+      "transliteration": "kug za - gin₃ - bi"
+    },
+    {
+      "line_id": "Q001362.24",
+      "line_label": "5'",
+      "transliteration": "⸢ ŋeš ⸣ niŋ₂ - gur₁₁ - bi"
+    },
+    {
+      "line_id": "Q001362.25",
+      "line_label": "6'",
+      "transliteration": "d en - lil₂ - la"
+    },
+    {
+      "line_id": "Q001362.26",
+      "line_label": "7'",
+      "transliteration": "⸢ nibru ⸣ ki - še₃"
+    },
+    {
+      "line_id": "Q001362.27",
+      "line_label": "8'",
+      "transliteration": "⸢ a mu ⸣ - na - ru"
+    }
+  ]
+}

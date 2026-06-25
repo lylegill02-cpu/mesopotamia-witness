@@ -4,7 +4,7 @@ export function etcsriCatalogUrl() {
   return assetUrl("/data/etcsri_catalog.json");
 }
 
-export const DB_RELEASE_TAG = "v1.3.0-search";
+export const DB_RELEASE_TAG = "v1.4.1-search";
 
 export function basePath() {
   const m = location.pathname.match(/^(\/[^/]+)\//);

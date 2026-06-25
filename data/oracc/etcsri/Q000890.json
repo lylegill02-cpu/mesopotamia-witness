@@ -1,0 +1,87 @@
+{
+  "text_id": "oracc.etcsri.Q000890",
+  "corpus": "oracc",
+  "title": "Gudea 004 (RIME 3/1.01.07.004 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000890",
+  "paragraphs": [
+    {
+      "para_id": "Q000890.1",
+      "line_range": "1",
+      "translation": "(1) For Bau , the kind woman , the child of An , the lady of Iri-kug , his lady , Gudea , ruler of Lagaš , the builder of Ninĝirsu's E-ninnu and the E-ĝidru , his temple of seven niches , built her temple in Iri-kug ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000890.1",
+      "line_label": "1",
+      "transliteration": "d ba - u₂"
+    },
+    {
+      "line_id": "Q000890.2",
+      "line_label": "2",
+      "transliteration": "munus sag₉ - ga"
+    },
+    {
+      "line_id": "Q000890.3",
+      "line_label": "3",
+      "transliteration": "dumu an - na"
+    },
+    {
+      "line_id": "Q000890.4",
+      "line_label": "4",
+      "transliteration": "nin iri - kug - ga"
+    },
+    {
+      "line_id": "Q000890.5",
+      "line_label": "5",
+      "transliteration": "nin - a - ni"
+    },
+    {
+      "line_id": "Q000890.6",
+      "line_label": "6",
+      "transliteration": "gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q000890.7",
+      "line_label": "7",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q000890.8",
+      "line_label": "8",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q000890.9",
+      "line_label": "9",
+      "transliteration": "lu₂ e₂ - ninnu"
+    },
+    {
+      "line_id": "Q000890.10",
+      "line_label": "10",
+      "transliteration": "d nin - ŋir₂ - su - ka"
+    },
+    {
+      "line_id": "Q000890.11",
+      "line_label": "11",
+      "transliteration": "e₂ - ŋidru e₂ ub imin - a - ni"
+    },
+    {
+      "line_id": "Q000890.12",
+      "line_label": "12",
+      "transliteration": "mu - du₃ - a"
+    },
+    {
+      "line_id": "Q000890.13",
+      "line_label": "13",
+      "transliteration": "e₂ iri - kug - ga - ka - ni"
+    },
+    {
+      "line_id": "Q000890.14",
+      "line_label": "14",
+      "transliteration": "mu - na - du₃"
+    }
+  ]
+}

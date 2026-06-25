@@ -1,0 +1,32 @@
+{
+  "text_id": "oracc.etcsri.Q003665",
+  "corpus": "oracc",
+  "title": "Mes-Ane-pada 2 / CDLI Seals 006519 (CDLI Seals 006519 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q003665",
+  "paragraphs": [
+    {
+      "para_id": "Q003665.1",
+      "line_range": "1",
+      "translation": "(1) Meš-Ane-pada , king of Kiš , spouse of the nugig priestess ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q003665.1",
+      "line_label": "1",
+      "transliteration": "meš₃ - an - ne₂ - pad₃ - da"
+    },
+    {
+      "line_id": "Q003665.2",
+      "line_label": "2",
+      "transliteration": "lugal kiš ki"
+    },
+    {
+      "line_id": "Q003665.3",
+      "line_label": "3",
+      "transliteration": "dam nu - gig"
+    }
+  ]
+}

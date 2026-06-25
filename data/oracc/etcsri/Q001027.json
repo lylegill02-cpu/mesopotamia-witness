@@ -1,0 +1,187 @@
+{
+  "text_id": "oracc.etcsri.Q001027",
+  "corpus": "oracc",
+  "title": "Ur-Nanše 09 (RIME 1.09.01.09 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001027",
+  "paragraphs": [
+    {
+      "para_id": "Q001027.1",
+      "line_range": "1",
+      "translation": "(i 1) Ur-Nanše , king of Lagaš , child of Gunidu , citizen of Gursar , built the shrine of Ĝirsu ."
+    },
+    {
+      "para_id": "Q001027.8",
+      "line_range": "8",
+      "translation": "(ii 3) He fashioned ( the statue of ) Šul-šagana . He fashioned ( the statue of ) Gušudu . He fashioned ( the statue of ) Kindazid.He built the temple of Ninmarki . He fashioned ( the statue of ) Lama-u-e ."
+    },
+    {
+      "para_id": "Q001027.18",
+      "line_range": "18",
+      "translation": "(iii 7) He dug the A-suhur-canal . He dug the Eg-tirsig-canal . He dug the great ... of the Enlile-pada-canal . He dug the ... of the Surdugin-du-canal . He dug the Nin-REC107-ba-du ."
+    },
+    {
+      "para_id": "Q001027.30",
+      "line_range": "30",
+      "translation": "(v 5) He is a man , who submits to the orders of Nanše ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001027.1",
+      "line_label": "i 1",
+      "transliteration": "ur - d nanše"
+    },
+    {
+      "line_id": "Q001027.2",
+      "line_label": "i 2",
+      "transliteration": "lugal"
+    },
+    {
+      "line_id": "Q001027.3",
+      "line_label": "i 3",
+      "transliteration": "lagaš"
+    },
+    {
+      "line_id": "Q001027.4",
+      "line_label": "i 4",
+      "transliteration": "dumu gu - NI - DU"
+    },
+    {
+      "line_id": "Q001027.5",
+      "line_label": "i 5",
+      "transliteration": "dumu gur - sar"
+    },
+    {
+      "line_id": "Q001027.6",
+      "line_label": "ii 1",
+      "transliteration": "eš₃ ŋir₂ - su"
+    },
+    {
+      "line_id": "Q001027.7",
+      "line_label": "ii 2",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001027.8",
+      "line_label": "ii 3",
+      "transliteration": "d šul - šag₄ - ga"
+    },
+    {
+      "line_id": "Q001027.9",
+      "line_label": "ii 4",
+      "transliteration": "mu - tud"
+    },
+    {
+      "line_id": "Q001027.10",
+      "line_label": "ii 5",
+      "transliteration": "gu₂ - šu - du₈"
+    },
+    {
+      "line_id": "Q001027.11",
+      "line_label": "ii 6",
+      "transliteration": "mu - tud"
+    },
+    {
+      "line_id": "Q001027.12",
+      "line_label": "ii 7",
+      "transliteration": "d kinda₂ - zid"
+    },
+    {
+      "line_id": "Q001027.13",
+      "line_label": "iii 1",
+      "transliteration": "mu - tud"
+    },
+    {
+      "line_id": "Q001027.14",
+      "line_label": "iii 2",
+      "transliteration": "e₂ d nin - mar - ki"
+    },
+    {
+      "line_id": "Q001027.15",
+      "line_label": "iii 3",
+      "transliteration": "mu - [ du₃ ]"
+    },
+    {
+      "line_id": "Q001027.16",
+      "line_label": "iii 4-5",
+      "transliteration": "d lama ; u₆ ! ( KI . KID -) e₃"
+    },
+    {
+      "line_id": "Q001027.17",
+      "line_label": "iii 6",
+      "transliteration": "mu - tud"
+    },
+    {
+      "line_id": "Q001027.18",
+      "line_label": "iii 7",
+      "transliteration": "id₅ a - suḫur"
+    },
+    {
+      "line_id": "Q001027.19",
+      "line_label": "iii 8",
+      "transliteration": "mu - dun"
+    },
+    {
+      "line_id": "Q001027.20",
+      "line_label": "iv 1",
+      "transliteration": "eg₂ - tir - sig"
+    },
+    {
+      "line_id": "Q001027.21",
+      "line_label": "iv 2",
+      "transliteration": "mu - dun"
+    },
+    {
+      "line_id": "Q001027.22",
+      "line_label": "iv 3",
+      "transliteration": "d en - lil₂ ( E₂ )- pad₃ - da"
+    },
+    {
+      "line_id": "Q001027.23",
+      "line_label": "iv 4",
+      "transliteration": "uš gal"
+    },
+    {
+      "line_id": "Q001027.24",
+      "line_label": "iv 5",
+      "transliteration": "mu - dun"
+    },
+    {
+      "line_id": "Q001027.25",
+      "line_label": "iv 6",
+      "transliteration": "sur₂ - du₇ - gin₇ - du"
+    },
+    {
+      "line_id": "Q001027.26",
+      "line_label": "v 1",
+      "transliteration": "x - [... ]"
+    },
+    {
+      "line_id": "Q001027.27",
+      "line_label": "v 2",
+      "transliteration": "mu - dun"
+    },
+    {
+      "line_id": "Q001027.28",
+      "line_label": "v 3",
+      "transliteration": "nin - REC107 - ba - du"
+    },
+    {
+      "line_id": "Q001027.29",
+      "line_label": "v 4",
+      "transliteration": "mu - dun"
+    },
+    {
+      "line_id": "Q001027.30",
+      "line_label": "v 5",
+      "transliteration": "lu₂ inim sig₁₀"
+    },
+    {
+      "line_id": "Q001027.31",
+      "line_label": "v 6",
+      "transliteration": "d nanše"
+    }
+  ]
+}

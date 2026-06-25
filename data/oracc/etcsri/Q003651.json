@@ -1,0 +1,37 @@
+{
+  "text_id": "oracc.etcsri.Q003651",
+  "corpus": "oracc",
+  "title": "Lugal-Anda 3 / CDLI Seals 002042 (CDLI Seals 002042 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q003651",
+  "paragraphs": [
+    {
+      "para_id": "Q003651.1",
+      "line_range": "1",
+      "translation": "(1) Barag-namtara , spouse of Lugal-Anda , ruler of Lagaš ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q003651.1",
+      "line_label": "1",
+      "transliteration": "barag - nam - tar - ra"
+    },
+    {
+      "line_id": "Q003651.2",
+      "line_label": "2",
+      "transliteration": "dam lugal - an - da"
+    },
+    {
+      "line_id": "Q003651.3",
+      "line_label": "3",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q003651.4",
+      "line_label": "4",
+      "transliteration": "lagaš ki"
+    }
+  ]
+}

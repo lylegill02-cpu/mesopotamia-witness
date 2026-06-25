@@ -1,0 +1,52 @@
+{
+  "text_id": "oracc.etcsri.Q004986",
+  "corpus": "oracc",
+  "title": "Ibbi-Suen 2052add / CDLI Seals 000280 (CDLI Seals 000280 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004986",
+  "paragraphs": [
+    {
+      "para_id": "Q004986.1",
+      "line_range": "1",
+      "translation": "(i 1) Ibbi-Suen , the powerful king , king of Urim : Manum-ki-Šulgi , the scribe , child of ..., is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004986.1",
+      "line_label": "i 1",
+      "transliteration": "d i - bi₂ - d suen"
+    },
+    {
+      "line_id": "Q004986.2",
+      "line_label": "i 2",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q004986.3",
+      "line_label": "i 3",
+      "transliteration": "lugal urim₅ [ ki - ma ]"
+    },
+    {
+      "line_id": "Q004986.4",
+      "line_label": "ii 1",
+      "transliteration": "ma - num₂ - ki - d šul - gi"
+    },
+    {
+      "line_id": "Q004986.5",
+      "line_label": "ii 2",
+      "transliteration": "dub - sar"
+    },
+    {
+      "line_id": "Q004986.6",
+      "line_label": "ii 3",
+      "transliteration": "dumu i - di₃ - [... ]"
+    },
+    {
+      "line_id": "Q004986.7",
+      "line_label": "ii 4",
+      "transliteration": "[ arad₂ - zu ]"
+    }
+  ]
+}

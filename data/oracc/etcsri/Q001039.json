@@ -1,0 +1,57 @@
+{
+  "text_id": "oracc.etcsri.Q001039",
+  "corpus": "oracc",
+  "title": "Ur-Nanše 08 (RIME 1.09.01.08 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001039",
+  "paragraphs": [
+    {
+      "para_id": "Q001039.1",
+      "line_range": "1",
+      "translation": "(i 1) Ur-Nanše , king of Lagaš , child of Gunidu , built the shrine of Ĝirsu ."
+    },
+    {
+      "para_id": "Q001039.7",
+      "line_range": "7",
+      "translation": "(ii 2) ... foundation pegs and šourses of brišk ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001039.1",
+      "line_label": "i 1",
+      "transliteration": "ur - d nanše"
+    },
+    {
+      "line_id": "Q001039.2",
+      "line_label": "i 2",
+      "transliteration": "lugal"
+    },
+    {
+      "line_id": "Q001039.3",
+      "line_label": "i 3",
+      "transliteration": "lagaš"
+    },
+    {
+      "line_id": "Q001039.4",
+      "line_label": "i 4",
+      "transliteration": "dumu gu - NI - DU"
+    },
+    {
+      "line_id": "Q001039.5",
+      "line_label": "i 5",
+      "transliteration": "eš₃ ŋir₂ - su"
+    },
+    {
+      "line_id": "Q001039.6",
+      "line_label": "ii 1",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001039.7",
+      "line_label": "ii 2",
+      "transliteration": "temen šeg₁₂ - tab"
+    }
+  ]
+}

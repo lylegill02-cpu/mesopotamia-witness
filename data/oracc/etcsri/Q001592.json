@@ -1,0 +1,27 @@
+{
+  "text_id": "oracc.etcsri.Q001592",
+  "corpus": "oracc",
+  "title": "Lagaš II Unidentified 1003 (RIME 3/1.01.13.1003 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001592",
+  "paragraphs": [
+    {
+      "para_id": "Q001592.1",
+      "line_range": "1",
+      "translation": "(1) ... Inana , lady of the E-ana ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001592.1",
+      "line_label": "1",
+      "transliteration": "⸢ d inana ⸣"
+    },
+    {
+      "line_id": "Q001592.2",
+      "line_label": "2",
+      "transliteration": "[ nin ] e₂ - ⸢ an ⸣ - [ na ]"
+    }
+  ]
+}

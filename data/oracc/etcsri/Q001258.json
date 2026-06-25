@@ -1,0 +1,37 @@
+{
+  "text_id": "oracc.etcsri.Q001258",
+  "corpus": "oracc",
+  "title": "Ur-Enlil 2 (RIME 1.11.02.02 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001258",
+  "paragraphs": [
+    {
+      "para_id": "Q001258.1",
+      "line_range": "1",
+      "translation": "(1) To Enlil , Ur-Enlil , ruler of Nibru , ... as votive offering ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001258.1",
+      "line_label": "1",
+      "transliteration": "[ d ] en - ⸢ lil₂ ⸣"
+    },
+    {
+      "line_id": "Q001258.2",
+      "line_label": "2",
+      "transliteration": "[ ur ] - d en - ⸢ lil₂ ⸣"
+    },
+    {
+      "line_id": "Q001258.3",
+      "line_label": "3",
+      "transliteration": "⸢ ensi₂ nibru ⸣ [ ki ]"
+    },
+    {
+      "line_id": "Q001258.4",
+      "line_label": "4",
+      "transliteration": "[ ga ] - ⸢ til₃ - la ⸣ - [ še₃ ]"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "text_id": "oracc.etcsri.Q001742",
+  "corpus": "oracc",
+  "title": "Šulgi 2014 / CDLI Seals 005812 (CDLI Seals 005812 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001742",
+  "paragraphs": [
+    {
+      "para_id": "Q001742.1",
+      "line_range": "1",
+      "translation": "(1) Lu-girizal , governor of Lagaš : Abba-kala , the temple administrator of Urub , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001742.1",
+      "line_label": "1",
+      "transliteration": "lu₂ - giri₁₇ - zal"
+    },
+    {
+      "line_id": "Q001742.2",
+      "line_label": "2",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001742.3",
+      "line_label": "3",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001742.4",
+      "line_label": "4",
+      "transliteration": "ab - ⸢ ba ⸣ - [ kal - la ]"
+    },
+    {
+      "line_id": "Q001742.5",
+      "line_label": "5",
+      "transliteration": "saŋŋa urub [ ki ]"
+    },
+    {
+      "line_id": "Q001742.6",
+      "line_label": "6",
+      "transliteration": "arad₂ - zu"
+    }
+  ]
+}

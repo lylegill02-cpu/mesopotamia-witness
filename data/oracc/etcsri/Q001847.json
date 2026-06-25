@@ -1,0 +1,87 @@
+{
+  "text_id": "oracc.etcsri.Q001847",
+  "corpus": "oracc",
+  "title": "Šu-Suen 2018 (RIME 3/2.01.04.2018 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001847",
+  "paragraphs": [
+    {
+      "para_id": "Q001847.1",
+      "line_range": "1",
+      "translation": "(i 1) For Šara , the confidant of An , the beloved child of Inana , his master , ..., the royal soldier , child of Ur-Aba , fashioned this ( bronze axe ) for the well-being of Šu-Suen , the powerful king , king of Urim , king of the four quarters ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001847.1",
+      "line_label": "i 1",
+      "transliteration": "d šara₂"
+    },
+    {
+      "line_id": "Q001847.2",
+      "line_label": "i 2",
+      "transliteration": "nir - ŋal₂ an - na"
+    },
+    {
+      "line_id": "Q001847.3",
+      "line_label": "i 3",
+      "transliteration": "dumu ki aŋ₂"
+    },
+    {
+      "line_id": "Q001847.4",
+      "line_label": "i 4",
+      "transliteration": "d inana"
+    },
+    {
+      "line_id": "Q001847.5",
+      "line_label": "i 5",
+      "transliteration": "lugal - a - ni - ir"
+    },
+    {
+      "line_id": "Q001847.6",
+      "line_label": "ii 1",
+      "transliteration": "nam - ⸢ til₃ ⸣"
+    },
+    {
+      "line_id": "Q001847.7",
+      "line_label": "ii 2",
+      "transliteration": "d šu - d suen"
+    },
+    {
+      "line_id": "Q001847.8",
+      "line_label": "ii 3",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q001847.9",
+      "line_label": "ii 4",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q001847.10",
+      "line_label": "iii 1",
+      "transliteration": "⸢ lugal ⸣ [ an - ub ] - ⸢ da ⸣ [ limmu₂ - ba - ka - še₃ ]"
+    },
+    {
+      "line_id": "Q001847.11",
+      "line_label": "iii 2",
+      "transliteration": "ur - d [... ]"
+    },
+    {
+      "line_id": "Q001847.12",
+      "line_label": "iii 3",
+      "transliteration": "aga₃ - us₂ ⸢ lugal ? ⸣"
+    },
+    {
+      "line_id": "Q001847.13",
+      "line_label": "iii 4",
+      "transliteration": "dumu ur - ab - ba - ke₄"
+    },
+    {
+      "line_id": "Q001847.14",
+      "line_label": "iii 5",
+      "transliteration": "mu - na - ⸢ dim₂ ⸣"
+    }
+  ]
+}

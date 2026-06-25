@@ -1,0 +1,32 @@
+{
+  "text_id": "oracc.etcsri.Q004158",
+  "corpus": "oracc",
+  "title": "Amar-Suena 2057add / CDLI Seals 004685 (CDLI Seals 004685 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004158",
+  "paragraphs": [
+    {
+      "para_id": "Q004158.1",
+      "line_range": "1",
+      "translation": "(1) Ur-siĝar , the soldier of Amar-Suena ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004158.1",
+      "line_label": "1",
+      "transliteration": "ur - si - ŋar"
+    },
+    {
+      "line_id": "Q004158.2",
+      "line_label": "2",
+      "transliteration": "aga₃ - us₂"
+    },
+    {
+      "line_id": "Q004158.3",
+      "line_label": "3",
+      "transliteration": "d amar - d suen"
+    }
+  ]
+}

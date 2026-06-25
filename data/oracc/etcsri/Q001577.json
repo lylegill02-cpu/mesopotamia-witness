@@ -1,0 +1,47 @@
+{
+  "text_id": "oracc.etcsri.Q001577",
+  "corpus": "oracc",
+  "title": "Ur-mama 1 (RIME 3/1.01.11.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001577",
+  "paragraphs": [
+    {
+      "para_id": "Q001577.1",
+      "line_range": "1",
+      "translation": "(1) To Ninmarki , the kind woman , ..., this ( bowl ) for the well-being of Ur-Mama , ruler of Lagaš ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001577.1",
+      "line_label": "1",
+      "transliteration": "[ d nin ] - mar - ki"
+    },
+    {
+      "line_id": "Q001577.2",
+      "line_label": "2",
+      "transliteration": "[ munus ] ⸢ sag₉ ⸣ - ga"
+    },
+    {
+      "line_id": "Q001577.3",
+      "line_label": "3",
+      "transliteration": "[ nam ] - til₃"
+    },
+    {
+      "line_id": "Q001577.4",
+      "line_label": "4",
+      "transliteration": "[ ur ] - ma - ma"
+    },
+    {
+      "line_id": "Q001577.5",
+      "line_label": "5",
+      "transliteration": "⸢ ensi₂ ⸣"
+    },
+    {
+      "line_id": "Q001577.6",
+      "line_label": "6",
+      "transliteration": "⸢ lagaš ki ⸣ - [ ka ] - ⸢ še₃ ⸣"
+    }
+  ]
+}

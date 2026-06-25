@@ -1,0 +1,57 @@
+{
+  "text_id": "oracc.etcsri.Q001459",
+  "corpus": "oracc",
+  "title": "Ur-Ningirsu I 1 (RIME 3/1.01.01.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001459",
+  "paragraphs": [
+    {
+      "para_id": "Q001459.1",
+      "line_range": "1",
+      "translation": "(1) For Ninmarki , the kind woman , the first-born child of Nanše , Ur-Ninĝirsu , ruler of Lagaš built her E-munus-gisa ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001459.1",
+      "line_label": "1",
+      "transliteration": "d nin - mar - ki"
+    },
+    {
+      "line_id": "Q001459.2",
+      "line_label": "2",
+      "transliteration": "munus sag₉ - ⸢ ga ⸣"
+    },
+    {
+      "line_id": "Q001459.3",
+      "line_label": "3",
+      "transliteration": "dumu - saŋ d ⸢ nanše ⸣ - [ ra ]"
+    },
+    {
+      "line_id": "Q001459.4",
+      "line_label": "4",
+      "transliteration": "ur - d nin - ⸢ ŋir₂ ⸣ - [ su ]"
+    },
+    {
+      "line_id": "Q001459.5",
+      "line_label": "5",
+      "transliteration": "⸢ ensi₂ ⸣"
+    },
+    {
+      "line_id": "Q001459.6",
+      "line_label": "6",
+      "transliteration": "lagaš ki - [ ke₄ ]"
+    },
+    {
+      "line_id": "Q001459.7",
+      "line_label": "7",
+      "transliteration": "e₂ - munus - gil - sa - ka - [ ni ]"
+    },
+    {
+      "line_id": "Q001459.8",
+      "line_label": "8",
+      "transliteration": "mu - na - [ du₃ ]"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "text_id": "oracc.etcsri.Q001708",
+  "corpus": "oracc",
+  "title": "Šulgi 76 / CDLI Seals 002241 (CDLI Seals 002241 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001708",
+  "paragraphs": [
+    {
+      "para_id": "Q001708.1",
+      "line_range": "1",
+      "translation": "(1) Ea-niša , beloved consort of the king : Enunil , the sailor , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001708.1",
+      "line_label": "1",
+      "transliteration": "e₂ - a - ni - ša !"
+    },
+    {
+      "line_id": "Q001708.2",
+      "line_label": "2",
+      "transliteration": "lukur ki aŋ₂ lugal"
+    },
+    {
+      "line_id": "Q001708.3",
+      "line_label": "3",
+      "transliteration": "e₂ - nun - IL₂"
+    },
+    {
+      "line_id": "Q001708.4",
+      "line_label": "4",
+      "transliteration": "ma₂ - laḫ₅ arad₂ - zu"
+    }
+  ]
+}

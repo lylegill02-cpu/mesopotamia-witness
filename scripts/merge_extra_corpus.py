@@ -27,9 +27,12 @@ def load_json_corpus() -> list[dict]:
         for path in paths:
             if path.name.startswith("_") or path.name.endswith("_index.json"):
                 continue
+            if "_cache" in path.parts:
+                continue
             data = json.loads(path.read_text(encoding="utf-8"))
-            if data.get("text_id"):
-                out.append(data)
+            if not isinstance(data, dict) or not data.get("text_id"):
+                continue
+            out.append(data)
     return out
 
 

@@ -1,0 +1,47 @@
+{
+  "text_id": "oracc.etcsri.Q004412",
+  "corpus": "oracc",
+  "title": "Šu-Suen 2079add / CDLI Seals 000177 (CDLI Seals 000177 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004412",
+  "paragraphs": [
+    {
+      "para_id": "Q004412.1",
+      "line_range": "1",
+      "translation": "(1) Šu-Suen , the powerful king , king of Urim : ..., child of Ur-Bau , the royal cook , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004412.1",
+      "line_label": "1",
+      "transliteration": "d šu - d suen"
+    },
+    {
+      "line_id": "Q004412.2",
+      "line_label": "2",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q004412.3",
+      "line_label": "3",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q004412.4",
+      "line_label": "4",
+      "transliteration": "lu₂ - x - x"
+    },
+    {
+      "line_id": "Q004412.5",
+      "line_label": "5",
+      "transliteration": "dumu ur - d ba - [ u₂ ] muḫaldim lugal"
+    },
+    {
+      "line_id": "Q004412.6",
+      "line_label": "6",
+      "transliteration": "arad₂ - zu"
+    }
+  ]
+}

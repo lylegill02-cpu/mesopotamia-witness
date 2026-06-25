@@ -1,0 +1,52 @@
+{
+  "text_id": "oracc.etcsri.Q001324",
+  "corpus": "oracc",
+  "title": "Il 1 (RIME 1.12.05.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001324",
+  "paragraphs": [
+    {
+      "para_id": "Q001324.1",
+      "line_range": "1",
+      "translation": "(1) For Uttu , Il , king of Umma , child of E-anda-mua , descendant of En-akale , king of Umma , built his temple ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001324.1",
+      "line_label": "1",
+      "transliteration": "d uttuₓ ( TAG . NUN )- ra"
+    },
+    {
+      "line_id": "Q001324.2",
+      "line_label": "2",
+      "transliteration": "il₂ lugal umma₂"
+    },
+    {
+      "line_id": "Q001324.3",
+      "line_label": "3",
+      "transliteration": "dumu e₂ - an - da - mu₂ - a"
+    },
+    {
+      "line_id": "Q001324.4",
+      "line_label": "4",
+      "transliteration": "dumu - KA"
+    },
+    {
+      "line_id": "Q001324.5",
+      "line_label": "5",
+      "transliteration": "en - a₂ - kal - le"
+    },
+    {
+      "line_id": "Q001324.6",
+      "line_label": "6",
+      "transliteration": "lugal umma₂ - ka - ke₄"
+    },
+    {
+      "line_id": "Q001324.7",
+      "line_label": "7",
+      "transliteration": "e₂ - ni mu - na - du₃"
+    }
+  ]
+}

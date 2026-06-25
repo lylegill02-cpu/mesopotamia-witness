@@ -1,0 +1,112 @@
+{
+  "text_id": "oracc.etcsri.Q001949",
+  "corpus": "oracc",
+  "title": "Išme-Dagan 05 (RIME 4.01.04.05 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001949",
+  "paragraphs": [
+    {
+      "para_id": "Q001949.1",
+      "line_range": "1",
+      "translation": "(1) When Išme-Dagan , the powerful man , king of Isin , king of the four quarters , cancelled the taxes on Nibru , Enlil's beloved city , and exempted its men from military service , then he built the great wall of Isin ."
+    },
+    {
+      "para_id": "Q001949.15",
+      "line_range": "15",
+      "translation": "(15) The name of this wall is : \" With Enlil Išme-Dagan is strong \"."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001949.1",
+      "line_label": "1",
+      "transliteration": "d iš - me - d da - gan"
+    },
+    {
+      "line_id": "Q001949.2",
+      "line_label": "2",
+      "transliteration": "nita kalag - ga"
+    },
+    {
+      "line_id": "Q001949.3",
+      "line_label": "3",
+      "transliteration": "lugal i₃ - si - in ki - na"
+    },
+    {
+      "line_id": "Q001949.4",
+      "line_label": "4",
+      "transliteration": "lugal an - ub - da limmu₂ - ba - ke₄"
+    },
+    {
+      "line_id": "Q001949.5",
+      "line_label": "5",
+      "transliteration": "ud nibru ki"
+    },
+    {
+      "line_id": "Q001949.6",
+      "line_label": "6",
+      "transliteration": "iri ki aŋ₂"
+    },
+    {
+      "line_id": "Q001949.7",
+      "line_label": "7",
+      "transliteration": "d en - lil₂ - la₂"
+    },
+    {
+      "line_id": "Q001949.8",
+      "line_label": "8",
+      "transliteration": "gun₂ - bi"
+    },
+    {
+      "line_id": "Q001949.9",
+      "line_label": "9",
+      "transliteration": "mu - un - du₈"
+    },
+    {
+      "line_id": "Q001949.10",
+      "line_label": "10",
+      "transliteration": "erin₂ - bi kaskal - ta"
+    },
+    {
+      "line_id": "Q001949.11",
+      "line_label": "11",
+      "transliteration": "ba - ra - an - zig₃ - ga - a"
+    },
+    {
+      "line_id": "Q001949.12",
+      "line_label": "12",
+      "transliteration": "bad₃ gal"
+    },
+    {
+      "line_id": "Q001949.13",
+      "line_label": "13",
+      "transliteration": "i₃ - si - in ki - na"
+    },
+    {
+      "line_id": "Q001949.14",
+      "line_label": "14",
+      "transliteration": "mu - un - du₃"
+    },
+    {
+      "line_id": "Q001949.15",
+      "line_label": "15",
+      "transliteration": "bad₃ - ba"
+    },
+    {
+      "line_id": "Q001949.16",
+      "line_label": "16",
+      "transliteration": "d iš - me - d da - gan"
+    },
+    {
+      "line_id": "Q001949.17",
+      "line_label": "17",
+      "transliteration": "d en - lil₂ - da a₂ - an - gal"
+    },
+    {
+      "line_id": "Q001949.18",
+      "line_label": "18",
+      "transliteration": "mu - bi - im"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "text_id": "oracc.etcsri.Q001455",
+  "corpus": "oracc",
+  "title": "Utu-hegal 5 (RIME 2.13.06.05 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001455",
+  "paragraphs": [
+    {
+      "para_id": "Q001455.2",
+      "line_range": "2",
+      "translation": "(1') ... Inana ... Utu-heĝal , the powerful man , king of Unug , king of the four quarterṣ ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001455.2",
+      "line_label": "1'",
+      "transliteration": "[... ] x"
+    },
+    {
+      "line_id": "Q001455.3",
+      "line_label": "2'",
+      "transliteration": "[... ki ] aŋ₂"
+    },
+    {
+      "line_id": "Q001455.4",
+      "line_label": "3'",
+      "transliteration": "[ d ] inana"
+    },
+    {
+      "line_id": "Q001455.5",
+      "line_label": "4'",
+      "transliteration": "[... ] x GA ?"
+    },
+    {
+      "line_id": "Q001455.6",
+      "line_label": "5'",
+      "transliteration": "[... ] - da"
+    },
+    {
+      "line_id": "Q001455.7",
+      "line_label": "6'",
+      "transliteration": "[... ] - ba"
+    },
+    {
+      "line_id": "Q001455.8",
+      "line_label": "7'",
+      "transliteration": "[... x ] - ⸢ ga ⸣ - na"
+    },
+    {
+      "line_id": "Q001455.9",
+      "line_label": "8'",
+      "transliteration": "[... ] - da"
+    },
+    {
+      "line_id": "Q001455.11",
+      "line_label": "12'",
+      "transliteration": "[ x ] - a - ni - ir"
+    },
+    {
+      "line_id": "Q001455.12",
+      "line_label": "13'",
+      "transliteration": "d ⸢ utu ⸣ - ḫe₂ - ŋal₂"
+    },
+    {
+      "line_id": "Q001455.13",
+      "line_label": "14'",
+      "transliteration": "⸢ nita ⸣ kalag - ga"
+    },
+    {
+      "line_id": "Q001455.14",
+      "line_label": "15'",
+      "transliteration": "[ lugal ] unug ki - ga"
+    },
+    {
+      "line_id": "Q001455.15",
+      "line_label": "16'",
+      "transliteration": "[ lugal ] ⸢ an - ub ⸣ - da"
+    },
+    {
+      "line_id": "Q001455.16",
+      "line_label": "17'",
+      "transliteration": "[ limmu₅ ] - ⸢ ba ⸣ - ke₄"
+    },
+    {
+      "line_id": "Q001455.17",
+      "line_label": "18'",
+      "transliteration": "[... ] - ⸢ ni ⸣"
+    }
+  ]
+}

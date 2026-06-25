@@ -1,0 +1,117 @@
+{
+  "text_id": "oracc.etcsri.Q001111",
+  "corpus": "oracc",
+  "title": "En-metena 15 (RIME 1.09.05.15 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001111",
+  "paragraphs": [
+    {
+      "para_id": "Q001111.1",
+      "line_range": "1",
+      "translation": "(i 1) For Ninĝirsu , Enlil’s warrior ."
+    },
+    {
+      "para_id": "Q001111.3",
+      "line_range": "3",
+      "translation": "(i 3) En-metena , ruler of Lagaš , chosen by Nanše in the heart , chief governor of Ninĝirsu , given wisdom by Enki , child of En-ana-tum , ruler of Lagaš , for Ninĝirsu , his master who loves him , constructed the garden of the personal quarters . ... its entrance ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001111.1",
+      "line_label": "i 1",
+      "transliteration": "d nin - ŋir₂ - su₂ !"
+    },
+    {
+      "line_id": "Q001111.2",
+      "line_label": "i 2",
+      "transliteration": "ur - saŋ d en - lil₂ ( E₂ )- ⸢ ra ⸣"
+    },
+    {
+      "line_id": "Q001111.3",
+      "line_label": "i 3",
+      "transliteration": "en - mete - na"
+    },
+    {
+      "line_id": "Q001111.4",
+      "line_label": "i 4",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001111.5",
+      "line_label": "i 5",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001111.6",
+      "line_label": "ii 1",
+      "transliteration": "⸢ šag₄ ⸣ [ pad₃ ] - da"
+    },
+    {
+      "line_id": "Q001111.7",
+      "line_label": "ii 2",
+      "transliteration": "d nanše"
+    },
+    {
+      "line_id": "Q001111.8",
+      "line_label": "ii 3",
+      "transliteration": "ensi₂ - ⸢ gal ⸣"
+    },
+    {
+      "line_id": "Q001111.9",
+      "line_label": "ii 4",
+      "transliteration": "d nin ! - ŋir₂ - su₂ ! - ka"
+    },
+    {
+      "line_id": "Q001111.10",
+      "line_label": "ii 5",
+      "transliteration": "ŋeštug₂ šum₂ - ma"
+    },
+    {
+      "line_id": "Q001111.11",
+      "line_label": "ii 6",
+      "transliteration": "d en - ki - ⸢ ka ⸣"
+    },
+    {
+      "line_id": "Q001111.12",
+      "line_label": "iii 1",
+      "transliteration": "⸢ dumu en ⸣ - an - ⸢ na - tum₂ ⸣"
+    },
+    {
+      "line_id": "Q001111.13",
+      "line_label": "iii 2",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001111.14",
+      "line_label": "iii 3",
+      "transliteration": "lagaš ki - ka - ke₄"
+    },
+    {
+      "line_id": "Q001111.15",
+      "line_label": "iii 4",
+      "transliteration": "lugal ki an - na - aŋ₂ - [ ŋa₂ - ni ]"
+    },
+    {
+      "line_id": "Q001111.16",
+      "line_label": "iv 1",
+      "transliteration": "[ d nin - ŋir₂ - su₂ - ra ]"
+    },
+    {
+      "line_id": "Q001111.17",
+      "line_label": "iv 2",
+      "transliteration": "⸢ kiri₆ ⸣ [ e₂ ] - šag₄ - ga"
+    },
+    {
+      "line_id": "Q001111.18",
+      "line_label": "iv 3",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001111.19",
+      "line_label": "iv 4",
+      "transliteration": "⸢ ka ⸣ - be₂ e₂ maš - ⸢ x ⸣ - [... ]"
+    }
+  ]
+}

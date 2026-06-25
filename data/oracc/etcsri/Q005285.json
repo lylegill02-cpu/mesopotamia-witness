@@ -1,0 +1,57 @@
+{
+  "text_id": "oracc.etcsri.Q005285",
+  "corpus": "oracc",
+  "title": "Lu-Utu 03add (RIME 2.11.06.add03 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q005285",
+  "paragraphs": [
+    {
+      "para_id": "Q005285.1",
+      "line_range": "1",
+      "translation": "(1) For Ninhursaĝa , the mother of the gods , Lu-Utu , governor of Umma , built a temple on her beloved square for his well-being ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q005285.1",
+      "line_label": "1",
+      "transliteration": "d nin - ḫur - saŋ"
+    },
+    {
+      "line_id": "Q005285.2",
+      "line_label": "2",
+      "transliteration": "ama diŋir - re - ne - ra"
+    },
+    {
+      "line_id": "Q005285.3",
+      "line_label": "3",
+      "transliteration": "lu₂ - d utu"
+    },
+    {
+      "line_id": "Q005285.4",
+      "line_label": "4",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q005285.5",
+      "line_label": "5",
+      "transliteration": "umma ki - ke₄"
+    },
+    {
+      "line_id": "Q005285.6",
+      "line_label": "6",
+      "transliteration": "nam - til₃ - la - ni - še₃"
+    },
+    {
+      "line_id": "Q005285.7",
+      "line_label": "7",
+      "transliteration": "tilla₃ ki aŋ₂ - na"
+    },
+    {
+      "line_id": "Q005285.8",
+      "line_label": "8",
+      "transliteration": "e₂ mu - na - du₃"
+    }
+  ]
+}

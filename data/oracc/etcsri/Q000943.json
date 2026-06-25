@@ -1,0 +1,52 @@
+{
+  "text_id": "oracc.etcsri.Q000943",
+  "corpus": "oracc",
+  "title": "Ur-Namma 15 (RIME 3/2.01.01.15 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000943",
+  "paragraphs": [
+    {
+      "para_id": "Q000943.1",
+      "line_range": "1",
+      "translation": "(1) For Inana , the lady of Kugnun , his lady , Ur-Namma , king of Urim , built her temple ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000943.1",
+      "line_label": "1",
+      "transliteration": "d inana"
+    },
+    {
+      "line_id": "Q000943.2",
+      "line_label": "2",
+      "transliteration": "nin kug - nun - na"
+    },
+    {
+      "line_id": "Q000943.3",
+      "line_label": "3",
+      "transliteration": "nin - a - ni"
+    },
+    {
+      "line_id": "Q000943.4",
+      "line_label": "4",
+      "transliteration": "ur - d namma"
+    },
+    {
+      "line_id": "Q000943.5",
+      "line_label": "5",
+      "transliteration": "lugal urim₅ ki - ma - ke₄"
+    },
+    {
+      "line_id": "Q000943.6",
+      "line_label": "6",
+      "transliteration": "e₂ - a - ni"
+    },
+    {
+      "line_id": "Q000943.7",
+      "line_label": "7",
+      "transliteration": "mu - na - du₃"
+    }
+  ]
+}

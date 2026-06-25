@@ -1,0 +1,47 @@
+{
+  "text_id": "oracc.etcsri.Q001719",
+  "corpus": "oracc",
+  "title": "Šulgi 87 / CDLI Seals 005798 (CDLI Seals 005798 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001719",
+  "paragraphs": [
+    {
+      "para_id": "Q001719.1",
+      "line_range": "1",
+      "translation": "(1) En-nirzid-ana , en priestess of Nanna : Ĝirini-isag , the scribe , child of Hesage , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001719.1",
+      "line_label": "1",
+      "transliteration": "en - nir - zid - an - na"
+    },
+    {
+      "line_id": "Q001719.2",
+      "line_label": "2",
+      "transliteration": "en d nanna"
+    },
+    {
+      "line_id": "Q001719.3",
+      "line_label": "3",
+      "transliteration": "ŋiri₃ - ni - i₃ - sag₉"
+    },
+    {
+      "line_id": "Q001719.4",
+      "line_label": "4",
+      "transliteration": "dub - ⸢ sar ⸣"
+    },
+    {
+      "line_id": "Q001719.5",
+      "line_label": "5",
+      "transliteration": "dumu ḫe₂ - sag₉ - ⸢ ge ⸣"
+    },
+    {
+      "line_id": "Q001719.6",
+      "line_label": "6",
+      "transliteration": "arad₂ - ⸢ zu ⸣"
+    }
+  ]
+}

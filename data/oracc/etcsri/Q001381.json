@@ -1,0 +1,67 @@
+{
+  "text_id": "oracc.etcsri.Q001381",
+  "corpus": "oracc",
+  "title": "Lugal-zage-si 2 (RIME 1.14.20.02 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001381",
+  "paragraphs": [
+    {
+      "para_id": "Q001381.1",
+      "line_range": "1",
+      "translation": "(i 1') ..., king of Unug , provider of Inana , the man of Meš-saĝĝa-Unuga , the child born by Nisaba , ..., ... by Inana , given wisdom by Enki , the servant reared by Ningirim , ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001381.1",
+      "line_label": "i 1'",
+      "transliteration": "[ lugal ] unug ⸢ ki ⸣"
+    },
+    {
+      "line_id": "Q001381.2",
+      "line_label": "i 2'",
+      "transliteration": "u₂ - a d inana"
+    },
+    {
+      "line_id": "Q001381.3",
+      "line_label": "i 3'",
+      "transliteration": "lu₂ d meš₃ - saŋŋa - ⸢ unug ⸣ ki"
+    },
+    {
+      "line_id": "Q001381.4",
+      "line_label": "i 4'",
+      "transliteration": "dumu tud - ⸢ da ⸣"
+    },
+    {
+      "line_id": "Q001381.5",
+      "line_label": "i 5'",
+      "transliteration": "⸢ d nisaba ⸣"
+    },
+    {
+      "line_id": "Q001381.7",
+      "line_label": "ii 1'",
+      "transliteration": "⸢ x ⸣ [... ]"
+    },
+    {
+      "line_id": "Q001381.8",
+      "line_label": "ii 2'",
+      "transliteration": "d ⸢ inana ⸣"
+    },
+    {
+      "line_id": "Q001381.9",
+      "line_label": "ii 3'",
+      "transliteration": "⸢ ŋeštug₂ šum₂ ⸣ - [ ma ]"
+    },
+    {
+      "line_id": "Q001381.10",
+      "line_label": "ii 4'",
+      "transliteration": "d [ en - ki ]"
+    },
+    {
+      "line_id": "Q001381.11",
+      "line_label": "ii 5'",
+      "transliteration": "⸢ saŋ ⸣ [ a₂ e₃ - a d nin - girim₃ ( A . BU . ḪA . DU ) ]"
+    }
+  ]
+}

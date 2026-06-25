@@ -1,0 +1,147 @@
+{
+  "text_id": "oracc.etcsri.Q000985",
+  "corpus": "oracc",
+  "title": "Amar-Suena 10 (RIME 3/2.01.03.10 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000985",
+  "paragraphs": [
+    {
+      "para_id": "Q000985.1",
+      "line_range": "1",
+      "translation": "(i 1) I am Amar-Suena , whose name was proclaimed by Enlil in Nibru , the steadfast supporter of Enlil's temple , the powerful king , king of Urim , king of the four quarters ."
+    },
+    {
+      "para_id": "Q000985.10",
+      "line_range": "10",
+      "translation": "(i 10) The name of this statue is \" Amar-Suena is the beloved of Urim \"."
+    },
+    {
+      "para_id": "Q000985.13",
+      "line_range": "13",
+      "translation": "(i 13) Whoever removes this statue from the place it was set up , tears out its socle , may Nanna , king of Urim , ( and ) Ningal , the mother of Urim , curse him ! May they put an end to his lineage !"
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000985.1",
+      "line_label": "i 1",
+      "transliteration": "d amar - d suen"
+    },
+    {
+      "line_id": "Q000985.2",
+      "line_label": "i 2",
+      "transliteration": "nibru ki - a"
+    },
+    {
+      "line_id": "Q000985.3",
+      "line_label": "i 3",
+      "transliteration": "d en - lil₂ - le"
+    },
+    {
+      "line_id": "Q000985.4",
+      "line_label": "i 4",
+      "transliteration": "mu pad₃ - da"
+    },
+    {
+      "line_id": "Q000985.5",
+      "line_label": "i 5",
+      "transliteration": "saŋ - us₂"
+    },
+    {
+      "line_id": "Q000985.6",
+      "line_label": "i 6",
+      "transliteration": "e₂ d en - lil₂ - ka"
+    },
+    {
+      "line_id": "Q000985.7",
+      "line_label": "i 7",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q000985.8",
+      "line_label": "i 8",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q000985.9",
+      "line_label": "i 9",
+      "transliteration": "lugal an - ub - da limmu₂ - ba - me"
+    },
+    {
+      "line_id": "Q000985.10",
+      "line_label": "i 10",
+      "transliteration": "⸢ alan ⸣ - ba"
+    },
+    {
+      "line_id": "Q000985.11",
+      "line_label": "i 11",
+      "transliteration": "d amar - d suen ki aŋ₂ urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q000985.12",
+      "line_label": "i 12",
+      "transliteration": "mu - bi - im"
+    },
+    {
+      "line_id": "Q000985.13",
+      "line_label": "i 13",
+      "transliteration": "alan - ba"
+    },
+    {
+      "line_id": "Q000985.14",
+      "line_label": "ii 1",
+      "transliteration": "lu₂ ki gub - ba - bi"
+    },
+    {
+      "line_id": "Q000985.15",
+      "line_label": "ii 2",
+      "transliteration": "ib₂ - da - ab - kur₂ - re - a"
+    },
+    {
+      "line_id": "Q000985.16",
+      "line_label": "ii 3",
+      "transliteration": "barag - sig₉ - ga - bi"
+    },
+    {
+      "line_id": "Q000985.17",
+      "line_label": "ii 4",
+      "transliteration": "i₃ - burₓ ( KA × ŠU )- re - a"
+    },
+    {
+      "line_id": "Q000985.18",
+      "line_label": "ii 5",
+      "transliteration": "d nanna"
+    },
+    {
+      "line_id": "Q000985.19",
+      "line_label": "ii 6",
+      "transliteration": "lugal urim₅ ki - ma - ke₄"
+    },
+    {
+      "line_id": "Q000985.20",
+      "line_label": "ii 7",
+      "transliteration": "d nin - gal"
+    },
+    {
+      "line_id": "Q000985.21",
+      "line_label": "ii 8",
+      "transliteration": "ama urim₅ ki - ma - ke₄"
+    },
+    {
+      "line_id": "Q000985.22",
+      "line_label": "ii 9",
+      "transliteration": "nam ! ( ḪU ) ḫa ! - ba - an - da - kuru₅ - ne"
+    },
+    {
+      "line_id": "Q000985.23",
+      "line_label": "ii 10",
+      "transliteration": "numun - na - ni"
+    },
+    {
+      "line_id": "Q000985.24",
+      "line_label": "ii 11",
+      "transliteration": "ḫe₂ - eb - til - le - ne"
+    }
+  ]
+}

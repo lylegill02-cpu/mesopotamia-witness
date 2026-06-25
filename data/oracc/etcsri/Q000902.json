@@ -1,0 +1,77 @@
+{
+  "text_id": "oracc.etcsri.Q000902",
+  "corpus": "oracc",
+  "title": "Gudea 026 (RIME 3/1.01.07.026 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000902",
+  "paragraphs": [
+    {
+      "para_id": "Q000902.1",
+      "line_range": "1",
+      "translation": "(1) For Nanše , the mighty lady , the lady of the boundaries , his lady , Gudea , ruler of Lagaš , made an eternal thing appear : he built and restored her E-sirara , the mountain rising from among the houses , for her in her beloved city , Niĝin ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000902.1",
+      "line_label": "1",
+      "transliteration": "d nanše"
+    },
+    {
+      "line_id": "Q000902.2",
+      "line_label": "2",
+      "transliteration": "nin uru₁₆"
+    },
+    {
+      "line_id": "Q000902.3",
+      "line_label": "3",
+      "transliteration": "nin in - dub - ba"
+    },
+    {
+      "line_id": "Q000902.4",
+      "line_label": "4",
+      "transliteration": "nin - a - ni"
+    },
+    {
+      "line_id": "Q000902.5",
+      "line_label": "5",
+      "transliteration": "gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q000902.6",
+      "line_label": "6",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q000902.7",
+      "line_label": "7",
+      "transliteration": "lagaš ki - ke₄"
+    },
+    {
+      "line_id": "Q000902.8",
+      "line_label": "8",
+      "transliteration": "niŋ₂ - ul - e pa mu - na - e₃"
+    },
+    {
+      "line_id": "Q000902.9",
+      "line_label": "9",
+      "transliteration": "niŋin₆ ki iri ki aŋ₂ - ŋa₂ - ni - a"
+    },
+    {
+      "line_id": "Q000902.10",
+      "line_label": "10",
+      "transliteration": "e₂ - sirara₆"
+    },
+    {
+      "line_id": "Q000902.11",
+      "line_label": "11",
+      "transliteration": "kur e₂ - ta il₂ - la - ni"
+    },
+    {
+      "line_id": "Q000902.12",
+      "line_label": "12",
+      "transliteration": "mu - na - du₃"
+    }
+  ]
+}

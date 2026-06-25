@@ -1,0 +1,267 @@
+{
+  "text_id": "oracc.etcsri.Q001026",
+  "corpus": "oracc",
+  "title": "Ur-Nanše 11 (RIME 1.09.01.11 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001026",
+  "paragraphs": [
+    {
+      "para_id": "Q001026.1",
+      "line_range": "1",
+      "translation": "(i 1) Ur-Nanše , king of Lagaš , child of Gunidu , citizen of Gursar , built the temple of Nanše ."
+    },
+    {
+      "para_id": "Q001026.8",
+      "line_range": "8",
+      "translation": "(ii 2) He fashioned ( the statue of ) Nanše , the mighty lady ."
+    },
+    {
+      "para_id": "Q001026.10",
+      "line_range": "10",
+      "translation": "(ii 4) He built the shrine of Ĝirsu ."
+    },
+    {
+      "para_id": "Q001026.11",
+      "line_range": "11",
+      "translation": "(ii 5) He fashioned ( the statue of ) Šul-šagana ."
+    },
+    {
+      "para_id": "Q001026.13",
+      "line_range": "13",
+      "translation": "(ii 7) He built the Ebgal ."
+    },
+    {
+      "para_id": "Q001026.15",
+      "line_range": "15",
+      "translation": "(iii 2) He fashioned ( the statue of ) Lugal-urtur ."
+    },
+    {
+      "para_id": "Q001026.17",
+      "line_range": "17",
+      "translation": "(iii 4) He fashioned ( the statue of ) Lugal-Uruba ."
+    },
+    {
+      "para_id": "Q001026.19",
+      "line_range": "19",
+      "translation": "(iii 6) He built the Kinir ."
+    },
+    {
+      "para_id": "Q001026.21",
+      "line_range": "21",
+      "translation": "(iv 1) He fashioned ( the statue of ) Nineš-REC107 ."
+    },
+    {
+      "para_id": "Q001026.23",
+      "line_range": "23",
+      "translation": "(iv 3) He fashioned ( the statue of ) Ninĝidru ."
+    },
+    {
+      "para_id": "Q001026.25",
+      "line_range": "25",
+      "translation": "(iv 5) He built the temple of Ĝatumdug ."
+    },
+    {
+      "para_id": "Q001026.27",
+      "line_range": "27",
+      "translation": "(iv 7) He fashioned ( the statue of ) Ĝatumdug ."
+    },
+    {
+      "para_id": "Q001026.29",
+      "line_range": "29",
+      "translation": "(v 2) He built the Bagara ."
+    },
+    {
+      "para_id": "Q001026.31",
+      "line_range": "31",
+      "translation": "(v 4) He built the Abzu-ega ."
+    },
+    {
+      "para_id": "Q001026.33",
+      "line_range": "33",
+      "translation": "(v 6) He built the Tiraš ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001026.1",
+      "line_label": "i 1",
+      "transliteration": "ur - d nanše"
+    },
+    {
+      "line_id": "Q001026.2",
+      "line_label": "i 2",
+      "transliteration": "lugal"
+    },
+    {
+      "line_id": "Q001026.3",
+      "line_label": "i 3",
+      "transliteration": "lagaš"
+    },
+    {
+      "line_id": "Q001026.4",
+      "line_label": "i 4",
+      "transliteration": "dumu gu - NI - DU"
+    },
+    {
+      "line_id": "Q001026.5",
+      "line_label": "i 5",
+      "transliteration": "dumu gur - sar"
+    },
+    {
+      "line_id": "Q001026.6",
+      "line_label": "i 6",
+      "transliteration": "e₂ d nanše"
+    },
+    {
+      "line_id": "Q001026.7",
+      "line_label": "ii 1",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001026.8",
+      "line_label": "ii 2",
+      "transliteration": "d nanše nin uru₁₆"
+    },
+    {
+      "line_id": "Q001026.9",
+      "line_label": "ii 3",
+      "transliteration": "mu - tud"
+    },
+    {
+      "line_id": "Q001026.10",
+      "line_label": "ii 4",
+      "transliteration": "eš₃ ŋir₂ - su mu - ⸢ du₃ ⸣"
+    },
+    {
+      "line_id": "Q001026.11",
+      "line_label": "ii 5",
+      "transliteration": "d šul - šag₄ - ga"
+    },
+    {
+      "line_id": "Q001026.12",
+      "line_label": "ii 6",
+      "transliteration": "mu - tud"
+    },
+    {
+      "line_id": "Q001026.13",
+      "line_label": "ii 7",
+      "transliteration": "eb - gal"
+    },
+    {
+      "line_id": "Q001026.14",
+      "line_label": "iii 1",
+      "transliteration": "mu - ⸢ du₃ ⸣"
+    },
+    {
+      "line_id": "Q001026.15",
+      "line_label": "iii 2",
+      "transliteration": "[ d ] ⸢ lugal ⸣ - ur - ⸢ tur₃ ⸣"
+    },
+    {
+      "line_id": "Q001026.16",
+      "line_label": "iii 3",
+      "transliteration": "mu - tud"
+    },
+    {
+      "line_id": "Q001026.17",
+      "line_label": "iii 4",
+      "transliteration": "lugal - urub"
+    },
+    {
+      "line_id": "Q001026.18",
+      "line_label": "iii 5",
+      "transliteration": "mu - tud"
+    },
+    {
+      "line_id": "Q001026.19",
+      "line_label": "iii 6",
+      "transliteration": "⸢ ki - nir ⸣"
+    },
+    {
+      "line_id": "Q001026.20",
+      "line_label": "iii 7",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001026.21",
+      "line_label": "iv 1",
+      "transliteration": "d nin - eš₃ - REC107"
+    },
+    {
+      "line_id": "Q001026.22",
+      "line_label": "iv 2",
+      "transliteration": "mu - tud"
+    },
+    {
+      "line_id": "Q001026.23",
+      "line_label": "iv 3",
+      "transliteration": "d nin - ŋidru"
+    },
+    {
+      "line_id": "Q001026.24",
+      "line_label": "iv 4",
+      "transliteration": "mu - tud"
+    },
+    {
+      "line_id": "Q001026.25",
+      "line_label": "iv 5",
+      "transliteration": "e₂ d ŋa₂ - tum₃ - dug₃"
+    },
+    {
+      "line_id": "Q001026.26",
+      "line_label": "iv 6",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001026.27",
+      "line_label": "iv 7",
+      "transliteration": "d ŋa₂ - tum₃ - dug₃"
+    },
+    {
+      "line_id": "Q001026.28",
+      "line_label": "v 1",
+      "transliteration": "mu - tud"
+    },
+    {
+      "line_id": "Q001026.29",
+      "line_label": "v 2",
+      "transliteration": "ba - gara₂"
+    },
+    {
+      "line_id": "Q001026.30",
+      "line_label": "v 3",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001026.31",
+      "line_label": "v 4",
+      "transliteration": "e₂ - dam"
+    },
+    {
+      "line_id": "Q001026.32",
+      "line_label": "v 5",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001026.33",
+      "line_label": "v 6",
+      "transliteration": "abzu - eg₂"
+    },
+    {
+      "line_id": "Q001026.34",
+      "line_label": "v 7",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001026.35",
+      "line_label": "v 8",
+      "transliteration": "ti - ra - aš₂"
+    },
+    {
+      "line_id": "Q001026.36",
+      "line_label": "v 9",
+      "transliteration": "mu - ⸢ du₃ ⸣"
+    }
+  ]
+}

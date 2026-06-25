@@ -1,0 +1,47 @@
+{
+  "text_id": "oracc.etcsri.Q001186",
+  "corpus": "oracc",
+  "title": "Anonymous Lagaš 15 (FAOS 05/1, AnLag 15)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001186",
+  "paragraphs": [
+    {
+      "para_id": "Q001186.1",
+      "line_range": "1",
+      "translation": "(1) To Ninĝirsu of the Bagara , ... the stone-cutter , child of Ama-abzu-si , the stone-cutter , dedicated this ( mace ) ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001186.1",
+      "line_label": "1",
+      "transliteration": "⸢ d nin ⸣ - [ ŋir₂ - su₂ ]"
+    },
+    {
+      "line_id": "Q001186.2",
+      "line_label": "2",
+      "transliteration": "[ ba - gara₂ - ra ]"
+    },
+    {
+      "line_id": "Q001186.4",
+      "line_label": "5",
+      "transliteration": "zadim"
+    },
+    {
+      "line_id": "Q001186.5",
+      "line_label": "6",
+      "transliteration": "dumu ama - abzu - si"
+    },
+    {
+      "line_id": "Q001186.6",
+      "line_label": "7",
+      "transliteration": "zadim - ke₄"
+    },
+    {
+      "line_id": "Q001186.7",
+      "line_label": "8",
+      "transliteration": "a mu - na - ru"
+    }
+  ]
+}

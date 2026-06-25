@@ -1,0 +1,82 @@
+{
+  "text_id": "oracc.etcsri.Q000835",
+  "corpus": "oracc",
+  "title": "Sargon 16 (RIME 2.01.01.16 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000835",
+  "paragraphs": [
+    {
+      "para_id": "Q000835.1",
+      "line_range": "1",
+      "translation": "(1) Enheduana , the zirru - priestess , Nanna's spouse , child of Šarrukin , king of the world , erected an altar in the temple of Inana-ZAZA in Urim . She named it “The altar is An's table” ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000835.1",
+      "line_label": "1",
+      "transliteration": "en - ⸢ ḫe₂ ⸣ - du₇ - an - na"
+    },
+    {
+      "line_id": "Q000835.2",
+      "line_label": "2",
+      "transliteration": "zirruₓ ( SAL . NUNUZ . ZI . AN . ŠEŠ . KI )"
+    },
+    {
+      "line_id": "Q000835.3",
+      "line_label": "3",
+      "transliteration": "dam d nanna"
+    },
+    {
+      "line_id": "Q000835.4",
+      "line_label": "4",
+      "transliteration": "dumu"
+    },
+    {
+      "line_id": "Q000835.5",
+      "line_label": "5",
+      "transliteration": "⸢ šar - ru ⸣ - GI"
+    },
+    {
+      "line_id": "Q000835.6",
+      "line_label": "6",
+      "transliteration": "[ lugal ]"
+    },
+    {
+      "line_id": "Q000835.7",
+      "line_label": "7",
+      "transliteration": "⸢ kiš ⸣"
+    },
+    {
+      "line_id": "Q000835.8",
+      "line_label": "8",
+      "transliteration": "[ e₂ d ] ⸢ INANA ⸣ - ZA - ZA"
+    },
+    {
+      "line_id": "Q000835.9",
+      "line_label": "9",
+      "transliteration": "⸢ urim₅ ⸣ ki - ma - ka"
+    },
+    {
+      "line_id": "Q000835.10",
+      "line_label": "10",
+      "transliteration": "[ barag ] - sig₉ - ga"
+    },
+    {
+      "line_id": "Q000835.11",
+      "line_label": "11",
+      "transliteration": "⸢ bi₂ ⸣ - e - du₃"
+    },
+    {
+      "line_id": "Q000835.12",
+      "line_label": "12",
+      "transliteration": "barag banšur an - na"
+    },
+    {
+      "line_id": "Q000835.13",
+      "line_label": "13",
+      "transliteration": "mu - še₃ be₂ - še₂₁"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "text_id": "oracc.etcsri.Q004301",
+  "corpus": "oracc",
+  "title": "Šulgi 2083add / CDLI Seals 002788 (CDLI Seals 002788 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004301",
+  "paragraphs": [
+    {
+      "para_id": "Q004301.1",
+      "line_range": "1",
+      "translation": "(1) Lu-diĝira , child of Lu-Nindara , the gudug priest of Šulgi ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004301.1",
+      "line_label": "1",
+      "transliteration": "lu₂ - diŋir - ra"
+    },
+    {
+      "line_id": "Q004301.2",
+      "line_label": "2",
+      "transliteration": "dumu lu₂ - d nin - ⸢ dar - a ⸣"
+    },
+    {
+      "line_id": "Q004301.3",
+      "line_label": "3",
+      "transliteration": "gudu₄ d šul - gi"
+    }
+  ]
+}

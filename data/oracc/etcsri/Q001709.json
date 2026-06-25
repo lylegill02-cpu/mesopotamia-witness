@@ -1,0 +1,52 @@
+{
+  "text_id": "oracc.etcsri.Q001709",
+  "corpus": "oracc",
+  "title": "Šulgi 77 / CDLI Seals 005715 (CDLI Seals 005715 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001709",
+  "paragraphs": [
+    {
+      "para_id": "Q001709.1",
+      "line_range": "1",
+      "translation": "(1) Ea-niša , the beloved consort of Šulgi , the powerful man , king of Urim : Lu-Ninšubur , the scribe , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001709.1",
+      "line_label": "1",
+      "transliteration": "d šul - gi"
+    },
+    {
+      "line_id": "Q001709.2",
+      "line_label": "2",
+      "transliteration": "nita kalag - ga"
+    },
+    {
+      "line_id": "Q001709.3",
+      "line_label": "3",
+      "transliteration": "lugal ⸢ urim₅ ⸣ [ ki - ma ]"
+    },
+    {
+      "line_id": "Q001709.4",
+      "line_label": "4",
+      "transliteration": "e₂ - a - ni - [ ša ]"
+    },
+    {
+      "line_id": "Q001709.5",
+      "line_label": "5",
+      "transliteration": "lukur ki aŋ₂ - a - ni"
+    },
+    {
+      "line_id": "Q001709.6",
+      "line_label": "6",
+      "transliteration": "lu₂ - d nin - ⸢ šubur ⸣"
+    },
+    {
+      "line_id": "Q001709.7",
+      "line_label": "7",
+      "transliteration": "dub - sar arad₂ - [ zu ]"
+    }
+  ]
+}

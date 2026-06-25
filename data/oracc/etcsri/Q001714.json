@@ -1,0 +1,52 @@
+{
+  "text_id": "oracc.etcsri.Q001714",
+  "corpus": "oracc",
+  "title": "Šulgi 82 / CDLI Seals 000093 (CDLI Seals 000093 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001714",
+  "paragraphs": [
+    {
+      "para_id": "Q001714.1",
+      "line_range": "1",
+      "translation": "(i 1) Šulgi , the powerful man , king of Urim , king of the four quarters , presented this ( cylinder seal ) to his beloved Geme-Ninlila ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001714.1",
+      "line_label": "i 1",
+      "transliteration": "d šul - gi"
+    },
+    {
+      "line_id": "Q001714.2",
+      "line_label": "i 2",
+      "transliteration": "nita kalag - ga"
+    },
+    {
+      "line_id": "Q001714.3",
+      "line_label": "i 3",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q001714.4",
+      "line_label": "i 4",
+      "transliteration": "lugal an - ub - da limmu₂ - ba - ke₄"
+    },
+    {
+      "line_id": "Q001714.5",
+      "line_label": "ii 1",
+      "transliteration": "geme₂ - d nin - lil₂ - la₂"
+    },
+    {
+      "line_id": "Q001714.6",
+      "line_label": "ii 2",
+      "transliteration": "ki aŋ₂ - ŋa₂ - ni - ir"
+    },
+    {
+      "line_id": "Q001714.7",
+      "line_label": "ii 3",
+      "transliteration": "in - na - ba"
+    }
+  ]
+}

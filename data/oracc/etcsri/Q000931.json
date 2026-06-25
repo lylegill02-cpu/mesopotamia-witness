@@ -1,0 +1,32 @@
+{
+  "text_id": "oracc.etcsri.Q000931",
+  "corpus": "oracc",
+  "title": "Nammahni 03 (RIME 3/1.01.12.03 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000931",
+  "paragraphs": [
+    {
+      "para_id": "Q000931.1",
+      "line_range": "1",
+      "translation": "(1) Nammaḫni , ruler of Lagaš ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000931.1",
+      "line_label": "1",
+      "transliteration": "nam - maḫ - ni"
+    },
+    {
+      "line_id": "Q000931.2",
+      "line_label": "2",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q000931.3",
+      "line_label": "3",
+      "transliteration": "lagaš ki"
+    }
+  ]
+}

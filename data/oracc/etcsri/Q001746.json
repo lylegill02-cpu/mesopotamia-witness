@@ -1,0 +1,52 @@
+{
+  "text_id": "oracc.etcsri.Q001746",
+  "corpus": "oracc",
+  "title": "Šulgi 2018 / CDLI Seals 005850 (CDLI Seals 005850 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001746",
+  "paragraphs": [
+    {
+      "para_id": "Q001746.1",
+      "line_range": "1",
+      "translation": "(1) Ur-Lamma , governor of Lagaš : Ur-niŋar , the scribe , child of Lu-Ane , ( is ) your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001746.1",
+      "line_label": "1",
+      "transliteration": "ur - d lamma"
+    },
+    {
+      "line_id": "Q001746.2",
+      "line_label": "2",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001746.3",
+      "line_label": "3",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001746.4",
+      "line_label": "4",
+      "transliteration": "ur - niŋar ⸢ ŋar ⸣"
+    },
+    {
+      "line_id": "Q001746.5",
+      "line_label": "5",
+      "transliteration": "dub - sar"
+    },
+    {
+      "line_id": "Q001746.6",
+      "line_label": "6",
+      "transliteration": "dumu lu₂ - ⸢ an - ne₂ ⸣"
+    },
+    {
+      "line_id": "Q001746.7",
+      "line_label": "7",
+      "transliteration": "arad₂ - [ zu ]"
+    }
+  ]
+}

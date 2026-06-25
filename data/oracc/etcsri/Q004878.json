@@ -1,0 +1,72 @@
+{
+  "text_id": "oracc.etcsri.Q004878",
+  "corpus": "oracc",
+  "title": "Ur-Ninmarki 1 (FAOS 09/2, Ninmarki 1)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004878",
+  "paragraphs": [
+    {
+      "para_id": "Q004878.1",
+      "line_range": "1",
+      "translation": "(1) To Bau , his lady , Geme-ĝirnuna , the spouse of Amarsu , the child of Alla , dedicated this ( object ) for the well-being of Ur-Ninmarki , governor of Lagaš , and for her own well-being ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004878.1",
+      "line_label": "1",
+      "transliteration": "⸢ d ⸣ [ ba ] - u₂"
+    },
+    {
+      "line_id": "Q004878.2",
+      "line_label": "2",
+      "transliteration": "⸢ nin - a ⸣ - ni"
+    },
+    {
+      "line_id": "Q004878.3",
+      "line_label": "3",
+      "transliteration": "nam - til₃"
+    },
+    {
+      "line_id": "Q004878.4",
+      "line_label": "4",
+      "transliteration": "ur - d nin - mar - ki"
+    },
+    {
+      "line_id": "Q004878.5",
+      "line_label": "5",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q004878.6",
+      "line_label": "6",
+      "transliteration": "⸢ lagaš ⸣ ki - ka - še₃"
+    },
+    {
+      "line_id": "Q004878.7",
+      "line_label": "7",
+      "transliteration": "⸢ geme₂ ⸣ - ŋir₂ - nun"
+    },
+    {
+      "line_id": "Q004878.8",
+      "line_label": "8",
+      "transliteration": "⸢ dam ⸣ amar - su₄"
+    },
+    {
+      "line_id": "Q004878.9",
+      "line_label": "9",
+      "transliteration": "⸢ dumu ⸣ al - ke₄"
+    },
+    {
+      "line_id": "Q004878.10",
+      "line_label": "10",
+      "transliteration": "⸢ u₃ ⸣ nam - til₃ - la - ni - še₃"
+    },
+    {
+      "line_id": "Q004878.11",
+      "line_label": "11",
+      "transliteration": "[ a ] mu - na - ru"
+    }
+  ]
+}

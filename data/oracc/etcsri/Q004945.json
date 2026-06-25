@@ -1,0 +1,47 @@
+{
+  "text_id": "oracc.etcsri.Q004945",
+  "corpus": "oracc",
+  "title": "Šu-Suen 2163add / CDLI Seals 004156 (CDLI Seals 004156 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004945",
+  "paragraphs": [
+    {
+      "para_id": "Q004945.1",
+      "line_range": "1",
+      "translation": "(i 1) Šu-Suen , the powerful king , king of Urim : Šu-ili , the envoy , child of Ur-Ninmug , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004945.1",
+      "line_label": "i 1",
+      "transliteration": "d šu - d suen"
+    },
+    {
+      "line_id": "Q004945.2",
+      "line_label": "i 2",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q004945.3",
+      "line_label": "i 3",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q004945.4",
+      "line_label": "ii 1",
+      "transliteration": "šu - i₃ - li₂ sukkal"
+    },
+    {
+      "line_id": "Q004945.5",
+      "line_label": "ii 2",
+      "transliteration": "dumu ur - d nin - mug"
+    },
+    {
+      "line_id": "Q004945.6",
+      "line_label": "ii 3",
+      "transliteration": "arad₂ - zu"
+    }
+  ]
+}

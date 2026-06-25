@@ -1,0 +1,52 @@
+{
+  "text_id": "oracc.etcsri.Q005006",
+  "corpus": "oracc",
+  "title": "Ibbi-Suen 2076add / CDLI Seals 005927 (CDLI Seals 005927 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q005006",
+  "paragraphs": [
+    {
+      "para_id": "Q005006.1",
+      "line_range": "1",
+      "translation": "(i 1) Ibbi-Suen , the powerful king , king of Urim : Šulgi-Šamši , the chief soldier , child of Niĝu , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q005006.1",
+      "line_label": "i 1",
+      "transliteration": "d i - bi₂ - d suen"
+    },
+    {
+      "line_id": "Q005006.2",
+      "line_label": "i 2",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q005006.3",
+      "line_label": "i 3",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q005006.4",
+      "line_label": "ii 1",
+      "transliteration": "d šul - ⸢ gi ⸣ - d UTU [ ši ]"
+    },
+    {
+      "line_id": "Q005006.5",
+      "line_label": "ii 2",
+      "transliteration": "aga₃ - us₂ gal - gal"
+    },
+    {
+      "line_id": "Q005006.6",
+      "line_label": "ii 3",
+      "transliteration": "dumu ni - ŋu₁₀"
+    },
+    {
+      "line_id": "Q005006.7",
+      "line_label": "ii 4",
+      "transliteration": "arad₂ - zu"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "text_id": "oracc.etcsri.Q001738",
+  "corpus": "oracc",
+  "title": "Šulgi 2010 (RIME 3/2.01.02.02010 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001738",
+  "paragraphs": [
+    {
+      "para_id": "Q001738.1",
+      "line_range": "1",
+      "translation": "(1) To Ninĝirsu , the powerful warrior of Enlil , his master , Lu-girizal , governor of Lagaš , … for the well-being of Šulgi , the powerful man , king of Urim ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001738.1",
+      "line_label": "1",
+      "transliteration": "d nin - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q001738.2",
+      "line_label": "2",
+      "transliteration": "ur - ⸢ saŋ kalag ⸣ - ga"
+    },
+    {
+      "line_id": "Q001738.3",
+      "line_label": "3",
+      "transliteration": "d ⸢ en - lil₂ ⸣ - la₂"
+    },
+    {
+      "line_id": "Q001738.4",
+      "line_label": "4",
+      "transliteration": "lugal - a - ⸢ ni ⸣"
+    },
+    {
+      "line_id": "Q001738.5",
+      "line_label": "5",
+      "transliteration": "nam - til₃"
+    },
+    {
+      "line_id": "Q001738.6",
+      "line_label": "6",
+      "transliteration": "šul - ⸢ gi ⸣"
+    },
+    {
+      "line_id": "Q001738.7",
+      "line_label": "7",
+      "transliteration": "⸢ nita kalag ⸣ - [ ga ]"
+    },
+    {
+      "line_id": "Q001738.8",
+      "line_label": "8",
+      "transliteration": "⸢ lugal ⸣ urim₅ ki - ma - ka - še₃"
+    },
+    {
+      "line_id": "Q001738.9",
+      "line_label": "9",
+      "transliteration": "lu₂ - giri₁₇ - zal"
+    },
+    {
+      "line_id": "Q001738.10",
+      "line_label": "10",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001738.11",
+      "line_label": "11",
+      "transliteration": "⸢ lagaš ki ⸣ - [ ke₄ ]"
+    }
+  ]
+}

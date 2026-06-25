@@ -1,0 +1,112 @@
+{
+  "text_id": "oracc.etcsri.Q002115",
+  "corpus": "oracc",
+  "title": "Warad-Sin 11 (RIME 4.02.13.11 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q002115",
+  "paragraphs": [
+    {
+      "para_id": "Q002115.1",
+      "line_range": "1",
+      "translation": "(1) For Inana of Zabalam , my lady , for my well-being , and for the well-being of Kudur-mabuk , the father who begot me , ( I ) , Warad-Sin , king of Larsam , built her holy high temple , a residence of warriors , I raised it as high as a mountain ."
+    },
+    {
+      "para_id": "Q002115.14",
+      "line_range": "14",
+      "translation": "(14) May she be as delighted with me because of my deeds as to grant me a life of long days as a reward !"
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q002115.1",
+      "line_label": "1",
+      "transliteration": "d inana zabala₂ ki"
+    },
+    {
+      "line_id": "Q002115.2",
+      "line_label": "2",
+      "transliteration": "nin - ŋu₁₀ - ra"
+    },
+    {
+      "line_id": "Q002115.3",
+      "line_label": "3",
+      "transliteration": "IR₁₁ - d suen"
+    },
+    {
+      "line_id": "Q002115.4",
+      "line_label": "4",
+      "transliteration": "lugal larsam ki - ma"
+    },
+    {
+      "line_id": "Q002115.5",
+      "line_label": "5",
+      "transliteration": "nam - til₃ - ŋu₁₀ - še₃"
+    },
+    {
+      "line_id": "Q002115.6",
+      "line_label": "6",
+      "transliteration": "u₃ nam - til₃"
+    },
+    {
+      "line_id": "Q002115.7",
+      "line_label": "7",
+      "transliteration": "ku - du - ur - ma - bu - uk"
+    },
+    {
+      "line_id": "Q002115.8",
+      "line_label": "8",
+      "transliteration": "a - a ugu - ŋa₂ - ka"
+    },
+    {
+      "line_id": "Q002115.9",
+      "line_label": "9",
+      "transliteration": "gi - gun₄ - na kug"
+    },
+    {
+      "line_id": "Q002115.10",
+      "line_label": "10",
+      "transliteration": "ki - tuš nam - ur - saŋ - ŋa₂ - ka - ni"
+    },
+    {
+      "line_id": "Q002115.11",
+      "line_label": "11",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q002115.12",
+      "line_label": "12",
+      "transliteration": "kur sukud - ra₂ - gin₇"
+    },
+    {
+      "line_id": "Q002115.13",
+      "line_label": "13",
+      "transliteration": "saŋ - bi ḫu - mu - ni - in - il₂"
+    },
+    {
+      "line_id": "Q002115.14",
+      "line_label": "14",
+      "transliteration": "niŋ₂ - ak - ŋu₁₀ - še₃"
+    },
+    {
+      "line_id": "Q002115.15",
+      "line_label": "15",
+      "transliteration": "ḫa - ma - ḫul₂ - e"
+    },
+    {
+      "line_id": "Q002115.16",
+      "line_label": "16",
+      "transliteration": "nam - til₃ ud sud - ra₂"
+    },
+    {
+      "line_id": "Q002115.17",
+      "line_label": "17",
+      "transliteration": "niŋ₂ - ba - aš"
+    },
+    {
+      "line_id": "Q002115.18",
+      "line_label": "18",
+      "transliteration": "ḫa - ma - an - ba - e"
+    }
+  ]
+}

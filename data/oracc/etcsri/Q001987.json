@@ -1,0 +1,117 @@
+{
+  "text_id": "oracc.etcsri.Q001987",
+  "corpus": "oracc",
+  "title": "Enlil-bani 05 (RIME 4.01.10.05 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001987",
+  "paragraphs": [
+    {
+      "para_id": "Q001987.1",
+      "line_range": "1",
+      "translation": "(1) For Ninibgal , the compassionate lady , who loves votive offerings , who listens to prayers and supplications , her shining mother , Enlil-bani , the shepherd , who makes everything abundant for Nibru , the farmer of Urim’s plentiful barley , who purifies all divine powers of Eridug , the beloved en - priest of Unug , the powerful king , king of Isin , king of Sumer and Akkad , the spouse choosen in the heart by Inana , built her beloved temple ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001987.1",
+      "line_label": "1",
+      "transliteration": "d nin - ib - gal"
+    },
+    {
+      "line_id": "Q001987.2",
+      "line_label": "2",
+      "transliteration": "nin šag₄ - la₂ sug₄"
+    },
+    {
+      "line_id": "Q001987.3",
+      "line_label": "3",
+      "transliteration": "ga - til₃ - e ki aŋ₂"
+    },
+    {
+      "line_id": "Q001987.4",
+      "line_label": "4",
+      "transliteration": "šud₃ a - ra - zu - e ŋeš tuku"
+    },
+    {
+      "line_id": "Q001987.5",
+      "line_label": "5",
+      "transliteration": "ama zalag - a - ni - ir"
+    },
+    {
+      "line_id": "Q001987.6",
+      "line_label": "6",
+      "transliteration": "d en - lil₂ - ba - ni"
+    },
+    {
+      "line_id": "Q001987.7",
+      "line_label": "7",
+      "transliteration": "sipad niŋ₂ - nam šar₂ - ra"
+    },
+    {
+      "line_id": "Q001987.8",
+      "line_label": "8",
+      "transliteration": "nibru ki"
+    },
+    {
+      "line_id": "Q001987.9",
+      "line_label": "9",
+      "transliteration": "engar še maḫ"
+    },
+    {
+      "line_id": "Q001987.10",
+      "line_label": "10",
+      "transliteration": "urim₂ ki - ma"
+    },
+    {
+      "line_id": "Q001987.11",
+      "line_label": "11",
+      "transliteration": "me eridug ki - ga kug - kug - ge"
+    },
+    {
+      "line_id": "Q001987.12",
+      "line_label": "12",
+      "transliteration": "en ki aŋ₂"
+    },
+    {
+      "line_id": "Q001987.13",
+      "line_label": "13",
+      "transliteration": "unug ki - ga"
+    },
+    {
+      "line_id": "Q001987.14",
+      "line_label": "14",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q001987.15",
+      "line_label": "15",
+      "transliteration": "lugal i₃ - si - in ki - na"
+    },
+    {
+      "line_id": "Q001987.16",
+      "line_label": "16",
+      "transliteration": "lugal ki - en - gi ki - uri"
+    },
+    {
+      "line_id": "Q001987.17",
+      "line_label": "17",
+      "transliteration": "dam šag₄ - ge pad₃ - da"
+    },
+    {
+      "line_id": "Q001987.18",
+      "line_label": "18",
+      "transliteration": "d inana - ke₄"
+    },
+    {
+      "line_id": "Q001987.19",
+      "line_label": "19",
+      "transliteration": "e₂ ki aŋ₂ - ŋa₂ - ni"
+    },
+    {
+      "line_id": "Q001987.20",
+      "line_label": "20",
+      "transliteration": "mu - na - du₃"
+    }
+  ]
+}

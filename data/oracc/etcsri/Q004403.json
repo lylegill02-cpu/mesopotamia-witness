@@ -1,0 +1,87 @@
+{
+  "text_id": "oracc.etcsri.Q004403",
+  "corpus": "oracc",
+  "title": "Šu-Suen 2070add (RIME 3/2.01.06.add1047 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004403",
+  "paragraphs": [
+    {
+      "para_id": "Q004403.1",
+      "line_range": "1",
+      "translation": "(1) To Ninĝirsu , the powerful warrior of Enlil , Lu-Ninĝirsu , the scribe , child of Lu-Bau , dedicated this ( bowl ) for his well-being and for the well-being of his spouse and child ."
+    },
+    {
+      "para_id": "Q004403.11",
+      "line_range": "11",
+      "translation": "(11) The name of this bowl is \" My lady ...!\"."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004403.1",
+      "line_label": "1",
+      "transliteration": "[ d nin - ŋir₂ ] - ⸢ su ? ⸣"
+    },
+    {
+      "line_id": "Q004403.2",
+      "line_label": "2",
+      "transliteration": "[ ur ] - ⸢ saŋ ? ⸣ [ kalag - ga ]"
+    },
+    {
+      "line_id": "Q004403.3",
+      "line_label": "3",
+      "transliteration": "⸢ d ? ⸣ [ en - lil₂ - la₂ ] - ⸢ ra ? ⸣"
+    },
+    {
+      "line_id": "Q004403.4",
+      "line_label": "4",
+      "transliteration": "lu₂ - d nin - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q004403.5",
+      "line_label": "5",
+      "transliteration": "dub - sar"
+    },
+    {
+      "line_id": "Q004403.6",
+      "line_label": "6",
+      "transliteration": "dumu lu₂ - d ba - < u₂ > - ke₄"
+    },
+    {
+      "line_id": "Q004403.7",
+      "line_label": "7",
+      "transliteration": "nam - til₃ - < la - ni > - še₃"
+    },
+    {
+      "line_id": "Q004403.8",
+      "line_label": "8",
+      "transliteration": "u₃ nam - til₃"
+    },
+    {
+      "line_id": "Q004403.9",
+      "line_label": "9",
+      "transliteration": "dam dumu - na - še₃"
+    },
+    {
+      "line_id": "Q004403.10",
+      "line_label": "10",
+      "transliteration": "a mu - na - ru"
+    },
+    {
+      "line_id": "Q004403.11",
+      "line_label": "11",
+      "transliteration": "bur - ba nin - ŋu₁₀"
+    },
+    {
+      "line_id": "Q004403.12",
+      "line_label": "12",
+      "transliteration": "igi - ni - da - ⸢ a ⸣"
+    },
+    {
+      "line_id": "Q004403.13",
+      "line_label": "13",
+      "transliteration": "⸢ mu - bi ⸣ - [ im ]"
+    }
+  ]
+}

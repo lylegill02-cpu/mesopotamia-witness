@@ -1,0 +1,32 @@
+{
+  "text_id": "oracc.etcsri.Q004271",
+  "corpus": "oracc",
+  "title": "Lagaš II Unidentified 1045add (FAOS 09/1, Lagash 28)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004271",
+  "paragraphs": [
+    {
+      "para_id": "Q004271.2",
+      "line_range": "2",
+      "translation": "(1') ..., ruler of Lagaš , ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004271.2",
+      "line_label": "1'",
+      "transliteration": "⸢ ensi₂ ⸣"
+    },
+    {
+      "line_id": "Q004271.3",
+      "line_label": "2'",
+      "transliteration": "⸢ lagaš ⸣ ki - ke₄"
+    },
+    {
+      "line_id": "Q004271.4",
+      "line_label": "3'",
+      "transliteration": "[... ] x [... ]"
+    }
+  ]
+}

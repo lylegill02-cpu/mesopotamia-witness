@@ -1,0 +1,57 @@
+{
+  "text_id": "oracc.etcsri.Q004137",
+  "corpus": "oracc",
+  "title": "Amar-Suena 2035add / CDLI Seals 000256 (CDLI Seals 000256 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004137",
+  "paragraphs": [
+    {
+      "para_id": "Q004137.1",
+      "line_range": "1",
+      "translation": "(1) Amar-Suena , the powerful king , king of Urim , king of the four quarters : ..., the scribe , child of Iddin-Suen , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004137.1",
+      "line_label": "1",
+      "transliteration": "d amar - d suen"
+    },
+    {
+      "line_id": "Q004137.2",
+      "line_label": "2",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q004137.3",
+      "line_label": "3",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q004137.4",
+      "line_label": "4",
+      "transliteration": "lugal an - ub - da limmu₂ - ba"
+    },
+    {
+      "line_id": "Q004137.5",
+      "line_label": "5",
+      "transliteration": "lu₂ - d [... ]"
+    },
+    {
+      "line_id": "Q004137.6",
+      "line_label": "6",
+      "transliteration": "dub - sar"
+    },
+    {
+      "line_id": "Q004137.7",
+      "line_label": "7",
+      "transliteration": "dumu i - din - d suen"
+    },
+    {
+      "line_id": "Q004137.8",
+      "line_label": "8",
+      "transliteration": "arad₂ - zu"
+    }
+  ]
+}

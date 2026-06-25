@@ -1,0 +1,122 @@
+{
+  "text_id": "oracc.etcsri.Q001113",
+  "corpus": "oracc",
+  "title": "En-metena 19 (RIME 1.09.05.19 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001113",
+  "paragraphs": [
+    {
+      "para_id": "Q001113.1",
+      "line_range": "1",
+      "translation": "(i 1) For Nanše of the E-engur ."
+    },
+    {
+      "para_id": "Q001113.3",
+      "line_range": "3",
+      "translation": "(i 3) En-metena , ruler of Lagaš , chosen by Nanše in the heart , chief governor of Ninĝirsu , child of En-ana-tum , ruler of Lagaš , built the E-engur in the field of Zulum for Nanše , decorated it for her with gold and silver , made it worthy of her , and embellished it for her with inscribed clay nails ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001113.1",
+      "line_label": "i 1",
+      "transliteration": "d nanše"
+    },
+    {
+      "line_id": "Q001113.2",
+      "line_label": "i 2",
+      "transliteration": "e₂ - engur - ra"
+    },
+    {
+      "line_id": "Q001113.3",
+      "line_label": "i 3",
+      "transliteration": "en - mete - na"
+    },
+    {
+      "line_id": "Q001113.4",
+      "line_label": "i 4",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001113.5",
+      "line_label": "i 5",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001113.6",
+      "line_label": "i 6",
+      "transliteration": "šag₄ pad₃ - da"
+    },
+    {
+      "line_id": "Q001113.7",
+      "line_label": "i 7",
+      "transliteration": "d nanše"
+    },
+    {
+      "line_id": "Q001113.8",
+      "line_label": "i 8",
+      "transliteration": "ensi₂ - gal"
+    },
+    {
+      "line_id": "Q001113.9",
+      "line_label": "i 9",
+      "transliteration": "d nin - ŋir₂ - su ! - ka"
+    },
+    {
+      "line_id": "Q001113.10",
+      "line_label": "i 10",
+      "transliteration": "dumu en - an - na - tum₂"
+    },
+    {
+      "line_id": "Q001113.11",
+      "line_label": "ii 1",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001113.12",
+      "line_label": "ii 2",
+      "transliteration": "lagaš ki - ka - ke₄"
+    },
+    {
+      "line_id": "Q001113.13",
+      "line_label": "ii 3",
+      "transliteration": "d nanše"
+    },
+    {
+      "line_id": "Q001113.14",
+      "line_label": "ii 4",
+      "transliteration": "e₂ - engur - ra"
+    },
+    {
+      "line_id": "Q001113.15",
+      "line_label": "ii 5",
+      "transliteration": "gana₂ zu₂ - lum - ma"
+    },
+    {
+      "line_id": "Q001113.16",
+      "line_label": "ii 6",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001113.17",
+      "line_label": "ii 7",
+      "transliteration": "kug - sig₁₇ kug - babbar₂ - ra"
+    },
+    {
+      "line_id": "Q001113.18",
+      "line_label": "ii 8",
+      "transliteration": "šu ⸢ mu - na - ni - tag ⸣"
+    },
+    {
+      "line_id": "Q001113.19",
+      "line_label": "ii 9",
+      "transliteration": "mu - ni - tum₂"
+    },
+    {
+      "line_id": "Q001113.20",
+      "line_label": "ii 10",
+      "transliteration": "KIB g mu - na - dug₄"
+    }
+  ]
+}

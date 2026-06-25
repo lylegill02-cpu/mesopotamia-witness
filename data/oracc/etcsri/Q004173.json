@@ -1,0 +1,37 @@
+{
+  "text_id": "oracc.etcsri.Q004173",
+  "corpus": "oracc",
+  "title": "Anonymous 10 (FAOS 05/2, Anonym 10) (FAOS 05/2, Anonym 10)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004173",
+  "paragraphs": [
+    {
+      "para_id": "Q004173.1",
+      "line_range": "1",
+      "translation": "(1) To Lugal-ega , Ursaĝ-Utu , child of Lugal-pada , the gusur , fashioned this ( statuette ) ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004173.1",
+      "line_label": "1",
+      "transliteration": "d lugal - eg₂ - ga"
+    },
+    {
+      "line_id": "Q004173.2",
+      "line_label": "2",
+      "transliteration": "ur - saŋ - utu"
+    },
+    {
+      "line_id": "Q004173.3",
+      "line_label": "3",
+      "transliteration": "dumu lugal - pad₃ - da ! gu - sur"
+    },
+    {
+      "line_id": "Q004173.4",
+      "line_label": "4",
+      "transliteration": "mu - na - dim₂"
+    }
+  ]
+}

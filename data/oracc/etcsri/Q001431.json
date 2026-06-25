@@ -1,0 +1,142 @@
+{
+  "text_id": "oracc.etcsri.Q001431",
+  "corpus": "oracc",
+  "title": "Šar-kali-šarri 4 (Sumerian) (RIME 2.01.05.04 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001431",
+  "paragraphs": [
+    {
+      "para_id": "Q001431.1",
+      "line_range": "1",
+      "translation": "(1) Enlil spoke : He gave all ... to Šar-kali-šarri , the powerful king , cup-bearer of Enlil , king of Akkad , king of Enlil's people . After he had arrived at the source of the Tigris and the Euphrates , he himself dedicated this ( object ) to Enlil in Nibru ."
+    },
+    {
+      "para_id": "Q001431.28",
+      "line_range": "28",
+      "translation": "(colophon 1, 1) The number of its ( lines ) is six ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001431.1",
+      "line_label": "1",
+      "transliteration": "d en - lil₂ - le"
+    },
+    {
+      "line_id": "Q001431.2",
+      "line_label": "2",
+      "transliteration": "bi₂ - dug₄"
+    },
+    {
+      "line_id": "Q001431.4",
+      "line_label": "3",
+      "transliteration": "d šar - ka₃ - li₃ - LUGAL - ri₂"
+    },
+    {
+      "line_id": "Q001431.5",
+      "line_label": "4",
+      "transliteration": "lugal"
+    },
+    {
+      "line_id": "Q001431.6",
+      "line_label": "5",
+      "transliteration": "kalag - ga"
+    },
+    {
+      "line_id": "Q001431.7",
+      "line_label": "6",
+      "transliteration": "sagi"
+    },
+    {
+      "line_id": "Q001431.8",
+      "line_label": "7",
+      "transliteration": "d en - lil₂ - la₂"
+    },
+    {
+      "line_id": "Q001431.9",
+      "line_label": "8",
+      "transliteration": "lugal"
+    },
+    {
+      "line_id": "Q001431.10",
+      "line_label": "9",
+      "transliteration": "a - ga - de₃ ki"
+    },
+    {
+      "line_id": "Q001431.11",
+      "line_label": "10",
+      "transliteration": "lugal"
+    },
+    {
+      "line_id": "Q001431.12",
+      "line_label": "11",
+      "transliteration": "uŋ₃"
+    },
+    {
+      "line_id": "Q001431.13",
+      "line_label": "12",
+      "transliteration": "d en - lil₂ - la₂"
+    },
+    {
+      "line_id": "Q001431.14",
+      "line_label": "13",
+      "transliteration": "igi en - na"
+    },
+    {
+      "line_id": "Q001431.15",
+      "line_label": "14",
+      "transliteration": "x LAGAB - ta"
+    },
+    {
+      "line_id": "Q001431.17",
+      "line_label": "15",
+      "transliteration": "niŋin - ta"
+    },
+    {
+      "line_id": "Q001431.18",
+      "line_label": "16",
+      "transliteration": "in - na - an - šum₂"
+    },
+    {
+      "line_id": "Q001431.20",
+      "line_label": "17",
+      "transliteration": "ud nag - bu"
+    },
+    {
+      "line_id": "Q001431.21",
+      "line_label": "18-19",
+      "transliteration": "id₂ idigna"
+    },
+    {
+      "line_id": "Q001431.22",
+      "line_label": "20-21",
+      "transliteration": "id₂ buranun - na - bi - da"
+    },
+    {
+      "line_id": "Q001431.23",
+      "line_label": "22",
+      "transliteration": "sa₂ dug₄ - ga"
+    },
+    {
+      "line_id": "Q001431.24",
+      "line_label": "23",
+      "transliteration": "a - ne₂ d en - lil₂ - ra"
+    },
+    {
+      "line_id": "Q001431.25",
+      "line_label": "24",
+      "transliteration": "nibru ki"
+    },
+    {
+      "line_id": "Q001431.26",
+      "line_label": "25",
+      "transliteration": "a mu - ru"
+    },
+    {
+      "line_id": "Q001431.28",
+      "line_label": "colophon 1, 1",
+      "transliteration": "aš₃ - am₃ šid - bi"
+    }
+  ]
+}

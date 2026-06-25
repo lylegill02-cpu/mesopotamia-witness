@@ -1,0 +1,57 @@
+{
+  "text_id": "oracc.etcsri.Q001698",
+  "corpus": "oracc",
+  "title": "Šulgi 66 (RIME 3/2.01.02.066 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001698",
+  "paragraphs": [
+    {
+      "para_id": "Q001698.1",
+      "line_range": "1",
+      "translation": "(1) To Inana , her lady , for the well-being of Šulgi , the powerful man , king of Urim , Watartum , ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001698.1",
+      "line_label": "1",
+      "transliteration": "d inana"
+    },
+    {
+      "line_id": "Q001698.2",
+      "line_label": "2",
+      "transliteration": "nin - a - ni"
+    },
+    {
+      "line_id": "Q001698.3",
+      "line_label": "3",
+      "transliteration": "nam - til₃"
+    },
+    {
+      "line_id": "Q001698.4",
+      "line_label": "4",
+      "transliteration": "šul - gi"
+    },
+    {
+      "line_id": "Q001698.5",
+      "line_label": "5",
+      "transliteration": "nita kalag - ga"
+    },
+    {
+      "line_id": "Q001698.6",
+      "line_label": "6",
+      "transliteration": "lugal urim₅ ki - ma - ka - še₃"
+    },
+    {
+      "line_id": "Q001698.7",
+      "line_label": "7",
+      "transliteration": "SI . A - tum"
+    },
+    {
+      "line_id": "Q001698.8",
+      "line_label": "8",
+      "transliteration": "⸢ x x ni ⸣"
+    }
+  ]
+}

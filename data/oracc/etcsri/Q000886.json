@@ -1,0 +1,42 @@
+{
+  "text_id": "oracc.etcsri.Q000886",
+  "corpus": "oracc",
+  "title": "Ur-Bau 13 (RIME 3/1.01.06.13 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000886",
+  "paragraphs": [
+    {
+      "para_id": "Q000886.1",
+      "line_range": "1",
+      "translation": "(1) En-Ane-pada , en priestess of Nanna , the child of Ur-Bau , ruler of Lagaš ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000886.1",
+      "line_label": "1",
+      "transliteration": "⸢ en - an - ne₂ ⸣ - pad₃ - da"
+    },
+    {
+      "line_id": "Q000886.2",
+      "line_label": "2",
+      "transliteration": "en d nanna"
+    },
+    {
+      "line_id": "Q000886.3",
+      "line_label": "3",
+      "transliteration": "dumu ur - d ba - u₂"
+    },
+    {
+      "line_id": "Q000886.4",
+      "line_label": "4",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q000886.5",
+      "line_label": "5",
+      "transliteration": "⸢ lagaš ki ⸣"
+    }
+  ]
+}

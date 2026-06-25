@@ -1,0 +1,72 @@
+{
+  "text_id": "oracc.etcsri.Q001578",
+  "corpus": "oracc",
+  "title": "Nammahni 01 (RIME 3/1.01.12.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001578",
+  "paragraphs": [
+    {
+      "para_id": "Q001578.1",
+      "line_range": "1",
+      "translation": "(1) For Bau , the kind woman , child of An , lady of Irikug , his lady , Nammaḫni , ruler of Lagaš , her powerful steward , fashioned a door socket from this ( stone ) ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001578.1",
+      "line_label": "1",
+      "transliteration": "d ba - u₂"
+    },
+    {
+      "line_id": "Q001578.2",
+      "line_label": "2",
+      "transliteration": "munus sag₉ - ga"
+    },
+    {
+      "line_id": "Q001578.3",
+      "line_label": "3",
+      "transliteration": "dumu an - na"
+    },
+    {
+      "line_id": "Q001578.4",
+      "line_label": "4",
+      "transliteration": "nin iri - kug - ga"
+    },
+    {
+      "line_id": "Q001578.5",
+      "line_label": "5",
+      "transliteration": "nin - a - ni"
+    },
+    {
+      "line_id": "Q001578.6",
+      "line_label": "6",
+      "transliteration": "nam - maḫ - ni"
+    },
+    {
+      "line_id": "Q001578.7",
+      "line_label": "7",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001578.8",
+      "line_label": "8",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001578.9",
+      "line_label": "9",
+      "transliteration": "agrig kalag - ga - ne₂"
+    },
+    {
+      "line_id": "Q001578.10",
+      "line_label": "10",
+      "transliteration": "na₄ KU ig - še₃"
+    },
+    {
+      "line_id": "Q001578.11",
+      "line_label": "11",
+      "transliteration": "mu - na - dim₂"
+    }
+  ]
+}

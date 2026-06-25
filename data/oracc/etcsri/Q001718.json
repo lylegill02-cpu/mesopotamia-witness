@@ -1,0 +1,37 @@
+{
+  "text_id": "oracc.etcsri.Q001718",
+  "corpus": "oracc",
+  "title": "Šulgi 86 / CDLI Seals 006352 (CDLI Seals 006352 (physical))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001718",
+  "paragraphs": [
+    {
+      "para_id": "Q001718.1",
+      "line_range": "1",
+      "translation": "(1) Baqartum , daughter of the king : Šulgi-ilī is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001718.1",
+      "line_label": "1",
+      "transliteration": "ba - qar₃ - tum"
+    },
+    {
+      "line_id": "Q001718.2",
+      "line_label": "2",
+      "transliteration": "dumu - munus lugal"
+    },
+    {
+      "line_id": "Q001718.3",
+      "line_label": "3",
+      "transliteration": "d šul - gi - i₃ - li₂"
+    },
+    {
+      "line_id": "Q001718.4",
+      "line_label": "4",
+      "transliteration": "arad₂ - zu"
+    }
+  ]
+}

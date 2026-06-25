@@ -1,0 +1,57 @@
+{
+  "text_id": "oracc.etcsri.Q001611",
+  "corpus": "oracc",
+  "title": "Lagaš II Unidentified 1022 (RIME 3/1.01.13.1022 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001611",
+  "paragraphs": [
+    {
+      "para_id": "Q001611.2",
+      "line_range": "2",
+      "translation": "(1') To ... Ur-Bau , the child of Šeššeš , the merchant , dedicated this ( bowl ) for ..., the ruler of Lagaš . The name of this stone ( bowl ) is “My personal god , I request life with this ( bowl ) ” ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001611.2",
+      "line_label": "1'",
+      "transliteration": "⸢ ensi₂ ⸣"
+    },
+    {
+      "line_id": "Q001611.3",
+      "line_label": "2'",
+      "transliteration": "⸢ lagaš ⸣ ki - < ka > - ⸢ še₃ ⸣"
+    },
+    {
+      "line_id": "Q001611.4",
+      "line_label": "3'",
+      "transliteration": "ur - d ba - u₂"
+    },
+    {
+      "line_id": "Q001611.5",
+      "line_label": "4'",
+      "transliteration": "dumu šeš - šeš dam - gara₃ - ke₄"
+    },
+    {
+      "line_id": "Q001611.6",
+      "line_label": "5'",
+      "transliteration": "[ a ] ⸢ mu ⸣ - na - ru"
+    },
+    {
+      "line_id": "Q001611.7",
+      "line_label": "6'",
+      "transliteration": "⸢ na₄ ⸣ diŋir - ŋu₁₀"
+    },
+    {
+      "line_id": "Q001611.8",
+      "line_label": "7'",
+      "transliteration": "⸢ til₃ ⸣ al ba - ni - dug₄"
+    },
+    {
+      "line_id": "Q001611.9",
+      "line_label": "8'",
+      "transliteration": "mu - bi"
+    }
+  ]
+}

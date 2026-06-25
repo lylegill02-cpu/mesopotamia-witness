@@ -1,0 +1,162 @@
+{
+  "text_id": "oracc.etcsri.Q001066",
+  "corpus": "oracc",
+  "title": "E-anatum 11 (RIME 1.09.03.11 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001066",
+  "paragraphs": [
+    {
+      "para_id": "Q001066.3",
+      "line_range": "3",
+      "translation": "(Side 1, iii 1') .... He defeated .... He defeated Uruk . He defeated Urim . ...."
+    },
+    {
+      "para_id": "Q001066.9",
+      "line_range": "9",
+      "translation": "(Side 1, iv 1) The personal god of E-ana-tum , the builder of Ĝatumdug's temple , is Šul-MUŠxPA ."
+    },
+    {
+      "para_id": "Q001066.13",
+      "line_range": "13",
+      "translation": "(Side 1, iv 5) E-ana-tum fashioned ( the statue of ) Nanše . ...."
+    },
+    {
+      "para_id": "Q001066.17",
+      "line_range": "17",
+      "translation": "(Side 1, v 1) When ..., he assigned regular offerings to the lofty high temple for Nanše ; he assigned regular offerings to ... for Ninĝirsu , he assigned regular offerings to Nibru for Enlil . ...."
+    },
+    {
+      "para_id": "Q001066.31",
+      "line_range": "31",
+      "translation": "(Side 4, i 1') He brought ( this mortar ) before Nanše in the E-mah ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001066.3",
+      "line_label": "Side 1, iii 1'",
+      "transliteration": "[ aga₃ - kar₂ ! ( ŠE₃ ) be₂ ] - ⸢ seg₁₀ ⸣"
+    },
+    {
+      "line_id": "Q001066.4",
+      "line_label": "Side 1, iii 2'",
+      "transliteration": "⸢ unug ⸣ ki"
+    },
+    {
+      "line_id": "Q001066.5",
+      "line_label": "Side 1, iii 3'",
+      "transliteration": "⸢ aga₃ ⸣ - kar₂ ! ( ŠE₃ ) ⸢ be₂ ⸣ - seg₁₀"
+    },
+    {
+      "line_id": "Q001066.6",
+      "line_label": "Side 1, iii 4'",
+      "transliteration": "⸢ urim₅ ⸣ ki - ma"
+    },
+    {
+      "line_id": "Q001066.7",
+      "line_label": "Side 1, iii 5'",
+      "transliteration": "[ aga₃ - kar₂ ! ( ŠE₃ ) be₂ - seg₁₀ ]"
+    },
+    {
+      "line_id": "Q001066.9",
+      "line_label": "Side 1, iv 1",
+      "transliteration": "e₂ - an - na - tum₂"
+    },
+    {
+      "line_id": "Q001066.10",
+      "line_label": "Side 1, iv 2",
+      "transliteration": "lu₂ [ e₂ ] d ŋa₂ - [ tum₃ ] - dug₃ du₃ - [ a ]"
+    },
+    {
+      "line_id": "Q001066.11",
+      "line_label": "Side 1, iv 3",
+      "transliteration": "diŋir - ra - ni"
+    },
+    {
+      "line_id": "Q001066.12",
+      "line_label": "Side 1, iv 4",
+      "transliteration": "d šul - MUŠ × PA"
+    },
+    {
+      "line_id": "Q001066.13",
+      "line_label": "Side 1, iv 5",
+      "transliteration": "e₂ - an - na - tum₂"
+    },
+    {
+      "line_id": "Q001066.14",
+      "line_label": "Side 1, iv 6",
+      "transliteration": "d nanše"
+    },
+    {
+      "line_id": "Q001066.15",
+      "line_label": "Side 1, iv 7",
+      "transliteration": "[ mu ] - ⸢ tud ⸣"
+    },
+    {
+      "line_id": "Q001066.17",
+      "line_label": "Side 1, v 1",
+      "transliteration": "⸢ ud ⸣ [... ] e - ⸢ da ⸣ - [... ]"
+    },
+    {
+      "line_id": "Q001066.18",
+      "line_label": "Side 1, v 2",
+      "transliteration": "d ⸢ nanše ⸣"
+    },
+    {
+      "line_id": "Q001066.19",
+      "line_label": "Side 1, v 3",
+      "transliteration": "gi - gu₃ - na ⸢ maḫ ⸣"
+    },
+    {
+      "line_id": "Q001066.20",
+      "line_label": "Side 1, v 4",
+      "transliteration": "sa₂ še₃ - [ na ] - dug₄ - [ dug₄ ]"
+    },
+    {
+      "line_id": "Q001066.21",
+      "line_label": "Side 1, v 5",
+      "transliteration": "[ d ] ⸢ nin ⸣ - ŋir₂ - su₂ - [ ra ? ]"
+    },
+    {
+      "line_id": "Q001066.22",
+      "line_label": "Side 1, v 6",
+      "transliteration": "e₂ ⸢ ŊEŠ ? ⸣ - [ x ] - ga - [ ke₄ ? ]"
+    },
+    {
+      "line_id": "Q001066.23",
+      "line_label": "Side 1, v 7",
+      "transliteration": "sa₂ še₃ - ⸢ na ⸣ - dug₄ - dug₄"
+    },
+    {
+      "line_id": "Q001066.24",
+      "line_label": "Side 1, v 8",
+      "transliteration": "d ⸢ en ⸣ - lil₂ ( E₂ )- la"
+    },
+    {
+      "line_id": "Q001066.25",
+      "line_label": "Side 1, v 9",
+      "transliteration": "⸢ nibru ⸣ ki"
+    },
+    {
+      "line_id": "Q001066.26",
+      "line_label": "Side 1, v 10",
+      "transliteration": "[ sa₂ ] še₃ - ⸢ na ⸣ - [ dug₄ - dug₄ ]"
+    },
+    {
+      "line_id": "Q001066.31",
+      "line_label": "Side 4, i 1'",
+      "transliteration": "[ d ] nanše"
+    },
+    {
+      "line_id": "Q001066.32",
+      "line_label": "Side 4, i 2'",
+      "transliteration": "[ e₂ ] - maḫ - ḫa"
+    },
+    {
+      "line_id": "Q001066.33",
+      "line_label": "Side 4, i 3'",
+      "transliteration": "⸢ mu ⸣ - na - ⸢ ni ⸣ - kurₓ ( DU )"
+    }
+  ]
+}

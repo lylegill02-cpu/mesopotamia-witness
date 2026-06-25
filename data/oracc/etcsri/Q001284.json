@@ -1,0 +1,42 @@
+{
+  "text_id": "oracc.etcsri.Q001284",
+  "corpus": "oracc",
+  "title": "Anonymous Nippur 29 (RIME 1.15.add05.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001284",
+  "paragraphs": [
+    {
+      "para_id": "Q001284.1",
+      "line_range": "1",
+      "translation": "(1) To Inana , Ak-Enlila , the chief merchant , child of ..., dedicated this ( vessel ) ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001284.1",
+      "line_label": "1",
+      "transliteration": "d inana"
+    },
+    {
+      "line_id": "Q001284.2",
+      "line_label": "2",
+      "transliteration": "AK - d en - lil₂ ( E₂ )"
+    },
+    {
+      "line_id": "Q001284.3",
+      "line_label": "3",
+      "transliteration": "dam - gara₃ - gal"
+    },
+    {
+      "line_id": "Q001284.4",
+      "line_label": "4",
+      "transliteration": "dumu ti - GAN"
+    },
+    {
+      "line_id": "Q001284.5",
+      "line_label": "5",
+      "transliteration": "a mu - ru"
+    }
+  ]
+}

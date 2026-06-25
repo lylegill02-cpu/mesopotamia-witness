@@ -1,0 +1,62 @@
+{
+  "text_id": "oracc.etcsri.Q001250",
+  "corpus": "oracc",
+  "title": "Ur-zage 1 (RIME 1.14.16.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001250",
+  "paragraphs": [
+    {
+      "para_id": "Q001250.1",
+      "line_range": "1",
+      "translation": "(1) To Enlil , the king of all lands , and Ninlil , lady of heaven and earth , the grain-fed cow , ( the source of ) his butter , the spouse of Enlil , Ur-zag-e , king of Kiš , king of ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001250.1",
+      "line_label": "1",
+      "transliteration": "[ d ] ⸢ en ⸣ - [ lil₂ ]"
+    },
+    {
+      "line_id": "Q001250.2",
+      "line_label": "2",
+      "transliteration": "lugal kur - kur - ra"
+    },
+    {
+      "line_id": "Q001250.3",
+      "line_label": "3",
+      "transliteration": "d nin - lil₂"
+    },
+    {
+      "line_id": "Q001250.4",
+      "line_label": "4",
+      "transliteration": "nin an ki - ra"
+    },
+    {
+      "line_id": "Q001250.5",
+      "line_label": "5",
+      "transliteration": "šilamₓ ( TUR₃ ) niga i₃ - na"
+    },
+    {
+      "line_id": "Q001250.6",
+      "line_label": "6",
+      "transliteration": "dam d en - lil₂ - ra"
+    },
+    {
+      "line_id": "Q001250.7",
+      "line_label": "7",
+      "transliteration": "ur - zag ? - e₃"
+    },
+    {
+      "line_id": "Q001250.8",
+      "line_label": "8",
+      "transliteration": "lugal kiš ki"
+    },
+    {
+      "line_id": "Q001250.9",
+      "line_label": "9",
+      "transliteration": "⸢ lugal ⸣ [... ]"
+    }
+  ]
+}

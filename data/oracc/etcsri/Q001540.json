@@ -1,0 +1,182 @@
+{
+  "text_id": "oracc.etcsri.Q001540",
+  "corpus": "oracc",
+  "title": "Gudea Statue A (RIME 3/1.01.07, St A composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001540",
+  "paragraphs": [
+    {
+      "para_id": "Q001540.1",
+      "line_range": "1",
+      "translation": "(shoulder 1) Gudea , ruler of Lagaš , who built the E-ninnu of Ninĝirsu ."
+    },
+    {
+      "para_id": "Q001540.7",
+      "line_range": "7",
+      "translation": "(statue i 1) For Ninḫursaĝa , the lady who had become one with the city , the mother of all children , his lady , Gudea , ruler of Lagaš , built her temple in the city of Ĝirsu . He fashioned her holy chest , fashioned her lofty throne of ladyhood , and brought them before her into her lofty temple . He transported diorite from the mountains of Magan , fashioned his statue from it , named it for her sake \" The lady , who decides the fates in heaven and earth , Nintur , the mother of the gods , has prolonged the life of Gudea , the temple-builder \", and brought it before her into the temple ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001540.1",
+      "line_label": "shoulder 1",
+      "transliteration": "gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q001540.2",
+      "line_label": "shoulder 2",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001540.3",
+      "line_label": "shoulder 3",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001540.4",
+      "line_label": "shoulder 4",
+      "transliteration": "lu₂ e₂ - ninnu"
+    },
+    {
+      "line_id": "Q001540.5",
+      "line_label": "shoulder 5",
+      "transliteration": "d nin - ŋir₂ - su - ka"
+    },
+    {
+      "line_id": "Q001540.6",
+      "line_label": "shoulder 6",
+      "transliteration": "in - du₃ - a"
+    },
+    {
+      "line_id": "Q001540.7",
+      "line_label": "statue i 1",
+      "transliteration": "d nin - ḫur - saŋ"
+    },
+    {
+      "line_id": "Q001540.8",
+      "line_label": "statue i 2",
+      "transliteration": "nin iri - da mu₂ - a"
+    },
+    {
+      "line_id": "Q001540.9",
+      "line_label": "statue i 3",
+      "transliteration": "ama dumu - dumu - ne"
+    },
+    {
+      "line_id": "Q001540.10",
+      "line_label": "statue i 4",
+      "transliteration": "nin - a - ni"
+    },
+    {
+      "line_id": "Q001540.11",
+      "line_label": "statue i 5",
+      "transliteration": "gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q001540.12",
+      "line_label": "statue i 6",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001540.13",
+      "line_label": "statue i 7",
+      "transliteration": "lagaš ki - ke₄"
+    },
+    {
+      "line_id": "Q001540.14",
+      "line_label": "statue i 8",
+      "transliteration": "e₂ iri ŋir₂ - su ki - ka - ni"
+    },
+    {
+      "line_id": "Q001540.15",
+      "line_label": "statue i 9",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001540.16",
+      "line_label": "statue ii 1",
+      "transliteration": "dub - šen kug - ga - ni"
+    },
+    {
+      "line_id": "Q001540.17",
+      "line_label": "statue ii 2",
+      "transliteration": "mu - na - dim₂"
+    },
+    {
+      "line_id": "Q001540.18",
+      "line_label": "statue ii 3",
+      "transliteration": "ŋeš dur₂ - ŋar maḫ nam - nin - ka - ni"
+    },
+    {
+      "line_id": "Q001540.19",
+      "line_label": "statue ii 4",
+      "transliteration": "mu - na - dim₂"
+    },
+    {
+      "line_id": "Q001540.20",
+      "line_label": "statue ii 5",
+      "transliteration": "e₂ maḫ - ni - a mu - na - ni - kur₉ ( REC145 )"
+    },
+    {
+      "line_id": "Q001540.21",
+      "line_label": "statue ii 6",
+      "transliteration": "kur ma₂ - gan ki - ta"
+    },
+    {
+      "line_id": "Q001540.22",
+      "line_label": "statue iii 1",
+      "transliteration": "na₄ esi im - ta - ed₃"
+    },
+    {
+      "line_id": "Q001540.23",
+      "line_label": "statue iii 2",
+      "transliteration": "alan - na - ni - še₃"
+    },
+    {
+      "line_id": "Q001540.24",
+      "line_label": "statue iii 3",
+      "transliteration": "mu - tud"
+    },
+    {
+      "line_id": "Q001540.25",
+      "line_label": "statue iii 4",
+      "transliteration": "nin an ki - a nam tar - re - de₃"
+    },
+    {
+      "line_id": "Q001540.26",
+      "line_label": "statue iii 5",
+      "transliteration": "d nin - tur₅"
+    },
+    {
+      "line_id": "Q001540.27",
+      "line_label": "statue iii 6",
+      "transliteration": "ama diŋir - re - ne - ke₄"
+    },
+    {
+      "line_id": "Q001540.28",
+      "line_label": "statue iii 7",
+      "transliteration": "gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q001540.29",
+      "line_label": "statue iv 1",
+      "transliteration": "lu₂ e₂ du₃ - a - ka"
+    },
+    {
+      "line_id": "Q001540.30",
+      "line_label": "statue iv 2",
+      "transliteration": "nam - til₃ - la - ni mu - sud"
+    },
+    {
+      "line_id": "Q001540.31",
+      "line_label": "statue iv 3",
+      "transliteration": "mu - še₃ mu - na - še₂₁"
+    },
+    {
+      "line_id": "Q001540.32",
+      "line_label": "statue iv 4",
+      "transliteration": "e₂ - a mu - na - ni - kur₉ ( REC145 )"
+    }
+  ]
+}

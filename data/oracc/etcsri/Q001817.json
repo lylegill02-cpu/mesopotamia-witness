@@ -1,0 +1,87 @@
+{
+  "text_id": "oracc.etcsri.Q001817",
+  "corpus": "oracc",
+  "title": "Šu-Suen 14 (RIME 3/2.01.04.14 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001817",
+  "paragraphs": [
+    {
+      "para_id": "Q001817.1",
+      "line_range": "1",
+      "translation": "(1) For Šu-Suen , the beloved of Enlil , the king whom Enlil chose with the love of his heart , the powerful king , king of Urim , king of the four quarters , his god , ..., the general , his servant , built his temple ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001817.1",
+      "line_label": "1",
+      "transliteration": "d šu - d suen"
+    },
+    {
+      "line_id": "Q001817.2",
+      "line_label": "2",
+      "transliteration": "ki aŋ₂ d en - lil₂ - la₂"
+    },
+    {
+      "line_id": "Q001817.3",
+      "line_label": "3",
+      "transliteration": "lugal d en - lil₂ - le"
+    },
+    {
+      "line_id": "Q001817.4",
+      "line_label": "4",
+      "transliteration": "ki aŋ₂ šag₄ - ga - na"
+    },
+    {
+      "line_id": "Q001817.5",
+      "line_label": "5",
+      "transliteration": "in - pad₃"
+    },
+    {
+      "line_id": "Q001817.6",
+      "line_label": "6",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q001817.7",
+      "line_label": "7",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q001817.8",
+      "line_label": "8",
+      "transliteration": "lugal an - ub - da limmu₂ - ba"
+    },
+    {
+      "line_id": "Q001817.9",
+      "line_label": "9",
+      "transliteration": "diŋir - ra - ni - ir"
+    },
+    {
+      "line_id": "Q001817.10",
+      "line_label": "10",
+      "transliteration": "[... ] - kal ! - la"
+    },
+    {
+      "line_id": "Q001817.11",
+      "line_label": "11",
+      "transliteration": "šagina"
+    },
+    {
+      "line_id": "Q001817.12",
+      "line_label": "12",
+      "transliteration": "arad₂ - da - ne₂"
+    },
+    {
+      "line_id": "Q001817.13",
+      "line_label": "13",
+      "transliteration": "e₂ - a - ni"
+    },
+    {
+      "line_id": "Q001817.14",
+      "line_label": "14",
+      "transliteration": "mu - na - du₃"
+    }
+  ]
+}

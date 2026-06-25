@@ -1,0 +1,27 @@
+{
+  "text_id": "oracc.etcsri.Q001051",
+  "corpus": "oracc",
+  "title": "Ur-Nanše 33 (RIME 1.09.01.33 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001051",
+  "paragraphs": [
+    {
+      "para_id": "Q001051.1",
+      "line_range": "1",
+      "translation": "(1) To Ninĝirsu , Ur-Nanše , ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001051.1",
+      "line_label": "1",
+      "transliteration": "[ d ] ⸢ nin ⸣ - ŋir₂ - su₂ !"
+    },
+    {
+      "line_id": "Q001051.2",
+      "line_label": "2",
+      "transliteration": "ur - [ d ] ⸢ nanše ⸣"
+    }
+  ]
+}

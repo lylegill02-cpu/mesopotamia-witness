@@ -1,0 +1,102 @@
+{
+  "text_id": "oracc.etcsri.Q000986",
+  "corpus": "oracc",
+  "title": "Amar-Suena 13 (RIME 3/2.01.03.13 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000986",
+  "paragraphs": [
+    {
+      "para_id": "Q000986.1",
+      "line_range": "1",
+      "translation": "(1) For Inana , the lady of battle , his beloved spouse , Amar-Suena , whose name was proclaimed by Enlil in Nibru , the steadfast supporter of Enlil's temple , the powerful king , king of Urim , king of the four quarters , fashioned her bronze ... of the E-ĝipar . He dedicated it to her for his well-being ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000986.1",
+      "line_label": "1",
+      "transliteration": "d inana"
+    },
+    {
+      "line_id": "Q000986.2",
+      "line_label": "2",
+      "transliteration": "nin me₃"
+    },
+    {
+      "line_id": "Q000986.3",
+      "line_label": "3",
+      "transliteration": "dam ki aŋ₂ - ŋa₂ - ni - ir"
+    },
+    {
+      "line_id": "Q000986.4",
+      "line_label": "4",
+      "transliteration": "d amar - d suen"
+    },
+    {
+      "line_id": "Q000986.5",
+      "line_label": "5",
+      "transliteration": "d en - lil₂ - le"
+    },
+    {
+      "line_id": "Q000986.6",
+      "line_label": "6",
+      "transliteration": "nibru ki - a"
+    },
+    {
+      "line_id": "Q000986.7",
+      "line_label": "7",
+      "transliteration": "mu pad₃ - da"
+    },
+    {
+      "line_id": "Q000986.8",
+      "line_label": "8",
+      "transliteration": "saŋ - us₂"
+    },
+    {
+      "line_id": "Q000986.9",
+      "line_label": "9",
+      "transliteration": "e₂ d en - lil₂ - ka"
+    },
+    {
+      "line_id": "Q000986.10",
+      "line_label": "10",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q000986.11",
+      "line_label": "11",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q000986.12",
+      "line_label": "12",
+      "transliteration": "lugal an - ub - da limmu₂ - ba - ke₄"
+    },
+    {
+      "line_id": "Q000986.13",
+      "line_label": "13",
+      "transliteration": "ar - gi - bil - lu ! ( KU ) zabar"
+    },
+    {
+      "line_id": "Q000986.14",
+      "line_label": "14",
+      "transliteration": "e₂ - ŋi₆ - par₃ - ra - ka - ni"
+    },
+    {
+      "line_id": "Q000986.15",
+      "line_label": "15",
+      "transliteration": "mu - na - an - dim₂"
+    },
+    {
+      "line_id": "Q000986.16",
+      "line_label": "16",
+      "transliteration": "nam - til₃ - la - ni - še₃"
+    },
+    {
+      "line_id": "Q000986.17",
+      "line_label": "17",
+      "transliteration": "a mu - na - ru"
+    }
+  ]
+}

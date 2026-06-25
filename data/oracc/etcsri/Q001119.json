@@ -1,0 +1,52 @@
+{
+  "text_id": "oracc.etcsri.Q001119",
+  "corpus": "oracc",
+  "title": "En-metena 24 (RIME 1.09.05.24 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001119",
+  "paragraphs": [
+    {
+      "para_id": "Q001119.1",
+      "line_range": "1",
+      "translation": "(1) For Bau , the kind woman , En-metena , ruler of Lagaš , chosen by Nanše in the heart , ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001119.1",
+      "line_label": "1",
+      "transliteration": "d ba - u₂"
+    },
+    {
+      "line_id": "Q001119.2",
+      "line_label": "2",
+      "transliteration": "munus sag₉ - ga"
+    },
+    {
+      "line_id": "Q001119.3",
+      "line_label": "3",
+      "transliteration": "en - mete - na"
+    },
+    {
+      "line_id": "Q001119.4",
+      "line_label": "4",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001119.5",
+      "line_label": "5",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001119.6",
+      "line_label": "6",
+      "transliteration": "⸢ šag₄ pad₃ - da ⸣"
+    },
+    {
+      "line_id": "Q001119.7",
+      "line_label": "7",
+      "transliteration": "[ d nanše ]"
+    }
+  ]
+}

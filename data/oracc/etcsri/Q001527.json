@@ -1,0 +1,47 @@
+{
+  "text_id": "oracc.etcsri.Q001527",
+  "corpus": "oracc",
+  "title": "Gudea 095 (RIME 3/1.01.07.095 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001527",
+  "paragraphs": [
+    {
+      "para_id": "Q001527.1",
+      "line_range": "1",
+      "translation": "(1) To Ninmar , her/his lady , ... ( this object ) for the well-being of Gudea , ruler of Lagaš ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001527.1",
+      "line_label": "1",
+      "transliteration": "[ d ] nin - mar - ki"
+    },
+    {
+      "line_id": "Q001527.2",
+      "line_label": "2",
+      "transliteration": "[ nin ] - a - ni"
+    },
+    {
+      "line_id": "Q001527.3",
+      "line_label": "3",
+      "transliteration": "⸢ nam ⸣ - til₃"
+    },
+    {
+      "line_id": "Q001527.4",
+      "line_label": "4",
+      "transliteration": "[ gu₃ ] - de₂ - a"
+    },
+    {
+      "line_id": "Q001527.5",
+      "line_label": "5",
+      "transliteration": "⸢ ensi₂ ⸣"
+    },
+    {
+      "line_id": "Q001527.6",
+      "line_label": "6",
+      "transliteration": "⸢ lagaš ki ⸣ - [ ka - še₃ ]"
+    }
+  ]
+}

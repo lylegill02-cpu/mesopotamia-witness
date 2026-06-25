@@ -1,0 +1,47 @@
+{
+  "text_id": "oracc.etcsri.Q001770",
+  "corpus": "oracc",
+  "title": "Šulgi 2042 (RIME 3/2.01.02.02042 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001770",
+  "paragraphs": [
+    {
+      "para_id": "Q001770.1",
+      "line_range": "1",
+      "translation": "(1) To Ninĝišzida , his personal god , ... for the well-being of Šulgi , the powerful man , king of Urim , ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001770.1",
+      "line_label": "1",
+      "transliteration": "d nin - ⸢ ŋeš ⸣ - zid - da"
+    },
+    {
+      "line_id": "Q001770.2",
+      "line_label": "2",
+      "transliteration": "diŋir - ra - ni"
+    },
+    {
+      "line_id": "Q001770.3",
+      "line_label": "3",
+      "transliteration": "nam - til₃"
+    },
+    {
+      "line_id": "Q001770.4",
+      "line_label": "4",
+      "transliteration": "d šul - gi"
+    },
+    {
+      "line_id": "Q001770.5",
+      "line_label": "5",
+      "transliteration": "nita kalag - ga"
+    },
+    {
+      "line_id": "Q001770.6",
+      "line_label": "6",
+      "transliteration": "⸢ lugal ⸣ [ urim₅ ki - ma ]"
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "text_id": "oracc.etcsri.Q001546",
+  "corpus": "oracc",
+  "title": "Gudea Statue G (RIME 3/1.01.07, St G composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001546",
+  "paragraphs": [
+    {
+      "para_id": "Q001546.1",
+      "line_range": "1",
+      "translation": "(i 1) For Ninĝirsu , the powerful warrior of Enlil , his master , Gudea , ruler of Lagaš , the builder of Ninĝirsu's E-ninnu , built Ninĝirsu , his master's E-ĝidru , the temple of seven niches , the temple whose scepter takes precedence , ( and ) for which Ninĝirsu decided a good fate . Ninĝirsu dispatches the joyful bridewealth of Bau , the child of An , his beloved spouse , from this ( temple ) . ( Gudea's ) personal god , Ninĝišzida follows them , ( and ) Gudea , ruler of Lagaš , escorts them from Ĝirsu to Iri-kug to congratulate ( on the occasion ) ."
+    },
+    {
+      "para_id": "Q001546.35",
+      "line_range": "35",
+      "translation": "(ii 17) In this very year he transported diorite from the mountains of Magan , ( and ) fashioned his statue from it ."
+    },
+    {
+      "para_id": "Q001546.40",
+      "line_range": "40",
+      "translation": "(iii 5) At the turn of the year , at the festival of Bau , when the bridewealth is to be presented , the bridewealth for Bau consisted of these in the former , old temple : 1 grain-fed ox , 1 fattened sheep , 3 grain-fed sheep , 6 rams , 2 lambs , 7 portions of date , 7 jars of ghee , 7 palm hearts , 7 strings of figs , 7 baskets , 1 ti ' uz-bird , 7 cranes , 15 geese , 60 small birds in strings of 15 , 60 suḫurtun - carps in strings of 30 , 30 gun turnip , 7 gun marsh reed , 60 gun manu wood ."
+    },
+    {
+      "para_id": "Q001546.66",
+      "line_range": "66",
+      "translation": "(iv 21) After Gudea , ruler of Lagaš built his beloved temple , the E-ninnu , for Ninĝirsu , his master , ( and ) built her beloved temple , the E-tarsirsir , for Bau , his lady , the bridewealth for Bau consists of these in the new temple , increased by Gudea , ruler of Lagaš , the temple-builder : 2 grain-fed oxen , 2 fattened sheep , 10 grain-fed sheep , 2 lambs , 7 portions of date , 7 jars of ghee , 7 palm hearts , 7 strings of figs , 7 baskets , 14 date spadices , 14 cucumbers in basket , 1 ti ' uz bird , 7 cranes , 10 geese , 7 izi - birds , 60 small birds in strings of 15 , 60 suḫurtun - carps in strings of 30 , 40 gun turnip , 7 gun marsh reed , 60 gun manu wood ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001546.1",
+      "line_label": "i 1",
+      "transliteration": "d nin - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q001546.2",
+      "line_label": "i 2",
+      "transliteration": "ur - saŋ kalag - ga"
+    },
+    {
+      "line_id": "Q001546.3",
+      "line_label": "i 3",
+      "transliteration": "d en - lil₂ - la₂"
+    },
+    {
+      "line_id": "Q001546.4",
+      "line_label": "i 4",
+      "transliteration": "lugal - a - ni"
+    },
+    {
+      "line_id": "Q001546.5",
+      "line_label": "i 5",
+      "transliteration": "gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q001546.6",
+      "line_label": "i 6",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001546.7",
+      "line_label": "i 7",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001546.8",
+      "line_label": "i 8",
+      "transliteration": "lu₂ e₂ - ninnu"
+    },
+    {
+      "line_id": "Q001546.9",
+      "line_label": "i 9",
+      "transliteration": "d nin - ŋir₂ - su - ka"
+    },
+    {
+      "line_id": "Q001546.10",
+      "line_label": "i 10",
+      "transliteration": "in - du₃ - a"
+    },
+    {
+      "line_id": "Q001546.11",
+      "line_label": "i 11",
+      "transliteration": "d nin - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q001546.12",
+      "line_label": "i 12",
+      "transliteration": "lugal - a - ni"
+    },
+    {
+      "line_id": "Q001546.13",
+      "line_label": "i 13",
+      "transliteration": "e₂ - ŋidru e₂ ub imin"
+    },
+    {
+      "line_id": "Q001546.14",
+      "line_label": "i 14",
+      "transliteration": "e₂ ŋidru - bi"
+    },
+    {
+      "line_id": "Q001546.15",
+      "line_label": "i 15",
+      "transliteration": "saŋ - be₂ - eš₃ e₃ - a"
+    },
+    {
+      "line_id": "Q001546.16",
+      "line_label": "i 16",
+      "transliteration": "d nin - ŋir₂ - su - ke₄"
+    },
+    {
+      "line_id": "Q001546.17",
+      "line_label": "i 17",
+      "transliteration": "nam dug₃ ⸢ tar ⸣ - ra"
+    },
+    {
+      "line_id": "Q001546.18",
+      "line_label": "i 18",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001546.19",
+      "line_label": "ii 1",
+      "transliteration": "niŋ₂ - mussa"
+    },
+    {
+      "line_id": "Q001546.20",
+      "line_label": "ii 2",
+      "transliteration": "šag₄ ḫul₂ - la"
+    },
+    {
+      "line_id": "Q001546.21",
+      "line_label": "ii 3",
+      "transliteration": "d nin - ŋir₂ - su - ke₄"
+    },
+    {
+      "line_id": "Q001546.22",
+      "line_label": "ii 4",
+      "transliteration": "d ba - u₂"
+    },
+    {
+      "line_id": "Q001546.23",
+      "line_label": "ii 5",
+      "transliteration": "dumu an - na"
+    },
+    {
+      "line_id": "Q001546.24",
+      "line_label": "ii 6",
+      "transliteration": "dam ki aŋ₂ - ni"
+    },
+    {
+      "line_id": "Q001546.25",
+      "line_label": "ii 7",
+      "transliteration": "mu - na - ta - ak - ke₄"
+    },
+    {
+      "line_id": "Q001546.26",
+      "line_label": "ii 8",
+      "transliteration": "diŋir - ra - ni"
+    },
+    {
+      "line_id": "Q001546.27",
+      "line_label": "ii 9",
+      "transliteration": "d nin - ŋeš - zid - da"
+    },
+    {
+      "line_id": "Q001546.28",
+      "line_label": "ii 10",
+      "transliteration": "eŋir - be₂ ib₂ - us₂"
+    },
+    {
+      "line_id": "Q001546.29",
+      "line_label": "ii 11",
+      "transliteration": "gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q001546.30",
+      "line_label": "ii 12",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001546.31",
+      "line_label": "ii 13",
+      "transliteration": "lagaš ki - ke₄"
+    },
+    {
+      "line_id": "Q001546.32",
+      "line_label": "ii 14",
+      "transliteration": "ŋir₂ - su ki - ta"
+    },
+    {
+      "line_id": "Q001546.33",
+      "line_label": "ii 15",
+      "transliteration": "iri - kug - še₃"
+    },
+    {
+      "line_id": "Q001546.34",
+      "line_label": "ii 16",
+      "transliteration": "silim - ma im - da - be₂"
+    },
+    {
+      "line_id": "Q001546.35",
+      "line_label": "ii 17",
+      "transliteration": "šag₄ mu - ba - ka"
+    },
+    {
+      "line_id": "Q001546.36",
+      "line_label": "iii 1",
+      "transliteration": "kur ma₂ - gan ki - ta"
+    },
+    {
+      "line_id": "Q001546.37",
+      "line_label": "iii 2",
+      "transliteration": "na₄ esi im - ta - ed₃"
+    },
+    {
+      "line_id": "Q001546.38",
+      "line_label": "iii 3",
+      "transliteration": "alan - na - še₃"
+    },
+    {
+      "line_id": "Q001546.39",
+      "line_label": "iii 4",
+      "transliteration": "mu - tud"
+    },
+    {
+      "line_id": "Q001546.40",
+      "line_label": "iii 5",
+      "transliteration": "ud zag - mu"
+    },
+    {
+      "line_id": "Q001546.41",
+      "line_label": "iii 6",
+      "transliteration": "ezen d ba - u₂"
+    },
+    {
+      "line_id": "Q001546.42",
+      "line_label": "iii 7",
+      "transliteration": "niŋ₂ - mussa ak - da"
+    },
+    {
+      "line_id": "Q001546.43",
+      "line_label": "iii 8",
+      "transliteration": "1( aš ) gud niga"
+    },
+    {
+      "line_id": "Q001546.44",
+      "line_label": "iii 9",
+      "transliteration": "1( aš ) udu i₃"
+    },
+    {
+      "line_id": "Q001546.45",
+      "line_label": "iii 10",
+      "transliteration": "3( aš ) udu niga"
+    },
+    {
+      "line_id": "Q001546.46",
+      "line_label": "iv 1",
+      "transliteration": "6( aš ) udu nita"
+    },
+    {
+      "line_id": "Q001546.47",
+      "line_label": "iv 2",
+      "transliteration": "2( aš ) sila₄"
+    },
+    {
+      "line_id": "Q001546.48",
+      "line_label": "iv 3",
+      "transliteration": "7( aš ) kurum₆ zu₂ - lum"
+    },
+    {
+      "line_id": "Q001546.49",
+      "line_label": "iv 4",
+      "transliteration": "7( aš ) sab i₃ - nun"
+    },
+    {
+      "line_id": "Q001546.50",
+      "line_label": "iv 5",
+      "transliteration": "7( aš ) šag₄ ŋešnimbar"
+    },
+    {
+      "line_id": "Q001546.51",
+      "line_label": "iv 6",
+      "transliteration": "7( aš ) < is > - ḫu ŋeš peš₃"
+    },
+    {
+      "line_id": "Q001546.52",
+      "line_label": "iv 7",
+      "transliteration": "7( aš ) KIŠ - lam"
+    },
+    {
+      "line_id": "Q001546.53",
+      "line_label": "iv 8",
+      "transliteration": "1( aš ) ti₈ - uz"
+    },
+    {
+      "line_id": "Q001546.54",
+      "line_label": "iv 9",
+      "transliteration": "7( aš ) mušen gambi ( SAL . UŠ . DI . KID )"
+    },
+    {
+      "line_id": "Q001546.55",
+      "line_label": "iv 10",
+      "transliteration": "1( u c ) 5( aš ) mušen kur - gi₁₆"
+    },
+    {
+      "line_id": "Q001546.56",
+      "line_label": "iv 11",
+      "transliteration": "1( geš₂ ) mušen di₄ - di₄"
+    },
+    {
+      "line_id": "Q001546.57",
+      "line_label": "iv 12",
+      "transliteration": "is - ḫu - bi 1( u c ) 5( aš )"
+    },
+    {
+      "line_id": "Q001546.58",
+      "line_label": "iv 13",
+      "transliteration": "1( geš₂ ) ku₆ suḫur - tun₃"
+    },
+    {
+      "line_id": "Q001546.59",
+      "line_label": "iv 14",
+      "transliteration": "is - ḫu - bi 3( u c )"
+    },
+    {
+      "line_id": "Q001546.60",
+      "line_label": "iv 15",
+      "transliteration": "3( u c ) gun₂ lu sar"
+    },
+    {
+      "line_id": "Q001546.61",
+      "line_label": "iv 16",
+      "transliteration": "7( aš ) gun₂ enₓ ( NE . GI )- bar"
+    },
+    {
+      "line_id": "Q001546.62",
+      "line_label": "iv 17",
+      "transliteration": "1( geš₂ ) gun₂ ŋeš ma - nu"
+    },
+    {
+      "line_id": "Q001546.63",
+      "line_label": "iv 18",
+      "transliteration": "niŋ₂ - mussa d ba - u₂"
+    },
+    {
+      "line_id": "Q001546.64",
+      "line_label": "iv 19",
+      "transliteration": "e₂ libir - a"
+    },
+    {
+      "line_id": "Q001546.65",
+      "line_label": "iv 20",
+      "transliteration": "ud - bi - ta - kam"
+    },
+    {
+      "line_id": "Q001546.66",
+      "line_label": "iv 21",
+      "transliteration": "gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q001546.67",
+      "line_label": "v 1",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001546.68",
+      "line_label": "v 2",
+      "transliteration": "lagaš ki - ke₄"
+    },
+    {
+      "line_id": "Q001546.69",
+      "line_label": "v 3",
+      "transliteration": "ud d nin - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q001546.70",
+      "line_label": "v 4",
+      "transliteration": "lugal - a - ni"
+    },
+    {
+      "line_id": "Q001546.71",
+      "line_label": "v 5",
+      "transliteration": "e₂ ki aŋ₂ - ni"
+    },
+    {
+      "line_id": "Q001546.72",
+      "line_label": "v 6",
+      "transliteration": "e₂ - ninnu"
+    },
+    {
+      "line_id": "Q001546.73",
+      "line_label": "v 7",
+      "transliteration": "mu - na - du₃ - a"
+    },
+    {
+      "line_id": "Q001546.74",
+      "line_label": "v 8",
+      "transliteration": "d ba - u₂"
+    },
+    {
+      "line_id": "Q001546.75",
+      "line_label": "v 9",
+      "transliteration": "nin - a - ni"
+    },
+    {
+      "line_id": "Q001546.76",
+      "line_label": "v 10",
+      "transliteration": "e₂ ki aŋ₂ - ni"
+    },
+    {
+      "line_id": "Q001546.77",
+      "line_label": "v 11",
+      "transliteration": "e₂ - tar - sir₂ - sir₂"
+    },
+    {
+      "line_id": "Q001546.78",
+      "line_label": "v 12",
+      "transliteration": "mu - na - du₃ - a"
+    },
+    {
+      "line_id": "Q001546.79",
+      "line_label": "v 13",
+      "transliteration": "2( aš ) gud niga"
+    },
+    {
+      "line_id": "Q001546.80",
+      "line_label": "v 14",
+      "transliteration": "2( aš ) udu i₃"
+    },
+    {
+      "line_id": "Q001546.81",
+      "line_label": "v 15",
+      "transliteration": "1( u c ) udu niga"
+    },
+    {
+      "line_id": "Q001546.82",
+      "line_label": "v 16",
+      "transliteration": "2( aš ) sila₄"
+    },
+    {
+      "line_id": "Q001546.83",
+      "line_label": "v 17",
+      "transliteration": "7( aš ) kurum₆ zu₂ - lum"
+    },
+    {
+      "line_id": "Q001546.84",
+      "line_label": "v 18",
+      "transliteration": "7( aš ) sab i₃ nun"
+    },
+    {
+      "line_id": "Q001546.85",
+      "line_label": "v 19",
+      "transliteration": "7( aš ) šag₄ ŋešnimbar"
+    },
+    {
+      "line_id": "Q001546.86",
+      "line_label": "v 20",
+      "transliteration": "7( aš ) < is > - ḫu ŋeš peš₃"
+    },
+    {
+      "line_id": "Q001546.87",
+      "line_label": "v 21",
+      "transliteration": "7( aš ) KIŠ - lam"
+    },
+    {
+      "line_id": "Q001546.88",
+      "line_label": "v 22",
+      "transliteration": "1( u c ) 4( aš ) a₂ - an zu₂ - lum"
+    },
+    {
+      "line_id": "Q001546.89",
+      "line_label": "vi 1",
+      "transliteration": "1( u c ) 4( aš ) ukuš₂ dupsik"
+    },
+    {
+      "line_id": "Q001546.90",
+      "line_label": "vi 2",
+      "transliteration": "1( aš ) ti₈ - uz"
+    },
+    {
+      "line_id": "Q001546.91",
+      "line_label": "vi 3",
+      "transliteration": "7( aš ) mušen gambi ( SAL . UŠ . DI . KID )"
+    },
+    {
+      "line_id": "Q001546.92",
+      "line_label": "vi 4",
+      "transliteration": "1( u c ) kur - gi₁₆ mušen"
+    },
+    {
+      "line_id": "Q001546.93",
+      "line_label": "vi 5",
+      "transliteration": "7( aš ) i - zi mušen"
+    },
+    {
+      "line_id": "Q001546.94",
+      "line_label": "vi 6",
+      "transliteration": "1( geš₂ ) mušen di₄ - di₄"
+    },
+    {
+      "line_id": "Q001546.95",
+      "line_label": "vi 7",
+      "transliteration": "is - ḫu - bi 1( u c ) 5( aš )"
+    },
+    {
+      "line_id": "Q001546.96",
+      "line_label": "vi 8",
+      "transliteration": "1( geš₂ ) ku₆ suḫur - tun₃"
+    },
+    {
+      "line_id": "Q001546.97",
+      "line_label": "vi 9",
+      "transliteration": "is - ḫu - bi 3( u c )"
+    },
+    {
+      "line_id": "Q001546.98",
+      "line_label": "vi 10",
+      "transliteration": "4( u c ) gun₂ lu sar"
+    },
+    {
+      "line_id": "Q001546.99",
+      "line_label": "vi 11",
+      "transliteration": "7( aš ) gun₂ enₓ ( NE . GI )- bar"
+    },
+    {
+      "line_id": "Q001546.100",
+      "line_label": "vi 12",
+      "transliteration": "1( geš₂ ) gun₂ ŋeš ma - nu"
+    },
+    {
+      "line_id": "Q001546.101",
+      "line_label": "vi 13",
+      "transliteration": "niŋ₂ - mussa d ba - u₂"
+    },
+    {
+      "line_id": "Q001546.102",
+      "line_label": "vi 14",
+      "transliteration": "e₂ gibil"
+    },
+    {
+      "line_id": "Q001546.103",
+      "line_label": "vi 15",
+      "transliteration": "gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q001546.104",
+      "line_label": "vi 16",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001546.105",
+      "line_label": "vi 17",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001546.106",
+      "line_label": "vi 18",
+      "transliteration": "⸢ lu₂ e₂ ⸣ du₃ - a - ke₄"
+    },
+    {
+      "line_id": "Q001546.107",
+      "line_label": "vi 19",
+      "transliteration": "⸢ ba ⸣ - an - taḫ - ḫa - am₃"
+    }
+  ]
+}

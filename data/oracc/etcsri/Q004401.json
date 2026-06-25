@@ -1,0 +1,57 @@
+{
+  "text_id": "oracc.etcsri.Q004401",
+  "corpus": "oracc",
+  "title": "Šu-Suen 2068add / CDLI Seals 007908 (CDLI Seals 007908 (physical))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004401",
+  "paragraphs": [
+    {
+      "para_id": "Q004401.1",
+      "line_range": "1",
+      "translation": "(i 1) Šu-Suen , the powerful man , king of Urim , king of the four quarters : Lu-Narua , the scribe , child of Hesag , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004401.1",
+      "line_label": "i 1",
+      "transliteration": "d šu - d suen"
+    },
+    {
+      "line_id": "Q004401.2",
+      "line_label": "i 2",
+      "transliteration": "nita kalag - ga"
+    },
+    {
+      "line_id": "Q004401.3",
+      "line_label": "i 3",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q004401.4",
+      "line_label": "i 4",
+      "transliteration": "lugal an - ub - da limmu₂ - ba"
+    },
+    {
+      "line_id": "Q004401.5",
+      "line_label": "ii 1",
+      "transliteration": "lu₂ - d na - ru₂ - [ a ]"
+    },
+    {
+      "line_id": "Q004401.6",
+      "line_label": "ii 2",
+      "transliteration": "dub - sar"
+    },
+    {
+      "line_id": "Q004401.7",
+      "line_label": "ii 3",
+      "transliteration": "dumu ḫe₂ - sag₉"
+    },
+    {
+      "line_id": "Q004401.8",
+      "line_label": "ii 4",
+      "transliteration": "arad₂ - ⸢ zu ⸣"
+    }
+  ]
+}

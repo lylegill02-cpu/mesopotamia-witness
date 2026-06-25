@@ -1,0 +1,57 @@
+{
+  "text_id": "oracc.etcsri.Q004352",
+  "corpus": "oracc",
+  "title": "Amar-Suena 2042add / CDLI Seals 000303 (CDLI Seals 000303 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004352",
+  "paragraphs": [
+    {
+      "para_id": "Q004352.1",
+      "line_range": "1",
+      "translation": "(1) Amar-Suena , the powerful man , king of Urim , king of the four quarters , presented ( this seal ) to Nawir-ilum , the shepherd , his servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004352.1",
+      "line_label": "1",
+      "transliteration": "[ d amar ? ] - d suen"
+    },
+    {
+      "line_id": "Q004352.2",
+      "line_label": "2",
+      "transliteration": "nita kalag - ga"
+    },
+    {
+      "line_id": "Q004352.3",
+      "line_label": "3",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q004352.4",
+      "line_label": "4",
+      "transliteration": "[ lugal an - ub - da limmu₂ - ba ]"
+    },
+    {
+      "line_id": "Q004352.5",
+      "line_label": "5",
+      "transliteration": "na - wi - ir - DIŊIR"
+    },
+    {
+      "line_id": "Q004352.6",
+      "line_label": "6",
+      "transliteration": "sipad"
+    },
+    {
+      "line_id": "Q004352.7",
+      "line_label": "7",
+      "transliteration": "arad₂ - da - ni - ir"
+    },
+    {
+      "line_id": "Q004352.8",
+      "line_label": "8",
+      "transliteration": "in - [ na ] - an - ba"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "text_id": "oracc.etcsri.Q004959",
+  "corpus": "oracc",
+  "title": "Ibbi-Suen 2024add / CDLI Seals 005942 (CDLI Seals 005942 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004959",
+  "paragraphs": [
+    {
+      "para_id": "Q004959.1",
+      "line_range": "1",
+      "translation": "(i 1) Ibbi-Suen , the powerful king , king of Urim , king of the four quarters : Hamatil , the courier , child of Ahurani , the overseer , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004959.1",
+      "line_label": "i 1",
+      "transliteration": "d i - bi₂ - d suen"
+    },
+    {
+      "line_id": "Q004959.2",
+      "line_label": "i 2",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q004959.3",
+      "line_label": "i 3",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q004959.4",
+      "line_label": "i 4",
+      "transliteration": "lugal an - ub - da < limmu₂ - ba >"
+    },
+    {
+      "line_id": "Q004959.5",
+      "line_label": "ii 1",
+      "transliteration": "ḫa - ma - til₃"
+    },
+    {
+      "line_id": "Q004959.6",
+      "line_label": "ii 2",
+      "transliteration": "lu₂ kaš₄"
+    },
+    {
+      "line_id": "Q004959.7",
+      "line_label": "ii 3",
+      "transliteration": "dumu a - ḫu - ra ? - ni ?"
+    },
+    {
+      "line_id": "Q004959.8",
+      "line_label": "ii 4",
+      "transliteration": "nu - banda₃"
+    },
+    {
+      "line_id": "Q004959.9",
+      "line_label": "ii 5",
+      "transliteration": "arad₂ - zu"
+    }
+  ]
+}

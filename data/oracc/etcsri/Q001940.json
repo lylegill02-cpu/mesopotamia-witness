@@ -1,0 +1,32 @@
+{
+  "text_id": "oracc.etcsri.Q001940",
+  "corpus": "oracc",
+  "title": "Šu-ilišu 2003 / CDLI Seals 012026 (CDLI Seals 012026 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001940",
+  "paragraphs": [
+    {
+      "para_id": "Q001940.1",
+      "line_range": "1",
+      "translation": "(1) ..., child of ..., servant of Šu-ilišu ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001940.1",
+      "line_label": "1",
+      "transliteration": "lu₂ - [... ]"
+    },
+    {
+      "line_id": "Q001940.2",
+      "line_label": "2",
+      "transliteration": "dumu [... ]"
+    },
+    {
+      "line_id": "Q001940.3",
+      "line_label": "3",
+      "transliteration": "arad d šu - i₃ - [ li₂ - šu ]"
+    }
+  ]
+}

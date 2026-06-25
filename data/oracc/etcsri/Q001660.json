@@ -1,0 +1,47 @@
+{
+  "text_id": "oracc.etcsri.Q001660",
+  "corpus": "oracc",
+  "title": "Šulgi 19 (RIME 3/2.01.02.019 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001660",
+  "paragraphs": [
+    {
+      "para_id": "Q001660.1",
+      "line_range": "1",
+      "translation": "(1) For Ennugi , his master , Šulgi , the powerful man , king of Urim , king of Sumer and Akkad , ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001660.1",
+      "line_label": "1",
+      "transliteration": "d en - nu - gi₄"
+    },
+    {
+      "line_id": "Q001660.2",
+      "line_label": "2",
+      "transliteration": "lugal - a - ni"
+    },
+    {
+      "line_id": "Q001660.3",
+      "line_label": "3",
+      "transliteration": "šul - gi"
+    },
+    {
+      "line_id": "Q001660.4",
+      "line_label": "4",
+      "transliteration": "nita kalag - ⸢ ga ⸣"
+    },
+    {
+      "line_id": "Q001660.5",
+      "line_label": "5",
+      "transliteration": "lugal [ urim₅ ki - ma ]"
+    },
+    {
+      "line_id": "Q001660.6",
+      "line_label": "6",
+      "transliteration": "⸢ lugal ⸣ [ ki - en - gi ki - uri - ke₄ ]"
+    }
+  ]
+}

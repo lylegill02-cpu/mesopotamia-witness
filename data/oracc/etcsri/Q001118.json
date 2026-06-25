@@ -1,0 +1,77 @@
+{
+  "text_id": "oracc.etcsri.Q001118",
+  "corpus": "oracc",
+  "title": "En-metena 06 (RIME 1.09.05.06 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001118",
+  "paragraphs": [
+    {
+      "para_id": "Q001118.1",
+      "line_range": "1",
+      "translation": "(i 1) For Ninĝirsu of the E-ninnu , En-metena , ruler of Lagaš , child of En-ana-tum , ruler of Lagaš , built his temple , decorated it with gold and silver , and embellished it with inscribed clay nails ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001118.1",
+      "line_label": "i 1",
+      "transliteration": "[ d nin - ŋir₂ ] - su₂"
+    },
+    {
+      "line_id": "Q001118.2",
+      "line_label": "i 2",
+      "transliteration": "[ e₂ - ninnu ] - ra"
+    },
+    {
+      "line_id": "Q001118.3",
+      "line_label": "i 3",
+      "transliteration": "[ en ] - ⸢ mete ⸣ - na"
+    },
+    {
+      "line_id": "Q001118.4",
+      "line_label": "i 4",
+      "transliteration": "⸢ ensi₂ ⸣"
+    },
+    {
+      "line_id": "Q001118.5",
+      "line_label": "i 5",
+      "transliteration": "⸢ lagaš ⸣ ki"
+    },
+    {
+      "line_id": "Q001118.6",
+      "line_label": "i 6",
+      "transliteration": "⸢ dumu ⸣ [ en ] - ⸢ an ⸣ - [ na ] - ⸢ tum₂ ⸣"
+    },
+    {
+      "line_id": "Q001118.7",
+      "line_label": "i 7",
+      "transliteration": "⸢ ensi₂ ⸣"
+    },
+    {
+      "line_id": "Q001118.8",
+      "line_label": "ii 1",
+      "transliteration": "⸢ lagaš ⸣ [ ki ] - ka - [ ke₄ ]"
+    },
+    {
+      "line_id": "Q001118.9",
+      "line_label": "ii 2",
+      "transliteration": "e₂ - ⸢ ni ⸣ [ mu ] - na - [ du₃ ]"
+    },
+    {
+      "line_id": "Q001118.10",
+      "line_label": "ii 3",
+      "transliteration": "kug - ⸢ sig₁₇ ⸣ kug - ⸢ babbar₂ ⸣ - [ ra ]"
+    },
+    {
+      "line_id": "Q001118.11",
+      "line_label": "ii 4",
+      "transliteration": "⸢ šu ⸣ mu - [ na ] - ni - [ tag ]"
+    },
+    {
+      "line_id": "Q001118.12",
+      "line_label": "ii 5",
+      "transliteration": "KIB g [ mu ] - na - ⸢ dug₄ ⸣"
+    }
+  ]
+}

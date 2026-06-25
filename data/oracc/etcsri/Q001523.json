@@ -1,0 +1,57 @@
+{
+  "text_id": "oracc.etcsri.Q001523",
+  "corpus": "oracc",
+  "title": "Gudea 091 (RIME 3/1.01.07.091 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001523",
+  "paragraphs": [
+    {
+      "para_id": "Q001523.1",
+      "line_range": "1",
+      "translation": "(1) To Ĝeštinana , the lady of Saĝub , Zikalama , the stone-cutter , dedicated this ( stand ) for the well-being of Gudea , ruler of Lagaš ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001523.1",
+      "line_label": "1",
+      "transliteration": "d ŋeštin - an - na"
+    },
+    {
+      "line_id": "Q001523.2",
+      "line_label": "2",
+      "transliteration": "nin saŋ ! - ub₃ ! ki ! - ra"
+    },
+    {
+      "line_id": "Q001523.3",
+      "line_label": "3",
+      "transliteration": "nam - til₃"
+    },
+    {
+      "line_id": "Q001523.4",
+      "line_label": "4",
+      "transliteration": "gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q001523.5",
+      "line_label": "5",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001523.6",
+      "line_label": "6",
+      "transliteration": "lagaš ki - ka - še₃"
+    },
+    {
+      "line_id": "Q001523.7",
+      "line_label": "7",
+      "transliteration": "zi - kalam - ma zadim"
+    },
+    {
+      "line_id": "Q001523.8",
+      "line_label": "8",
+      "transliteration": "a mu - na - ru"
+    }
+  ]
+}

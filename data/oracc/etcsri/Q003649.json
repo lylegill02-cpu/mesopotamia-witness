@@ -1,0 +1,67 @@
+{
+  "text_id": "oracc.etcsri.Q003649",
+  "corpus": "oracc",
+  "title": "En-metena 30 (RIME 1.09.05.30 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q003649",
+  "paragraphs": [
+    {
+      "para_id": "Q003649.1",
+      "line_range": "1",
+      "translation": "(1) For/to Ninĝirsu of the Ahuš , En-metena , ruler of Lagaš , chosen by Nanše in the heart , chief governor of Ninĝirsu , child of En-ana-tum , ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q003649.1",
+      "line_label": "1",
+      "transliteration": "d nin - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q003649.2",
+      "line_label": "2",
+      "transliteration": "a - ḫuš - ra"
+    },
+    {
+      "line_id": "Q003649.3",
+      "line_label": "3",
+      "transliteration": "en - mete - na"
+    },
+    {
+      "line_id": "Q003649.4",
+      "line_label": "4",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q003649.5",
+      "line_label": "5",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q003649.6",
+      "line_label": "6",
+      "transliteration": "šag₄ pad₃ - da"
+    },
+    {
+      "line_id": "Q003649.7",
+      "line_label": "7",
+      "transliteration": "d nanše"
+    },
+    {
+      "line_id": "Q003649.8",
+      "line_label": "8",
+      "transliteration": "ensi₂ - gal"
+    },
+    {
+      "line_id": "Q003649.9",
+      "line_label": "9",
+      "transliteration": "d nin - ŋir₂ - su - ka"
+    },
+    {
+      "line_id": "Q003649.10",
+      "line_label": "10",
+      "transliteration": "dumu en - an - na - [ tum₂ ]"
+    }
+  ]
+}

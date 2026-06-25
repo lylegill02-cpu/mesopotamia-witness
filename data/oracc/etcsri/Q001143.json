@@ -1,0 +1,47 @@
+{
+  "text_id": "oracc.etcsri.Q001143",
+  "corpus": "oracc",
+  "title": "URU-KA-gina 27add (FAOS 05/1, Ukg 27)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001143",
+  "paragraphs": [
+    {
+      "para_id": "Q001143.1",
+      "line_range": "1",
+      "translation": "(1) Guards of the city wall : Amar-Girid , the captain is Urdu . Iri-kagina , king of Lagaš ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001143.1",
+      "line_label": "1",
+      "transliteration": "en - nu bad₃"
+    },
+    {
+      "line_id": "Q001143.2",
+      "line_label": "2",
+      "transliteration": "amar - d girid₂ ki"
+    },
+    {
+      "line_id": "Q001143.3",
+      "line_label": "3",
+      "transliteration": "ugula ur - du₆"
+    },
+    {
+      "line_id": "Q001143.4",
+      "line_label": "4",
+      "transliteration": "iri - ka - gen₆ - na"
+    },
+    {
+      "line_id": "Q001143.5",
+      "line_label": "5",
+      "transliteration": "lugal"
+    },
+    {
+      "line_id": "Q001143.6",
+      "line_label": "6",
+      "transliteration": "lagaš ki"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "text_id": "oracc.etcsri.Q001105",
+  "corpus": "oracc",
+  "title": "En-metena 18 (RIME 1.09.05.18 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001105",
+  "paragraphs": [
+    {
+      "para_id": "Q001105.1",
+      "line_range": "1",
+      "translation": "(i 1) For Enlil of the E-adda , En-metena , ruler of Lagaš , given strength by Enlil , nourished on rich milk by Ninhursaĝa , ...."
+    },
+    {
+      "para_id": "Q001105.11",
+      "line_range": "11",
+      "translation": "(i 1') ( When ... ) took him by the hand from among the multitude of people , and Enlil granted to En-metena the lofty scepter of destiny from Nibru , ...."
+    },
+    {
+      "para_id": "Q001105.20",
+      "line_range": "20",
+      "translation": "(ii 1') ..., he transported ( this ) lofty vase from the mountains for his father , Enlil ."
+    },
+    {
+      "para_id": "Q001105.24",
+      "line_range": "24",
+      "translation": "(ii 5') Šul-MUŠxPA , the personal god of En-metena , ...."
+    },
+    {
+      "para_id": "Q001105.27",
+      "line_range": "27",
+      "translation": "(ii 1'') ... by Enlil , fashioned it and dešorated it with purified silver for him ."
+    },
+    {
+      "para_id": "Q001105.30",
+      "line_range": "30",
+      "translation": "(ii 4'') ... this ( vessel ) for his own well-being , for the well-being of Lagaš , and for the well-being of ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001105.1",
+      "line_label": "i 1",
+      "transliteration": "[ d en - lil₂ ( E₂ ) ]"
+    },
+    {
+      "line_id": "Q001105.2",
+      "line_label": "i 2",
+      "transliteration": "[ e₂ - ad - da ] - ⸢ ka ⸣ - ra"
+    },
+    {
+      "line_id": "Q001105.3",
+      "line_label": "i 3",
+      "transliteration": "en - mete - na"
+    },
+    {
+      "line_id": "Q001105.4",
+      "line_label": "i 4",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001105.5",
+      "line_label": "i 5",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001105.6",
+      "line_label": "i 6",
+      "transliteration": "a₂ šum₂ - ma"
+    },
+    {
+      "line_id": "Q001105.7",
+      "line_label": "i 7",
+      "transliteration": "d en - lil₂ ( E₂ )"
+    },
+    {
+      "line_id": "Q001105.8",
+      "line_label": "i 8",
+      "transliteration": "ga zid gu₇ - a"
+    },
+    {
+      "line_id": "Q001105.9",
+      "line_label": "i 9",
+      "transliteration": "d nin - ḫur - saŋ - ka"
+    },
+    {
+      "line_id": "Q001105.11",
+      "line_label": "i 1'",
+      "transliteration": "[... ] ⸢ x x ⸣"
+    },
+    {
+      "line_id": "Q001105.12",
+      "line_label": "i 2'",
+      "transliteration": "[ šag₄ ] ⸢ lu₂ ⸣ 1( šar₂ )- ta"
+    },
+    {
+      "line_id": "Q001105.13",
+      "line_label": "i 3'",
+      "transliteration": "[ šu ] - ni ba - ta - [ dab₅ ] - ba - a"
+    },
+    {
+      "line_id": "Q001105.14",
+      "line_label": "i 4'",
+      "transliteration": "[ ŋidru ] maḫ nam - tar - ra"
+    },
+    {
+      "line_id": "Q001105.15",
+      "line_label": "i 5'",
+      "transliteration": "d en - lil₂ ( E₂ )- le"
+    },
+    {
+      "line_id": "Q001105.16",
+      "line_label": "i 6'",
+      "transliteration": "nibru ki - ta"
+    },
+    {
+      "line_id": "Q001105.17",
+      "line_label": "i 7'",
+      "transliteration": "en - mete - na - ra"
+    },
+    {
+      "line_id": "Q001105.18",
+      "line_label": "i 8'",
+      "transliteration": "mu - ⸢ na - šum₂ ⸣ - [ ma ? - a ? ]"
+    },
+    {
+      "line_id": "Q001105.20",
+      "line_label": "ii 1'",
+      "transliteration": "[... ] - ⸢ x - da ⸣ - a"
+    },
+    {
+      "line_id": "Q001105.21",
+      "line_label": "ii 2'",
+      "transliteration": "aya₂ - ni d en - lil₂ ( E₂ )- la"
+    },
+    {
+      "line_id": "Q001105.22",
+      "line_label": "ii 3'",
+      "transliteration": "bur maḫ"
+    },
+    {
+      "line_id": "Q001105.23",
+      "line_label": "ii 4'",
+      "transliteration": "kur - ta mu - na - ta - ed₃"
+    },
+    {
+      "line_id": "Q001105.24",
+      "line_label": "ii 5'",
+      "transliteration": "d šul - MUŠ × PA"
+    },
+    {
+      "line_id": "Q001105.25",
+      "line_label": "ii 6'",
+      "transliteration": "diŋir en - mete - [ na - x ]"
+    },
+    {
+      "line_id": "Q001105.27",
+      "line_label": "ii 1''",
+      "transliteration": "[ d en ] - ⸢ lil₂ ( E₂ ) ⸣ - ke₄"
+    },
+    {
+      "line_id": "Q001105.28",
+      "line_label": "ii 2''",
+      "transliteration": "mu - na - dim₂"
+    },
+    {
+      "line_id": "Q001105.29",
+      "line_label": "ii 3''",
+      "transliteration": "kug ⸢ luḫ ⸣ - [ ḫa ? ] mu - na - ni - keše₂"
+    },
+    {
+      "line_id": "Q001105.30",
+      "line_label": "ii 4''",
+      "transliteration": "nam - til₃ - ⸢ la ⸣ - ni - še₃"
+    },
+    {
+      "line_id": "Q001105.31",
+      "line_label": "ii 5''",
+      "transliteration": "nam - til₃"
+    },
+    {
+      "line_id": "Q001105.32",
+      "line_label": "ii 6''",
+      "transliteration": "⸢ lagaš ⸣ ki - še₃"
+    },
+    {
+      "line_id": "Q001105.33",
+      "line_label": "ii 7''",
+      "transliteration": "nam - til₃"
+    }
+  ]
+}

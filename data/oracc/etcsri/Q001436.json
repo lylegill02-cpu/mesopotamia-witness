@@ -1,0 +1,82 @@
+{
+  "text_id": "oracc.etcsri.Q001436",
+  "corpus": "oracc",
+  "title": "Uruna-badbi 2001 (RIME 2.06.01.2001 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001436",
+  "paragraphs": [
+    {
+      "para_id": "Q001436.1",
+      "line_range": "1",
+      "translation": "(1) To Ninlil , Ur-saga , the ... scribe of Enlil’s temple , dedicated this ( vase ) as a votive offering for the life of Irina-badbi , the temple administrator of Enlil , for the well-being of Ama-abzi , and for the well being of his spouse and child ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001436.1",
+      "line_label": "1",
+      "transliteration": "d nin - lil₂ - ra"
+    },
+    {
+      "line_id": "Q001436.2",
+      "line_label": "2",
+      "transliteration": "iri - na - bad₃ - bi"
+    },
+    {
+      "line_id": "Q001436.3",
+      "line_label": "3",
+      "transliteration": "saŋŋa d en - lil₂"
+    },
+    {
+      "line_id": "Q001436.4",
+      "line_label": "4",
+      "transliteration": "ḫe₂ - til₃ - la - še₃"
+    },
+    {
+      "line_id": "Q001436.5",
+      "line_label": "5",
+      "transliteration": "ur - sag₉ - ga"
+    },
+    {
+      "line_id": "Q001436.6",
+      "line_label": "6",
+      "transliteration": "dub - sar ( AB × LAK178 )"
+    },
+    {
+      "line_id": "Q001436.7",
+      "line_label": "7",
+      "transliteration": "e₂ d en - lil₂ - ka - ke₄"
+    },
+    {
+      "line_id": "Q001436.8",
+      "line_label": "8",
+      "transliteration": "ga - til₃ - la - še₃"
+    },
+    {
+      "line_id": "Q001436.9",
+      "line_label": "9",
+      "transliteration": "nam - til₃"
+    },
+    {
+      "line_id": "Q001436.10",
+      "line_label": "10",
+      "transliteration": "ama - ab₂ - zi - še₃"
+    },
+    {
+      "line_id": "Q001436.11",
+      "line_label": "11",
+      "transliteration": "nam - til₃"
+    },
+    {
+      "line_id": "Q001436.12",
+      "line_label": "12",
+      "transliteration": "dam dumu - na - še₃"
+    },
+    {
+      "line_id": "Q001436.13",
+      "line_label": "13",
+      "transliteration": "a mu - na - ru"
+    }
+  ]
+}

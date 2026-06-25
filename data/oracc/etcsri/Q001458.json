@@ -1,0 +1,57 @@
+{
+  "text_id": "oracc.etcsri.Q001458",
+  "corpus": "oracc",
+  "title": "Utu-hegal 2002 (RIME 2.13.06.2002 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001458",
+  "paragraphs": [
+    {
+      "para_id": "Q001458.1",
+      "line_range": "1",
+      "translation": "(1') To Nanna , king of the Anuna gods , his master , ... for the life of Utu-heĝal , the powerful man , king of Unug , king of the four quarters ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001458.1",
+      "line_label": "1'",
+      "transliteration": "⸢ d ⸣ [ nanna ? ]"
+    },
+    {
+      "line_id": "Q001458.2",
+      "line_label": "2'",
+      "transliteration": "⸢ lugal ⸣ a - [ nun - na - ke₄ - ne ? ]"
+    },
+    {
+      "line_id": "Q001458.3",
+      "line_label": "3'",
+      "transliteration": "lugal - ⸢ a ⸣ - [ ni ]"
+    },
+    {
+      "line_id": "Q001458.4",
+      "line_label": "4'",
+      "transliteration": "nam - [ til₃ ]"
+    },
+    {
+      "line_id": "Q001458.5",
+      "line_label": "5'",
+      "transliteration": "⸢ d ⸣ utu - ḫe₂ - [ ŋal₂ ]"
+    },
+    {
+      "line_id": "Q001458.6",
+      "line_label": "6'",
+      "transliteration": "⸢ nita ⸣ kalag - [ ga ]"
+    },
+    {
+      "line_id": "Q001458.7",
+      "line_label": "7'",
+      "transliteration": "lugal ⸢ unug ⸣ [ ki - ga ]"
+    },
+    {
+      "line_id": "Q001458.8",
+      "line_label": "8'",
+      "transliteration": "lugal an - [ ub ] - da limmu₅ - ba - [ ka - še₃ ]"
+    }
+  ]
+}

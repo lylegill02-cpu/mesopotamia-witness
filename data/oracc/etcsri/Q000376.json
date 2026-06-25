@@ -1,0 +1,687 @@
+{
+  "text_id": "oracc.etcsri.Q000376",
+  "corpus": "oracc",
+  "title": "Utu-hegal 4 (The victory of Utu-hegal) (RIME 2.13.06.04 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000376",
+  "paragraphs": [
+    {
+      "para_id": "Q000376.1",
+      "line_range": "1",
+      "translation": "(1) Enlil , the king of all lands , entrusted Utu-heĝal , the powerful man , king of Unug , the king of the four quarters , the king whose orders cannot be countermanded , with wiping out the name of Gutium , the fanged snake of the mountains , who acted with violence against the gods , who carried off the rule over Sumer to a foreign land for himself , who filled Sumer with wickedness , who took away spouses from the married and took away children from parents , who made wickedness and violence normal in the Land ."
+    },
+    {
+      "para_id": "Q000376.24",
+      "line_range": "24",
+      "translation": "(24) He went to his lady , Inana , and prayed to her : “My lady , lioness in the battle , who butts the foreign lands , Enlil has entrusted me with bringing back the kingship of Sumer . May you be my help!”"
+    },
+    {
+      "para_id": "Q000376.33",
+      "line_range": "33",
+      "translation": "(33) The enemy troops established themselves everywhere . Tirigan , the king of Gutium , .... Nobody came out of his city to face him ; he had ( his troops ) occupied both parts of the Tigris . In the south , in Sumer , he blocked ( the water ) from the fields , in the uplands he closed off the roads . Because of him the grass grew high on the highways of the land ."
+    },
+    {
+      "para_id": "Q000376.46",
+      "line_range": "46",
+      "translation": "(46) But the king , given strength by Enlil , chosen by Inana in the heart , Utu-heĝal , the powerful man , came out from Unug to face him and set up camp at the temple of Iškur . He addressed a speech to the citizens of his city : “Enlil has given Gutium to me , my lady Inana will be my help . Dumu-zid-ama-ušumgal-ana has declared ‘It is a matter for me!’ and appointed Gilgameš , son of Ninsumun to me as ( his ) commissioner!” The citizens of Unug and Kulaba rejoiced and followed him with one accord . He lined up his élite troops ."
+    },
+    {
+      "para_id": "Q000376.71",
+      "line_range": "71",
+      "translation": "(72) After departing from the temple of Iškur , on the fourth day he set up camp in Kabsu on the Iturungal channel . On the fifth day he set up camp at the shrine at Ilī-tappê . He captured Ur-Ninazu and Nabi-Enlil , generals of Tirigan , who returned as envoys to Sumer , and put them in handcuffs ."
+    },
+    {
+      "para_id": "Q000376.82",
+      "line_range": "82",
+      "translation": "(83) After departing from the shrine at Ilī-tappê , on the sixth day he set up camp at Karkara . He went to Iškur and prayed to him : “O Iškur , Enlil has provided me with weapons , may you be my help!” In the middle of that night , …… he ... and above Adab he went to the rising Utu and prayed to him : “O Utu , Enlil has given Gutium to me , may you be my help!” He laid a trap there behind the Gutians , and led troops against them . Utu-heĝal , the powerful man , defeated them ."
+    },
+    {
+      "para_id": "Q000376.102",
+      "line_range": "102",
+      "translation": "(103) Then , deserting the generals , Tirigan , king of Gutium , ran away alone on foot . He thought himself safe in Dabrum , where he fled to save his life ; but since the leader of Dabrum knew that Utu-heĝal was a king given strength by Enlil , he did not let Tirigan go , and an envoy of Utu-heĝal arrested Tirigan together with his wife and child in Dabrum . He put handcuffs and a blindfold on him . Before Utu , Utu-heĝal made him lie at his feet and placed his foot on his neck . He made Gutium , the fanged snake of the mountains drink from the crevices , he … , he … and he … boatman . He brought back the kingship of Sumer ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000376.1",
+      "line_label": "1",
+      "transliteration": "d en - lil₂ ⸢ gu ⸣ - [ ti - um ki ]"
+    },
+    {
+      "line_id": "Q000376.2",
+      "line_label": "2",
+      "transliteration": "muš - ŋiri₂ ḫur - saŋ - [ ŋa₂ ]"
+    },
+    {
+      "line_id": "Q000376.3",
+      "line_label": "3",
+      "transliteration": "lu₂ a₂ zig₃ ! ( NAM -) ga diŋir - ⸢ re ⸣ - e - ⸢ ne ⸣"
+    },
+    {
+      "line_id": "Q000376.4",
+      "line_label": "4",
+      "transliteration": "lu₂ nam - lugal"
+    },
+    {
+      "line_id": "Q000376.5",
+      "line_label": "5",
+      "transliteration": "ki - en - gi - ra₂"
+    },
+    {
+      "line_id": "Q000376.6",
+      "line_label": "6",
+      "transliteration": "kur - še₃ ba - de₆ - a"
+    },
+    {
+      "line_id": "Q000376.7",
+      "line_label": "7",
+      "transliteration": "ki - en - gi - ra₂"
+    },
+    {
+      "line_id": "Q000376.8",
+      "line_label": "8",
+      "transliteration": "niŋ₂ - a - erim₂ ⸢ bi₂ - in ⸣ - si - a"
+    },
+    {
+      "line_id": "Q000376.9",
+      "line_label": "9",
+      "transliteration": "dam tuku dam - ni"
+    },
+    {
+      "line_id": "Q000376.10",
+      "line_label": "10",
+      "transliteration": "ba - an - da - kar - ra"
+    },
+    {
+      "line_id": "Q000376.11",
+      "line_label": "11",
+      "transliteration": "dumu tuku dumu - ni"
+    },
+    {
+      "line_id": "Q000376.12",
+      "line_label": "12",
+      "transliteration": "ba - an - da - kar - ra"
+    },
+    {
+      "line_id": "Q000376.13",
+      "line_label": "13",
+      "transliteration": "niŋ₂ - a - erim₂ niŋ₂ - a₂ - zig₃"
+    },
+    {
+      "line_id": "Q000376.14",
+      "line_label": "14",
+      "transliteration": "kalam - ma mi - ni - in - ŋar - ra"
+    },
+    {
+      "line_id": "Q000376.15",
+      "line_label": "15",
+      "transliteration": "d en - lil₂ lugal kur - kur - ra - ke₄"
+    },
+    {
+      "line_id": "Q000376.16",
+      "line_label": "16",
+      "transliteration": "mu - bi ḫa - lam - e - de₃"
+    },
+    {
+      "line_id": "Q000376.17",
+      "line_label": "17",
+      "transliteration": "d utu - ḫe₂ - ŋal₂"
+    },
+    {
+      "line_id": "Q000376.18",
+      "line_label": "18",
+      "transliteration": "nita kalag - ga"
+    },
+    {
+      "line_id": "Q000376.19",
+      "line_label": "19",
+      "transliteration": "lugal unug ki - ga"
+    },
+    {
+      "line_id": "Q000376.20",
+      "line_label": "20",
+      "transliteration": "lugal an - ub - da limmu₅ - ba"
+    },
+    {
+      "line_id": "Q000376.21",
+      "line_label": "21",
+      "transliteration": "lugal dug₄ - ga - na nu - gi₄ - gi₄ - da"
+    },
+    {
+      "line_id": "Q000376.22",
+      "line_label": "22",
+      "transliteration": "d en - lil₂ lugal kur - kur - ra - ke₄"
+    },
+    {
+      "line_id": "Q000376.23",
+      "line_label": "23",
+      "transliteration": "a₂ - bi mu - da - an - aŋ₂"
+    },
+    {
+      "line_id": "Q000376.24",
+      "line_label": "24",
+      "transliteration": "d inana nin - a - ni"
+    },
+    {
+      "line_id": "Q000376.25",
+      "line_label": "25",
+      "transliteration": "mu - na - an - ŋen"
+    },
+    {
+      "line_id": "Q000376.26",
+      "line_label": "26",
+      "transliteration": "šud₃ mu - na - ša₄"
+    },
+    {
+      "line_id": "Q000376.27",
+      "line_label": "27",
+      "transliteration": "nin - ŋu₁₀ piriŋ me₃"
+    },
+    {
+      "line_id": "Q000376.28",
+      "line_label": "28",
+      "transliteration": "kur - kur - da du₇ - du₇"
+    },
+    {
+      "line_id": "Q000376.29",
+      "line_label": "29",
+      "transliteration": "d en - lil₂ - le nam - lugal ki - en - gi - ra"
+    },
+    {
+      "line_id": "Q000376.30",
+      "line_label": "30",
+      "transliteration": "⸢ šu ⸣ - ba gi₄ - gi₄ - de₃"
+    },
+    {
+      "line_id": "Q000376.31",
+      "line_label": "31",
+      "transliteration": "⸢ a₂ ⸣ - [ bi mu - da - an - aŋ₂ ]"
+    },
+    {
+      "line_id": "Q000376.32",
+      "line_label": "32",
+      "transliteration": "⸢ a₂ ⸣ - [ daḫ - ŋu₁₀ ḫe₂ - me ]"
+    },
+    {
+      "line_id": "Q000376.33",
+      "line_label": "33",
+      "transliteration": "⸢ ugnim ⸣ [ lu₂ ] kur₂ - kur₂ - ra"
+    },
+    {
+      "line_id": "Q000376.34",
+      "line_label": "34",
+      "transliteration": "ki ⸢ ḫe₂ ⸣ - [ eb₂ ] - us₂ - ⸢ us₂ ⸣"
+    },
+    {
+      "line_id": "Q000376.35",
+      "line_label": "35",
+      "transliteration": "ti - ri₂ - [ ga - a - an ]"
+    },
+    {
+      "line_id": "Q000376.36",
+      "line_label": "36",
+      "transliteration": "lugal gu - ⸢ ti ⸣ - um < ki > - ⸢ ke₄ ⸣"
+    },
+    {
+      "line_id": "Q000376.37",
+      "line_label": "37",
+      "transliteration": "ka - bi ⸢ ba - ši ? ⸣ - ba"
+    },
+    {
+      "line_id": "Q000376.38",
+      "line_label": "38",
+      "transliteration": "lu₂ nu - mu - ši - e₃"
+    },
+    {
+      "line_id": "Q000376.39",
+      "line_label": "39",
+      "transliteration": "id₂ idigna gu₂ min - a - ba"
+    },
+    {
+      "line_id": "Q000376.40",
+      "line_label": "40",
+      "transliteration": "bi₂ - in - tuš"
+    },
+    {
+      "line_id": "Q000376.41",
+      "line_label": "41",
+      "transliteration": "sig - še₃ ki - en - gi - ra₂"
+    },
+    {
+      "line_id": "Q000376.42",
+      "line_label": "42",
+      "transliteration": "gana₂ bi₂ - keše₂"
+    },
+    {
+      "line_id": "Q000376.43",
+      "line_label": "43",
+      "transliteration": "igi - nim - še₃ ŋiri₃ i₃ - keše₂"
+    },
+    {
+      "line_id": "Q000376.44",
+      "line_label": "44",
+      "transliteration": "kaskal kalam - ma - ke₄"
+    },
+    {
+      "line_id": "Q000376.45",
+      "line_label": "45",
+      "transliteration": "u₂ gid₂ - da bi₂ - in - mu₂"
+    },
+    {
+      "line_id": "Q000376.46",
+      "line_label": "46",
+      "transliteration": "lugal d en - lil₂ - le"
+    },
+    {
+      "line_id": "Q000376.47",
+      "line_label": "47",
+      "transliteration": "a₂ šum₂ - ma"
+    },
+    {
+      "line_id": "Q000376.48",
+      "line_label": "48",
+      "transliteration": "d inana - ke₄ šag₄ - ge pad₃ - da"
+    },
+    {
+      "line_id": "Q000376.49",
+      "line_label": "49",
+      "transliteration": "d utu - ḫe₂ - ŋal₂ nita kalag - ga"
+    },
+    {
+      "line_id": "Q000376.50",
+      "line_label": "50",
+      "transliteration": "unug ki - ta mu - ši - e₃"
+    },
+    {
+      "line_id": "Q000376.51",
+      "line_label": "51",
+      "transliteration": "e₂ d iškur - ka"
+    },
+    {
+      "line_id": "Q000376.52",
+      "line_label": "52",
+      "transliteration": "ŋeš bi₂ - du₃"
+    },
+    {
+      "line_id": "Q000376.53",
+      "line_label": "53",
+      "transliteration": "dumu iri - na - ke₄ - ne"
+    },
+    {
+      "line_id": "Q000376.54",
+      "line_label": "54",
+      "transliteration": "gu₃ mu - ne - de₂ - e"
+    },
+    {
+      "line_id": "Q000376.55",
+      "line_label": "55",
+      "transliteration": "gu - ti - um ki"
+    },
+    {
+      "line_id": "Q000376.56",
+      "line_label": "56",
+      "transliteration": "d en - lil₂ - le ma - an - šum₂"
+    },
+    {
+      "line_id": "Q000376.57",
+      "line_label": "57",
+      "transliteration": "nin - ŋu₁₀ d inana"
+    },
+    {
+      "line_id": "Q000376.58",
+      "line_label": "58",
+      "transliteration": "a₂ - daḫ - ŋu₁₀ - um"
+    },
+    {
+      "line_id": "Q000376.59",
+      "line_label": "60",
+      "transliteration": "d dumu - zid - ama - ušum - gal - an - na - ke₄"
+    },
+    {
+      "line_id": "Q000376.60",
+      "line_label": "61",
+      "transliteration": "nam - ŋu₁₀ bi₂ - ⸢ dug₄ ⸣"
+    },
+    {
+      "line_id": "Q000376.61",
+      "line_label": "62",
+      "transliteration": "d ⸢ bil₄ ⸣ - ga - meš₃"
+    },
+    {
+      "line_id": "Q000376.62",
+      "line_label": "63",
+      "transliteration": "dumu d nin - sumun₂ - na - ⸢ ke₄ ⸣"
+    },
+    {
+      "line_id": "Q000376.63",
+      "line_label": "64",
+      "transliteration": "maškim - še₃ ma - an - šum₂"
+    },
+    {
+      "line_id": "Q000376.64",
+      "line_label": "65",
+      "transliteration": "dumu unug ki - ga"
+    },
+    {
+      "line_id": "Q000376.65",
+      "line_label": "66",
+      "transliteration": "dumu kul - aba₄ ki - ra"
+    },
+    {
+      "line_id": "Q000376.66",
+      "line_label": "67",
+      "transliteration": "šag₄ ḫul₂ - la ba - an - ŋar"
+    },
+    {
+      "line_id": "Q000376.67",
+      "line_label": "68",
+      "transliteration": "iri - ni lu₂ aš - gin₇"
+    },
+    {
+      "line_id": "Q000376.68",
+      "line_label": "69",
+      "transliteration": "eŋir - ra - ne₂ ba - ab - us₂"
+    },
+    {
+      "line_id": "Q000376.69",
+      "line_label": "70",
+      "transliteration": "zu₂ - keše₂ igi bar - ra"
+    },
+    {
+      "line_id": "Q000376.70",
+      "line_label": "71",
+      "transliteration": "si bi₂ - sa₂"
+    },
+    {
+      "line_id": "Q000376.71",
+      "line_label": "72",
+      "transliteration": "e₂ d iškur - ka zig₃ - ga - ne₂"
+    },
+    {
+      "line_id": "Q000376.72",
+      "line_label": "73",
+      "transliteration": "ud limmu₅ - kam - ma kab₂ - su id₂ - en - urin - gal - ka"
+    },
+    {
+      "line_id": "Q000376.73",
+      "line_label": "74",
+      "transliteration": "ŋeš bi₂ - du₃"
+    },
+    {
+      "line_id": "Q000376.74",
+      "line_label": "75",
+      "transliteration": "ud ia₂ - kam - ma barag i₃ - li₂ - tab - ba - e - ka"
+    },
+    {
+      "line_id": "Q000376.75",
+      "line_label": "76",
+      "transliteration": "ŋeš bi₂ - du₃"
+    },
+    {
+      "line_id": "Q000376.76",
+      "line_label": "77",
+      "transliteration": "ur - d nin - a - zu"
+    },
+    {
+      "line_id": "Q000376.77",
+      "line_label": "78",
+      "transliteration": "na - bi - d en - lil₂"
+    },
+    {
+      "line_id": "Q000376.78",
+      "line_label": "79",
+      "transliteration": "šagina ti - ri₂ - ga - a - an"
+    },
+    {
+      "line_id": "Q000376.79",
+      "line_label": "80",
+      "transliteration": "ki - en - gi - še₃ kiŋ₂ - gi₄ - a"
+    },
+    {
+      "line_id": "Q000376.80",
+      "line_label": "81",
+      "transliteration": "im - gi₄ - eš"
+    },
+    {
+      "line_id": "Q000376.81",
+      "line_label": "82",
+      "transliteration": "in - dab₅ - dab₅ šu - ba ŋeš ni - ŋar"
+    },
+    {
+      "line_id": "Q000376.82",
+      "line_label": "83",
+      "transliteration": "barag i₃ - li₂ - tab - ba - e - ka zig₃ - ga - ne₂"
+    },
+    {
+      "line_id": "Q000376.83",
+      "line_label": "84",
+      "transliteration": "ud aš₃ - kam - ma ka karkara ki - ka"
+    },
+    {
+      "line_id": "Q000376.84",
+      "line_label": "85",
+      "transliteration": "ŋeš bi₂ - du₃"
+    },
+    {
+      "line_id": "Q000376.85",
+      "line_label": "86",
+      "transliteration": "d iškur - ra mu - na - an - ŋen"
+    },
+    {
+      "line_id": "Q000376.86",
+      "line_label": "87",
+      "transliteration": "šud₃ mu - na - ša₄"
+    },
+    {
+      "line_id": "Q000376.87",
+      "line_label": "88",
+      "transliteration": "d iškur ŋeš tukul d en - lil₂ - le ma - an - [ šum₂ ]"
+    },
+    {
+      "line_id": "Q000376.88",
+      "line_label": "89",
+      "transliteration": "a₂ - daḫ - ŋu₁₀ ḫe₂ - me"
+    },
+    {
+      "line_id": "Q000376.89",
+      "line_label": "90",
+      "transliteration": "šag₄ ŋi₆ - ba - ⸢ ka ⸣ [... ] im - ma - an - [ x ]"
+    },
+    {
+      "line_id": "Q000376.90",
+      "line_label": "91",
+      "transliteration": "igi - nim adab [ ki ]"
+    },
+    {
+      "line_id": "Q000376.91",
+      "line_label": "92",
+      "transliteration": "d utu e₃ ? - [ a ? - ra ? ]"
+    },
+    {
+      "line_id": "Q000376.92",
+      "line_label": "93",
+      "transliteration": "mu - ⸢ na - an ⸣ - [ ŋen ]"
+    },
+    {
+      "line_id": "Q000376.93",
+      "line_label": "94",
+      "transliteration": "šud₃ ⸢ mu - na ⸣ - [ ša₄ ]"
+    },
+    {
+      "line_id": "Q000376.94",
+      "line_label": "95",
+      "transliteration": "d utu gu - ti - um ki"
+    },
+    {
+      "line_id": "Q000376.95",
+      "line_label": "96",
+      "transliteration": "d en - lil₂ - le ma - an - šum₂"
+    },
+    {
+      "line_id": "Q000376.96",
+      "line_label": "97",
+      "transliteration": "a₂ - daḫ - ŋu₁₀ ḫe₂ - me"
+    },
+    {
+      "line_id": "Q000376.97",
+      "line_label": "98",
+      "transliteration": "ki - bi bar gu - ti - um ki"
+    },
+    {
+      "line_id": "Q000376.98",
+      "line_label": "99",
+      "transliteration": "ŋeš mu - na - par₃"
+    },
+    {
+      "line_id": "Q000376.99",
+      "line_label": "100",
+      "transliteration": "erin₂ mu - na - laḫ₅"
+    },
+    {
+      "line_id": "Q000376.100",
+      "line_label": "101",
+      "transliteration": "d utu - ḫe₂ - ŋal₂ nita kalag - ga"
+    },
+    {
+      "line_id": "Q000376.101",
+      "line_label": "102",
+      "transliteration": "aga₃ - kar₂ im - mi - sig₁₀"
+    },
+    {
+      "line_id": "Q000376.102",
+      "line_label": "103",
+      "transliteration": "šagina - bi ud - ba ti - ri₂ - ga - a - an"
+    },
+    {
+      "line_id": "Q000376.103",
+      "line_label": "104",
+      "transliteration": "lugal gu - ti - um ki"
+    },
+    {
+      "line_id": "Q000376.104",
+      "line_label": "105",
+      "transliteration": "dili - a - ne₂ ŋiri₃ ba - da - an - kar"
+    },
+    {
+      "line_id": "Q000376.105",
+      "line_label": "106",
+      "transliteration": "ki zi - ni"
+    },
+    {
+      "line_id": "Q000376.106",
+      "line_label": "107",
+      "transliteration": "ba - da - an - kar - ra"
+    },
+    {
+      "line_id": "Q000376.107",
+      "line_label": "108",
+      "transliteration": "dab₄ - ru - um ki - ma ba - an - ⸢ sag₉ ⸣"
+    },
+    {
+      "line_id": "Q000376.108",
+      "line_label": "109",
+      "transliteration": "lu₂ dab₄ - ru - um < ki > - ma - ke₄"
+    },
+    {
+      "line_id": "Q000376.109",
+      "line_label": "110",
+      "transliteration": "d utu - ḫe₂ - ŋal₂"
+    },
+    {
+      "line_id": "Q000376.110",
+      "line_label": "111",
+      "transliteration": "bar lugal d en - lil₂ - le a₂ šum₂ - ma"
+    },
+    {
+      "line_id": "Q000376.111",
+      "line_label": "112",
+      "transliteration": "i₃ - me - a i₃ - zu - a - ke₄ - eš"
+    },
+    {
+      "line_id": "Q000376.112",
+      "line_label": "113",
+      "transliteration": "ti - ri₂ - ga - a - an - ra"
+    },
+    {
+      "line_id": "Q000376.113",
+      "line_label": "114",
+      "transliteration": "šu nu - ni - ba"
+    },
+    {
+      "line_id": "Q000376.114",
+      "line_label": "115",
+      "transliteration": "lu₂ kiŋ₂ - gi₄ - a d utu - ḫe₂ - ŋal₂"
+    },
+    {
+      "line_id": "Q000376.115",
+      "line_label": "116",
+      "transliteration": "ti - ri₂ - ga - a - an"
+    },
+    {
+      "line_id": "Q000376.116",
+      "line_label": "117",
+      "transliteration": "u₃ dam dumu - ni"
+    },
+    {
+      "line_id": "Q000376.117",
+      "line_label": "118",
+      "transliteration": "dab₄ - ru - um < ki > - ma ⸢ mu ⸣ - [ un ] - ⸢ dab₅ ⸣"
+    },
+    {
+      "line_id": "Q000376.118",
+      "line_label": "119",
+      "transliteration": "šu - na ŋeš ⸢ bi₂ ? ⸣ - ŋar"
+    },
+    {
+      "line_id": "Q000376.119",
+      "line_label": "120",
+      "transliteration": "igi - na tug₂ bi₂ - si"
+    },
+    {
+      "line_id": "Q000376.120",
+      "line_label": "121",
+      "transliteration": "d utu - ḫe₂ - ŋal₂ igi d ⸢ utu ⸣ - še₃"
+    },
+    {
+      "line_id": "Q000376.121",
+      "line_label": "122",
+      "transliteration": "ŋiri₃ - ni - še₃ mu - nu₂"
+    },
+    {
+      "line_id": "Q000376.122",
+      "line_label": "123",
+      "transliteration": "gu₂ - na ŋiri₃ bi₂ - gub"
+    },
+    {
+      "line_id": "Q000376.123",
+      "line_label": "124",
+      "transliteration": "gu - ⸢ ti - um ⸣ ki ⸢ muš - ŋiri₂ ḫur ⸣ - saŋ - ⸢ ŋa₂ ⸣"
+    },
+    {
+      "line_id": "Q000376.124",
+      "line_label": "125",
+      "transliteration": "ki - in - [ dar ? - a ] ⸢ bi₂ ⸣ - naŋ"
+    },
+    {
+      "line_id": "Q000376.125",
+      "line_label": "126",
+      "transliteration": "X [... ] X"
+    },
+    {
+      "line_id": "Q000376.126",
+      "line_label": "127",
+      "transliteration": "ŋeš ⸢ bi₂ ? ⸣ - X"
+    },
+    {
+      "line_id": "Q000376.127",
+      "line_label": "128",
+      "transliteration": "X ma₂ - gid₂ zag - ba im - ta - ŋar"
+    },
+    {
+      "line_id": "Q000376.128",
+      "line_label": "129",
+      "transliteration": "nam - lugal ki - en - gi - ra šu - ba im - mi - gi₄"
+    }
+  ]
+}

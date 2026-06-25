@@ -1,0 +1,72 @@
+{
+  "text_id": "oracc.etcsri.Q000873",
+  "corpus": "oracc",
+  "title": "Lu-Utu 2 (RIME 2.11.06.02 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000873",
+  "paragraphs": [
+    {
+      "para_id": "Q000873.1",
+      "line_range": "1",
+      "translation": "(1) For Ereškigal , lady of the place where the sun sets , Lu-Utu , governor of Umma , child of Ninisina , built a temple at the place where Utu rises , the place where the fates are determined for his ( own ) well-being . He laid out a canal at its edge . He made its name resplendent ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000873.1",
+      "line_label": "1",
+      "transliteration": "d ereš - ki - gal"
+    },
+    {
+      "line_id": "Q000873.2",
+      "line_label": "2",
+      "transliteration": "nin ki utu - šuš - ra"
+    },
+    {
+      "line_id": "Q000873.3",
+      "line_label": "3",
+      "transliteration": "lu₂ - d utu"
+    },
+    {
+      "line_id": "Q000873.4",
+      "line_label": "4",
+      "transliteration": "ensi₂ umma ki - ke₄"
+    },
+    {
+      "line_id": "Q000873.5",
+      "line_label": "5",
+      "transliteration": "dumu d nin - isin₂ sin₂ - ka - ke₄"
+    },
+    {
+      "line_id": "Q000873.6",
+      "line_label": "6",
+      "transliteration": "nam - til₃ - la - ni - še₃"
+    },
+    {
+      "line_id": "Q000873.7",
+      "line_label": "7",
+      "transliteration": "ki d utu e₃"
+    },
+    {
+      "line_id": "Q000873.8",
+      "line_label": "8",
+      "transliteration": "ki nam tar - re - da"
+    },
+    {
+      "line_id": "Q000873.9",
+      "line_label": "9",
+      "transliteration": "e₂ mu - na - du₃"
+    },
+    {
+      "line_id": "Q000873.10",
+      "line_label": "10",
+      "transliteration": "gaba - ba id₅ bi₂ - in - gen₆"
+    },
+    {
+      "line_id": "Q000873.11",
+      "line_label": "11",
+      "transliteration": "mu - be₂ pa bi₂ - in - e₃"
+    }
+  ]
+}

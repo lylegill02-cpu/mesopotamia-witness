@@ -1,0 +1,62 @@
+{
+  "text_id": "oracc.etcsri.Q001656",
+  "corpus": "oracc",
+  "title": "Šulgi 14 (RIME 3/2.01.02.014 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001656",
+  "paragraphs": [
+    {
+      "para_id": "Q001656.1",
+      "line_range": "1",
+      "translation": "(1) For Ninmarki , the kind woman , the firstborn child of Nanše , Šulgi , the powerful man , king of Urim , king of Sumer and Akkad , built her E-munus-gisa ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001656.1",
+      "line_label": "1",
+      "transliteration": "d nin - mar - ki"
+    },
+    {
+      "line_id": "Q001656.2",
+      "line_label": "2",
+      "transliteration": "munus sag₉ - ga"
+    },
+    {
+      "line_id": "Q001656.3",
+      "line_label": "3",
+      "transliteration": "dumu - saŋ d nanše"
+    },
+    {
+      "line_id": "Q001656.4",
+      "line_label": "4",
+      "transliteration": "d šul - gi"
+    },
+    {
+      "line_id": "Q001656.5",
+      "line_label": "5",
+      "transliteration": "nita kalag - ga"
+    },
+    {
+      "line_id": "Q001656.6",
+      "line_label": "6",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q001656.7",
+      "line_label": "7",
+      "transliteration": "lugal ki - en - gi ki - uri - ke₄"
+    },
+    {
+      "line_id": "Q001656.8",
+      "line_label": "8",
+      "transliteration": "e₂ - munus - gil - sa - ka - ni"
+    },
+    {
+      "line_id": "Q001656.9",
+      "line_label": "9",
+      "transliteration": "mu - na - du₃"
+    }
+  ]
+}

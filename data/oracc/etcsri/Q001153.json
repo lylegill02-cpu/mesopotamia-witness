@@ -1,0 +1,52 @@
+{
+  "text_id": "oracc.etcsri.Q001153",
+  "corpus": "oracc",
+  "title": "URU-KA-gina 14d (RIME 1.09.09.14, ex. d)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001153",
+  "paragraphs": [
+    {
+      "para_id": "Q001153.1",
+      "line_range": "1",
+      "translation": "(1) The 80 meš trees of third quality , from the garden of the personal quarters , were planted by Iri-kagina , king of Ŋirsu within the shrine . ( Year ) 10 .\""
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001153.1",
+      "line_label": "1",
+      "transliteration": "1( geš₂ c ) 2( u c ) ŋeš meš₃ eš₅ - kam - ma us₂ - bi"
+    },
+    {
+      "line_id": "Q001153.2",
+      "line_label": "2",
+      "transliteration": "kiri₆ e₂ - šag₄ - ga - ta"
+    },
+    {
+      "line_id": "Q001153.3",
+      "line_label": "3",
+      "transliteration": "iri - ka - gen₆ - na"
+    },
+    {
+      "line_id": "Q001153.4",
+      "line_label": "4",
+      "transliteration": "[ lugal ]"
+    },
+    {
+      "line_id": "Q001153.5",
+      "line_label": "5",
+      "transliteration": "[ ŋir₂ - su ki - ke₄ ]"
+    },
+    {
+      "line_id": "Q001153.6",
+      "line_label": "6",
+      "transliteration": "⸢ šag₄ eš₃ - ka ⸣"
+    },
+    {
+      "line_id": "Q001153.7",
+      "line_label": "7",
+      "transliteration": "i₃ - gub 1( u )"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "text_id": "oracc.etcsri.Q004433",
+  "corpus": "oracc",
+  "title": "Šu-Suen 2100add / CDLI Seals 006085 (CDLI Seals 006085 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004433",
+  "paragraphs": [
+    {
+      "para_id": "Q004433.1",
+      "line_range": "1",
+      "translation": "(i 1) Šu-Suen , the powerful king , king of Urim : Nur-Adad , child of Ganana , the overseer of the millers , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004433.1",
+      "line_label": "i 1",
+      "transliteration": "d šu - d suen"
+    },
+    {
+      "line_id": "Q004433.2",
+      "line_label": "i 2",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q004433.3",
+      "line_label": "i 3",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q004433.4",
+      "line_label": "ii 1",
+      "transliteration": "nu - ur₂ - d adad"
+    },
+    {
+      "line_id": "Q004433.5",
+      "line_label": "ii 2",
+      "transliteration": "dumu ga - na - na"
+    },
+    {
+      "line_id": "Q004433.6",
+      "line_label": "ii 3",
+      "transliteration": "ugula kikken₂"
+    },
+    {
+      "line_id": "Q004433.7",
+      "line_label": "ii 4",
+      "transliteration": "arad₂ - zu"
+    }
+  ]
+}

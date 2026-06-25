@@ -1,0 +1,352 @@
+{
+  "text_id": "oracc.etcsri.Q001093",
+  "corpus": "oracc",
+  "title": "En-metena 12 (RIME 1.09.05.12 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001093",
+  "paragraphs": [
+    {
+      "para_id": "Q001093.1",
+      "line_range": "1",
+      "translation": "(i 1) For Ninĝirsu , Enlil’s warrior ."
+    },
+    {
+      "para_id": "Q001093.3",
+      "line_range": "3",
+      "translation": "(i 3) En-metena , ruler of Lagaš , child of En-ana-tum , ruler of Lagaš , descendant of Ur-Nanše , king of Lagaš , built the sanctuary of Dugru for Ninĝirsu . He built the Ahuš , the temple that is looked upon with favour , for him ."
+    },
+    {
+      "para_id": "Q001093.19",
+      "line_range": "19",
+      "translation": "(iii 5) For Lugal-Uruba , he built his great temple in Urub ."
+    },
+    {
+      "para_id": "Q001093.22",
+      "line_range": "22",
+      "translation": "(iv 2) For Nanše , he built the E-engur in Zulum ."
+    },
+    {
+      "para_id": "Q001093.25",
+      "line_range": "25",
+      "translation": "(iv 5) For Enki , king of Eridug , he built the Abzu-pasira ."
+    },
+    {
+      "para_id": "Q001093.29",
+      "line_range": "29",
+      "translation": "(v 2) For Ninhursaĝa , he built the high temple of Tirkug ."
+    },
+    {
+      "para_id": "Q001093.33",
+      "line_range": "33",
+      "translation": "(v 6) For Ninĝirsu , he built the Antasura , the temple whose fearsome radiance covers all the lands ."
+    },
+    {
+      "para_id": "Q001093.37",
+      "line_range": "37",
+      "translation": "(vi 4) For Enlil , he built the E-adda in Imsaĝ ."
+    },
+    {
+      "para_id": "Q001093.40",
+      "line_range": "40",
+      "translation": "(vi 8) He built the temple of Ĝatumdug ."
+    },
+    {
+      "para_id": "Q001093.41",
+      "line_range": "41",
+      "translation": "(vii 1) For Nanše , he built the Šage-pada . For Nanše , he built her lofty high temple ."
+    },
+    {
+      "para_id": "Q001093.47",
+      "line_range": "47",
+      "translation": "(vii 7) At that time , En-metena built his brewery for Ninĝirsu , his master who loves him ."
+    },
+    {
+      "para_id": "Q001093.52",
+      "line_range": "52",
+      "translation": "(viii 5) The personal god of En-metena , the builder of Ninĝirsu’s brewery , is Šul-MUŠxPA ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001093.1",
+      "line_label": "i 1",
+      "transliteration": "d nin - ŋir₂ - su₂"
+    },
+    {
+      "line_id": "Q001093.2",
+      "line_label": "i 2",
+      "transliteration": "ur - saŋ d en - lil₂ ( E₂ )- la₂ - ra"
+    },
+    {
+      "line_id": "Q001093.3",
+      "line_label": "i 3",
+      "transliteration": "en - mete - na"
+    },
+    {
+      "line_id": "Q001093.4",
+      "line_label": "i 4",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001093.5",
+      "line_label": "i 5",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001093.6",
+      "line_label": "i 6",
+      "transliteration": "dumu en - an - na - tum₂"
+    },
+    {
+      "line_id": "Q001093.7",
+      "line_label": "i 7",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001093.8",
+      "line_label": "ii 1",
+      "transliteration": "lagaš ki - ka"
+    },
+    {
+      "line_id": "Q001093.9",
+      "line_label": "ii 2",
+      "transliteration": "dumu - KA"
+    },
+    {
+      "line_id": "Q001093.10",
+      "line_label": "ii 3",
+      "transliteration": "ur - d nanše"
+    },
+    {
+      "line_id": "Q001093.11",
+      "line_label": "ii 4",
+      "transliteration": "lugal"
+    },
+    {
+      "line_id": "Q001093.12",
+      "line_label": "ii 5",
+      "transliteration": "lagaš ki - ka - ke₄"
+    },
+    {
+      "line_id": "Q001093.13",
+      "line_label": "ii 6",
+      "transliteration": "d nin - ŋir₂ - su₂ - ra"
+    },
+    {
+      "line_id": "Q001093.14",
+      "line_label": "ii 7",
+      "transliteration": "eš₃ dug - ru"
+    },
+    {
+      "line_id": "Q001093.15",
+      "line_label": "iii 1",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001093.16",
+      "line_label": "iii 2",
+      "transliteration": "a - ḫuš"
+    },
+    {
+      "line_id": "Q001093.17",
+      "line_label": "iii 3",
+      "transliteration": "e₂ igi zid bar - ra"
+    },
+    {
+      "line_id": "Q001093.18",
+      "line_label": "iii 4",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001093.19",
+      "line_label": "iii 5",
+      "transliteration": "d lugal - urub ki - ra"
+    },
+    {
+      "line_id": "Q001093.20",
+      "line_label": "iii 6",
+      "transliteration": "e₂ gal urub ki - ka - ni"
+    },
+    {
+      "line_id": "Q001093.21",
+      "line_label": "iv 1",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001093.22",
+      "line_label": "iv 2",
+      "transliteration": "d nanše"
+    },
+    {
+      "line_id": "Q001093.23",
+      "line_label": "iv 3",
+      "transliteration": "e₂ - engur - ra zu₂ - lum - ma"
+    },
+    {
+      "line_id": "Q001093.24",
+      "line_label": "iv 4",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001093.25",
+      "line_label": "iv 5",
+      "transliteration": "d en - ki"
+    },
+    {
+      "line_id": "Q001093.26",
+      "line_label": "iv 6",
+      "transliteration": "lugal eridug ki - ra"
+    },
+    {
+      "line_id": "Q001093.27",
+      "line_label": "iv 7",
+      "transliteration": "abzu - pa₅ - sir₂ - ra"
+    },
+    {
+      "line_id": "Q001093.28",
+      "line_label": "v 1",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001093.29",
+      "line_label": "v 2",
+      "transliteration": "d nin - ḫur - saŋ - ŋa₂ - ra"
+    },
+    {
+      "line_id": "Q001093.30",
+      "line_label": "v 3",
+      "transliteration": "gi - gu₃ - na"
+    },
+    {
+      "line_id": "Q001093.31",
+      "line_label": "v 4",
+      "transliteration": "tir - kug - ga"
+    },
+    {
+      "line_id": "Q001093.32",
+      "line_label": "v 5",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001093.33",
+      "line_label": "v 6",
+      "transliteration": "d nin - ŋir₂ - su₂ - ra"
+    },
+    {
+      "line_id": "Q001093.34",
+      "line_label": "vi 1",
+      "transliteration": "an - ta - sur - ra"
+    },
+    {
+      "line_id": "Q001093.35",
+      "line_label": "vi 2",
+      "transliteration": "e₂ me - lem₄ - bi kur - kur - ra a - dul₅"
+    },
+    {
+      "line_id": "Q001093.36",
+      "line_label": "vi 3",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001093.37",
+      "line_label": "vi 4",
+      "transliteration": "d en - lil₂ ( E₂ )- la"
+    },
+    {
+      "line_id": "Q001093.38",
+      "line_label": "vi 5-6",
+      "transliteration": "e₂ - ad - da im - saŋ - ŋa₂"
+    },
+    {
+      "line_id": "Q001093.39",
+      "line_label": "vi 7",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001093.40",
+      "line_label": "vi 8",
+      "transliteration": "e₂ d ŋa₂ - tum₃ - dug₃"
+    },
+    {
+      "line_id": "Q001093.41",
+      "line_label": "vii 1",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001093.42",
+      "line_label": "vii 2",
+      "transliteration": "d nanše"
+    },
+    {
+      "line_id": "Q001093.43",
+      "line_label": "vii 3",
+      "transliteration": "šag₄ - pad₃ - da"
+    },
+    {
+      "line_id": "Q001093.44",
+      "line_label": "vii 4",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001093.45",
+      "line_label": "vii 5",
+      "transliteration": "d nanše gi - gu₃ - na maḫ - ni"
+    },
+    {
+      "line_id": "Q001093.46",
+      "line_label": "vii 6",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001093.47",
+      "line_label": "vii 7",
+      "transliteration": "ud - ba en - mete - na - ke₄"
+    },
+    {
+      "line_id": "Q001093.48",
+      "line_label": "viii 1",
+      "transliteration": "lugal ki an - na - aŋ₂ - ŋa₂ - ni"
+    },
+    {
+      "line_id": "Q001093.49",
+      "line_label": "viii 2",
+      "transliteration": "d nin - ŋir₂ - su₂ - ra"
+    },
+    {
+      "line_id": "Q001093.50",
+      "line_label": "viii 3",
+      "transliteration": "e₂ - lungaₓ ( BI × GAR )- ka - ni"
+    },
+    {
+      "line_id": "Q001093.51",
+      "line_label": "viii 4",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001093.52",
+      "line_label": "viii 5",
+      "transliteration": "en - mete - na"
+    },
+    {
+      "line_id": "Q001093.53",
+      "line_label": "ix 1",
+      "transliteration": "lu₂ e₂ - lungaₓ ( BI × GAR )"
+    },
+    {
+      "line_id": "Q001093.54",
+      "line_label": "ix 2",
+      "transliteration": "d nin - ŋir₂ - [ su₂ ] - ka du₃ - a"
+    },
+    {
+      "line_id": "Q001093.55",
+      "line_label": "ix 3",
+      "transliteration": "diŋir - ra - ni"
+    },
+    {
+      "line_id": "Q001093.56",
+      "line_label": "ix 4",
+      "transliteration": "d šul - MUŠ × PA - am₆"
+    }
+  ]
+}

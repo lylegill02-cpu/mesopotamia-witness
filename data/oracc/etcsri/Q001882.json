@@ -1,0 +1,52 @@
+{
+  "text_id": "oracc.etcsri.Q001882",
+  "corpus": "oracc",
+  "title": "Unattributed Ur III 1012 (RIME 3/2.01.06.1012 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001882",
+  "paragraphs": [
+    {
+      "para_id": "Q001882.2",
+      "line_range": "2",
+      "translation": "(1') ... Huhnuri .... ..., Šipara .... ..., Sabum , ..., Kimaš , Duduli , ..., land of Anšan ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001882.2",
+      "line_label": "1'",
+      "transliteration": "[... ] ki ⸢ x x ⸣ [... ]"
+    },
+    {
+      "line_id": "Q001882.3",
+      "line_label": "2'",
+      "transliteration": "[... ] ki ḫu - uḫ₂ - nu - ri ki ⸢ mu - x ⸣ - [... ]"
+    },
+    {
+      "line_id": "Q001882.4",
+      "line_label": "3'",
+      "transliteration": "[... ] - x - ri - ni ki ši - pa - ra ki ⸢ mu - x ⸣ - [... ]"
+    },
+    {
+      "line_id": "Q001882.5",
+      "line_label": "4'",
+      "transliteration": "[... ] - ki ki sa - bu - um ki - bi - ⸢ da ⸣"
+    },
+    {
+      "line_id": "Q001882.6",
+      "line_label": "5'",
+      "transliteration": "[... ] - ⸢ x ⸣ ki ki - maš ki du₈ - du₈ - li₂ ⸢ ki ⸣ [... ]"
+    },
+    {
+      "line_id": "Q001882.7",
+      "line_label": "6'",
+      "transliteration": "[... ma ] - da an - ša₄ - an ki [... ]"
+    },
+    {
+      "line_id": "Q001882.8",
+      "line_label": "7'",
+      "transliteration": "[... ] ⸢ ki x x x ⸣ [... ]"
+    }
+  ]
+}

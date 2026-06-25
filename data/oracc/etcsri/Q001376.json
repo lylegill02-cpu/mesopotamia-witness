@@ -1,0 +1,52 @@
+{
+  "text_id": "oracc.etcsri.Q001376",
+  "corpus": "oracc",
+  "title": "Lugal-KISAL-si 3 (RIME 1.14.15.03 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001376",
+  "paragraphs": [
+    {
+      "para_id": "Q001376.1",
+      "line_range": "1",
+      "translation": "(1) To ..., Me-girimta , child born to Lugal-kisale-si , spouse of Muni-hursaĝ , dedicated this ( bowl ) ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001376.1",
+      "line_label": "1",
+      "transliteration": "d NE - KID"
+    },
+    {
+      "line_id": "Q001376.2",
+      "line_label": "2",
+      "transliteration": "me - girim₃ ( A . BU . ḪA . DU )- ta"
+    },
+    {
+      "line_id": "Q001376.3",
+      "line_label": "3",
+      "transliteration": "dumu lugal - kisal - si"
+    },
+    {
+      "line_id": "Q001376.4",
+      "line_label": "4",
+      "transliteration": "tud - da"
+    },
+    {
+      "line_id": "Q001376.5",
+      "line_label": "5",
+      "transliteration": "dam"
+    },
+    {
+      "line_id": "Q001376.6",
+      "line_label": "6",
+      "transliteration": "mu - ni - ḫur - saŋ"
+    },
+    {
+      "line_id": "Q001376.7",
+      "line_label": "7",
+      "transliteration": "a mu - ru"
+    }
+  ]
+}

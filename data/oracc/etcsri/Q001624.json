@@ -1,0 +1,217 @@
+{
+  "text_id": "oracc.etcsri.Q001624",
+  "corpus": "oracc",
+  "title": "Ur-Namma 18 (RIME 3/2.01.01.18 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001624",
+  "paragraphs": [
+    {
+      "para_id": "Q001624.1",
+      "line_range": "1",
+      "translation": "(i 1) When Ur-Namma , the powerful man , king of Urim , king of Sumer and Akkad , built the temple of Nanna , then by the just decision of Utu he adjudged the border territory for the ships of Magan that An and Enlil had bestowed upon ( Nanna ) to Nanna , his master . He returned it under ( Nanna’s ) control , and afterwards dedicated a statue of himself to him ."
+    },
+    {
+      "para_id": "Q001624.20",
+      "line_range": "20",
+      "translation": "(ii 7) Whoever gives order to perform a misdeed against it , calls in question ( the content of ) its inscription , may Nanna , my lord , ...! ...., may he make him live ...! May his city fall out of his favour ! May he sit in the dust instead of his throne ! May his city expel him from under the reed canopy ! May his life be miserable !"
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001624.1",
+      "line_label": "i 1",
+      "transliteration": "d nanna"
+    },
+    {
+      "line_id": "Q001624.2",
+      "line_label": "i 2",
+      "transliteration": "lugal - a - ni"
+    },
+    {
+      "line_id": "Q001624.3",
+      "line_label": "i 3",
+      "transliteration": "⸢ ki ⸣ - sur - ra"
+    },
+    {
+      "line_id": "Q001624.4",
+      "line_label": "i 4",
+      "transliteration": "ma₂ ma₂ - ⸢ gan ki ⸣"
+    },
+    {
+      "line_id": "Q001624.5",
+      "line_label": "i 5",
+      "transliteration": "an - ⸢ ne₂ ⸣"
+    },
+    {
+      "line_id": "Q001624.6",
+      "line_label": "i 6",
+      "transliteration": "d en - ⸢ lil₂ ⸣ - [ le ]"
+    },
+    {
+      "line_id": "Q001624.7",
+      "line_label": "i 7",
+      "transliteration": "saŋ - še₃ ⸢ i₃ - ni ? - rig₇ - ge ? - eš ? ⸣ - [ a ]"
+    },
+    {
+      "line_id": "Q001624.8",
+      "line_label": "i 8",
+      "transliteration": "ur - ⸢ d namma ⸣"
+    },
+    {
+      "line_id": "Q001624.9",
+      "line_label": "i 9",
+      "transliteration": "nita ⸢ kalag - ga ⸣"
+    },
+    {
+      "line_id": "Q001624.10",
+      "line_label": "i 10",
+      "transliteration": "lugal ⸢ urim₅ ki - ma ⸣"
+    },
+    {
+      "line_id": "Q001624.11",
+      "line_label": "i 11",
+      "transliteration": "lugal ⸢ ki - en ⸣ - gi ⸢ ki - uri - ke₄ ⸣"
+    },
+    {
+      "line_id": "Q001624.12",
+      "line_label": "i 12",
+      "transliteration": "ud e₂ ⸢ d nanna ⸣"
+    },
+    {
+      "line_id": "Q001624.13",
+      "line_label": "i 13",
+      "transliteration": "mu - du₃ - ⸢ a ⸣"
+    },
+    {
+      "line_id": "Q001624.14",
+      "line_label": "ii 1",
+      "transliteration": "di niŋ₂ - gen₆ - ⸢ na ⸣"
+    },
+    {
+      "line_id": "Q001624.15",
+      "line_label": "ii 2",
+      "transliteration": "d utu - ta"
+    },
+    {
+      "line_id": "Q001624.16",
+      "line_label": "ii 3",
+      "transliteration": "⸢ inim mu ⸣ - na - ge - en₆"
+    },
+    {
+      "line_id": "Q001624.17",
+      "line_label": "ii 4",
+      "transliteration": "⸢ šu - na mu ⸣ - ni - ⸢ gi₄ ⸣"
+    },
+    {
+      "line_id": "Q001624.18",
+      "line_label": "ii 5",
+      "transliteration": "⸢ ud ⸣ - ba ⸢ alan ? - na ⸣ - ni"
+    },
+    {
+      "line_id": "Q001624.19",
+      "line_label": "ii 6",
+      "transliteration": "[ a ] ⸢ mu ⸣ - na - ru"
+    },
+    {
+      "line_id": "Q001624.20",
+      "line_label": "ii 7",
+      "transliteration": "⸢ lu₂ ⸣ a₂ niŋ₂ - ⸢ ḫul dim₂ ⸣ - ma"
+    },
+    {
+      "line_id": "Q001624.21",
+      "line_label": "ii 8",
+      "transliteration": "[ ib₂ ] - ⸢ ši ? ⸣ - aŋ₂ - ŋa₂ - a"
+    },
+    {
+      "line_id": "Q001624.22",
+      "line_label": "ii 9",
+      "transliteration": "⸢ mu ? - sar ? - ra ? ⸣ - bi"
+    },
+    {
+      "line_id": "Q001624.23",
+      "line_label": "ii 10",
+      "transliteration": "⸢ ib₂ ⸣ - kur₂ - a"
+    },
+    {
+      "line_id": "Q001624.24",
+      "line_label": "ii 11",
+      "transliteration": "d nanna"
+    },
+    {
+      "line_id": "Q001624.25",
+      "line_label": "iii 1",
+      "transliteration": "⸢ lugal - ŋu₁₀ ⸣"
+    },
+    {
+      "line_id": "Q001624.26",
+      "line_label": "iii 2",
+      "transliteration": "x x"
+    },
+    {
+      "line_id": "Q001624.27",
+      "line_label": "iii 3",
+      "transliteration": "⸢ nam ⸣ [... ]"
+    },
+    {
+      "line_id": "Q001624.29",
+      "line_label": "iv 1",
+      "transliteration": "ḫe₂ - en₆ - til₃ - e"
+    },
+    {
+      "line_id": "Q001624.30",
+      "line_label": "iv 2",
+      "transliteration": "iri - ni - da"
+    },
+    {
+      "line_id": "Q001624.31",
+      "line_label": "iv 3",
+      "transliteration": "saŋ - ki - ni"
+    },
+    {
+      "line_id": "Q001624.32",
+      "line_label": "iv 4",
+      "transliteration": "ḫa - ba - da - ⸢ gid₂ ⸣ - [ de₃ ]"
+    },
+    {
+      "line_id": "Q001624.33",
+      "line_label": "iv 5",
+      "transliteration": "ŋeš ⸢ gu ⸣ - [ za - ni - ta ]"
+    },
+    {
+      "line_id": "Q001624.34",
+      "line_label": "iv 6",
+      "transliteration": "saḫar - ⸢ ra ⸣ [ ḫe₂ - em - ta - tuš ]"
+    },
+    {
+      "line_id": "Q001624.35",
+      "line_label": "iv 7",
+      "transliteration": "iri - ⸢ ne₂ ⸣"
+    },
+    {
+      "line_id": "Q001624.36",
+      "line_label": "iv 8",
+      "transliteration": "gi [ sumurₓ ( KA ) ] - ⸢ ta ⸣"
+    },
+    {
+      "line_id": "Q001624.37",
+      "line_label": "iv 9",
+      "transliteration": "ḫe₂ - ⸢ ta ⸣ - [ dag ] - ⸢ dag - ge ⸣"
+    },
+    {
+      "line_id": "Q001624.38",
+      "line_label": "iv 10",
+      "transliteration": "⸢ nam - ti ? - il ? ⸣"
+    },
+    {
+      "line_id": "Q001624.39",
+      "line_label": "iv 11",
+      "transliteration": "[ niŋ₂ ] - ⸢ gig - ga ⸣ - [ ni ]"
+    },
+    {
+      "line_id": "Q001624.40",
+      "line_label": "iv 12",
+      "transliteration": "⸢ ḫe₂ ⸣ - a"
+    }
+  ]
+}

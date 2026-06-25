@@ -1,0 +1,47 @@
+{
+  "text_id": "oracc.etcsri.Q001997",
+  "corpus": "oracc",
+  "title": "Ur-dukuga 2 (RIME 4.01.13.02 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001997",
+  "paragraphs": [
+    {
+      "para_id": "Q001997.1",
+      "line_range": "1",
+      "translation": "(1) Urdu-kuga , the shepherd , who provides Nibru with everything , the great farmer of An and Enlil , the provider of the E-kur , ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001997.1",
+      "line_label": "1",
+      "transliteration": "⸢ ur - du₃ - kug ⸣ - [ ga ]"
+    },
+    {
+      "line_id": "Q001997.2",
+      "line_label": "2",
+      "transliteration": "⸢ sipad niŋ₂ - nam tumu₃ ⸣"
+    },
+    {
+      "line_id": "Q001997.3",
+      "line_label": "3",
+      "transliteration": "⸢ nibru ki ⸣"
+    },
+    {
+      "line_id": "Q001997.4",
+      "line_label": "4",
+      "transliteration": "⸢ engar maḫ ⸣"
+    },
+    {
+      "line_id": "Q001997.5",
+      "line_label": "5",
+      "transliteration": "⸢ an d en - lil₂ - la₂ ⸣"
+    },
+    {
+      "line_id": "Q001997.6",
+      "line_label": "6",
+      "transliteration": "⸢ u₂ - a e₂ - kur - ra ⸣"
+    }
+  ]
+}

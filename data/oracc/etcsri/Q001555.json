@@ -1,0 +1,87 @@
+{
+  "text_id": "oracc.etcsri.Q001555",
+  "corpus": "oracc",
+  "title": "Gudea Statue Q (RIME 3/1.01.07, St Q composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001555",
+  "paragraphs": [
+    {
+      "para_id": "Q001555.1",
+      "line_range": "1",
+      "translation": "(i 1) For Ninĝišzida , his personal god , Gudea , ruler of Lagaš , the builder of Ninĝirsu's E-ninnu , fashioned his own statue , named it for his sake \" ( Gudea ) made the temple worthy of ( Ninĝišzida ) \", and brought it before him into the temple ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001555.1",
+      "line_label": "i 1",
+      "transliteration": "d nin - ŋeš - zid - da"
+    },
+    {
+      "line_id": "Q001555.2",
+      "line_label": "i 2",
+      "transliteration": "diŋir - ra - ni"
+    },
+    {
+      "line_id": "Q001555.3",
+      "line_label": "i 3",
+      "transliteration": "gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q001555.4",
+      "line_label": "i 4",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001555.5",
+      "line_label": "i 5",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001555.6",
+      "line_label": "i 6",
+      "transliteration": "lu₂ e₂ - ninnu"
+    },
+    {
+      "line_id": "Q001555.7",
+      "line_label": "i 7",
+      "transliteration": "d nin - ŋir₂ - su - ka"
+    },
+    {
+      "line_id": "Q001555.8",
+      "line_label": "ii 1",
+      "transliteration": "in - du₃ - a"
+    },
+    {
+      "line_id": "Q001555.9",
+      "line_label": "ii 2",
+      "transliteration": "alan - na - ni"
+    },
+    {
+      "line_id": "Q001555.10",
+      "line_label": "ii 3",
+      "transliteration": "mu - tud"
+    },
+    {
+      "line_id": "Q001555.11",
+      "line_label": "ii 4",
+      "transliteration": "e₂ mu - ni - tum₂"
+    },
+    {
+      "line_id": "Q001555.12",
+      "line_label": "ii 5",
+      "transliteration": "mu - še₃ mu - na - še₂₁"
+    },
+    {
+      "line_id": "Q001555.13",
+      "line_label": "ii 6",
+      "transliteration": "e₂ - a - ni - a"
+    },
+    {
+      "line_id": "Q001555.14",
+      "line_label": "ii 7",
+      "transliteration": "mu - na - ni - kur₉ ( REC145 )"
+    }
+  ]
+}

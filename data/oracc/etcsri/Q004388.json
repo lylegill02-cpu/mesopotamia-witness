@@ -1,0 +1,57 @@
+{
+  "text_id": "oracc.etcsri.Q004388",
+  "corpus": "oracc",
+  "title": "Šu-Suen 2053add / CDLI Seals 006020 (CDLI Seals 006020 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004388",
+  "paragraphs": [
+    {
+      "para_id": "Q004388.1",
+      "line_range": "1",
+      "translation": "(i 1) Šu-Suen , the powerful king , king of Urim , king of the four quarters : Igi-anake-zu , the envoy , child of Aradani , the judge , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004388.1",
+      "line_label": "i 1",
+      "transliteration": "d ⸢ šu ⸣ - d suen"
+    },
+    {
+      "line_id": "Q004388.2",
+      "line_label": "i 2",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q004388.3",
+      "line_label": "i 3",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q004388.4",
+      "line_label": "i 4",
+      "transliteration": "lugal an - ub - da limmu₂ - ba"
+    },
+    {
+      "line_id": "Q004388.5",
+      "line_label": "ii 1",
+      "transliteration": "igi - an - na - ke₄ - zu sukkal"
+    },
+    {
+      "line_id": "Q004388.6",
+      "line_label": "ii 2",
+      "transliteration": "dumu arad₂ - da - ni"
+    },
+    {
+      "line_id": "Q004388.7",
+      "line_label": "ii 3",
+      "transliteration": "di - kud"
+    },
+    {
+      "line_id": "Q004388.8",
+      "line_label": "ii 4",
+      "transliteration": "arad₂ - zu"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "text_id": "oracc.etcsri.Q002002",
+  "corpus": "oracc",
+  "title": "Sin-magir 2001 / CDLI Seals 002462 (CDLI Seals 002462 (physical))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q002002",
+  "paragraphs": [
+    {
+      "para_id": "Q002002.1",
+      "line_range": "1",
+      "translation": "(1) Iddin-damu , the chief builder , child of Iaya , is the servant of Enki and Sin-magir ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q002002.1",
+      "line_label": "1",
+      "transliteration": "i - din - d da - mu"
+    },
+    {
+      "line_id": "Q002002.2",
+      "line_label": "2",
+      "transliteration": "šidim - gal"
+    },
+    {
+      "line_id": "Q002002.3",
+      "line_label": "3",
+      "transliteration": "dumu ia - a"
+    },
+    {
+      "line_id": "Q002002.4",
+      "line_label": "4",
+      "transliteration": "arad d en - ki"
+    },
+    {
+      "line_id": "Q002002.5",
+      "line_label": "5",
+      "transliteration": "u₃ d suen - ma - gir"
+    }
+  ]
+}

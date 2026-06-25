@@ -1,0 +1,57 @@
+{
+  "text_id": "oracc.etcsri.Q001684",
+  "corpus": "oracc",
+  "title": "Šulgi 52 (RIME 3/2.01.02.052 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001684",
+  "paragraphs": [
+    {
+      "para_id": "Q001684.1",
+      "line_range": "1",
+      "translation": "(1) For Nanna , his master , Šulgi , the powerful man , king of Urim , king of the four quarters , certified this ( weight stone to be ) 5 manas."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001684.1",
+      "line_label": "1",
+      "transliteration": "d nanna"
+    },
+    {
+      "line_id": "Q001684.2",
+      "line_label": "2",
+      "transliteration": "lugal - a - ni"
+    },
+    {
+      "line_id": "Q001684.3",
+      "line_label": "3",
+      "transliteration": "d šul - gi"
+    },
+    {
+      "line_id": "Q001684.4",
+      "line_label": "4",
+      "transliteration": "nita kalag - ga"
+    },
+    {
+      "line_id": "Q001684.5",
+      "line_label": "5",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q001684.6",
+      "line_label": "6",
+      "transliteration": "lugal an - ub - da limmu₂ - ba - ke₄"
+    },
+    {
+      "line_id": "Q001684.7",
+      "line_label": "7",
+      "transliteration": "5( diš ) ma - na"
+    },
+    {
+      "line_id": "Q001684.8",
+      "line_label": "8",
+      "transliteration": "mu - na - ge - en₆"
+    }
+  ]
+}

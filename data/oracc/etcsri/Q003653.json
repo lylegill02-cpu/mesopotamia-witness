@@ -1,0 +1,37 @@
+{
+  "text_id": "oracc.etcsri.Q003653",
+  "corpus": "oracc",
+  "title": "URU-KA-gina 13 (RIME 1.09.09.13 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q003653",
+  "paragraphs": [
+    {
+      "para_id": "Q003653.1",
+      "line_range": "1",
+      "translation": "(1) ( Weight stone of ) 15 shekel , for Ninĝirsu ( certified by ) Iri-kagina , king of Ĝirsu ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q003653.1",
+      "line_label": "1",
+      "transliteration": "1( u c ) 5( aš c ) giŋ₄"
+    },
+    {
+      "line_id": "Q003653.2",
+      "line_label": "2",
+      "transliteration": "d nin - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q003653.3",
+      "line_label": "3",
+      "transliteration": "iri - ka - gen₆ - na"
+    },
+    {
+      "line_id": "Q003653.4",
+      "line_label": "4",
+      "transliteration": "lugal ŋir₂ - su₂ ki"
+    }
+  ]
+}

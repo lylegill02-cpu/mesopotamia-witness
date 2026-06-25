@@ -1,0 +1,32 @@
+{
+  "text_id": "oracc.etcsri.Q000871",
+  "corpus": "oracc",
+  "title": "Lugal-nizu 1 (RIME 2.06.02.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000871",
+  "paragraphs": [
+    {
+      "para_id": "Q000871.1",
+      "line_range": "1",
+      "translation": "(1) Lugal-niĝzu , governor of Nibru , temple administrator of Enlil ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000871.1",
+      "line_label": "1",
+      "transliteration": "lugal - niŋ₂ - zu"
+    },
+    {
+      "line_id": "Q000871.2",
+      "line_label": "2",
+      "transliteration": "ensi₂ nibru ki"
+    },
+    {
+      "line_id": "Q000871.3",
+      "line_label": "3",
+      "transliteration": "saŋŋa d en - lil₂"
+    }
+  ]
+}

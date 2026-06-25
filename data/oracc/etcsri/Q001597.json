@@ -1,0 +1,37 @@
+{
+  "text_id": "oracc.etcsri.Q001597",
+  "corpus": "oracc",
+  "title": "Lagaš II Unidentified 1008 (RIME 3/1.01.13.1008 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001597",
+  "paragraphs": [
+    {
+      "para_id": "Q001597.1",
+      "line_range": "1",
+      "translation": "(1) To Ninĝirsu , his master ... for the well-being ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001597.1",
+      "line_label": "1",
+      "transliteration": "d nin - ŋir₂ - [ su ]"
+    },
+    {
+      "line_id": "Q001597.2",
+      "line_label": "2",
+      "transliteration": "⸢ lugal ⸣ - [ a - ni ]"
+    },
+    {
+      "line_id": "Q001597.3",
+      "line_label": "3",
+      "transliteration": "nam - [ til₃ ]"
+    },
+    {
+      "line_id": "Q001597.4",
+      "line_label": "4",
+      "transliteration": "⸢ ur ⸣ - [... ]"
+    }
+  ]
+}

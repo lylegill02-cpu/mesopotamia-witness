@@ -1,0 +1,77 @@
+{
+  "text_id": "oracc.etcsri.Q001182",
+  "corpus": "oracc",
+  "title": "E-anatum 16 (RIME 1.09.03.16 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001182",
+  "paragraphs": [
+    {
+      "para_id": "Q001182.3",
+      "line_range": "3",
+      "translation": "(i 1') ... he annihilated . From Ĝirsu ...."
+    },
+    {
+      "para_id": "Q001182.8",
+      "line_range": "8",
+      "translation": "(ii 1') .... He returned ( Ninĝirsuś ) beloved field , the Gu-edena , under Ninĝirsuś šontrol . ...."
+    },
+    {
+      "para_id": "Q001182.14",
+      "line_range": "14",
+      "translation": "(iii 1') ... field , ... field ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001182.3",
+      "line_label": "i 1'",
+      "transliteration": "[ x ] ⸢ TAG ? ⸣ [ x ] x [ x ] ⸢ KA ⸣"
+    },
+    {
+      "line_id": "Q001182.4",
+      "line_label": "i 2'",
+      "transliteration": "[ x ] - ḫa - lam"
+    },
+    {
+      "line_id": "Q001182.5",
+      "line_label": "i 3'",
+      "transliteration": "[ ŋir₂ ] - su₂ ki - ta"
+    },
+    {
+      "line_id": "Q001182.8",
+      "line_label": "ii 1'",
+      "transliteration": "[ d nin - ŋir₂ - su₂ - ra ]"
+    },
+    {
+      "line_id": "Q001182.9",
+      "line_label": "ii 2'",
+      "transliteration": "a - šag₄ ašag ki aŋ₂ - ŋa₂ - ni"
+    },
+    {
+      "line_id": "Q001182.10",
+      "line_label": "ii 3'",
+      "transliteration": "ašag gu₂ - eden - na"
+    },
+    {
+      "line_id": "Q001182.11",
+      "line_label": "ii 4'",
+      "transliteration": "šu - na ⸢ mu ⸣ - [ ni - gi₄ ]"
+    },
+    {
+      "line_id": "Q001182.14",
+      "line_label": "iii 1'",
+      "transliteration": "[... ] x x [... ]"
+    },
+    {
+      "line_id": "Q001182.15",
+      "line_label": "iii 2'",
+      "transliteration": "a - šag₄ [ ašag ... ]"
+    },
+    {
+      "line_id": "Q001182.16",
+      "line_label": "iii 3'",
+      "transliteration": "a - šag₄ [ ašag ... ] NI [... ]"
+    }
+  ]
+}

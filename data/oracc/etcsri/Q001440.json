@@ -1,0 +1,97 @@
+{
+  "text_id": "oracc.etcsri.Q001440",
+  "corpus": "oracc",
+  "title": "Šaratigubisin 2001 (RIME 2.08.01.2001 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001440",
+  "paragraphs": [
+    {
+      "para_id": "Q001440.1",
+      "line_range": "1",
+      "translation": "(1) To Ningublaga , the king who crushes the evil-doers , Nigdu-pae , the scribe , the archivist of Irisaĝrig , child of Ur-kiri , the scribe , dedicated this ( object ) for the well-being of Šarati-gubisin , his king , for his well-being and for the well-being of his spouse and child ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001440.1",
+      "line_label": "1",
+      "transliteration": "d nin - gublaga !"
+    },
+    {
+      "line_id": "Q001440.2",
+      "line_label": "2",
+      "transliteration": "lugal"
+    },
+    {
+      "line_id": "Q001440.3",
+      "line_label": "3",
+      "transliteration": "ḫul - ŋal₂ ra"
+    },
+    {
+      "line_id": "Q001440.4",
+      "line_label": "4",
+      "transliteration": "niŋ₂ - du₇ - pa - e₃"
+    },
+    {
+      "line_id": "Q001440.5",
+      "line_label": "5",
+      "transliteration": "dub - sar"
+    },
+    {
+      "line_id": "Q001440.6",
+      "line_label": "6",
+      "transliteration": "bisaŋ - dub - ba"
+    },
+    {
+      "line_id": "Q001440.7",
+      "line_label": "7",
+      "transliteration": "iri - saŋ - rig₇ ki"
+    },
+    {
+      "line_id": "Q001440.8",
+      "line_label": "8",
+      "transliteration": "dumu ur - ŋeš kiri₆"
+    },
+    {
+      "line_id": "Q001440.9",
+      "line_label": "9",
+      "transliteration": "dub - sar - ra - ke₄"
+    },
+    {
+      "line_id": "Q001440.10",
+      "line_label": "10",
+      "transliteration": "nam - til₃"
+    },
+    {
+      "line_id": "Q001440.11",
+      "line_label": "11",
+      "transliteration": "SAR - a - TI - gu - bi - si - in"
+    },
+    {
+      "line_id": "Q001440.12",
+      "line_label": "12",
+      "transliteration": "lugal - la - na - še₃"
+    },
+    {
+      "line_id": "Q001440.13",
+      "line_label": "13",
+      "transliteration": "nam - til₃ - la - ni - še₃"
+    },
+    {
+      "line_id": "Q001440.14",
+      "line_label": "14",
+      "transliteration": "nam - til₃"
+    },
+    {
+      "line_id": "Q001440.15",
+      "line_label": "15",
+      "transliteration": "dam dumu - na - še₃"
+    },
+    {
+      "line_id": "Q001440.16",
+      "line_label": "16",
+      "transliteration": "a mu - na - ru"
+    }
+  ]
+}

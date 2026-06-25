@@ -1,0 +1,132 @@
+{
+  "text_id": "oracc.etcsri.Q001120",
+  "corpus": "oracc",
+  "title": "En-anatum II 1 (RIME 1.09.06.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001120",
+  "paragraphs": [
+    {
+      "para_id": "Q001120.1",
+      "line_range": "1",
+      "translation": "(1) For Ninĝirsu , Enlil's warrior ."
+    },
+    {
+      "para_id": "Q001120.3",
+      "line_range": "3",
+      "translation": "(3) En-ana-tum , ruler of Lagaš , chosen by Nanše in the heart , chief governor of Ninĝirsu , child of En-metena , ruler of Lagaš , restored ( Ninĝirsu's ) brewery for Ninĝirsu ."
+    },
+    {
+      "para_id": "Q001120.16",
+      "line_range": "16",
+      "translation": "(16) The personal god of En-ana-tum , the restorer of Ninĝirsu's brewery , is Šul-MUŠxPA ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001120.1",
+      "line_label": "1",
+      "transliteration": "d nin - ŋir₂ - su₂"
+    },
+    {
+      "line_id": "Q001120.2",
+      "line_label": "2",
+      "transliteration": "ur - saŋ d en - lil₂ ( E₂ )- ra"
+    },
+    {
+      "line_id": "Q001120.3",
+      "line_label": "3",
+      "transliteration": "en - an - na - tum₂"
+    },
+    {
+      "line_id": "Q001120.4",
+      "line_label": "4",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001120.5",
+      "line_label": "5",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001120.6",
+      "line_label": "6",
+      "transliteration": "šag₄ pad₃ - da"
+    },
+    {
+      "line_id": "Q001120.7",
+      "line_label": "7",
+      "transliteration": "d nanše"
+    },
+    {
+      "line_id": "Q001120.8",
+      "line_label": "8",
+      "transliteration": "ensi₂ - gal"
+    },
+    {
+      "line_id": "Q001120.9",
+      "line_label": "9",
+      "transliteration": "d nin - ŋir₂ - su₂ - ka"
+    },
+    {
+      "line_id": "Q001120.10",
+      "line_label": "10",
+      "transliteration": "dumu en - mete - na"
+    },
+    {
+      "line_id": "Q001120.11",
+      "line_label": "11",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001120.12",
+      "line_label": "12",
+      "transliteration": "lagaš ki - ka - ke₄"
+    },
+    {
+      "line_id": "Q001120.13",
+      "line_label": "13",
+      "transliteration": "d nin - ŋir₂ - su₂ - ra"
+    },
+    {
+      "line_id": "Q001120.14",
+      "line_label": "14",
+      "transliteration": "e₂ - lungaₓ ( BI × GAR )- ka - ni"
+    },
+    {
+      "line_id": "Q001120.15",
+      "line_label": "15",
+      "transliteration": "ki - be₂ mu - na - gi₄"
+    },
+    {
+      "line_id": "Q001120.16",
+      "line_label": "16",
+      "transliteration": "en - an - na - tum₂"
+    },
+    {
+      "line_id": "Q001120.17",
+      "line_label": "17",
+      "transliteration": "lu₂ e₂ - lungaₓ ( BI × GAR )"
+    },
+    {
+      "line_id": "Q001120.18",
+      "line_label": "18",
+      "transliteration": "d nin - ŋir₂ - su₂ - ka"
+    },
+    {
+      "line_id": "Q001120.19",
+      "line_label": "19",
+      "transliteration": "ki - be₂ gi₄ - a"
+    },
+    {
+      "line_id": "Q001120.20",
+      "line_label": "20",
+      "transliteration": "diŋir - ra - ni"
+    },
+    {
+      "line_id": "Q001120.21",
+      "line_label": "21",
+      "transliteration": "d šul - MUŠ × PA - am₆"
+    }
+  ]
+}

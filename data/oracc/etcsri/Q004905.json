@@ -1,0 +1,57 @@
+{
+  "text_id": "oracc.etcsri.Q004905",
+  "corpus": "oracc",
+  "title": "Šu-Suen 2121add / CDLI Seals 000366 (CDLI Seals 000366 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004905",
+  "paragraphs": [
+    {
+      "para_id": "Q004905.1",
+      "line_range": "1",
+      "translation": "(1) Šu-Suen , the powerful king , king of Urim , king of the four quarters : Šu-Erra , the scribe , child of Išar-beli , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004905.1",
+      "line_label": "1",
+      "transliteration": "d šu - d suen"
+    },
+    {
+      "line_id": "Q004905.2",
+      "line_label": "2",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q004905.3",
+      "line_label": "3",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q004905.4",
+      "line_label": "4",
+      "transliteration": "lugal an - ub - da limmu₂ - ba"
+    },
+    {
+      "line_id": "Q004905.5",
+      "line_label": "5",
+      "transliteration": "šu - er₃ - ra"
+    },
+    {
+      "line_id": "Q004905.6",
+      "line_label": "6",
+      "transliteration": "dub - sar"
+    },
+    {
+      "line_id": "Q004905.7",
+      "line_label": "7",
+      "transliteration": "dumu i - šar - be - li₂"
+    },
+    {
+      "line_id": "Q004905.8",
+      "line_label": "8",
+      "transliteration": "arad₂ - zu"
+    }
+  ]
+}

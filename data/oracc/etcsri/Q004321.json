@@ -1,0 +1,47 @@
+{
+  "text_id": "oracc.etcsri.Q004321",
+  "corpus": "oracc",
+  "title": "Šulgi 2103add / CDLI Seals 000300 (CDLI Seals 000300 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004321",
+  "paragraphs": [
+    {
+      "para_id": "Q004321.1",
+      "line_range": "1",
+      "translation": "(i 1) Šulgi , the powerful man , king of Urim : Naram-ili , overseer of the doorkeepers , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004321.1",
+      "line_label": "i 1",
+      "transliteration": "d šul - gi"
+    },
+    {
+      "line_id": "Q004321.2",
+      "line_label": "i 2",
+      "transliteration": "nita kalag - ga"
+    },
+    {
+      "line_id": "Q004321.3",
+      "line_label": "i 3",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q004321.4",
+      "line_label": "ii 1",
+      "transliteration": "na - ra - am - i₃ - li₂"
+    },
+    {
+      "line_id": "Q004321.5",
+      "line_label": "ii 2",
+      "transliteration": "sukkal i₃ - du₈"
+    },
+    {
+      "line_id": "Q004321.6",
+      "line_label": "ii 3",
+      "transliteration": "arad₂ - zu"
+    }
+  ]
+}

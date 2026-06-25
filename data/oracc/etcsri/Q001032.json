@@ -1,0 +1,157 @@
+{
+  "text_id": "oracc.etcsri.Q001032",
+  "corpus": "oracc",
+  "title": "Ur-Nanše 15 (RIME 1.09.01.15 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001032",
+  "paragraphs": [
+    {
+      "para_id": "Q001032.1",
+      "line_range": "1",
+      "translation": "(i 1) Ur-Nanše , king of Lagaš , child of Gunidu , citizen of Gursar , built the temple of Nanše ."
+    },
+    {
+      "para_id": "Q001032.8",
+      "line_range": "8",
+      "translation": "(ii 4) He built the shrine of Ĝirsu ."
+    },
+    {
+      "para_id": "Q001032.10",
+      "line_range": "10",
+      "translation": "(iii 1) He built the Ebgal ."
+    },
+    {
+      "para_id": "Q001032.12",
+      "line_range": "12",
+      "translation": "(iii 3) He built the E-ĝidru ."
+    },
+    {
+      "para_id": "Q001032.14",
+      "line_range": "14",
+      "translation": "(iii 5) He built the temple of Ĝatumdug ."
+    },
+    {
+      "para_id": "Q001032.16",
+      "line_range": "16",
+      "translation": "(iv 2) He built the E-dam ."
+    },
+    {
+      "para_id": "Q001032.18",
+      "line_range": "18",
+      "translation": "(iv 4) He built the temple of Ninmarki ."
+    },
+    {
+      "para_id": "Q001032.20",
+      "line_range": "20",
+      "translation": "(iv 6) He built the Abzu-ega ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001032.1",
+      "line_label": "i 1",
+      "transliteration": "ur - d nanše"
+    },
+    {
+      "line_id": "Q001032.2",
+      "line_label": "i 2",
+      "transliteration": "lugal"
+    },
+    {
+      "line_id": "Q001032.3",
+      "line_label": "i 3",
+      "transliteration": "lagaš"
+    },
+    {
+      "line_id": "Q001032.4",
+      "line_label": "i 4",
+      "transliteration": "dumu gu - NI - DU"
+    },
+    {
+      "line_id": "Q001032.5",
+      "line_label": "ii 1",
+      "transliteration": "dumu gur - sar"
+    },
+    {
+      "line_id": "Q001032.6",
+      "line_label": "ii 2",
+      "transliteration": "e₂ d nanše"
+    },
+    {
+      "line_id": "Q001032.7",
+      "line_label": "ii 3",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001032.8",
+      "line_label": "ii 4",
+      "transliteration": "eš₃ ŋir₂ - su"
+    },
+    {
+      "line_id": "Q001032.9",
+      "line_label": "ii 5",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001032.10",
+      "line_label": "iii 1",
+      "transliteration": "eb - gal"
+    },
+    {
+      "line_id": "Q001032.11",
+      "line_label": "iii 2",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001032.12",
+      "line_label": "iii 3",
+      "transliteration": "e₂ - ŋidru"
+    },
+    {
+      "line_id": "Q001032.13",
+      "line_label": "iii 4",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001032.14",
+      "line_label": "iii 5",
+      "transliteration": "e₂ d ŋa₂ - tum₃ - dug₃"
+    },
+    {
+      "line_id": "Q001032.15",
+      "line_label": "iv 1",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001032.16",
+      "line_label": "iv 2",
+      "transliteration": "e₂ - dam"
+    },
+    {
+      "line_id": "Q001032.17",
+      "line_label": "iv 3",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001032.18",
+      "line_label": "iv 4",
+      "transliteration": "e₂ d nin - mar - ki"
+    },
+    {
+      "line_id": "Q001032.19",
+      "line_label": "iv 5",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001032.20",
+      "line_label": "iv 6",
+      "transliteration": "abzu - eg₂"
+    },
+    {
+      "line_id": "Q001032.21",
+      "line_label": "iv 7",
+      "transliteration": "mu - du₃"
+    }
+  ]
+}

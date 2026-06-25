@@ -1,0 +1,552 @@
+{
+  "text_id": "oracc.etcsri.Q001050",
+  "corpus": "oracc",
+  "title": "Ur-Nanše 06b (RIME 1.09.01.06b composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001050",
+  "paragraphs": [
+    {
+      "para_id": "Q001050.1",
+      "line_range": "1",
+      "translation": "(i 1) Ur-Nanše , king of Lagaš , child of Gunidu , citizen of Gursar , built the Bagara of fired brick . He dug the Bagara .... ...."
+    },
+    {
+      "para_id": "Q001050.17",
+      "line_range": "17",
+      "translation": "(iii 7) He built the Ebgal . He built the temple of Nanše . He built the shrine of Ĝirsu . He built the Kinir . He built the temple of Ĝatumdug . He built the Tiraš . He built the Nine-ĝara . He built the temple of Ninmarki . He built the E-dam . He built the Kame . He built the Abzu-ega . He built the city wall of Lagaš ."
+    },
+    {
+      "para_id": "Q001050.40",
+      "line_range": "40",
+      "translation": "(v 10) He dug the Pa-saman-canal . He dug the A-suhur-canal ."
+    },
+    {
+      "para_id": "Q001050.44",
+      "line_range": "44",
+      "translation": "(vi 3) He fashioned ( the statue of ) Ninmarki . He fashioned ( the statue of ) Nineš-REC107 . He fashioned ( the statue of ) Ninĝidru . He fashioned ( the statue of ) Šul-šagana . He fashioned ( the statue of ) Kindazid . He fashioned ( the statue of ) Gušudu . He fashioned ( the statue of ) Lama-u-e . He fashioned ( the statue of ) Lugal-urtur ."
+    },
+    {
+      "para_id": "Q001050.60",
+      "line_range": "60",
+      "translation": "(r i 1) The leader of Lagaš went into battle against the leader of Urim and the leader of Umma ."
+    },
+    {
+      "para_id": "Q001050.65",
+      "line_range": "65",
+      "translation": "(r i 6) The leader of Lagaš defeated the leader of Urim , and captured him . He captured the captain of the barges . He captured the captains Ama-barage-si and Kišibĝal . He captured Pap-ursaĝ , child of .... He captured the captains [ ... ] and [ ... ] . He piled up burial mounds ."
+    },
+    {
+      "para_id": "Q001050.83",
+      "line_range": "83",
+      "translation": "(r iii 11) He defeated the leader of Umma . He captured the captains Lupada and Pabilga-lala . He captured Pabilgal-tuku , the ruler of Umma . He captured captain Ur-pusaĝ . He captured chief merchant Hursaĝše-mah . He piled up burial mounds ."
+    },
+    {
+      "para_id": "Q001050.101",
+      "line_range": "101",
+      "translation": "(r vi 7) The leader of Umma ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001050.1",
+      "line_label": "i 1",
+      "transliteration": "[ ur - d ] ⸢ nanše ⸣"
+    },
+    {
+      "line_id": "Q001050.2",
+      "line_label": "i 2",
+      "transliteration": "[ lugal ]"
+    },
+    {
+      "line_id": "Q001050.3",
+      "line_label": "i 3",
+      "transliteration": "[ lagaš ]"
+    },
+    {
+      "line_id": "Q001050.4",
+      "line_label": "i 4",
+      "transliteration": "[ dumu gu - NI - DU ]"
+    },
+    {
+      "line_id": "Q001050.5",
+      "line_label": "ii 1",
+      "transliteration": "dumu gur - sar"
+    },
+    {
+      "line_id": "Q001050.6",
+      "line_label": "ii 2",
+      "transliteration": "ba - gara₂"
+    },
+    {
+      "line_id": "Q001050.7",
+      "line_label": "ii 3",
+      "transliteration": "šeg₁₂ aluraₓ ( BAḪAR₂ )"
+    },
+    {
+      "line_id": "Q001050.8",
+      "line_label": "ii 4",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001050.9",
+      "line_label": "ii 5-6",
+      "transliteration": "[ ba ] - gara₂ ; [ x ] - SAR"
+    },
+    {
+      "line_id": "Q001050.10",
+      "line_label": "ii 7",
+      "transliteration": "[ mu ] - ⸢ dun ⸣"
+    },
+    {
+      "line_id": "Q001050.11",
+      "line_label": "iii 1",
+      "transliteration": "e₂ mu"
+    },
+    {
+      "line_id": "Q001050.12",
+      "line_label": "iii 2",
+      "transliteration": "ba - gara₂"
+    },
+    {
+      "line_id": "Q001050.13",
+      "line_label": "iii 3",
+      "transliteration": "nam₂ - si - sa₂ šum₂ - ma"
+    },
+    {
+      "line_id": "Q001050.14",
+      "line_label": "iii 4",
+      "transliteration": "eb mu"
+    },
+    {
+      "line_id": "Q001050.15",
+      "line_label": "iii 5",
+      "transliteration": "ba - gara₂"
+    },
+    {
+      "line_id": "Q001050.16",
+      "line_label": "iii 6",
+      "transliteration": "nam₂ - si - sa₂ šum₂ - ma"
+    },
+    {
+      "line_id": "Q001050.17",
+      "line_label": "iii 7",
+      "transliteration": "eb - gal"
+    },
+    {
+      "line_id": "Q001050.18",
+      "line_label": "iii 8",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001050.19",
+      "line_label": "iii 9",
+      "transliteration": "e₂ d nanše"
+    },
+    {
+      "line_id": "Q001050.20",
+      "line_label": "iv 1",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001050.21",
+      "line_label": "iv 2",
+      "transliteration": "eš₃ ŋir₂ - su₂"
+    },
+    {
+      "line_id": "Q001050.22",
+      "line_label": "iv 3",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001050.23",
+      "line_label": "iv 4",
+      "transliteration": "ki - nir"
+    },
+    {
+      "line_id": "Q001050.24",
+      "line_label": "iv 5",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001050.25",
+      "line_label": "iv 6",
+      "transliteration": "e₂ d ŋa₂ - tum₃ - dug₃"
+    },
+    {
+      "line_id": "Q001050.26",
+      "line_label": "iv 7",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001050.27",
+      "line_label": "iv 8",
+      "transliteration": "ti - ra - aš₂"
+    },
+    {
+      "line_id": "Q001050.28",
+      "line_label": "iv 9",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001050.29",
+      "line_label": "iv 10",
+      "transliteration": "nin - ŋar"
+    },
+    {
+      "line_id": "Q001050.30",
+      "line_label": "iv 11",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001050.31",
+      "line_label": "v 1",
+      "transliteration": "e₂ d nin - mar - ki"
+    },
+    {
+      "line_id": "Q001050.32",
+      "line_label": "v 2",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001050.33",
+      "line_label": "v 3",
+      "transliteration": "e₂ - dam mu - du₃"
+    },
+    {
+      "line_id": "Q001050.34",
+      "line_label": "v 4",
+      "transliteration": "ka₂ - ME"
+    },
+    {
+      "line_id": "Q001050.35",
+      "line_label": "v 5",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001050.36",
+      "line_label": "v 6",
+      "transliteration": "abzu - eg₂ !"
+    },
+    {
+      "line_id": "Q001050.37",
+      "line_label": "v 7",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001050.38",
+      "line_label": "v 8",
+      "transliteration": "bad₃ lagaš"
+    },
+    {
+      "line_id": "Q001050.39",
+      "line_label": "v 9",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001050.40",
+      "line_label": "v 10",
+      "transliteration": "paₓ ( E . PAP . PAP )- saman₃ ( BU . ŠE . EŠ₂ . NUN )"
+    },
+    {
+      "line_id": "Q001050.41",
+      "line_label": "v 11",
+      "transliteration": "mu - dun"
+    },
+    {
+      "line_id": "Q001050.42",
+      "line_label": "vi 1",
+      "transliteration": "a - suḫur"
+    },
+    {
+      "line_id": "Q001050.43",
+      "line_label": "vi 2",
+      "transliteration": "mu - dun"
+    },
+    {
+      "line_id": "Q001050.44",
+      "line_label": "vi 3",
+      "transliteration": "d nin - mar - ki"
+    },
+    {
+      "line_id": "Q001050.45",
+      "line_label": "vi 4",
+      "transliteration": "mu - tud"
+    },
+    {
+      "line_id": "Q001050.46",
+      "line_label": "vi 5",
+      "transliteration": "d nin - eš₃ - REC107"
+    },
+    {
+      "line_id": "Q001050.47",
+      "line_label": "vi 6",
+      "transliteration": "mu - tud"
+    },
+    {
+      "line_id": "Q001050.48",
+      "line_label": "vi 7",
+      "transliteration": "d nin - ŋidru"
+    },
+    {
+      "line_id": "Q001050.49",
+      "line_label": "vi 8",
+      "transliteration": "mu - tud"
+    },
+    {
+      "line_id": "Q001050.50",
+      "line_label": "vi 9",
+      "transliteration": "šul - šag₄"
+    },
+    {
+      "line_id": "Q001050.51",
+      "line_label": "vi 10",
+      "transliteration": "mu - tud"
+    },
+    {
+      "line_id": "Q001050.52",
+      "line_label": "vi 11",
+      "transliteration": "kinda₂ - zid"
+    },
+    {
+      "line_id": "Q001050.53",
+      "line_label": "vi 12",
+      "transliteration": "mu - tud"
+    },
+    {
+      "line_id": "Q001050.54",
+      "line_label": "vi 13",
+      "transliteration": "d gu₂ - šu - du₈"
+    },
+    {
+      "line_id": "Q001050.55",
+      "line_label": "vii 1",
+      "transliteration": "⸢ mu ⸣ - tud"
+    },
+    {
+      "line_id": "Q001050.56",
+      "line_label": "vii 2-3",
+      "transliteration": "d lama ; u₆ ! ( KI . KID -) e₃"
+    },
+    {
+      "line_id": "Q001050.57",
+      "line_label": "vii 4",
+      "transliteration": "mu - tud"
+    },
+    {
+      "line_id": "Q001050.58",
+      "line_label": "vii 5",
+      "transliteration": "d lugal - ur - tur₃"
+    },
+    {
+      "line_id": "Q001050.59",
+      "line_label": "vii 6",
+      "transliteration": "mu - tud"
+    },
+    {
+      "line_id": "Q001050.60",
+      "line_label": "r i 1",
+      "transliteration": "[ lu₂ ] lagaš"
+    },
+    {
+      "line_id": "Q001050.61",
+      "line_label": "r i 2",
+      "transliteration": "lu₂ urim₅"
+    },
+    {
+      "line_id": "Q001050.62",
+      "line_label": "r i 3",
+      "transliteration": "lu₂ umma ki"
+    },
+    {
+      "line_id": "Q001050.63",
+      "line_label": "r i 4",
+      "transliteration": "me meₓ ( LAK526 )"
+    },
+    {
+      "line_id": "Q001050.64",
+      "line_label": "r i 5",
+      "transliteration": "e - še₃ - re₆"
+    },
+    {
+      "line_id": "Q001050.65",
+      "line_label": "r i 6",
+      "transliteration": "lu₂ lagaš"
+    },
+    {
+      "line_id": "Q001050.66",
+      "line_label": "r ii 1",
+      "transliteration": "lu₂ urim₅"
+    },
+    {
+      "line_id": "Q001050.67",
+      "line_label": "r ii 2",
+      "transliteration": "aga₃ - kar₂ ! ( ŠE₃ ) ⸢ mu - sig₁₀ ⸣"
+    },
+    {
+      "line_id": "Q001050.68",
+      "line_label": "r ii 3",
+      "transliteration": "mu - ⸢ dab₅ ⸣"
+    },
+    {
+      "line_id": "Q001050.69",
+      "line_label": "r ii 4",
+      "transliteration": "⸢ ensi₂ ⸣ ma₂ - gur₈"
+    },
+    {
+      "line_id": "Q001050.70",
+      "line_label": "r ii 5",
+      "transliteration": "mu - dab₅"
+    },
+    {
+      "line_id": "Q001050.71",
+      "line_label": "r ii 6",
+      "transliteration": "ama - barag - si"
+    },
+    {
+      "line_id": "Q001050.72",
+      "line_label": "r ii 7",
+      "transliteration": "kišib - ŋal₂"
+    },
+    {
+      "line_id": "Q001050.73",
+      "line_label": "r ii 8",
+      "transliteration": "nu - banda₃"
+    },
+    {
+      "line_id": "Q001050.74",
+      "line_label": "r iii 1",
+      "transliteration": "mu - dab₅"
+    },
+    {
+      "line_id": "Q001050.75",
+      "line_label": "r iii 2",
+      "transliteration": "pap - ur - saŋ"
+    },
+    {
+      "line_id": "Q001050.76",
+      "line_label": "r iii 3",
+      "transliteration": "dumu U₂ - U₂ - U₂"
+    },
+    {
+      "line_id": "Q001050.77",
+      "line_label": "r iii 4",
+      "transliteration": "[ mu - dab₅ ]"
+    },
+    {
+      "line_id": "Q001050.79",
+      "line_label": "r iii 7",
+      "transliteration": "[ nu ] - ⸢ banda₃ ⸣"
+    },
+    {
+      "line_id": "Q001050.80",
+      "line_label": "r iii 8",
+      "transliteration": "mu - dab₅"
+    },
+    {
+      "line_id": "Q001050.81",
+      "line_label": "r iii 9",
+      "transliteration": "SAḪAR - DU₆ - TAK₄"
+    },
+    {
+      "line_id": "Q001050.82",
+      "line_label": "r iii 10",
+      "transliteration": "⸢ mu ⸣ - dub"
+    },
+    {
+      "line_id": "Q001050.83",
+      "line_label": "r iii 11",
+      "transliteration": "lu₂ umma ki"
+    },
+    {
+      "line_id": "Q001050.84",
+      "line_label": "r iii 12",
+      "transliteration": "aga₃ - kar₂ ! ( ŠE₃ ) mu - sig₁₀"
+    },
+    {
+      "line_id": "Q001050.85",
+      "line_label": "r iv 1",
+      "transliteration": "lu₂ - pad₃"
+    },
+    {
+      "line_id": "Q001050.86",
+      "line_label": "r iv 2",
+      "transliteration": "pa₄ - bilgaₓ ( GIŠ ) bil - la - la"
+    },
+    {
+      "line_id": "Q001050.87",
+      "line_label": "r iv 3",
+      "transliteration": "nu - banda₃"
+    },
+    {
+      "line_id": "Q001050.88",
+      "line_label": "r iv 4",
+      "transliteration": "mu - dab₅"
+    },
+    {
+      "line_id": "Q001050.89",
+      "line_label": "r iv 5",
+      "transliteration": "pa - bil₃ - gal - tuku"
+    },
+    {
+      "line_id": "Q001050.90",
+      "line_label": "r iv 6",
+      "transliteration": "⸢ ensi₂ ⸣"
+    },
+    {
+      "line_id": "Q001050.91",
+      "line_label": "r iv 7",
+      "transliteration": "umma ki"
+    },
+    {
+      "line_id": "Q001050.92",
+      "line_label": "r iv 8",
+      "transliteration": "mu - dab₅"
+    },
+    {
+      "line_id": "Q001050.93",
+      "line_label": "r iv 9",
+      "transliteration": "ur - pu₂ - saŋ"
+    },
+    {
+      "line_id": "Q001050.94",
+      "line_label": "r iv 10",
+      "transliteration": "nu - banda₃"
+    },
+    {
+      "line_id": "Q001050.95",
+      "line_label": "r iv 11",
+      "transliteration": "mu - dab₅"
+    },
+    {
+      "line_id": "Q001050.96",
+      "line_label": "r v 1",
+      "transliteration": "ḫur - saŋ - še₃ - maḫ₂"
+    },
+    {
+      "line_id": "Q001050.97",
+      "line_label": "r v 2",
+      "transliteration": "dam - gara₃ - gal"
+    },
+    {
+      "line_id": "Q001050.98",
+      "line_label": "r v 3",
+      "transliteration": "mu - dab₅"
+    },
+    {
+      "line_id": "Q001050.99",
+      "line_label": "r v 4",
+      "transliteration": "SAḪAR - DU₆ - TAK₄"
+    },
+    {
+      "line_id": "Q001050.100",
+      "line_label": "r v 6",
+      "transliteration": "mu - dub"
+    },
+    {
+      "line_id": "Q001050.101",
+      "line_label": "r vi 7",
+      "transliteration": "lu₂ umma ki"
+    }
+  ]
+}

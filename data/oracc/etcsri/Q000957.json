@@ -1,0 +1,67 @@
+{
+  "text_id": "oracc.etcsri.Q000957",
+  "corpus": "oracc",
+  "title": "Ur-Namma 39 (RIME 3/2.01.01.39 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000957",
+  "paragraphs": [
+    {
+      "para_id": "Q000957.1",
+      "line_range": "1",
+      "translation": "(1) For Enlil , king of all lands , his master , Ur-Namma , the powerful man , king of Urim , king of Sumer and Akkad , dug the canal of Urim , his canal of food offerings ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000957.1",
+      "line_label": "1",
+      "transliteration": "d en - lil₂"
+    },
+    {
+      "line_id": "Q000957.2",
+      "line_label": "2",
+      "transliteration": "lugal kur - kur - ra"
+    },
+    {
+      "line_id": "Q000957.3",
+      "line_label": "3",
+      "transliteration": "lugal - a - ni"
+    },
+    {
+      "line_id": "Q000957.4",
+      "line_label": "4",
+      "transliteration": "ur - d namma"
+    },
+    {
+      "line_id": "Q000957.5",
+      "line_label": "5",
+      "transliteration": "nita kalag - ga"
+    },
+    {
+      "line_id": "Q000957.6",
+      "line_label": "6",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q000957.7",
+      "line_label": "7",
+      "transliteration": "lugal ki - en - gi ki - uri - ke₄"
+    },
+    {
+      "line_id": "Q000957.8",
+      "line_label": "8",
+      "transliteration": "id₂ urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q000957.9",
+      "line_label": "9",
+      "transliteration": "id₂ nindaba - ka - ni"
+    },
+    {
+      "line_id": "Q000957.10",
+      "line_label": "10",
+      "transliteration": "mu - na - ba - al"
+    }
+  ]
+}

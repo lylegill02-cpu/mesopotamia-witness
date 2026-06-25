@@ -1,0 +1,102 @@
+{
+  "text_id": "oracc.etcsri.Q001115",
+  "corpus": "oracc",
+  "title": "En-metena 05a (RIME 1.09.05.05a composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001115",
+  "paragraphs": [
+    {
+      "para_id": "Q001115.1",
+      "line_range": "1",
+      "translation": "(i 1) For Inana and Lugal-emuš , En-metena , ruler of Lagaš , child of En-ana-tum , ruler of Lagaš , built the E-muš , their beloved temple ."
+    },
+    {
+      "para_id": "Q001115.11",
+      "line_range": "11",
+      "translation": "(iii 3) The personal god of En-metena , whose name was proclaimed by Inana , the builder of the E-muš , is Šul-MUŠxPA ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001115.1",
+      "line_label": "i 1",
+      "transliteration": "d inana - ra"
+    },
+    {
+      "line_id": "Q001115.2",
+      "line_label": "i 2",
+      "transliteration": "d lugal - e₂ - muš₃ - ra"
+    },
+    {
+      "line_id": "Q001115.3",
+      "line_label": "i 3",
+      "transliteration": "en - mete - na"
+    },
+    {
+      "line_id": "Q001115.4",
+      "line_label": "i 4",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001115.5",
+      "line_label": "ii 1",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001115.6",
+      "line_label": "ii 2",
+      "transliteration": "dumu en - an - na - tum₂"
+    },
+    {
+      "line_id": "Q001115.7",
+      "line_label": "ii 3",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001115.8",
+      "line_label": "ii 4",
+      "transliteration": "lagaš ki - ka - ke₄"
+    },
+    {
+      "line_id": "Q001115.9",
+      "line_label": "iii 1",
+      "transliteration": "e₂ - muš₃ e₂ ki aŋ₂ ! - ne ! - ne !"
+    },
+    {
+      "line_id": "Q001115.10",
+      "line_label": "iii 2",
+      "transliteration": "mu - ne - du₃"
+    },
+    {
+      "line_id": "Q001115.11",
+      "line_label": "iii 3",
+      "transliteration": "en - mete - na !"
+    },
+    {
+      "line_id": "Q001115.12",
+      "line_label": "iii 4",
+      "transliteration": "mu pad₃ - da"
+    },
+    {
+      "line_id": "Q001115.13",
+      "line_label": "iv 1",
+      "transliteration": "d inana - ka"
+    },
+    {
+      "line_id": "Q001115.14",
+      "line_label": "iv 2",
+      "transliteration": "lu₂ e₂ - muš₃ du₃ - a"
+    },
+    {
+      "line_id": "Q001115.15",
+      "line_label": "iv 3",
+      "transliteration": "diŋir - ra - ni !"
+    },
+    {
+      "line_id": "Q001115.16",
+      "line_label": "iv 4",
+      "transliteration": "d šul - MUŠ × PA - am₆"
+    }
+  ]
+}

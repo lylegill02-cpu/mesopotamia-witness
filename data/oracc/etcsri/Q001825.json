@@ -1,0 +1,32 @@
+{
+  "text_id": "oracc.etcsri.Q001825",
+  "corpus": "oracc",
+  "title": "Šu-Suen 28 (RIME 3/2.01.04.28 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001825",
+  "paragraphs": [
+    {
+      "para_id": "Q001825.1",
+      "line_range": "1",
+      "translation": "(1) Kubatum , the beloved consort of Šu-Suen ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001825.1",
+      "line_label": "1",
+      "transliteration": "ku - ba - tum"
+    },
+    {
+      "line_id": "Q001825.2",
+      "line_label": "2",
+      "transliteration": "lukur ki aŋ₂"
+    },
+    {
+      "line_id": "Q001825.3",
+      "line_label": "3",
+      "transliteration": "d šu - d suen"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "text_id": "oracc.etcsri.Q001490",
+  "corpus": "oracc",
+  "title": "Gudea 045 (RIME 3/1.01.07.045 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001490",
+  "paragraphs": [
+    {
+      "para_id": "Q001490.1",
+      "line_range": "1",
+      "translation": "(1) For Ninĝirsu , the powerful warrior of Enlil , his master , Gudea , ruler of Lagaš , made an eternal thing appear : he built his E-ninnu-anzud-babbar , ( and ) built his beloved divine audience chamber from fragrant cedarwood inside it ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001490.1",
+      "line_label": "1",
+      "transliteration": "⸢ d ⸣ nin - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q001490.2",
+      "line_label": "2",
+      "transliteration": "ur - saŋ kalag - ga"
+    },
+    {
+      "line_id": "Q001490.3",
+      "line_label": "3",
+      "transliteration": "d en - lil₂ - la₂"
+    },
+    {
+      "line_id": "Q001490.4",
+      "line_label": "4",
+      "transliteration": "lugal - a - ni"
+    },
+    {
+      "line_id": "Q001490.5",
+      "line_label": "5",
+      "transliteration": "gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q001490.6",
+      "line_label": "6",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001490.7",
+      "line_label": "7",
+      "transliteration": "lagaš ki - ke₄"
+    },
+    {
+      "line_id": "Q001490.8",
+      "line_label": "8",
+      "transliteration": "⸢ niŋ₂ ⸣ - ul - e pa mu - na - e₃"
+    },
+    {
+      "line_id": "Q001490.9",
+      "line_label": "9",
+      "transliteration": "e₂ - ninnu - anzud₂ mušen - babbar₂ - ⸢ ra ⸣ - ni"
+    },
+    {
+      "line_id": "Q001490.10",
+      "line_label": "10",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001490.11",
+      "line_label": "11",
+      "transliteration": "šag₄ - ba gi - gun₄"
+    },
+    {
+      "line_id": "Q001490.12",
+      "line_label": "12",
+      "transliteration": "ki aŋ₂ - [ ŋa₂ - ni ]"
+    },
+    {
+      "line_id": "Q001490.13",
+      "line_label": "13",
+      "transliteration": "⸢ šim ⸣ [ eren - na ]"
+    },
+    {
+      "line_id": "Q001490.14",
+      "line_label": "14",
+      "transliteration": "[ mu - na - ni - du₃ ]"
+    }
+  ]
+}

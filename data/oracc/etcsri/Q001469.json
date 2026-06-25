@@ -1,0 +1,62 @@
+{
+  "text_id": "oracc.etcsri.Q001469",
+  "corpus": "oracc",
+  "title": "Ur-Bau 08 (RIME 3/1.01.06.08 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001469",
+  "paragraphs": [
+    {
+      "para_id": "Q001469.1",
+      "line_range": "1",
+      "translation": "(1) To the protective spirit of Tarsirsir , Ur-Bau , ruler of Lagaš , the child born to Ninagala , dedicated this ( bowl ) for his well-being ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001469.1",
+      "line_label": "1",
+      "transliteration": "d lamma"
+    },
+    {
+      "line_id": "Q001469.2",
+      "line_label": "2",
+      "transliteration": "tar - sir₂ - sir₂ - ra"
+    },
+    {
+      "line_id": "Q001469.3",
+      "line_label": "3",
+      "transliteration": "ur - d ba - u₂"
+    },
+    {
+      "line_id": "Q001469.4",
+      "line_label": "4",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001469.5",
+      "line_label": "5",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001469.6",
+      "line_label": "6",
+      "transliteration": "dumu tud - da"
+    },
+    {
+      "line_id": "Q001469.7",
+      "line_label": "7",
+      "transliteration": "d nin - a₂ - gal - ka - ke₄"
+    },
+    {
+      "line_id": "Q001469.8",
+      "line_label": "8",
+      "transliteration": "nam - til₃ - la - ni - še₃"
+    },
+    {
+      "line_id": "Q001469.9",
+      "line_label": "9",
+      "transliteration": "a mu - na - ru"
+    }
+  ]
+}

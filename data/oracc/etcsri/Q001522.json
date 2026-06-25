@@ -1,0 +1,72 @@
+{
+  "text_id": "oracc.etcsri.Q001522",
+  "corpus": "oracc",
+  "title": "Gudea 090 (RIME 3/1.01.07.090 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001522",
+  "paragraphs": [
+    {
+      "para_id": "Q001522.1",
+      "line_range": "1",
+      "translation": "(1) To Bau , the kind woman , her lady , Ninala , ( Gudea's ) spouse , dedicated this ( bowl ) for the well-being of Gudea , ruler of Lagaš , and for her own well-being ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001522.1",
+      "line_label": "1",
+      "transliteration": "d ba - u₂"
+    },
+    {
+      "line_id": "Q001522.2",
+      "line_label": "2",
+      "transliteration": "munus sag₉ - ga"
+    },
+    {
+      "line_id": "Q001522.3",
+      "line_label": "3",
+      "transliteration": "nin - a - ni"
+    },
+    {
+      "line_id": "Q001522.4",
+      "line_label": "4",
+      "transliteration": "nam - til₃"
+    },
+    {
+      "line_id": "Q001522.5",
+      "line_label": "5",
+      "transliteration": "gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q001522.6",
+      "line_label": "6",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001522.7",
+      "line_label": "7",
+      "transliteration": "⸢ lagaš ki - ka ⸣ - še₃"
+    },
+    {
+      "line_id": "Q001522.8",
+      "line_label": "8",
+      "transliteration": "u₃ ⸢ nam ⸣ - til₃ - la - ni - še₃"
+    },
+    {
+      "line_id": "Q001522.9",
+      "line_label": "9",
+      "transliteration": "nin - al - la"
+    },
+    {
+      "line_id": "Q001522.10",
+      "line_label": "10",
+      "transliteration": "dam - ne₂"
+    },
+    {
+      "line_id": "Q001522.11",
+      "line_label": "11",
+      "transliteration": "a mu - na - ru"
+    }
+  ]
+}

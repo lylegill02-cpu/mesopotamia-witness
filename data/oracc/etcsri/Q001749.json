@@ -1,0 +1,57 @@
+{
+  "text_id": "oracc.etcsri.Q001749",
+  "corpus": "oracc",
+  "title": "Šulgi 2021 / CDLI Seals 006165 (CDLI Seals 006165 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001749",
+  "paragraphs": [
+    {
+      "para_id": "Q001749.1",
+      "line_range": "1",
+      "translation": "(1) Šulgi , the powerful man , king of Urim : Lišanum , child of Šu-ili , the governor of Marada , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001749.1",
+      "line_label": "1",
+      "transliteration": "d šul - gi"
+    },
+    {
+      "line_id": "Q001749.2",
+      "line_label": "2",
+      "transliteration": "nita kalag - ga"
+    },
+    {
+      "line_id": "Q001749.3",
+      "line_label": "3",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q001749.4",
+      "line_label": "4",
+      "transliteration": "li - ša - num₂"
+    },
+    {
+      "line_id": "Q001749.5",
+      "line_label": "5",
+      "transliteration": "dumu šu - i₃ - li"
+    },
+    {
+      "line_id": "Q001749.6",
+      "line_label": "6",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001749.7",
+      "line_label": "7",
+      "transliteration": "mara₂ - da ki"
+    },
+    {
+      "line_id": "Q001749.8",
+      "line_label": "8",
+      "transliteration": "arad₂ - zu"
+    }
+  ]
+}

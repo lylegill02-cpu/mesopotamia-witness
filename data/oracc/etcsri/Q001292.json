@@ -1,0 +1,37 @@
+{
+  "text_id": "oracc.etcsri.Q001292",
+  "corpus": "oracc",
+  "title": "Anonymous Nippur 38 (FAOS 05/2, AnNip 38)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001292",
+  "paragraphs": [
+    {
+      "para_id": "Q001292.1",
+      "line_range": "1",
+      "translation": "(1) To Inana , Munus-šume , child of Ur-šubur , dedicated this ( vessel ) ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001292.1",
+      "line_label": "1",
+      "transliteration": "d inana"
+    },
+    {
+      "line_id": "Q001292.2",
+      "line_label": "2",
+      "transliteration": "MUNUS - šu - me"
+    },
+    {
+      "line_id": "Q001292.3",
+      "line_label": "3",
+      "transliteration": "dumu ur - šubur"
+    },
+    {
+      "line_id": "Q001292.4",
+      "line_label": "4",
+      "transliteration": "a mu - ru"
+    }
+  ]
+}

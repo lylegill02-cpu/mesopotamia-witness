@@ -1,0 +1,62 @@
+{
+  "text_id": "oracc.etcsri.Q004939",
+  "corpus": "oracc",
+  "title": "Šu-Suen 2156add / CDLI Seals 005695 (CDLI Seals 005695 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004939",
+  "paragraphs": [
+    {
+      "para_id": "Q004939.1",
+      "line_range": "1",
+      "translation": "(i 1) Šu-Suen , the powerful king , king of Urim , king of the four quarters : Urkugnuna , child of Lu-Ninŋirsu , the shepherd of the nakabtum , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004939.1",
+      "line_label": "i 1",
+      "transliteration": "d šu - d suen"
+    },
+    {
+      "line_id": "Q004939.2",
+      "line_label": "i 2",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q004939.3",
+      "line_label": "i 3",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q004939.4",
+      "line_label": "i 4",
+      "transliteration": "lugal an - ub - da limmu₂ - ba"
+    },
+    {
+      "line_id": "Q004939.5",
+      "line_label": "ii 1",
+      "transliteration": "ur - kug - nun - na"
+    },
+    {
+      "line_id": "Q004939.6",
+      "line_label": "ii 2",
+      "transliteration": "dub - sar"
+    },
+    {
+      "line_id": "Q004939.7",
+      "line_label": "ii 3",
+      "transliteration": "dumu lu₂ - d nin - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q004939.8",
+      "line_label": "ii 4",
+      "transliteration": "sipad na - kab - tum"
+    },
+    {
+      "line_id": "Q004939.9",
+      "line_label": "ii 5",
+      "transliteration": "[ arad₂ - zu ]"
+    }
+  ]
+}

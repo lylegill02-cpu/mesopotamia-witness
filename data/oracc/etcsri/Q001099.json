@@ -1,0 +1,62 @@
+{
+  "text_id": "oracc.etcsri.Q001099",
+  "corpus": "oracc",
+  "title": "En-metena 21 (RIME 1.09.05.21 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001099",
+  "paragraphs": [
+    {
+      "para_id": "Q001099.1",
+      "line_range": "1",
+      "translation": "(1) For Ĝatumdug , the mother of Lagaš ."
+    },
+    {
+      "para_id": "Q001099.3",
+      "line_range": "3",
+      "translation": "(3) The personal god of En-metena , ruler of Lagaš , the builder of Ĝatumdug's temple , is Šul-MUŠxPA ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001099.1",
+      "line_label": "1",
+      "transliteration": "d ŋa₂ - tum₃ - dug₃"
+    },
+    {
+      "line_id": "Q001099.2",
+      "line_label": "2",
+      "transliteration": "ama lagaš ki - ra"
+    },
+    {
+      "line_id": "Q001099.3",
+      "line_label": "3",
+      "transliteration": "en - mete - na"
+    },
+    {
+      "line_id": "Q001099.4",
+      "line_label": "4",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001099.5",
+      "line_label": "5",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001099.6",
+      "line_label": "6",
+      "transliteration": "lu₂ e₂ d ŋa₂ - tum₃ - dug₃ du₃ - a"
+    },
+    {
+      "line_id": "Q001099.7",
+      "line_label": "7",
+      "transliteration": "diŋir - ra - ni"
+    },
+    {
+      "line_id": "Q001099.8",
+      "line_label": "8",
+      "transliteration": "d šul - MUŠ × PA - am₆"
+    }
+  ]
+}

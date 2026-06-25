@@ -1,0 +1,47 @@
+{
+  "text_id": "oracc.etcsri.Q004350",
+  "corpus": "oracc",
+  "title": "Šulgi 2133add / CDLI Seals 000532 (CDLI Seals 000532 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004350",
+  "paragraphs": [
+    {
+      "para_id": "Q004350.1",
+      "line_range": "1",
+      "translation": "(i 1) Šulgi , the powerful man , king of Urim : Utu-adgal , the scribe ( and ) the comptroller , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004350.1",
+      "line_label": "i 1",
+      "transliteration": "[ d šul - gi ]"
+    },
+    {
+      "line_id": "Q004350.2",
+      "line_label": "i 2",
+      "transliteration": "nita kalag - ga"
+    },
+    {
+      "line_id": "Q004350.3",
+      "line_label": "i 3",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q004350.4",
+      "line_label": "ii 1",
+      "transliteration": "d utu - ad₂ - gal"
+    },
+    {
+      "line_id": "Q004350.5",
+      "line_label": "ii 2",
+      "transliteration": "dub - sar"
+    },
+    {
+      "line_id": "Q004350.6",
+      "line_label": "ii 3",
+      "transliteration": "ša₃ - tam arad₂ - zu"
+    }
+  ]
+}

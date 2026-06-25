@@ -1,0 +1,27 @@
+{
+  "text_id": "oracc.etcsri.Q001158",
+  "corpus": "oracc",
+  "title": "URU-KA-gina 14i (RIME 1.09.09.14, ex. i)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001158",
+  "paragraphs": [
+    {
+      "para_id": "Q001158.1",
+      "line_range": "1",
+      "translation": "(1) The name of this ( object ) is : \" Bau is the counsellor of Iri-kagina \"."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001158.1",
+      "line_label": "1",
+      "transliteration": "d ba - u₂ šag₄ kuš₂ iri - ka - gen₆ - na - ka"
+    },
+    {
+      "line_id": "Q001158.2",
+      "line_label": "2",
+      "transliteration": "mu - bi"
+    }
+  ]
+}

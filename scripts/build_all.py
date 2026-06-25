@@ -89,7 +89,13 @@ def main() -> None:
     run("build_etcsl_index.py")
     run("rebuild_enuma.py")
     run("fetch_oracc.py")
-    run("fetch_etcsri_bulk.py")
+    run("fetch_ebl_gilgamesh.py")
+    print("\n=== fetch_etcsri_bulk.py ===")
+    subprocess.run(
+        [sys.executable, str(SCRIPTS / "fetch_etcsri_bulk.py"), "--skip-existing"],
+        check=True,
+        cwd=ROOT,
+    )
     run("merge_extra_corpus.py")
     run("export_corpus.py")
     export_extra_catalogs()

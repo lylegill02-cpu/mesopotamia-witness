@@ -1,0 +1,52 @@
+{
+  "text_id": "oracc.etcsri.Q004342",
+  "corpus": "oracc",
+  "title": "Šulgi 2125add / CDLI Seals 005078 (CDLI Seals 005078 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004342",
+  "paragraphs": [
+    {
+      "para_id": "Q004342.1",
+      "line_range": "1",
+      "translation": "(i 1) Šulgi , the powerful man , king of Urim , king of the four quarters : Ur-Lamma , the governor , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004342.1",
+      "line_label": "i 1",
+      "transliteration": "d šul - gi"
+    },
+    {
+      "line_id": "Q004342.2",
+      "line_label": "i 2",
+      "transliteration": "nita [ kalag - ga ]"
+    },
+    {
+      "line_id": "Q004342.3",
+      "line_label": "i 3",
+      "transliteration": "lugal [ urim₅ ki - ma ]"
+    },
+    {
+      "line_id": "Q004342.4",
+      "line_label": "ii 1",
+      "transliteration": "lugal [ an - ub - da limmu₂ - ba ]"
+    },
+    {
+      "line_id": "Q004342.5",
+      "line_label": "ii 2",
+      "transliteration": "ur - d lamma"
+    },
+    {
+      "line_id": "Q004342.6",
+      "line_label": "ii 3",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q004342.7",
+      "line_label": "ii 4",
+      "transliteration": "arad₂ - zu"
+    }
+  ]
+}

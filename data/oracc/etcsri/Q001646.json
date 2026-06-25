@@ -1,0 +1,47 @@
+{
+  "text_id": "oracc.etcsri.Q001646",
+  "corpus": "oracc",
+  "title": "Ur-Namma 51 (RIME 3/2.01.01.51 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001646",
+  "paragraphs": [
+    {
+      "para_id": "Q001646.1",
+      "line_range": "1",
+      "translation": "(1) Watartum , the spouse of Ur-Namma , king of Urim : Lugal-kugzu , the captain , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001646.1",
+      "line_label": "1",
+      "transliteration": "SI . A - tum"
+    },
+    {
+      "line_id": "Q001646.2",
+      "line_label": "2",
+      "transliteration": "dam ur - d namma"
+    },
+    {
+      "line_id": "Q001646.3",
+      "line_label": "3",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q001646.4",
+      "line_label": "4",
+      "transliteration": "lugal - kug - zu"
+    },
+    {
+      "line_id": "Q001646.5",
+      "line_label": "5",
+      "transliteration": "nu - banda₃"
+    },
+    {
+      "line_id": "Q001646.6",
+      "line_label": "6",
+      "transliteration": "arad₂ - zu"
+    }
+  ]
+}

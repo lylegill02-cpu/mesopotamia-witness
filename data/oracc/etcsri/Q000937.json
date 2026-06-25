@@ -1,0 +1,57 @@
+{
+  "text_id": "oracc.etcsri.Q000937",
+  "corpus": "oracc",
+  "title": "Ur-Namma 05 (RIME 3/2.01.01.05 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000937",
+  "paragraphs": [
+    {
+      "para_id": "Q000937.1",
+      "line_range": "1",
+      "translation": "(1) For An , king of the gods , his master , Ur-Namma , king of Urim , planted a lofty garden , ( and ) set up a sanctuary for him in a pure place ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000937.1",
+      "line_label": "1",
+      "transliteration": "an lugal diŋir - re - ne"
+    },
+    {
+      "line_id": "Q000937.2",
+      "line_label": "2",
+      "transliteration": "lugal - a - ni"
+    },
+    {
+      "line_id": "Q000937.3",
+      "line_label": "3",
+      "transliteration": "ur - d namma"
+    },
+    {
+      "line_id": "Q000937.4",
+      "line_label": "4",
+      "transliteration": "lugal urim₅ ki - ma - ke₄"
+    },
+    {
+      "line_id": "Q000937.5",
+      "line_label": "5",
+      "transliteration": "kiri₆ maḫ"
+    },
+    {
+      "line_id": "Q000937.6",
+      "line_label": "6",
+      "transliteration": "mu - na - gub"
+    },
+    {
+      "line_id": "Q000937.7",
+      "line_label": "7",
+      "transliteration": "barag ki sikil - la"
+    },
+    {
+      "line_id": "Q000937.8",
+      "line_label": "8",
+      "transliteration": "mu - na - du₃"
+    }
+  ]
+}

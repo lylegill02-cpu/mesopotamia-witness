@@ -1,0 +1,32 @@
+{
+  "text_id": "oracc.etcsri.Q001367",
+  "corpus": "oracc",
+  "title": "Lugal-kigine-dudu 3a (RIME 1.14.14.03a composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001367",
+  "paragraphs": [
+    {
+      "para_id": "Q001367.1",
+      "line_range": "1",
+      "translation": "(1) To Enlil , Lugal-kiĝeneš-dudu dedicated this ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001367.1",
+      "line_label": "1",
+      "transliteration": "d en - lil₂ - la"
+    },
+    {
+      "line_id": "Q001367.2",
+      "line_label": "2",
+      "transliteration": "lugal - ki - ŋen - ne₂ - du₇ - du₇ - de₃"
+    },
+    {
+      "line_id": "Q001367.3",
+      "line_label": "3",
+      "transliteration": "a mu - na - ru"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "text_id": "oracc.etcsri.Q001521",
+  "corpus": "oracc",
+  "title": "Gudea 089 (RIME 3/1.01.07.089 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001521",
+  "paragraphs": [
+    {
+      "para_id": "Q001521.1",
+      "line_range": "1",
+      "translation": "(1) To Bau , his lady , Lugal-durĝar , the merchant , dedicated this ( vessel ) for the well-being of Gudea , ruler of Lagaš ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001521.1",
+      "line_label": "1",
+      "transliteration": "d ba - u₂"
+    },
+    {
+      "line_id": "Q001521.2",
+      "line_label": "2",
+      "transliteration": "nin - a - ni"
+    },
+    {
+      "line_id": "Q001521.3",
+      "line_label": "3",
+      "transliteration": "nam - til₃"
+    },
+    {
+      "line_id": "Q001521.4",
+      "line_label": "4",
+      "transliteration": "gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q001521.5",
+      "line_label": "5",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001521.6",
+      "line_label": "6",
+      "transliteration": "lagaš ki - ka - [ še₃ ]"
+    },
+    {
+      "line_id": "Q001521.7",
+      "line_label": "7",
+      "transliteration": "lugal - dur₂ - [ ŋar ] dam - [ gara₃ ]"
+    },
+    {
+      "line_id": "Q001521.8",
+      "line_label": "8",
+      "transliteration": "a mu - [ na - ru ]"
+    }
+  ]
+}

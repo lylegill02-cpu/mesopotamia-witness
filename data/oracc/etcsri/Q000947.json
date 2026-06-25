@@ -1,0 +1,327 @@
+{
+  "text_id": "oracc.etcsri.Q000947",
+  "corpus": "oracc",
+  "title": "Ur-Namma 20 (= Laws of Ur-Namma) (RIME 3/2.01.01.20 (Laws of Ur-Namma) composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000947",
+  "paragraphs": [
+    {
+      "para_id": "composite",
+      "line_range": "1–62",
+      "translation": "[... ] x [... ] - ⸢ gin₇ ? ⸣ [... ] - bi"
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000947.2",
+      "line_label": "Prolog 6",
+      "transliteration": "[... ] x"
+    },
+    {
+      "line_id": "Q000947.3",
+      "line_label": "Prolog 7",
+      "transliteration": "[... ] - ⸢ gin₇ ? ⸣"
+    },
+    {
+      "line_id": "Q000947.4",
+      "line_label": "Prolog 8",
+      "transliteration": "[... ] - bi"
+    },
+    {
+      "line_id": "Q000947.5",
+      "line_label": "Prolog 9",
+      "transliteration": "[... ] - AN"
+    },
+    {
+      "line_id": "Q000947.6",
+      "line_label": "Prolog 10",
+      "transliteration": "[ ur ? ] - ⸢ d namma ? ⸣"
+    },
+    {
+      "line_id": "Q000947.7",
+      "line_label": "Prolog 11",
+      "transliteration": "[ nita ] ⸢ kalag - ga ⸣"
+    },
+    {
+      "line_id": "Q000947.8",
+      "line_label": "Prolog 12",
+      "transliteration": "[ lugal ] ⸢ urim₅ ⸣ [ ki - ma ]"
+    },
+    {
+      "line_id": "Q000947.9",
+      "line_label": "Prolog 13",
+      "transliteration": "[ lugal ] ⸢ ki ⸣ - en - [ gi ki - uri ]"
+    },
+    {
+      "line_id": "Q000947.10",
+      "line_label": "Prolog 14",
+      "transliteration": "[... ] AN [... ]"
+    },
+    {
+      "line_id": "Q000947.11",
+      "line_label": "Prolog 15",
+      "transliteration": "[... ] ⸢ NI ? BI ? ⸣ [... ]"
+    },
+    {
+      "line_id": "Q000947.12",
+      "line_label": "Prolog 16",
+      "transliteration": "[... ]"
+    },
+    {
+      "line_id": "Q000947.13",
+      "line_label": "Prolog 17",
+      "transliteration": "[... ] x x"
+    },
+    {
+      "line_id": "Q000947.14",
+      "line_label": "Prolog 18",
+      "transliteration": "[... ] ⸢ x ⸣ šu [ x ]"
+    },
+    {
+      "line_id": "Q000947.15",
+      "line_label": "Prolog 19",
+      "transliteration": "[... ] x x [... ]"
+    },
+    {
+      "line_id": "Q000947.16",
+      "line_label": "Prolog 20",
+      "transliteration": "[... ]"
+    },
+    {
+      "line_id": "Q000947.17",
+      "line_label": "Prolog 21",
+      "transliteration": "[... ]"
+    },
+    {
+      "line_id": "Q000947.18",
+      "line_label": "Prolog 22",
+      "transliteration": "[... ] x x"
+    },
+    {
+      "line_id": "Q000947.19",
+      "line_label": "Prolog 23",
+      "transliteration": "[... ] x x"
+    },
+    {
+      "line_id": "Q000947.20",
+      "line_label": "Prolog 24",
+      "transliteration": "[ d ur ] - d ! namma ! - ⸢ ra ⸣"
+    },
+    {
+      "line_id": "Q000947.21",
+      "line_label": "Prolog 25",
+      "transliteration": "[( x )] x itud - da"
+    },
+    {
+      "line_id": "Q000947.22",
+      "line_label": "Prolog 26",
+      "transliteration": "1( geš₂ ) 3( u ) še gur"
+    },
+    {
+      "line_id": "Q000947.23",
+      "line_label": "Prolog 27",
+      "transliteration": "3( u ) udu"
+    },
+    {
+      "line_id": "Q000947.24",
+      "line_label": "Prolog 28",
+      "transliteration": "3( u ) sila₃ i₃ - nun"
+    },
+    {
+      "line_id": "Q000947.25",
+      "line_label": "Prolog 29",
+      "transliteration": "sa₂ - dug₄ - še₃"
+    },
+    {
+      "line_id": "Q000947.26",
+      "line_label": "Prolog 30",
+      "transliteration": "⸢ mu - na ⸣ - ni - ŋar"
+    },
+    {
+      "line_id": "Q000947.27",
+      "line_label": "Prolog 31",
+      "transliteration": "ud an - ne₂"
+    },
+    {
+      "line_id": "Q000947.28",
+      "line_label": "Prolog 32",
+      "transliteration": "d en - lil₂ - le"
+    },
+    {
+      "line_id": "Q000947.29",
+      "line_label": "Prolog 33",
+      "transliteration": "d nanna - ar"
+    },
+    {
+      "line_id": "Q000947.30",
+      "line_label": "Prolog 34",
+      "transliteration": "⸢ nam - lugal ⸣ urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q000947.31",
+      "line_label": "Prolog 35",
+      "transliteration": "[ mu - na ] - ⸢ šum₂ ⸣ - mu - uš - a - ba"
+    },
+    {
+      "line_id": "Q000947.32",
+      "line_label": "Prolog 36",
+      "transliteration": "⸢ ud - ba d ⸣ ur - d namma - ra ! ( KE₄ )"
+    },
+    {
+      "line_id": "Q000947.33",
+      "line_label": "Prolog 37",
+      "transliteration": "⸢ dumu ⸣ tud - da"
+    },
+    {
+      "line_id": "Q000947.34",
+      "line_label": "Prolog 38",
+      "transliteration": "d nin - sumun₂ - ka"
+    },
+    {
+      "line_id": "Q000947.35",
+      "line_label": "Prolog 39",
+      "transliteration": "⸢ ama ⸣ - a - tud"
+    },
+    {
+      "line_id": "Q000947.36",
+      "line_label": "Prolog 40",
+      "transliteration": "⸢ ki aŋ₂ ⸣ - ŋa₂ - ni - ir"
+    },
+    {
+      "line_id": "Q000947.37",
+      "line_label": "Prolog 41",
+      "transliteration": "⸢ niŋ₂ ⸣ - si - sa₂ - ⸢ ni ⸣ - še₃"
+    },
+    {
+      "line_id": "Q000947.38",
+      "line_label": "Prolog 42",
+      "transliteration": "⸢ niŋ₂ - gen₆ ⸣ - [ na ] - ⸢ ni ⸣ - še₃"
+    },
+    {
+      "line_id": "Q000947.39",
+      "line_label": "Prolog 43",
+      "transliteration": "x [ x ( x )] x ( x ) x"
+    },
+    {
+      "line_id": "Q000947.40",
+      "line_label": "Prolog 44",
+      "transliteration": "[... ] x"
+    },
+    {
+      "line_id": "Q000947.41",
+      "line_label": "Prolog 45",
+      "transliteration": "x x [... ] x"
+    },
+    {
+      "line_id": "Q000947.42",
+      "line_label": "Prolog 46",
+      "transliteration": "x MU [... ]"
+    },
+    {
+      "line_id": "Q000947.43",
+      "line_label": "Prolog 47",
+      "transliteration": "⸢ si ? ⸣ x [... ]"
+    },
+    {
+      "line_id": "Q000947.44",
+      "line_label": "Prolog 48",
+      "transliteration": "⸢ BA ⸣ [... ]"
+    },
+    {
+      "line_id": "Q000947.45",
+      "line_label": "Prolog 49",
+      "transliteration": "2( diš ) ? [... ]"
+    },
+    {
+      "line_id": "Q000947.46",
+      "line_label": "Prolog 50",
+      "transliteration": "2( diš ) ? [... ]"
+    },
+    {
+      "line_id": "Q000947.47",
+      "line_label": "Prolog 51",
+      "transliteration": "⸢ NAM ? ⸣ [... ]"
+    },
+    {
+      "line_id": "Q000947.49",
+      "line_label": "Prolog 71",
+      "transliteration": "[... ] ⸢ AN ⸣ [... ]"
+    },
+    {
+      "line_id": "Q000947.50",
+      "line_label": "Prolog 72",
+      "transliteration": "x x x"
+    },
+    {
+      "line_id": "Q000947.51",
+      "line_label": "Prolog 73",
+      "transliteration": "x x imin - bi"
+    },
+    {
+      "line_id": "Q000947.52",
+      "line_label": "Prolog 74",
+      "transliteration": "⸢ ḫu ⸣ - mu - un - da - an - ⸢ x ⸣"
+    },
+    {
+      "line_id": "Q000947.53",
+      "line_label": "Prolog 75",
+      "transliteration": "nam - ḫa - ni"
+    },
+    {
+      "line_id": "Q000947.54",
+      "line_label": "Prolog 76",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q000947.55",
+      "line_label": "Prolog 77",
+      "transliteration": "lagaš ki - ke₄"
+    },
+    {
+      "line_id": "Q000947.56",
+      "line_label": "Prolog 78",
+      "transliteration": "ḫe₂ - ⸢ mi ⸣ - x"
+    },
+    {
+      "line_id": "Q000947.57",
+      "line_label": "Prolog 79",
+      "transliteration": "ki - ⸢ sur ⸣ - ra"
+    },
+    {
+      "line_id": "Q000947.58",
+      "line_label": "Prolog 80",
+      "transliteration": "ma₂ ma₂ - gan ⸢ ki ⸣ - na"
+    },
+    {
+      "line_id": "Q000947.59",
+      "line_label": "Prolog 81",
+      "transliteration": "d nanna"
+    },
+    {
+      "line_id": "Q000947.60",
+      "line_label": "Prolog 82",
+      "transliteration": "a₂ d nanna"
+    },
+    {
+      "line_id": "Q000947.61",
+      "line_label": "Prolog 83",
+      "transliteration": "lugal - ⸢ ŋa₂ ⸣ - ta"
+    },
+    {
+      "line_id": "Q000947.62",
+      "line_label": "Prolog 84",
+      "transliteration": "ḫe₂ - mi - gi₄"
+    },
+    {
+      "line_id": "Q000947.63",
+      "line_label": "Prolog 85",
+      "transliteration": "urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q000947.64",
+      "line_label": "Prolog 86",
+      "transliteration": "ḫa - ba - tam"
+    }
+  ]
+}

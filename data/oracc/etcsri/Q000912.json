@@ -1,0 +1,62 @@
+{
+  "text_id": "oracc.etcsri.Q000912",
+  "corpus": "oracc",
+  "title": "Gudea 042 (RIME 3/1.01.07.042 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000912",
+  "paragraphs": [
+    {
+      "para_id": "Q000912.1",
+      "line_range": "1",
+      "translation": "(1) For Ninĝirsu , the powerful warrior of Enlil , his master , Gudea , ruler of Lagaš , built his E-ninnu-anzud-babbar ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000912.1",
+      "line_label": "1",
+      "transliteration": "d nin - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q000912.2",
+      "line_label": "2",
+      "transliteration": "ur - saŋ kalag - ga"
+    },
+    {
+      "line_id": "Q000912.3",
+      "line_label": "3",
+      "transliteration": "d en - lil₂ - la₂"
+    },
+    {
+      "line_id": "Q000912.4",
+      "line_label": "4",
+      "transliteration": "lugal - a - ni"
+    },
+    {
+      "line_id": "Q000912.5",
+      "line_label": "5",
+      "transliteration": "gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q000912.6",
+      "line_label": "6",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q000912.7",
+      "line_label": "7",
+      "transliteration": "lagaš ki - ke₄"
+    },
+    {
+      "line_id": "Q000912.8",
+      "line_label": "8",
+      "transliteration": "e₂ - ninnu - anzud₂ mušen - babbar₂ - ra - ni"
+    },
+    {
+      "line_id": "Q000912.9",
+      "line_label": "9",
+      "transliteration": "mu - na - du₃"
+    }
+  ]
+}

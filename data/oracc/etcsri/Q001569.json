@@ -1,0 +1,107 @@
+{
+  "text_id": "oracc.etcsri.Q001569",
+  "corpus": "oracc",
+  "title": "Ur-Ningirsu II 06 (RIME 3/1.01.08.06 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001569",
+  "paragraphs": [
+    {
+      "para_id": "Q001569.1",
+      "line_range": "1",
+      "translation": "(i 1) For Ninĝišzida , his personal god , Ur-Ninĝirsu , ruler of Lagaš , son of Gudea , ruler of Lagaš , the builder Ninĝirsu's E-ninnu , fashioned his own statue . He named this statue for his sake “As I am someone loved by his personal god , may my life be prolonged!” , and brought it before him into his temple ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001569.1",
+      "line_label": "i 1",
+      "transliteration": "d nin - ŋeš - zid - da"
+    },
+    {
+      "line_id": "Q001569.2",
+      "line_label": "i 2",
+      "transliteration": "diŋir - ra - ni"
+    },
+    {
+      "line_id": "Q001569.3",
+      "line_label": "i 3",
+      "transliteration": "ur - d nin - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q001569.4",
+      "line_label": "i 4",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001569.5",
+      "line_label": "i 5",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001569.6",
+      "line_label": "i 6",
+      "transliteration": "dumu gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q001569.7",
+      "line_label": "i 7",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001569.8",
+      "line_label": "i 8",
+      "transliteration": "lagaš ki - ka"
+    },
+    {
+      "line_id": "Q001569.9",
+      "line_label": "i 9",
+      "transliteration": "lu₂ e₂ - ninnu"
+    },
+    {
+      "line_id": "Q001569.10",
+      "line_label": "i 10",
+      "transliteration": "d nin - ŋir₂ - su - ka"
+    },
+    {
+      "line_id": "Q001569.11",
+      "line_label": "i 11",
+      "transliteration": "in - du₃ - a - ke₄"
+    },
+    {
+      "line_id": "Q001569.12",
+      "line_label": "ii 1",
+      "transliteration": "alan - na - ni"
+    },
+    {
+      "line_id": "Q001569.13",
+      "line_label": "ii 2",
+      "transliteration": "mu - tud"
+    },
+    {
+      "line_id": "Q001569.14",
+      "line_label": "ii 3",
+      "transliteration": "alan - ba"
+    },
+    {
+      "line_id": "Q001569.15",
+      "line_label": "ii 4",
+      "transliteration": "lu₂ diŋir - ra - ne₂ ki aŋ₂ - me"
+    },
+    {
+      "line_id": "Q001569.16",
+      "line_label": "ii 5",
+      "transliteration": "nam - til₃ - ŋu₁₀ ḫe₂ - sud"
+    },
+    {
+      "line_id": "Q001569.17",
+      "line_label": "ii 6",
+      "transliteration": "mu - še₃ mu - na - še₂₁ !"
+    },
+    {
+      "line_id": "Q001569.18",
+      "line_label": "ii 7",
+      "transliteration": "e₂ - a - ni - < a > mu - na - ni - kurₓ ( LIL )"
+    }
+  ]
+}

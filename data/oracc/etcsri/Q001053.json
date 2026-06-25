@@ -1,0 +1,57 @@
+{
+  "text_id": "oracc.etcsri.Q001053",
+  "corpus": "oracc",
+  "title": "A-kurgal 1 (RIME 1.09.02.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001053",
+  "paragraphs": [
+    {
+      "para_id": "Q001053.1",
+      "line_range": "1",
+      "translation": "(1) For Ninĝirsu , Aya-kurgal , ruler of Lagaš . child of Ur-Nanše , king of Lagaš , built the Antasura ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001053.1",
+      "line_label": "1",
+      "transliteration": "[ d ] ⸢ nin ⸣ - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q001053.2",
+      "line_label": "2",
+      "transliteration": "⸢ aya₂ - kur ⸣ - gal"
+    },
+    {
+      "line_id": "Q001053.3",
+      "line_label": "3",
+      "transliteration": "⸢ ensi₂ ⸣"
+    },
+    {
+      "line_id": "Q001053.4",
+      "line_label": "4",
+      "transliteration": "⸢ lagaš ⸣ [ ki ]"
+    },
+    {
+      "line_id": "Q001053.5",
+      "line_label": "5",
+      "transliteration": "⸢ dumu ⸣ ur - ⸢ d ⸣ nanše"
+    },
+    {
+      "line_id": "Q001053.6",
+      "line_label": "6",
+      "transliteration": "⸢ lugal lagaš ⸣ ki"
+    },
+    {
+      "line_id": "Q001053.7",
+      "line_label": "7",
+      "transliteration": "[ an ] - ta - sur - [ ra ]"
+    },
+    {
+      "line_id": "Q001053.8",
+      "line_label": "8",
+      "transliteration": "⸢ mu ⸣ - du₃"
+    }
+  ]
+}

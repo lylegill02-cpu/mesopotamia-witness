@@ -1,0 +1,47 @@
+{
+  "text_id": "oracc.etcsri.Q001702",
+  "corpus": "oracc",
+  "title": "Šulgi 70 / CDLI Seals 000471 (CDLI Seals 000471 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001702",
+  "paragraphs": [
+    {
+      "para_id": "Q001702.1",
+      "line_range": "1",
+      "translation": "(1) Šulgi-simtī , the beloved consort of the king : Ur-Lugaledenaka , the scribe , child of ..., is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001702.1",
+      "line_label": "1",
+      "transliteration": "d šul - gi - si₂ - im - ti"
+    },
+    {
+      "line_id": "Q001702.2",
+      "line_label": "2",
+      "transliteration": "lukur ki aŋ₂ lugal"
+    },
+    {
+      "line_id": "Q001702.3",
+      "line_label": "3",
+      "transliteration": "ur - d lugal - eden - ka"
+    },
+    {
+      "line_id": "Q001702.4",
+      "line_label": "4",
+      "transliteration": "dub - sar"
+    },
+    {
+      "line_id": "Q001702.5",
+      "line_label": "5",
+      "transliteration": "dumu kud - da - [ x ]"
+    },
+    {
+      "line_id": "Q001702.6",
+      "line_label": "6",
+      "transliteration": "[ arad₂ - zu ]"
+    }
+  ]
+}

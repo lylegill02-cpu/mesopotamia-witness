@@ -1,0 +1,57 @@
+{
+  "text_id": "oracc.etcsri.Q001989",
+  "corpus": "oracc",
+  "title": "Enlil-bani 07 (RIME 4.01.10.07 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001989",
+  "paragraphs": [
+    {
+      "para_id": "Q001989.1",
+      "line_range": "1",
+      "translation": "(1) For Sud , his lady , Enlil-bani , the powerful king , king of Isin , built the E-dimgal-ana , her beloved temple ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001989.1",
+      "line_label": "1",
+      "transliteration": "d sud₃"
+    },
+    {
+      "line_id": "Q001989.2",
+      "line_label": "2",
+      "transliteration": "nin - a - ni - ir"
+    },
+    {
+      "line_id": "Q001989.3",
+      "line_label": "3",
+      "transliteration": "d en - lil₂ - ba - ni"
+    },
+    {
+      "line_id": "Q001989.4",
+      "line_label": "4",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q001989.5",
+      "line_label": "5",
+      "transliteration": "lugal i₃ - si - in ki - na - ke₄"
+    },
+    {
+      "line_id": "Q001989.6",
+      "line_label": "6",
+      "transliteration": "e₂ - dim - gal - an - na"
+    },
+    {
+      "line_id": "Q001989.7",
+      "line_label": "7",
+      "transliteration": "e₂ ki aŋ₂ - ŋa₂ - ni"
+    },
+    {
+      "line_id": "Q001989.8",
+      "line_label": "8",
+      "transliteration": "mu - na - du₃"
+    }
+  ]
+}

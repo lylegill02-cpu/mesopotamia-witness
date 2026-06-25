@@ -1,0 +1,207 @@
+{
+  "text_id": "oracc.etcsri.Q001024",
+  "corpus": "oracc",
+  "title": "Ur-Nanše 05 (RIME 1.09.01.05 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001024",
+  "paragraphs": [
+    {
+      "para_id": "Q001024.1",
+      "line_range": "1",
+      "translation": "(Before Ur-Nanše, 1) Ur-Nanše , king of Lagaš , built the temple of Ninĝirsu ."
+    },
+    {
+      "para_id": "Q001024.6",
+      "line_range": "6",
+      "translation": "(Before Ur-Nanše, 6) He built the Abzu-banda ."
+    },
+    {
+      "para_id": "Q001024.8",
+      "line_range": "8",
+      "translation": "(After Ur-Nanše, i 1) Ur-Nanše , king of Lagaš , child of Gunidu , citizen of Gursar , built the temple of Nanše ."
+    },
+    {
+      "para_id": "Q001024.15",
+      "line_range": "15",
+      "translation": "(After Ur-Nanše, ii 3) He built the Šeše-ĝara ."
+    },
+    {
+      "para_id": "Q001024.17",
+      "line_range": "17",
+      "translation": "(After Ur-Nanše, ii 5) He established control of the Dilmun-boats ."
+    },
+    {
+      "para_id": "Q001024.19",
+      "line_range": "19",
+      "translation": "(Upper Captions, 1) Lugal-ezen , child ."
+    },
+    {
+      "para_id": "Q001024.20",
+      "line_range": "20",
+      "translation": "(Upper Captions, 2) Ani-kura , child ."
+    },
+    {
+      "para_id": "Q001024.21",
+      "line_range": "21",
+      "translation": "(Upper Captions, 3) Mukuršubata , child ."
+    },
+    {
+      "para_id": "Q001024.22",
+      "line_range": "22",
+      "translation": "(Upper Captions, 4) Aya-kurgal , child ."
+    },
+    {
+      "para_id": "Q001024.23",
+      "line_range": "23",
+      "translation": "(Lower Captions, 1) ...."
+    },
+    {
+      "para_id": "Q001024.24",
+      "line_range": "24",
+      "translation": "(Lower Captions, 2) Anunpad , child ."
+    },
+    {
+      "para_id": "Q001024.25",
+      "line_range": "25",
+      "translation": "(Lower Captions, 3) Gula , child ."
+    },
+    {
+      "para_id": "Q001024.26",
+      "line_range": "26",
+      "translation": "(Lower Captions, 4) ..., child ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001024.1",
+      "line_label": "Before Ur-Nanše, 1",
+      "transliteration": "ur - d nanše"
+    },
+    {
+      "line_id": "Q001024.2",
+      "line_label": "Before Ur-Nanše, 2",
+      "transliteration": "lugal"
+    },
+    {
+      "line_id": "Q001024.3",
+      "line_label": "Before Ur-Nanše, 3",
+      "transliteration": "lagaš"
+    },
+    {
+      "line_id": "Q001024.4",
+      "line_label": "Before Ur-Nanše, 4",
+      "transliteration": "e₂ nin - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q001024.5",
+      "line_label": "Before Ur-Nanše, 5",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001024.6",
+      "line_label": "Before Ur-Nanše, 6",
+      "transliteration": "abzu - ban₃ - da"
+    },
+    {
+      "line_id": "Q001024.7",
+      "line_label": "Before Ur-Nanše, 7",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001024.8",
+      "line_label": "After Ur-Nanše, i 1",
+      "transliteration": "ur - d nanše"
+    },
+    {
+      "line_id": "Q001024.9",
+      "line_label": "After Ur-Nanše, i 2",
+      "transliteration": "lugal"
+    },
+    {
+      "line_id": "Q001024.10",
+      "line_label": "After Ur-Nanše, i 3",
+      "transliteration": "lagaš"
+    },
+    {
+      "line_id": "Q001024.11",
+      "line_label": "After Ur-Nanše, i 4",
+      "transliteration": "dumu gu - NI - DU"
+    },
+    {
+      "line_id": "Q001024.12",
+      "line_label": "After Ur-Nanše, i 5",
+      "transliteration": "dumu gur - sar"
+    },
+    {
+      "line_id": "Q001024.13",
+      "line_label": "After Ur-Nanše, ii 1",
+      "transliteration": "⸢ e₂ ⸣ d nanše"
+    },
+    {
+      "line_id": "Q001024.14",
+      "line_label": "After Ur-Nanše, ii 2",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001024.15",
+      "line_label": "After Ur-Nanše, ii 3",
+      "transliteration": "šeš - ŋar"
+    },
+    {
+      "line_id": "Q001024.16",
+      "line_label": "After Ur-Nanše, ii 4",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001024.17",
+      "line_label": "After Ur-Nanše, ii 5",
+      "transliteration": "[ ma₂ ] ⸢ dilmun ⸣"
+    },
+    {
+      "line_id": "Q001024.18",
+      "line_label": "After Ur-Nanše, ii 6",
+      "transliteration": "gu₂ [ ŋeš ] ⸢ mu ⸣ - [ ŋal₂ ]"
+    },
+    {
+      "line_id": "Q001024.19",
+      "line_label": "Upper Captions, 1",
+      "transliteration": "lugal - ⸢ ezen ⸣ dumu"
+    },
+    {
+      "line_id": "Q001024.20",
+      "line_label": "Upper Captions, 2",
+      "transliteration": "⸢ a₂ ⸣ - ni - [ kur - ra ] dumu"
+    },
+    {
+      "line_id": "Q001024.21",
+      "line_label": "Upper Captions, 3",
+      "transliteration": "mu - kur - šuba₄ - ta dumu"
+    },
+    {
+      "line_id": "Q001024.22",
+      "line_label": "Upper Captions, 4",
+      "transliteration": "aya₂ - kur - gal dumu"
+    },
+    {
+      "line_id": "Q001024.23",
+      "line_label": "Lower Captions, 1",
+      "transliteration": "[... ]"
+    },
+    {
+      "line_id": "Q001024.24",
+      "line_label": "Lower Captions, 2",
+      "transliteration": "a - [ nun - pad₃ dumu ]"
+    },
+    {
+      "line_id": "Q001024.25",
+      "line_label": "Lower Captions, 3",
+      "transliteration": "gu - ⸢ la ⸣ dumu"
+    },
+    {
+      "line_id": "Q001024.26",
+      "line_label": "Lower Captions, 4",
+      "transliteration": "x - ⸢ x ⸣ - [ x ] ⸢ dumu ⸣"
+    }
+  ]
+}

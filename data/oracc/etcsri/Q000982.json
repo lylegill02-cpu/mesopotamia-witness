@@ -1,0 +1,27 @@
+{
+  "text_id": "oracc.etcsri.Q000982",
+  "corpus": "oracc",
+  "title": "Amar-Suena 04 (RIME 3/2.01.03.04 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000982",
+  "paragraphs": [
+    {
+      "para_id": "Q000982.1",
+      "line_range": "1",
+      "translation": "(1) Amar-Suena , the powerful king ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000982.1",
+      "line_label": "1",
+      "transliteration": "d amar - d suen"
+    },
+    {
+      "line_id": "Q000982.2",
+      "line_label": "2",
+      "transliteration": "lugal kalag - ga"
+    }
+  ]
+}

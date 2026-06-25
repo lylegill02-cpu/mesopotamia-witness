@@ -1,0 +1,42 @@
+{
+  "text_id": "oracc.etcsri.Q001588",
+  "corpus": "oracc",
+  "title": "Nammahni 15 (RIME 3/1.01.12.15 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001588",
+  "paragraphs": [
+    {
+      "para_id": "Q001588.1",
+      "line_range": "1",
+      "translation": "(i 1) To Ninšubur , his/her personal god , ... for the well-being of ..., ruler of Lagaš ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001588.1",
+      "line_label": "i 1",
+      "transliteration": "d nin - šubur"
+    },
+    {
+      "line_id": "Q001588.2",
+      "line_label": "i 2",
+      "transliteration": "diŋir - a - ni"
+    },
+    {
+      "line_id": "Q001588.3",
+      "line_label": "i 3",
+      "transliteration": "nam - ⸢ til₃ ⸣"
+    },
+    {
+      "line_id": "Q001588.5",
+      "line_label": "i 5",
+      "transliteration": "⸢ ensi₂ ⸣"
+    },
+    {
+      "line_id": "Q001588.6",
+      "line_label": "i 6",
+      "transliteration": "[ lagaš ] ki - ka - še₃"
+    }
+  ]
+}

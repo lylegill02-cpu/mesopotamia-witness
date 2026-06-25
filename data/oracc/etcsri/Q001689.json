@@ -1,0 +1,52 @@
+{
+  "text_id": "oracc.etcsri.Q001689",
+  "corpus": "oracc",
+  "title": "Šulgi 57 (RIME 3/2.01.02.057 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001689",
+  "paragraphs": [
+    {
+      "para_id": "Q001689.2",
+      "line_range": "2",
+      "translation": "(1') ..., Šulgi , the powerful man , king of Urim , king of the four quarters , ... for Ninsumun of Urim ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001689.2",
+      "line_label": "1'",
+      "transliteration": "⸢ u₃ ⸣ x ⸢ šag₄ ⸣ [ x ( x )] si ⸢ mu ⸣ - [ x - ( x )]"
+    },
+    {
+      "line_id": "Q001689.3",
+      "line_label": "2'",
+      "transliteration": "d šul - ⸢ gi ⸣"
+    },
+    {
+      "line_id": "Q001689.4",
+      "line_label": "3'",
+      "transliteration": "nita kalag - ⸢ ga ⸣"
+    },
+    {
+      "line_id": "Q001689.5",
+      "line_label": "4'",
+      "transliteration": "lugal ⸢ urim₅ ⸣ ki - ma"
+    },
+    {
+      "line_id": "Q001689.6",
+      "line_label": "5'",
+      "transliteration": "lugal an - ub - da limmu₂ - ba - ke₄"
+    },
+    {
+      "line_id": "Q001689.7",
+      "line_label": "6'",
+      "transliteration": "d nin - sumun₂ ⸢ urim₅ ⸣ ki - ⸢ ma ⸣ - [ ra ]"
+    },
+    {
+      "line_id": "Q001689.8",
+      "line_label": "7'",
+      "transliteration": "⸢ in ⸣ - na - [ x ]"
+    }
+  ]
+}

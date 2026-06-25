@@ -1,0 +1,102 @@
+{
+  "text_id": "oracc.etcsri.Q001531",
+  "corpus": "oracc",
+  "title": "Gudea 099 (RIME 3/1.01.07.099 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001531",
+  "paragraphs": [
+    {
+      "para_id": "Q001531.1",
+      "line_range": "1",
+      "translation": "(i 1) To ..., her lady , Ninala , child of Ur-Bau , ruler of Lagaš , dedicated this ( female statuette ) for the well-being of Gudea , ruler of Lagaš , her spouse , and for her own well-being . The name of this statue is \" My lady called me , ( and ) I built it on the appointed day .\""
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001531.1",
+      "line_label": "i 1",
+      "transliteration": "d ⸢ nin ⸣ - [... ]"
+    },
+    {
+      "line_id": "Q001531.2",
+      "line_label": "i 2",
+      "transliteration": "⸢ nin ⸣ - [ a ] - ⸢ ni ⸣"
+    },
+    {
+      "line_id": "Q001531.3",
+      "line_label": "i 3",
+      "transliteration": "⸢ nin - al - la ⸣"
+    },
+    {
+      "line_id": "Q001531.4",
+      "line_label": "i 4",
+      "transliteration": "⸢ dumu ⸣ [ ur - d ba ] - u₂"
+    },
+    {
+      "line_id": "Q001531.5",
+      "line_label": "i 5",
+      "transliteration": "⸢ ensi₂ ⸣"
+    },
+    {
+      "line_id": "Q001531.6",
+      "line_label": "i 6",
+      "transliteration": "[ lagaš ki ] - ⸢ ka - ke₄ ⸣"
+    },
+    {
+      "line_id": "Q001531.7",
+      "line_label": "i 7",
+      "transliteration": "⸢ nam ⸣ - til₃"
+    },
+    {
+      "line_id": "Q001531.8",
+      "line_label": "ii 1",
+      "transliteration": "[ gu₃ ] - de₂ - a"
+    },
+    {
+      "line_id": "Q001531.9",
+      "line_label": "ii 2",
+      "transliteration": "⸢ ensi₂ ⸣"
+    },
+    {
+      "line_id": "Q001531.10",
+      "line_label": "ii 3",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001531.11",
+      "line_label": "ii 4",
+      "transliteration": "⸢ dam ⸣ - ma - na - še₃"
+    },
+    {
+      "line_id": "Q001531.12",
+      "line_label": "ii 5",
+      "transliteration": "u₃ nam - til₃ - la - ni - še₃"
+    },
+    {
+      "line_id": "Q001531.13",
+      "line_label": "ii 6",
+      "transliteration": "a mu - na - ru"
+    },
+    {
+      "line_id": "Q001531.14",
+      "line_label": "ii 7",
+      "transliteration": "⸢ alan ⸣ - ba"
+    },
+    {
+      "line_id": "Q001531.15",
+      "line_label": "ii 8",
+      "transliteration": "⸢ nin - ŋu₁₀ ⸣ gu₃ ma - de₂"
+    },
+    {
+      "line_id": "Q001531.16",
+      "line_label": "ii 9",
+      "transliteration": "ud dug₄ - ga - ba i₃ - du₃"
+    },
+    {
+      "line_id": "Q001531.17",
+      "line_label": "ii 10",
+      "transliteration": "mu - bi"
+    }
+  ]
+}

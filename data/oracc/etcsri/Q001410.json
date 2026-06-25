@@ -1,0 +1,32 @@
+{
+  "text_id": "oracc.etcsri.Q001410",
+  "corpus": "oracc",
+  "title": "Sargon 2004 / CDLI Seals 001437 (CDLI Seals 001437 (physical))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001410",
+  "paragraphs": [
+    {
+      "para_id": "Q001410.1",
+      "line_range": "1",
+      "translation": "(1) Adda , steward of En-hedu-ana ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001410.1",
+      "line_label": "1",
+      "transliteration": "ad - da"
+    },
+    {
+      "line_id": "Q001410.2",
+      "line_label": "2",
+      "transliteration": "ugula - e₂"
+    },
+    {
+      "line_id": "Q001410.3",
+      "line_label": "3",
+      "transliteration": "en - ḫe₂ - du₇ - an - na"
+    }
+  ]
+}

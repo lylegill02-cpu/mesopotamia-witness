@@ -1,0 +1,27 @@
+{
+  "text_id": "oracc.etcsri.Q001404",
+  "corpus": "oracc",
+  "title": "Sargon 11 (Akkadian) (RIME 2.01.01.11 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001404",
+  "paragraphs": [
+    {
+      "para_id": "Q001404.1",
+      "line_range": "1",
+      "translation": "(colophon 1, 1) The inscription on the statue . Its socle is not inscribed ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001404.1",
+      "line_label": "colophon 1, 1",
+      "transliteration": "⸢ mu - sar - ra alan ⸣ - na"
+    },
+    {
+      "line_id": "Q001404.2",
+      "line_label": "colophon 1, 2",
+      "transliteration": "ki - gal - bi nu - sar"
+    }
+  ]
+}

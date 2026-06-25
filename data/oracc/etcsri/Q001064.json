@@ -1,0 +1,177 @@
+{
+  "text_id": "oracc.etcsri.Q001064",
+  "corpus": "oracc",
+  "title": "E-anatum 04 (RIME 1.09.03.04 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001064",
+  "paragraphs": [
+    {
+      "para_id": "Q001064.1",
+      "line_range": "1",
+      "translation": "(i 1) For Ninĝirsu , Enlil’s warrior , E-ana-tum , ruler of Lagaš , chosen in her holy heart by Nanše , the mighty lady , who makes the foreign lands submit to Ninĝirsu , child of Aya-kurgal , ruler of Lagaš , ...."
+    },
+    {
+      "para_id": "Q001064.15",
+      "line_range": "15",
+      "translation": "(i 19) ( When ) he annihilated ... of Umma , who took away the Gu-edena , he returned ( Ninĝirsu's ) beloved field , the Gu-edena , under Ninĝirsu's control . He named the border territory of Ĝirsu's region that he returned under Ninĝirsu's control as ' Luma is chosen from Ĝirnun in the holy heart '. ...."
+    },
+    {
+      "para_id": "Q001064.30",
+      "line_range": "30",
+      "translation": "(ii 14) ..., he dedicated this ( pillar ) to him ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001064.1",
+      "line_label": "i 1",
+      "transliteration": "d nin - ŋir₂ - su₂"
+    },
+    {
+      "line_id": "Q001064.2",
+      "line_label": "i 2",
+      "transliteration": "⸢ ur ⸣ - saŋ d en - lil₂ ( E₂ )- ra"
+    },
+    {
+      "line_id": "Q001064.3",
+      "line_label": "i 3",
+      "transliteration": "e₂ - an - na - tum₂"
+    },
+    {
+      "line_id": "Q001064.4",
+      "line_label": "i 4",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001064.5",
+      "line_label": "i 5",
+      "transliteration": "lagaš ki - ke₄"
+    },
+    {
+      "line_id": "Q001064.6",
+      "line_label": "i 6",
+      "transliteration": "šag₄ kug - ge pad₃ - da"
+    },
+    {
+      "line_id": "Q001064.7",
+      "line_label": "i 7",
+      "transliteration": "d nanše"
+    },
+    {
+      "line_id": "Q001064.8",
+      "line_label": "i 8",
+      "transliteration": "nin uru₁₆ - na - ke₄"
+    },
+    {
+      "line_id": "Q001064.9",
+      "line_label": "i 9",
+      "transliteration": "kur gu₂ ŋar - ŋar"
+    },
+    {
+      "line_id": "Q001064.10",
+      "line_label": "i 10",
+      "transliteration": "d nin - ŋir₂ - su₂ - ka - ke₄"
+    },
+    {
+      "line_id": "Q001064.11",
+      "line_label": "i 11",
+      "transliteration": "dumu aya₂ - kur - gal"
+    },
+    {
+      "line_id": "Q001064.12",
+      "line_label": "i 12",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001064.13",
+      "line_label": "i 13",
+      "transliteration": "lagaš ki - ka - ke₄"
+    },
+    {
+      "line_id": "Q001064.15",
+      "line_label": "i 19",
+      "transliteration": "umma ki"
+    },
+    {
+      "line_id": "Q001064.16",
+      "line_label": "i 20",
+      "transliteration": "gu₂ - ⸢ eden ⸣ - na"
+    },
+    {
+      "line_id": "Q001064.17",
+      "line_label": "ii 1",
+      "transliteration": "ba - de₆ - a"
+    },
+    {
+      "line_id": "Q001064.18",
+      "line_label": "ii 2",
+      "transliteration": "mu - ḫa - ⸢ lam - ma ⸣ - a"
+    },
+    {
+      "line_id": "Q001064.19",
+      "line_label": "ii 3",
+      "transliteration": "d nin - ŋir₂ - su₂ - ra"
+    },
+    {
+      "line_id": "Q001064.20",
+      "line_label": "ii 4",
+      "transliteration": "a - šag₄ ašag ki aŋ₂ - ni"
+    },
+    {
+      "line_id": "Q001064.21",
+      "line_label": "ii 5",
+      "transliteration": "gu₂ - eden - na"
+    },
+    {
+      "line_id": "Q001064.22",
+      "line_label": "ii 6",
+      "transliteration": "šu - na mu - ni - gi₄"
+    },
+    {
+      "line_id": "Q001064.23",
+      "line_label": "ii 7",
+      "transliteration": "ki - sur - ra"
+    },
+    {
+      "line_id": "Q001064.24",
+      "line_label": "ii 8",
+      "transliteration": "gu₂ - gu₂ ŋir₂ - su₂ ki - ka"
+    },
+    {
+      "line_id": "Q001064.25",
+      "line_label": "ii 9",
+      "transliteration": "d nin - ŋir₂ - su₂ - ra"
+    },
+    {
+      "line_id": "Q001064.26",
+      "line_label": "ii 10",
+      "transliteration": "šu - na mu - ni - ⸢ gi₄ ⸣ - a"
+    },
+    {
+      "line_id": "Q001064.27",
+      "line_label": "ii 11",
+      "transliteration": "lum - ma ŋir₂ - nun - ta šag₄ kug - ge pad₃ - da"
+    },
+    {
+      "line_id": "Q001064.28",
+      "line_label": "ii 12",
+      "transliteration": "mu mu - na - še₂₁"
+    },
+    {
+      "line_id": "Q001064.29",
+      "line_label": "ii 13",
+      "transliteration": "⸢ x ⸣ arad₂"
+    },
+    {
+      "line_id": "Q001064.30",
+      "line_label": "ii 14",
+      "transliteration": "[... ] ⸢ x ⸣"
+    },
+    {
+      "line_id": "Q001064.32",
+      "line_label": "ii 19",
+      "transliteration": "a ⸢ mu ⸣ - na - [ ru ]"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "text_id": "oracc.etcsri.Q000989",
+  "corpus": "oracc",
+  "title": "Amar-Suena 16 (RIME 3/2.01.03.16 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000989",
+  "paragraphs": [
+    {
+      "para_id": "Q000989.1",
+      "line_range": "1",
+      "translation": "(1) In Karzida , where since the beginning of time there never had been a ĝipar built and no en priestess had dwelt , Amar-Suena , whose name was proclaimed by Enlil in Nibru , the steadfast supporter of Enlil's temple , the just god , the Utu of his land , the powerful king , king of Urim , king of the four quarters , the beloved of Nanna , built his holy ĝipar for Nanna of Karzida , his beloved master , ( and ) made his beloved en priestess enter it . In so doing Amar-Suena will lengthen the days ( of his life ) . He dedicated it for his well-being to him ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000989.1",
+      "line_label": "1",
+      "transliteration": "d nanna"
+    },
+    {
+      "line_id": "Q000989.2",
+      "line_label": "2",
+      "transliteration": "kar - zid - da"
+    },
+    {
+      "line_id": "Q000989.3",
+      "line_label": "3",
+      "transliteration": "lugal ki aŋ₂ - ŋa₂ - ni - ir"
+    },
+    {
+      "line_id": "Q000989.4",
+      "line_label": "4",
+      "transliteration": "d amar - d suen"
+    },
+    {
+      "line_id": "Q000989.5",
+      "line_label": "5",
+      "transliteration": "d en - lil₂ - le"
+    },
+    {
+      "line_id": "Q000989.6",
+      "line_label": "6",
+      "transliteration": "nibru ki - a"
+    },
+    {
+      "line_id": "Q000989.7",
+      "line_label": "7",
+      "transliteration": "mu pad₃ - da"
+    },
+    {
+      "line_id": "Q000989.8",
+      "line_label": "8",
+      "transliteration": "saŋ - us₂"
+    },
+    {
+      "line_id": "Q000989.9",
+      "line_label": "9",
+      "transliteration": "e₂ d en - lil₂ - ka"
+    },
+    {
+      "line_id": "Q000989.10",
+      "line_label": "10",
+      "transliteration": "diŋir zid"
+    },
+    {
+      "line_id": "Q000989.11",
+      "line_label": "11",
+      "transliteration": "d utu kalam - ma - na"
+    },
+    {
+      "line_id": "Q000989.12",
+      "line_label": "12",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q000989.13",
+      "line_label": "13",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q000989.14",
+      "line_label": "14",
+      "transliteration": "lugal an - ub - da limmu₂ - ba - ke₄"
+    },
+    {
+      "line_id": "Q000989.15",
+      "line_label": "15",
+      "transliteration": "kar - zid - da - a"
+    },
+    {
+      "line_id": "Q000989.16",
+      "line_label": "16",
+      "transliteration": "ud ul - li₂ - a - ta"
+    },
+    {
+      "line_id": "Q000989.17",
+      "line_label": "17",
+      "transliteration": "ŋi₆ - par₄ - bi nu - du₃ - am₃"
+    },
+    {
+      "line_id": "Q000989.18",
+      "line_label": "18",
+      "transliteration": "en nu - un - til₃ - la - am₃"
+    },
+    {
+      "line_id": "Q000989.19",
+      "line_label": "19",
+      "transliteration": "d amar - d suen"
+    },
+    {
+      "line_id": "Q000989.20",
+      "line_label": "20",
+      "transliteration": "ki aŋ₂ d nanna - ke₄"
+    },
+    {
+      "line_id": "Q000989.21",
+      "line_label": "21",
+      "transliteration": "ŋi₆ - par₄ kug - ga - ni"
+    },
+    {
+      "line_id": "Q000989.22",
+      "line_label": "22",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q000989.23",
+      "line_label": "23",
+      "transliteration": "en ki aŋ₂ - ŋa₂ - ni"
+    },
+    {
+      "line_id": "Q000989.24",
+      "line_label": "24",
+      "transliteration": "mu - na - ni - kur₉"
+    },
+    {
+      "line_id": "Q000989.25",
+      "line_label": "25",
+      "transliteration": "d amar - d suen - ke₄"
+    },
+    {
+      "line_id": "Q000989.26",
+      "line_label": "26",
+      "transliteration": "ud im - da - ab - su₃ - re₆"
+    },
+    {
+      "line_id": "Q000989.27",
+      "line_label": "27",
+      "transliteration": "nam - til₃ - la - ni - še₃"
+    },
+    {
+      "line_id": "Q000989.28",
+      "line_label": "28",
+      "transliteration": "a mu - na - ru"
+    }
+  ]
+}

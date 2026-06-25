@@ -1,0 +1,47 @@
+{
+  "text_id": "oracc.etcsri.Q001147",
+  "corpus": "oracc",
+  "title": "URU-KA-gina 31add (FAOS 05/1, Ukg 31)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001147",
+  "paragraphs": [
+    {
+      "para_id": "Q001147.1",
+      "line_range": "1",
+      "translation": "(1) Guards of the city wall : Ur-Ningublaga , the captain is Šul-barag . Iri-kagina , king of Lagaš . Fifth ( year ) ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001147.1",
+      "line_label": "1",
+      "transliteration": "en - nu bad₃"
+    },
+    {
+      "line_id": "Q001147.2",
+      "line_label": "2",
+      "transliteration": "ur - d nin - gublaga"
+    },
+    {
+      "line_id": "Q001147.3",
+      "line_label": "3",
+      "transliteration": "ugula šul - barag"
+    },
+    {
+      "line_id": "Q001147.4",
+      "line_label": "4",
+      "transliteration": "iri - ka - gen₆ - na"
+    },
+    {
+      "line_id": "Q001147.5",
+      "line_label": "5",
+      "transliteration": "lugal"
+    },
+    {
+      "line_id": "Q001147.6",
+      "line_label": "6",
+      "transliteration": "⸢ lagaš ⸣ ki 5( diš )"
+    }
+  ]
+}

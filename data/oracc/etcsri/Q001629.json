@@ -1,0 +1,67 @@
+{
+  "text_id": "oracc.etcsri.Q001629",
+  "corpus": "oracc",
+  "title": "Ur-Namma 27 (RIME 3/2.01.01.27 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001629",
+  "paragraphs": [
+    {
+      "para_id": "Q001629.1",
+      "line_range": "1",
+      "translation": "(1) For Inana , lady of the E-ana , his lady , Ur-Namma , the powerful man , king of Urim , king of Sumer and Akkad , dug the Iturungal canal , her beloved canal ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001629.1",
+      "line_label": "1",
+      "transliteration": "d inana"
+    },
+    {
+      "line_id": "Q001629.2",
+      "line_label": "2",
+      "transliteration": "⸢ nin ⸣ e₂ - an - na"
+    },
+    {
+      "line_id": "Q001629.3",
+      "line_label": "3",
+      "transliteration": "nin - a - ni"
+    },
+    {
+      "line_id": "Q001629.4",
+      "line_label": "4",
+      "transliteration": "ur - d namma"
+    },
+    {
+      "line_id": "Q001629.5",
+      "line_label": "5",
+      "transliteration": "nita kalag - ga"
+    },
+    {
+      "line_id": "Q001629.6",
+      "line_label": "6",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q001629.7",
+      "line_label": "7",
+      "transliteration": "⸢ lugal ⸣ ki - en - gi₄ ki - uri - ke₄"
+    },
+    {
+      "line_id": "Q001629.8",
+      "line_label": "8",
+      "transliteration": "id₂ - en - urin - gal"
+    },
+    {
+      "line_id": "Q001629.9",
+      "line_label": "9",
+      "transliteration": "id₂ ki aŋ₂ - ni"
+    },
+    {
+      "line_id": "Q001629.10",
+      "line_label": "10",
+      "transliteration": "⸢ mu ⸣ - na - ba - al"
+    }
+  ]
+}

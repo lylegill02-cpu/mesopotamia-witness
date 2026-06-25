@@ -1,0 +1,97 @@
+{
+  "text_id": "oracc.etcsri.Q001494",
+  "corpus": "oracc",
+  "title": "Gudea 052 (RIME 3/1.01.07.052 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001494",
+  "paragraphs": [
+    {
+      "para_id": "Q001494.1",
+      "line_range": "1",
+      "translation": "(i 1) For Ninĝirsu , the powerful warrior of Enlil , his master , Gudea , ruler of Lagaš , who built Ninĝirsu's E-ninnu , built and restored his spectacular Kasura gate , which brings abundance . ( This ) is part of the door ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001494.1",
+      "line_label": "i 1",
+      "transliteration": "d nin - ŋir₂ - ⸢ su ⸣"
+    },
+    {
+      "line_id": "Q001494.2",
+      "line_label": "i 2",
+      "transliteration": "ur - saŋ kalag - ga"
+    },
+    {
+      "line_id": "Q001494.3",
+      "line_label": "i 3",
+      "transliteration": "d en - lil₂ - la₂"
+    },
+    {
+      "line_id": "Q001494.4",
+      "line_label": "i 4",
+      "transliteration": "lugal - a - ni"
+    },
+    {
+      "line_id": "Q001494.5",
+      "line_label": "i 5",
+      "transliteration": "gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q001494.6",
+      "line_label": "i 6",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001494.7",
+      "line_label": "i 7",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001494.8",
+      "line_label": "i 8",
+      "transliteration": "lu₂ e₂ - ninnu"
+    },
+    {
+      "line_id": "Q001494.9",
+      "line_label": "i 9",
+      "transliteration": "d nin - ŋir₂ - su - ka"
+    },
+    {
+      "line_id": "Q001494.10",
+      "line_label": "ii 1",
+      "transliteration": "[ in - du₃ - a ]"
+    },
+    {
+      "line_id": "Q001494.11",
+      "line_label": "ii 2",
+      "transliteration": "[ abul ka₂ - sur - ra ]"
+    },
+    {
+      "line_id": "Q001494.12",
+      "line_label": "ii 3",
+      "transliteration": "[ igi u₆ di ]"
+    },
+    {
+      "line_id": "Q001494.13",
+      "line_label": "ii 4",
+      "transliteration": "⸢ ḫe₂ - ŋal₂ ⸣ il₂ - ni"
+    },
+    {
+      "line_id": "Q001494.14",
+      "line_label": "ii 5",
+      "transliteration": "⸢ mu ⸣ - [ na - du₃ ]"
+    },
+    {
+      "line_id": "Q001494.15",
+      "line_label": "ii 6",
+      "transliteration": "ki - be₂ ⸢ mu - na ⸣ - [ gi₄ ]"
+    },
+    {
+      "line_id": "Q001494.16",
+      "line_label": "ii 7",
+      "transliteration": "ŋeš ig - kam"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "text_id": "oracc.etcsri.Q001044",
+  "corpus": "oracc",
+  "title": "Ur-Nanše 24a (RIME 1.09.01.24a composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001044",
+  "paragraphs": [
+    {
+      "para_id": "Q001044.1",
+      "line_range": "1",
+      "translation": "(1) For/to Ninĝirsu , Ur-Nanše , king of Lagaš , child of Gunidu , ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001044.1",
+      "line_label": "1",
+      "transliteration": "d nin - ŋir₂ - [ su ]"
+    },
+    {
+      "line_id": "Q001044.2",
+      "line_label": "2",
+      "transliteration": "[ ur ] - d ⸢ nanše ⸣"
+    },
+    {
+      "line_id": "Q001044.3",
+      "line_label": "3",
+      "transliteration": "[ lugal ]"
+    },
+    {
+      "line_id": "Q001044.4",
+      "line_label": "4",
+      "transliteration": "⸢ lagaš ⸣"
+    },
+    {
+      "line_id": "Q001044.5",
+      "line_label": "5",
+      "transliteration": "dumu gu - NI - ⸢ DU ⸣"
+    }
+  ]
+}

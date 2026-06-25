@@ -1,0 +1,47 @@
+{
+  "text_id": "oracc.etcsri.Q001726",
+  "corpus": "oracc",
+  "title": "Šulgi 95 / CDLI Seals 000343 (CDLI Seals 000343 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001726",
+  "paragraphs": [
+    {
+      "para_id": "Q001726.1",
+      "line_range": "1",
+      "translation": "(1) Ur-Suen , the military governor of Unug and Dēr : Riṣ-ilum , is his courier ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001726.1",
+      "line_label": "1",
+      "transliteration": "ur - d suen"
+    },
+    {
+      "line_id": "Q001726.2",
+      "line_label": "2",
+      "transliteration": "šagina"
+    },
+    {
+      "line_id": "Q001726.3",
+      "line_label": "3",
+      "transliteration": "unug ki - ga"
+    },
+    {
+      "line_id": "Q001726.4",
+      "line_label": "4",
+      "transliteration": "u₃ BAD₃ . AN ki"
+    },
+    {
+      "line_id": "Q001726.5",
+      "line_label": "5",
+      "transliteration": "ri - iṣ - DINGIR"
+    },
+    {
+      "line_id": "Q001726.6",
+      "line_label": "6",
+      "transliteration": "ra₂ - gaba - ni"
+    }
+  ]
+}

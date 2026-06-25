@@ -1,0 +1,57 @@
+{
+  "text_id": "oracc.etcsri.Q000883",
+  "corpus": "oracc",
+  "title": "Ur-Bau 03 (RIME 3/1.01.06.03 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000883",
+  "paragraphs": [
+    {
+      "para_id": "Q000883.1",
+      "line_range": "1",
+      "translation": "(1) For Ninĝirsu , the powerful warrior of Enlil , Ur-Bau , ruler of Lagaš , built his temple ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000883.1",
+      "line_label": "1",
+      "transliteration": "d nin - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q000883.2",
+      "line_label": "2",
+      "transliteration": "ur - saŋ kalag - ga"
+    },
+    {
+      "line_id": "Q000883.3",
+      "line_label": "3",
+      "transliteration": "d en - lil₂ - la₂ - ra"
+    },
+    {
+      "line_id": "Q000883.4",
+      "line_label": "4",
+      "transliteration": "ur - d ba - u₂"
+    },
+    {
+      "line_id": "Q000883.5",
+      "line_label": "5",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q000883.6",
+      "line_label": "6",
+      "transliteration": "lagaš ki - ke₄"
+    },
+    {
+      "line_id": "Q000883.7",
+      "line_label": "7",
+      "transliteration": "e₂ - a - ni"
+    },
+    {
+      "line_id": "Q000883.8",
+      "line_label": "8",
+      "transliteration": "mu - na - du₃"
+    }
+  ]
+}

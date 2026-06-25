@@ -1,0 +1,32 @@
+{
+  "text_id": "oracc.etcsri.Q001276",
+  "corpus": "oracc",
+  "title": "Anonymous Nippur 21 (FAOS 05/2, AnNip 21)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001276",
+  "paragraphs": [
+    {
+      "para_id": "Q001276.2",
+      "line_range": "2",
+      "translation": "(1') To ..., ..., the midwife , dedicated this ( plate ) ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001276.2",
+      "line_label": "1'",
+      "transliteration": "⸢ x ⸣ - na - na"
+    },
+    {
+      "line_id": "Q001276.3",
+      "line_label": "2'",
+      "transliteration": "šag₄ - zu"
+    },
+    {
+      "line_id": "Q001276.4",
+      "line_label": "3'",
+      "transliteration": "a mu - ru"
+    }
+  ]
+}

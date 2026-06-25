@@ -1,0 +1,47 @@
+{
+  "text_id": "oracc.etcsri.Q002035",
+  "corpus": "oracc",
+  "title": "Sumu-El 2002 (RIME 4.02.07.2002 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q002035",
+  "paragraphs": [
+    {
+      "para_id": "Q002035.1",
+      "line_range": "1",
+      "translation": "(1) To Ningal , his lady , ... for the well-being of Sumu-El , the powerful man , king of Urim ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q002035.1",
+      "line_label": "1",
+      "transliteration": "d nin - gal"
+    },
+    {
+      "line_id": "Q002035.2",
+      "line_label": "2",
+      "transliteration": "⸢ nin ⸣ - a - ni - ir"
+    },
+    {
+      "line_id": "Q002035.3",
+      "line_label": "3",
+      "transliteration": "⸢ nam ⸣ - til₃"
+    },
+    {
+      "line_id": "Q002035.4",
+      "line_label": "4",
+      "transliteration": "[ d su ] - mu - AN"
+    },
+    {
+      "line_id": "Q002035.5",
+      "line_label": "5",
+      "transliteration": "[ nita kalag ] - ga"
+    },
+    {
+      "line_id": "Q002035.6",
+      "line_label": "6",
+      "transliteration": "[ lugal urim₅ ki ] - ⸢ ma ⸣"
+    }
+  ]
+}

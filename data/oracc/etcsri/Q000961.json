@@ -1,0 +1,57 @@
+{
+  "text_id": "oracc.etcsri.Q000961",
+  "corpus": "oracc",
+  "title": "Šulgi 04 (RIME 3/2.01.02.004 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000961",
+  "paragraphs": [
+    {
+      "para_id": "Q000961.1",
+      "line_range": "1",
+      "translation": "(1) For Nimintaba , his lady , Šulgi , the powerful man , king of Urim , king of Sumer and Akkad , built her temple ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000961.1",
+      "line_label": "1",
+      "transliteration": "d nimin - tab - ba"
+    },
+    {
+      "line_id": "Q000961.2",
+      "line_label": "2",
+      "transliteration": "nin - a - ni"
+    },
+    {
+      "line_id": "Q000961.3",
+      "line_label": "3",
+      "transliteration": "šul - gi"
+    },
+    {
+      "line_id": "Q000961.4",
+      "line_label": "4",
+      "transliteration": "nita kalag - ga"
+    },
+    {
+      "line_id": "Q000961.5",
+      "line_label": "5",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q000961.6",
+      "line_label": "6",
+      "transliteration": "lugal ki - en - gi ki - uri - ke₄"
+    },
+    {
+      "line_id": "Q000961.7",
+      "line_label": "7",
+      "transliteration": "e₂ - a - ni"
+    },
+    {
+      "line_id": "Q000961.8",
+      "line_label": "8",
+      "transliteration": "mu - na - du₃"
+    }
+  ]
+}

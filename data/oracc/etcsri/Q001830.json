@@ -1,0 +1,102 @@
+{
+  "text_id": "oracc.etcsri.Q001830",
+  "corpus": "oracc",
+  "title": "Šu-Suen 33 (RIME 3/2.01.04.33 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001830",
+  "paragraphs": [
+    {
+      "para_id": "Q001830.1",
+      "line_range": "1",
+      "translation": "(1) Šu-Suen , the beloved of Enlil , the king whom Enlil chose with the love of his heart , king of Urim , king of Sumer and Akkad , king of the four quarters : Babati , the scribe , the comptroller , the archivist , the steward of the king , the governor of Awal and Apiak , the canal inspector of the irrigated lands , the administrator of the two ladies , the temple administrator of Belat-terraban and Belat-suḫnir , the brother of Abi-simti , his beloved spouse , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001830.1",
+      "line_label": "1",
+      "transliteration": "d šu - d suen ki aŋ₂ d en - lil₂ - le"
+    },
+    {
+      "line_id": "Q001830.2",
+      "line_label": "2",
+      "transliteration": "lugal d en - lil₂ - le"
+    },
+    {
+      "line_id": "Q001830.3",
+      "line_label": "3",
+      "transliteration": "ki aŋ₂ šag₄ - ga - ni i₃ - pad₃"
+    },
+    {
+      "line_id": "Q001830.4",
+      "line_label": "4",
+      "transliteration": "lugal urim₂ ki - ma"
+    },
+    {
+      "line_id": "Q001830.5",
+      "line_label": "5",
+      "transliteration": "lugal ki - en - gi ki - uri - ke"
+    },
+    {
+      "line_id": "Q001830.6",
+      "line_label": "6",
+      "transliteration": "lugal an - ub - da limmu₂ - ba - ke₄"
+    },
+    {
+      "line_id": "Q001830.7",
+      "line_label": "7",
+      "transliteration": "⸢ ba₄ ⸣ - ba₄ - ti dub - ⸢ sar ⸣ ša₃ - tam"
+    },
+    {
+      "line_id": "Q001830.8",
+      "line_label": "8",
+      "transliteration": "bisaŋ - dub - ba agrig ⸢ lugal ? ⸣"
+    },
+    {
+      "line_id": "Q001830.9",
+      "line_label": "9",
+      "transliteration": "ensi₂ a - wa - al ⸢ ki ⸣"
+    },
+    {
+      "line_id": "Q001830.10",
+      "line_label": "10",
+      "transliteration": "u₃ a - pi - ak ⸢ ki ⸣"
+    },
+    {
+      "line_id": "Q001830.11",
+      "line_label": "11",
+      "transliteration": "ku₃ - gal ma - da a dug₄ - ga"
+    },
+    {
+      "line_id": "Q001830.12",
+      "line_label": "12",
+      "transliteration": "šabra nin min - a - bi"
+    },
+    {
+      "line_id": "Q001830.13",
+      "line_label": "13",
+      "transliteration": "saŋŋa d be - la - at - ter ! ( NIR -) ba - an"
+    },
+    {
+      "line_id": "Q001830.14",
+      "line_label": "14",
+      "transliteration": "u₃ d be - la - at - šuk - nir"
+    },
+    {
+      "line_id": "Q001830.15",
+      "line_label": "15",
+      "transliteration": "šeš a - bi - si₂ - im - ti"
+    },
+    {
+      "line_id": "Q001830.16",
+      "line_label": "16",
+      "transliteration": "dam ki aŋ₂ - ŋa₂ - ni"
+    },
+    {
+      "line_id": "Q001830.17",
+      "line_label": "17",
+      "transliteration": "arad₂ - zu"
+    }
+  ]
+}

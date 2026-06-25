@@ -1,0 +1,167 @@
+{
+  "text_id": "oracc.etcsri.Q001023",
+  "corpus": "oracc",
+  "title": "Ur-Nanše 04 (RIME 1.09.01.04 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001023",
+  "paragraphs": [
+    {
+      "para_id": "Q001023.1",
+      "line_range": "1",
+      "translation": "(1) Ur-Nanše , king of Lagaš , child of Gunidu , built the temple of Ninĝirsu ."
+    },
+    {
+      "para_id": "Q001023.7",
+      "line_range": "7",
+      "translation": "(7) He built the temple of Nanše ."
+    },
+    {
+      "para_id": "Q001023.9",
+      "line_range": "9",
+      "translation": "(9) He built the Abzu-banda ."
+    },
+    {
+      "para_id": "Q001023.11",
+      "line_range": "11",
+      "translation": "(11) He built the Šeše-ĝara ."
+    },
+    {
+      "para_id": "Q001023.13",
+      "line_range": "13",
+      "translation": "(Upper Captions, 1') Awil-kinatum ."
+    },
+    {
+      "para_id": "Q001023.14",
+      "line_range": "14",
+      "translation": "(Upper Captions, 2') Lugal-ezen , child ."
+    },
+    {
+      "para_id": "Q001023.15",
+      "line_range": "15",
+      "translation": "(Upper Captions, 3') Mukuršubata , child ."
+    },
+    {
+      "para_id": "Q001023.16",
+      "line_range": "16",
+      "translation": "(Upper Captions, 4') Hursaĝše-mah"
+    },
+    {
+      "para_id": "Q001023.17",
+      "line_range": "17",
+      "translation": "(Lower Captions, 1) Anita"
+    },
+    {
+      "para_id": "Q001023.18",
+      "line_range": "18",
+      "translation": "(Lower Captions, 2) Balu , chief snake charmer ."
+    },
+    {
+      "para_id": "Q001023.19",
+      "line_range": "19",
+      "translation": "(Lower Captions, 3) Aja-kurgal , child ."
+    },
+    {
+      "para_id": "Q001023.20",
+      "line_range": "20",
+      "translation": "(Lower Captions, 4) Namazu , scribe ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001023.1",
+      "line_label": "1",
+      "transliteration": "ur - d nanše"
+    },
+    {
+      "line_id": "Q001023.2",
+      "line_label": "2",
+      "transliteration": "lugal"
+    },
+    {
+      "line_id": "Q001023.3",
+      "line_label": "3",
+      "transliteration": "lagaš"
+    },
+    {
+      "line_id": "Q001023.4",
+      "line_label": "4",
+      "transliteration": "dumu gu - NI - DU"
+    },
+    {
+      "line_id": "Q001023.5",
+      "line_label": "5",
+      "transliteration": "e₂ nin - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q001023.6",
+      "line_label": "6",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001023.7",
+      "line_label": "7",
+      "transliteration": "e₂ d nanše"
+    },
+    {
+      "line_id": "Q001023.8",
+      "line_label": "8",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001023.9",
+      "line_label": "9",
+      "transliteration": "abzu - ban₃ - da"
+    },
+    {
+      "line_id": "Q001023.10",
+      "line_label": "10",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001023.11",
+      "line_label": "11",
+      "transliteration": "šeš - ŋar mu - du₃"
+    },
+    {
+      "line_id": "Q001023.13",
+      "line_label": "Upper Captions, 1'",
+      "transliteration": "⸢ LU₂ ⸣ - ki₂ - na - tum"
+    },
+    {
+      "line_id": "Q001023.14",
+      "line_label": "Upper Captions, 2'",
+      "transliteration": "lugal - ezen dumu"
+    },
+    {
+      "line_id": "Q001023.15",
+      "line_label": "Upper Captions, 3'",
+      "transliteration": "mu - kur - šuba₄ - ta dumu"
+    },
+    {
+      "line_id": "Q001023.16",
+      "line_label": "Upper Captions, 4'",
+      "transliteration": "ḫur ! ( GUR₈ -) saŋ - še₃ ! ( NAM₂ -) maḫ₂"
+    },
+    {
+      "line_id": "Q001023.17",
+      "line_label": "Lower Captions, 1",
+      "transliteration": "a₂ - ni - ta"
+    },
+    {
+      "line_id": "Q001023.18",
+      "line_label": "Lower Captions, 2",
+      "transliteration": "ba - lu₅ muš - laḫ₅ gal"
+    },
+    {
+      "line_id": "Q001023.19",
+      "line_label": "Lower Captions, 3",
+      "transliteration": "aya₂ - kur - gal dumu"
+    },
+    {
+      "line_id": "Q001023.20",
+      "line_label": "Lower Captions, 4",
+      "transliteration": "nam - a - zu₅ lu₂ dub - sar"
+    }
+  ]
+}

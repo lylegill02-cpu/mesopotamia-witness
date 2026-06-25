@@ -1,0 +1,132 @@
+{
+  "text_id": "oracc.etcsri.Q001005",
+  "corpus": "oracc",
+  "title": "Ibbi-Suen 01 (RIME 3/2.01.05.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001005",
+  "paragraphs": [
+    {
+      "para_id": "Q001005.1",
+      "line_range": "1",
+      "translation": "(i 1) Because of his great love for Suen , Ibbi-Suen , the protective god of his land , the powerful king , king of Urim , king of the four quarters , decided to extend Urim . On this account , in order to make the Land secure , and so that the south and the highlands surrender , he surrounded his city with a big wall whose archer's loopholes cannot be reached being ( as high ) as a verdant mountain range . He marked out the place of its foundation deposits in ( its ) foundation ."
+    },
+    {
+      "para_id": "Q001005.21",
+      "line_range": "21",
+      "translation": "(ii 7) The name of this wall is „Ibbi-Suen is the majestic canal-inspector” ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001005.1",
+      "line_label": "i 1",
+      "transliteration": "d i - bi₂ - d suen"
+    },
+    {
+      "line_id": "Q001005.2",
+      "line_label": "i 2",
+      "transliteration": "diŋir kalam - ma - na"
+    },
+    {
+      "line_id": "Q001005.3",
+      "line_label": "i 3",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q001005.4",
+      "line_label": "i 4",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q001005.5",
+      "line_label": "i 5",
+      "transliteration": "lugal an - ub - da limmu₂ - ba - ke₄"
+    },
+    {
+      "line_id": "Q001005.6",
+      "line_label": "i 6",
+      "transliteration": "nam gal ki aŋ₂"
+    },
+    {
+      "line_id": "Q001005.7",
+      "line_label": "i 7",
+      "transliteration": "d suen - na - da"
+    },
+    {
+      "line_id": "Q001005.8",
+      "line_label": "i 8",
+      "transliteration": "urim₅ ki"
+    },
+    {
+      "line_id": "Q001005.9",
+      "line_label": "i 9",
+      "transliteration": "daŋal - e - de₃"
+    },
+    {
+      "line_id": "Q001005.10",
+      "line_label": "i 10",
+      "transliteration": "sa im - ma - ši - ŋar"
+    },
+    {
+      "line_id": "Q001005.11",
+      "line_label": "i 11",
+      "transliteration": "ur₅ - ta"
+    },
+    {
+      "line_id": "Q001005.12",
+      "line_label": "i 12",
+      "transliteration": "kalam gen₆ - ne₂"
+    },
+    {
+      "line_id": "Q001005.13",
+      "line_label": "i 13",
+      "transliteration": "sig nim gurum - e - de₃"
+    },
+    {
+      "line_id": "Q001005.14",
+      "line_label": "i 14",
+      "transliteration": "bad₃ gal"
+    },
+    {
+      "line_id": "Q001005.15",
+      "line_label": "ii 1",
+      "transliteration": "za - pa - aŋ₂ - ba šu nu - ku₄ - ku₄"
+    },
+    {
+      "line_id": "Q001005.16",
+      "line_label": "ii 2",
+      "transliteration": "ḫur - saŋ sig₇ - ga - gin₇"
+    },
+    {
+      "line_id": "Q001005.17",
+      "line_label": "ii 3",
+      "transliteration": "iri ki - ne₂ im - mi - dab₆"
+    },
+    {
+      "line_id": "Q001005.18",
+      "line_label": "ii 4",
+      "transliteration": "uru₁₈ temen - be₂"
+    },
+    {
+      "line_id": "Q001005.19",
+      "line_label": "ii 5",
+      "transliteration": "ki in - ma - ni - pad₃"
+    },
+    {
+      "line_id": "Q001005.20",
+      "line_label": "ii 6",
+      "transliteration": "bad₃ - ba"
+    },
+    {
+      "line_id": "Q001005.21",
+      "line_label": "ii 7",
+      "transliteration": "d i - bi₂ - d suen gu₂ - gal nam - nun - na"
+    },
+    {
+      "line_id": "Q001005.22",
+      "line_label": "ii 8",
+      "transliteration": "mu - bi - im"
+    }
+  ]
+}

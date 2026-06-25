@@ -1,0 +1,72 @@
+{
+  "text_id": "oracc.etcsri.Q001803",
+  "corpus": "oracc",
+  "title": "Amar-Suena 2003 / CDLI Seals 005887 (CDLI Seals 005887 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001803",
+  "paragraphs": [
+    {
+      "para_id": "Q001803.1",
+      "line_range": "1",
+      "translation": "(1) Amar-Suena , the powerful king , king of Urim , king of the four quarters : Lugal-melem , governor of Nibru , scribe ..., child of ..., scribe of the ĝipar in Nibru , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001803.1",
+      "line_label": "1",
+      "transliteration": "[ d amar - d ] ⸢ suen ⸣"
+    },
+    {
+      "line_id": "Q001803.2",
+      "line_label": "2",
+      "transliteration": "[ lugal kalag - ga ]"
+    },
+    {
+      "line_id": "Q001803.3",
+      "line_label": "3",
+      "transliteration": "[ lugal ] ⸢ urim₅ ⸣ ki - ma"
+    },
+    {
+      "line_id": "Q001803.4",
+      "line_label": "4",
+      "transliteration": "[ lugal ] an - ub - da limmu₂ - ba"
+    },
+    {
+      "line_id": "Q001803.5",
+      "line_label": "5",
+      "transliteration": "lugal - ⸢ me ⸣ - [ lem₄ ]"
+    },
+    {
+      "line_id": "Q001803.6",
+      "line_label": "6",
+      "transliteration": "ensi₂ nibru ki"
+    },
+    {
+      "line_id": "Q001803.7",
+      "line_label": "7",
+      "transliteration": "⸢ dub ⸣ - sar ⸢ zag ⸣ - ga"
+    },
+    {
+      "line_id": "Q001803.8",
+      "line_label": "8",
+      "transliteration": "dumu [... ] - d en - lil₂"
+    },
+    {
+      "line_id": "Q001803.9",
+      "line_label": "9",
+      "transliteration": "dub - [ sar ] ŋi₆ - ⸢ par₃ ⸣"
+    },
+    {
+      "line_id": "Q001803.10",
+      "line_label": "10",
+      "transliteration": "⸢ nibru ⸣ ki - ka"
+    },
+    {
+      "line_id": "Q001803.11",
+      "line_label": "11",
+      "transliteration": "arad₂ - [ zu ? ]"
+    }
+  ]
+}

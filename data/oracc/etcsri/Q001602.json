@@ -1,0 +1,32 @@
+{
+  "text_id": "oracc.etcsri.Q001602",
+  "corpus": "oracc",
+  "title": "Lagaš II Unidentified 1013 (RIME 3/1.01.13.1013 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001602",
+  "paragraphs": [
+    {
+      "para_id": "Q001602.1",
+      "line_range": "1",
+      "translation": "(i 1) ... Ninsumun ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001602.1",
+      "line_label": "i 1",
+      "transliteration": "d nin - sumun₂"
+    },
+    {
+      "line_id": "Q001602.2",
+      "line_label": "i 2",
+      "transliteration": "[... ]"
+    },
+    {
+      "line_id": "Q001602.4",
+      "line_label": "ii 1",
+      "transliteration": "⸢ x x ⸣"
+    }
+  ]
+}

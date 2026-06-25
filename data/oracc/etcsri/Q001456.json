@@ -1,0 +1,102 @@
+{
+  "text_id": "oracc.etcsri.Q001456",
+  "corpus": "oracc",
+  "title": "Utu-hegal 6 (RIME 2.13.06.06 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001456",
+  "paragraphs": [
+    {
+      "para_id": "Q001456.1",
+      "line_range": "1",
+      "translation": "(1) Whoever erases the inscription of Utu-heĝal , the powerful man , king of Unug , king of the four quarters , and writes his own name there — or make someone else do it on account of this curse — , or destroys this ( bowl ) , may his reign be cut short , may his lineage come to an end ! May An , the king of the gods , and Inana , lady of Unug , curse his ...!"
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001456.1",
+      "line_label": "1",
+      "transliteration": "d utu - ḫe₂ - ŋal₂"
+    },
+    {
+      "line_id": "Q001456.2",
+      "line_label": "2",
+      "transliteration": "nita kalag - ga"
+    },
+    {
+      "line_id": "Q001456.3",
+      "line_label": "3",
+      "transliteration": "lugal unug ki - ga"
+    },
+    {
+      "line_id": "Q001456.4",
+      "line_label": "4",
+      "transliteration": "lugal an - ub - da limmu₅ - ba - ka"
+    },
+    {
+      "line_id": "Q001456.5",
+      "line_label": "5",
+      "transliteration": "lu₂ mu - sar - ra - na"
+    },
+    {
+      "line_id": "Q001456.6",
+      "line_label": "6",
+      "transliteration": "šu - ni bi₂ - in - ⸢ uru₁₂ ⸣"
+    },
+    {
+      "line_id": "Q001456.7",
+      "line_label": "7",
+      "transliteration": "mu - ni bi₂ - ⸢ ib₂ ⸣ - sar - a"
+    },
+    {
+      "line_id": "Q001456.8",
+      "line_label": "8",
+      "transliteration": "⸢ aš₂ ⸣ ba - la₂ - a - ⸢ ke₄ - eš₂ ⸣"
+    },
+    {
+      "line_id": "Q001456.9",
+      "line_label": "9",
+      "transliteration": "lu₂ - kur₂ - ra ḫe₂ - ni - in - dab₅"
+    },
+    {
+      "line_id": "Q001456.10",
+      "line_label": "10",
+      "transliteration": "ib₂ - zi - ra - a"
+    },
+    {
+      "line_id": "Q001456.11",
+      "line_label": "11",
+      "transliteration": "bala - a - ni"
+    },
+    {
+      "line_id": "Q001456.12",
+      "line_label": "12",
+      "transliteration": "⸢ ḫe₂ - kud ⸣"
+    },
+    {
+      "line_id": "Q001456.13",
+      "line_label": "13",
+      "transliteration": "⸢ numun - a ⸣ - ni ⸢ ḫe₂ ⸣ - til"
+    },
+    {
+      "line_id": "Q001456.14",
+      "line_label": "14",
+      "transliteration": "an lugal ⸢ diŋir ⸣ - [ re ] - ⸢ ne ⸣"
+    },
+    {
+      "line_id": "Q001456.15",
+      "line_label": "15",
+      "transliteration": "d inana ⸢ nin unug ⸣ ki - ⸢ ga ⸣"
+    },
+    {
+      "line_id": "Q001456.16",
+      "line_label": "16",
+      "transliteration": "in - x - ( x ) - x - na"
+    },
+    {
+      "line_id": "Q001456.17",
+      "line_label": "17",
+      "transliteration": "⸢ nam ḫa - ba - da ⸣ - [ kuru₅ ] - ne"
+    }
+  ]
+}

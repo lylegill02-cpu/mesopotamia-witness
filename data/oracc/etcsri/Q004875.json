@@ -1,0 +1,57 @@
+{
+  "text_id": "oracc.etcsri.Q004875",
+  "corpus": "oracc",
+  "title": "Sargon 2006add (RIME 2.01.01.add2006 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004875",
+  "paragraphs": [
+    {
+      "para_id": "Q004875.1",
+      "line_range": "1",
+      "translation": "(1) To Šara of the E-mah , Egal-isi , the temple administrator of Zabalam , dedicated this ( object ) for the well-being of Šarrukin , king of Agade ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004875.1",
+      "line_label": "1",
+      "transliteration": "⸢ d šara₂ ⸣"
+    },
+    {
+      "line_id": "Q004875.2",
+      "line_label": "2",
+      "transliteration": "⸢ lugal ⸣ e₂ - maḫ - ra"
+    },
+    {
+      "line_id": "Q004875.3",
+      "line_label": "3",
+      "transliteration": "⸢ e₂ ⸣ - gal - i₃ - si"
+    },
+    {
+      "line_id": "Q004875.4",
+      "line_label": "4",
+      "transliteration": "saŋŋa zabala₆ - ke₄"
+    },
+    {
+      "line_id": "Q004875.5",
+      "line_label": "5",
+      "transliteration": "nam - til₃"
+    },
+    {
+      "line_id": "Q004875.6",
+      "line_label": "6",
+      "transliteration": "⸢ šar ⸣ - ru - ⸢ GI lugal ⸣"
+    },
+    {
+      "line_id": "Q004875.7",
+      "line_label": "7",
+      "transliteration": "[ a - ga ] - ⸢ de₃ - ka - še₃ ⸣"
+    },
+    {
+      "line_id": "Q004875.8",
+      "line_label": "8",
+      "transliteration": "[ a mu ] - ⸢ na ⸣ - ru"
+    }
+  ]
+}

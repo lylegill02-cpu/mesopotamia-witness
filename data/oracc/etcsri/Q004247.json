@@ -1,0 +1,102 @@
+{
+  "text_id": "oracc.etcsri.Q004247",
+  "corpus": "oracc",
+  "title": "Ur-ešlila 1",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004247",
+  "paragraphs": [
+    {
+      "para_id": "Q004247.1",
+      "line_range": "1",
+      "translation": "(1) To Ninšubur , Ur-akkila , the barber , dedicated this ( stone tablet ) for his own well-being ."
+    },
+    {
+      "para_id": "Q004247.5",
+      "line_range": "5",
+      "translation": "(5) His spouse is Gan-Utu ."
+    },
+    {
+      "para_id": "Q004247.7",
+      "line_range": "7",
+      "translation": "(7) His children are Gan-šubur , Me-kikugta , Ursaĝ-Utu , Inim-Utu-zid , ..., ..., ..., Nin-izuzu ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004247.1",
+      "line_label": "1",
+      "transliteration": "d nin - šubur"
+    },
+    {
+      "line_id": "Q004247.2",
+      "line_label": "2",
+      "transliteration": "ur - akkilₓ ( AB . KID )- la₂ šu - i"
+    },
+    {
+      "line_id": "Q004247.3",
+      "line_label": "3",
+      "transliteration": "nam - til₃ - la - ni - da"
+    },
+    {
+      "line_id": "Q004247.4",
+      "line_label": "4",
+      "transliteration": "a mu - ru"
+    },
+    {
+      "line_id": "Q004247.5",
+      "line_label": "5",
+      "transliteration": "gan - utu"
+    },
+    {
+      "line_id": "Q004247.6",
+      "line_label": "6",
+      "transliteration": "dam - ni"
+    },
+    {
+      "line_id": "Q004247.7",
+      "line_label": "7",
+      "transliteration": "gan - šubur"
+    },
+    {
+      "line_id": "Q004247.8",
+      "line_label": "8",
+      "transliteration": "me - ki - kug - ta"
+    },
+    {
+      "line_id": "Q004247.9",
+      "line_label": "9",
+      "transliteration": "ur - saŋ - utu"
+    },
+    {
+      "line_id": "Q004247.10",
+      "line_label": "10",
+      "transliteration": "inim - utu - zid"
+    },
+    {
+      "line_id": "Q004247.11",
+      "line_label": "11",
+      "transliteration": "KA - TAR ? - ⸢ x ⸣"
+    },
+    {
+      "line_id": "Q004247.12",
+      "line_label": "12",
+      "transliteration": "KASKAL - TAR ?"
+    },
+    {
+      "line_id": "Q004247.13",
+      "line_label": "13",
+      "transliteration": "MAŠ"
+    },
+    {
+      "line_id": "Q004247.14",
+      "line_label": "14",
+      "transliteration": "nin - i₃ - zu - zu"
+    },
+    {
+      "line_id": "Q004247.15",
+      "line_label": "15",
+      "transliteration": "dumu - ni - me"
+    }
+  ]
+}

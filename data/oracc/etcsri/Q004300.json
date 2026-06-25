@@ -1,0 +1,52 @@
+{
+  "text_id": "oracc.etcsri.Q004300",
+  "corpus": "oracc",
+  "title": "Šulgi 2082add / CDLI Seals 000184 (CDLI Seals 000184 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004300",
+  "paragraphs": [
+    {
+      "para_id": "Q004300.1",
+      "line_range": "1",
+      "translation": "(i 1) Šulgi , the powerful man , king of Urim : Lu-diĝira , the soldier , child of Arad-hula , the overseer , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004300.1",
+      "line_label": "i 1",
+      "transliteration": "d šul - gi"
+    },
+    {
+      "line_id": "Q004300.2",
+      "line_label": "i 2",
+      "transliteration": "nita kalag - ga"
+    },
+    {
+      "line_id": "Q004300.3",
+      "line_label": "i 3",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q004300.4",
+      "line_label": "ii 1",
+      "transliteration": "lu₂ - diŋir - ra"
+    },
+    {
+      "line_id": "Q004300.5",
+      "line_label": "ii 2",
+      "transliteration": "aga₃ - us₂"
+    },
+    {
+      "line_id": "Q004300.6",
+      "line_label": "ii 3",
+      "transliteration": "dumu arad₂ - ḫul₃ - la"
+    },
+    {
+      "line_id": "Q004300.7",
+      "line_label": "ii 4",
+      "transliteration": "nu - banda₃ arad₂ - zu"
+    }
+  ]
+}

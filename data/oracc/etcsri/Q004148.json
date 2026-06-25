@@ -1,0 +1,32 @@
+{
+  "text_id": "oracc.etcsri.Q004148",
+  "corpus": "oracc",
+  "title": "Amar-Suena 2046add / CDLI Seals 004169 (CDLI Seals 004169 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004148",
+  "paragraphs": [
+    {
+      "para_id": "Q004148.1",
+      "line_range": "1",
+      "translation": "(1) Šu-Erra , the chief soldier of Amar-Suena ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004148.1",
+      "line_label": "1",
+      "transliteration": "šu - er₃ - ra"
+    },
+    {
+      "line_id": "Q004148.2",
+      "line_label": "2",
+      "transliteration": "aga₃ - us₂ [ gal ]"
+    },
+    {
+      "line_id": "Q004148.3",
+      "line_label": "3",
+      "transliteration": "d amar - d suen"
+    }
+  ]
+}

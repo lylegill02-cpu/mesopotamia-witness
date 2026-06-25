@@ -1,0 +1,97 @@
+{
+  "text_id": "oracc.etcsri.Q001497",
+  "corpus": "oracc",
+  "title": "Gudea 056 (RIME 3/1.01.07.056 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001497",
+  "paragraphs": [
+    {
+      "para_id": "Q001497.1",
+      "line_range": "1",
+      "translation": "(i 1) For Ninĝirsu , the powerful warrior of Enlil , his master , Gudea , ruler of Lagaš , mined this ( piece of ) alabaster in the mountain range of Uringiriaz at the Upper Sea , transported it from there , and fashioned a mace with three lion heads from it . He dedicated it for his well-being to ( Ninĝirsu ) ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001497.1",
+      "line_label": "i 1",
+      "transliteration": "d nin - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q001497.2",
+      "line_label": "i 2",
+      "transliteration": "ur - saŋ kalag - ⸢ ga ⸣"
+    },
+    {
+      "line_id": "Q001497.3",
+      "line_label": "i 3",
+      "transliteration": "d en - ⸢ lil₂ - la₂ ⸣"
+    },
+    {
+      "line_id": "Q001497.4",
+      "line_label": "i 4",
+      "transliteration": "lugal - a - ni"
+    },
+    {
+      "line_id": "Q001497.5",
+      "line_label": "i 5",
+      "transliteration": "gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q001497.6",
+      "line_label": "i 6",
+      "transliteration": "⸢ ensi₂ ⸣"
+    },
+    {
+      "line_id": "Q001497.7",
+      "line_label": "ii 1",
+      "transliteration": "lagaš ki - ke₄"
+    },
+    {
+      "line_id": "Q001497.8",
+      "line_label": "ii 2",
+      "transliteration": "ḫur - saŋ ur - in - gi₄ - ri₂ - az"
+    },
+    {
+      "line_id": "Q001497.9",
+      "line_label": "ii 3",
+      "transliteration": "a - ab - ba igi - nim - ka"
+    },
+    {
+      "line_id": "Q001497.10",
+      "line_label": "ii 4",
+      "transliteration": "na₄ ŋešnu - gal - e"
+    },
+    {
+      "line_id": "Q001497.11",
+      "line_label": "iii 1",
+      "transliteration": "mu - ba - al"
+    },
+    {
+      "line_id": "Q001497.12",
+      "line_label": "iii 2",
+      "transliteration": "im - ta - ed₃"
+    },
+    {
+      "line_id": "Q001497.13",
+      "line_label": "iii 3",
+      "transliteration": "šitaₓ ( KAK . GIŠ ) ur saŋ eš₅ - še₃"
+    },
+    {
+      "line_id": "Q001497.14",
+      "line_label": "iii 4",
+      "transliteration": "mu - na - dim₂"
+    },
+    {
+      "line_id": "Q001497.15",
+      "line_label": "iii 5",
+      "transliteration": "[ nam ] - til₃ - la - ni - še₃"
+    },
+    {
+      "line_id": "Q001497.16",
+      "line_label": "iii 6",
+      "transliteration": "[ a ] ⸢ mu ⸣ - na - ru"
+    }
+  ]
+}

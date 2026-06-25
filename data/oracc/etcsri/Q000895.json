@@ -1,0 +1,62 @@
+{
+  "text_id": "oracc.etcsri.Q000895",
+  "corpus": "oracc",
+  "title": "Gudea 017 (RIME 3/1.01.07.017 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000895",
+  "paragraphs": [
+    {
+      "para_id": "Q000895.1",
+      "line_range": "1",
+      "translation": "(1) To Igalim , the beloved child of Ninĝirsu , Gudea , ruler of Lagaš , dedicated this ( mace ) for his well-being ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000895.1",
+      "line_label": "1",
+      "transliteration": "d ig - alim"
+    },
+    {
+      "line_id": "Q000895.2",
+      "line_label": "2",
+      "transliteration": "dumu ki aŋ₂"
+    },
+    {
+      "line_id": "Q000895.3",
+      "line_label": "3",
+      "transliteration": "d nin - ŋir₂ - su - ka"
+    },
+    {
+      "line_id": "Q000895.4",
+      "line_label": "4",
+      "transliteration": "lugal - a - ni"
+    },
+    {
+      "line_id": "Q000895.5",
+      "line_label": "5",
+      "transliteration": "gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q000895.6",
+      "line_label": "6",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q000895.7",
+      "line_label": "7",
+      "transliteration": "lagaš ki - ke₄"
+    },
+    {
+      "line_id": "Q000895.8",
+      "line_label": "8",
+      "transliteration": "nam - til₃ - la - ni - še₃"
+    },
+    {
+      "line_id": "Q000895.9",
+      "line_label": "9",
+      "transliteration": "a mu - na - ru"
+    }
+  ]
+}

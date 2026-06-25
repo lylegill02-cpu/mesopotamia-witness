@@ -1,0 +1,62 @@
+{
+  "text_id": "oracc.etcsri.Q000876",
+  "corpus": "oracc",
+  "title": "Utu-hegal 1 (RIME 2.13.06.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000876",
+  "paragraphs": [
+    {
+      "para_id": "Q000876.1",
+      "line_range": "1",
+      "translation": "(1) The leader of Urim laid claim to the border territory of Lagaš , ( but ) Utu-heĝal , king of the four quarters , returned it under the authority of Nanše , the mighty lady , the lady of boundaries ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000876.1",
+      "line_label": "1",
+      "transliteration": "d nanše"
+    },
+    {
+      "line_id": "Q000876.2",
+      "line_label": "2",
+      "transliteration": "nin uru₁₆"
+    },
+    {
+      "line_id": "Q000876.3",
+      "line_label": "3",
+      "transliteration": "nin in - dub - ba - ra"
+    },
+    {
+      "line_id": "Q000876.4",
+      "line_label": "4",
+      "transliteration": "d utu - ḫe₂ - ŋal₂"
+    },
+    {
+      "line_id": "Q000876.5",
+      "line_label": "5",
+      "transliteration": "lugal an - ub - da limmu₅ - ba - ke₄"
+    },
+    {
+      "line_id": "Q000876.6",
+      "line_label": "6",
+      "transliteration": "ki - sur - ra lagaš ki - ka"
+    },
+    {
+      "line_id": "Q000876.7",
+      "line_label": "7",
+      "transliteration": "lu₂ urim₅ ki - ke₄"
+    },
+    {
+      "line_id": "Q000876.8",
+      "line_label": "8",
+      "transliteration": "inim bi₂ - ŋar"
+    },
+    {
+      "line_id": "Q000876.9",
+      "line_label": "9",
+      "transliteration": "šu - na mu - ni - gi₄"
+    }
+  ]
+}

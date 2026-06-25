@@ -1,0 +1,107 @@
+{
+  "text_id": "oracc.etcsri.Q001851",
+  "corpus": "oracc",
+  "title": "Ibbi-Suen 04 (RIME 3/2.01.05.04 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001851",
+  "paragraphs": [
+    {
+      "para_id": "Q001851.1",
+      "line_range": "1",
+      "translation": "(o 1) For Nanna , the fierce calf of An , lord , the firstborn child of Enlil , his master , Ibbi-Suen , the god of his land , the powerful king , king of Urim , king of the four quarters , fashioned an image of the Meluhhan leopard brought to him as a diplomatic gift from Marḫaši . He dedicated it to him for his well-being . The name of this leopard is „May it be caught !\""
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001851.1",
+      "line_label": "o 1",
+      "transliteration": "d nanna amar ban₃ - da an - na"
+    },
+    {
+      "line_id": "Q001851.2",
+      "line_label": "o 2",
+      "transliteration": "en dumu - saŋ d en - lil₂ - la₂"
+    },
+    {
+      "line_id": "Q001851.3",
+      "line_label": "o 3",
+      "transliteration": "lugal - a - ni - ir"
+    },
+    {
+      "line_id": "Q001851.4",
+      "line_label": "o 4",
+      "transliteration": "d i - bi₂ - d suen"
+    },
+    {
+      "line_id": "Q001851.5",
+      "line_label": "o 5",
+      "transliteration": "diŋir kalam - ma - na"
+    },
+    {
+      "line_id": "Q001851.6",
+      "line_label": "o 6",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q001851.7",
+      "line_label": "o 7",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q001851.8",
+      "line_label": "o 8",
+      "transliteration": "lugal an - ub - ⸢ da ⸣ limmu₂ - ba - ke₄"
+    },
+    {
+      "line_id": "Q001851.9",
+      "line_label": "o 9",
+      "transliteration": "⸢ ur gun₃ ⸣ - a me - luḫ - ḫa ki"
+    },
+    {
+      "line_id": "Q001851.10",
+      "line_label": "o 10",
+      "transliteration": "⸢ mar - ḫa ! ⸣ - ši ki ! (. DI )- [ ta ]"
+    },
+    {
+      "line_id": "Q001851.11",
+      "line_label": "o 11",
+      "transliteration": "gu₂ - un - še₃ mu - na - ab - tum₂ - ma - ni"
+    },
+    {
+      "line_id": "Q001851.12",
+      "line_label": "r 1",
+      "transliteration": "⸢ tam ⸣ - ši - lum - bi"
+    },
+    {
+      "line_id": "Q001851.13",
+      "line_label": "r 2",
+      "transliteration": "⸢ mu ⸣ - dim₂"
+    },
+    {
+      "line_id": "Q001851.14",
+      "line_label": "r 3",
+      "transliteration": "nam - til₃ - ⸢ la - ni ⸣ - še₃"
+    },
+    {
+      "line_id": "Q001851.15",
+      "line_label": "r 4",
+      "transliteration": "a mu - na - ⸢ ru ⸣"
+    },
+    {
+      "line_id": "Q001851.16",
+      "line_label": "r 5",
+      "transliteration": "ur gun₃ - ⸢ a ⸣ - ba"
+    },
+    {
+      "line_id": "Q001851.17",
+      "line_label": "r 6",
+      "transliteration": "ḫe₂ - ⸢ dab₅ ⸣"
+    },
+    {
+      "line_id": "Q001851.18",
+      "line_label": "r 7",
+      "transliteration": "mu - ⸢ bi - im ⸣"
+    }
+  ]
+}

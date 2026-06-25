@@ -1,0 +1,37 @@
+{
+  "text_id": "oracc.etcsri.Q001502",
+  "corpus": "oracc",
+  "title": "Gudea 061 (RIME 3/1.01.07.061 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001502",
+  "paragraphs": [
+    {
+      "para_id": "Q001502.1",
+      "line_range": "1",
+      "translation": "(1) For Ninĝirsu , the powerful warrior of Enlil , Gudea , ..."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001502.1",
+      "line_label": "1",
+      "transliteration": "d nin - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q001502.2",
+      "line_label": "2",
+      "transliteration": "ur - saŋ kalag - ga"
+    },
+    {
+      "line_id": "Q001502.3",
+      "line_label": "3",
+      "transliteration": "d en - lil₂ - la₂ - ra"
+    },
+    {
+      "line_id": "Q001502.4",
+      "line_label": "4",
+      "transliteration": "⸢ gu₃ ⸣ - de₂ - a"
+    }
+  ]
+}

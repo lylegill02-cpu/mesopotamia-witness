@@ -1,0 +1,57 @@
+{
+  "text_id": "oracc.etcsri.Q001632",
+  "corpus": "oracc",
+  "title": "Ur-Namma 31 (RIME 3/2.01.01.31 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001632",
+  "paragraphs": [
+    {
+      "para_id": "Q001632.1",
+      "line_range": "1",
+      "translation": "(1) For Enki , his master , Ur-Namma , the powerful man , king of Urim , king of Sumer and Akkad , built his temple ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001632.1",
+      "line_label": "1",
+      "transliteration": "d en - ki"
+    },
+    {
+      "line_id": "Q001632.2",
+      "line_label": "2",
+      "transliteration": "lugal - a - ni"
+    },
+    {
+      "line_id": "Q001632.3",
+      "line_label": "3",
+      "transliteration": "ur - d namma"
+    },
+    {
+      "line_id": "Q001632.4",
+      "line_label": "4",
+      "transliteration": "nita ! kalag - ga"
+    },
+    {
+      "line_id": "Q001632.5",
+      "line_label": "5",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q001632.6",
+      "line_label": "6",
+      "transliteration": "lugal ki - en - gi ki - uri - ke₄"
+    },
+    {
+      "line_id": "Q001632.7",
+      "line_label": "7",
+      "transliteration": "e₂ - a - ni"
+    },
+    {
+      "line_id": "Q001632.8",
+      "line_label": "8",
+      "transliteration": "mu - na - du₃"
+    }
+  ]
+}

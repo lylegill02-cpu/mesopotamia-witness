@@ -1,0 +1,47 @@
+{
+  "text_id": "oracc.etcsri.Q001399",
+  "corpus": "oracc",
+  "title": "Sargon 06 (RIME 2.01.01.06 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001399",
+  "paragraphs": [
+    {
+      "para_id": "Q001399.1",
+      "line_range": "1",
+      "translation": "(colophon 1, 1) The inscription was written on the socle ."
+    },
+    {
+      "para_id": "Q001399.4",
+      "line_range": "4",
+      "translation": "(colophon 2, 1) The inscription on the shoulder of Lugalzagesi ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001399.1",
+      "line_label": "colophon 1, 1",
+      "transliteration": "⸢ mu ⸣ - [ sar - ra ]"
+    },
+    {
+      "line_id": "Q001399.2",
+      "line_label": "colophon 1, 2",
+      "transliteration": "ki - [ gal ] - ⸢ la ⸣"
+    },
+    {
+      "line_id": "Q001399.3",
+      "line_label": "colophon 1, 3",
+      "transliteration": "a - ab - sar"
+    },
+    {
+      "line_id": "Q001399.4",
+      "line_label": "colophon 2, 1",
+      "transliteration": "mu - sar - ra"
+    },
+    {
+      "line_id": "Q001399.5",
+      "line_label": "colophon 2, 2",
+      "transliteration": "murgu lugal - zag - ge - si"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "text_id": "oracc.etcsri.Q001642",
+  "corpus": "oracc",
+  "title": "Ur-Namma 47 (RIME 3/2.01.01.47 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001642",
+  "paragraphs": [
+    {
+      "para_id": "Q001642.1",
+      "line_range": "1",
+      "translation": "(1) To Gilgameš of Enegir , his master , Ur-Namma , the powerful man , king of Urim , king of Sumer and Akkad , when he built the temple of Nanna , dedicated this ( vase ) for his well-being . Whoever erases its inscription , may Gilgameš curse him !"
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001642.1",
+      "line_label": "1",
+      "transliteration": "d bil₃ - ga - meš₃"
+    },
+    {
+      "line_id": "Q001642.2",
+      "line_label": "2",
+      "transliteration": "enegir₃ ki"
+    },
+    {
+      "line_id": "Q001642.3",
+      "line_label": "3",
+      "transliteration": "lugal - a - ni"
+    },
+    {
+      "line_id": "Q001642.4",
+      "line_label": "4",
+      "transliteration": "ur - d namma"
+    },
+    {
+      "line_id": "Q001642.5",
+      "line_label": "5",
+      "transliteration": "nita kalag - ga"
+    },
+    {
+      "line_id": "Q001642.6",
+      "line_label": "6",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q001642.7",
+      "line_label": "7",
+      "transliteration": "lugal ki - en - gi ki - uri - ke₄"
+    },
+    {
+      "line_id": "Q001642.8",
+      "line_label": "8",
+      "transliteration": "ud e₂ d nanna"
+    },
+    {
+      "line_id": "Q001642.9",
+      "line_label": "9",
+      "transliteration": "mu - du₃ - a"
+    },
+    {
+      "line_id": "Q001642.10",
+      "line_label": "10",
+      "transliteration": "nam - til₃ - la - ni - še₃"
+    },
+    {
+      "line_id": "Q001642.11",
+      "line_label": "11",
+      "transliteration": "a mu - na - ru"
+    },
+    {
+      "line_id": "Q001642.12",
+      "line_label": "12",
+      "transliteration": "lu₂ mu - sar - ra - ba"
+    },
+    {
+      "line_id": "Q001642.13",
+      "line_label": "13",
+      "transliteration": "šu bi₂ - ib₂ - uru₁₂ - a"
+    },
+    {
+      "line_id": "Q001642.14",
+      "line_label": "14",
+      "transliteration": "d bil₃ - ga - meš₃ - e"
+    },
+    {
+      "line_id": "Q001642.15",
+      "line_label": "15",
+      "transliteration": "nam ḫa - ba - da - kud - e"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "text_id": "oracc.etcsri.Q001934",
+  "corpus": "oracc",
+  "title": "Šu-ilišu 1 (RIME 4.01.02.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001934",
+  "paragraphs": [
+    {
+      "para_id": "Q001934.1",
+      "line_range": "1",
+      "translation": "(1) When Šu-ilišu , the powerful man , king of Urim , brought home ( the statue of ) Nanna from Anšan to Urim , then for Nanna , the most outstanding among the Anuna gods , his master , he built the Dublamah , his place of rendering judgement . He installed for him a decorated two-wing door , and dedicated it to him for his well-being ."
+    },
+    {
+      "para_id": "Q001934.19",
+      "line_range": "19",
+      "translation": "(19) Whoever gives order to perform a misdeed against this ( door ) , transfers it to a storehouse , or makes another man raise his hand against it on account of this curse , may Nanna , my master , and Ningal , my lady , curse him !"
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001934.1",
+      "line_label": "1",
+      "transliteration": "d nanna"
+    },
+    {
+      "line_id": "Q001934.2",
+      "line_label": "2",
+      "transliteration": "saŋ il₂ maḫ"
+    },
+    {
+      "line_id": "Q001934.3",
+      "line_label": "3",
+      "transliteration": "d a - nun - na - ke₄ - ne"
+    },
+    {
+      "line_id": "Q001934.4",
+      "line_label": "4",
+      "transliteration": "lugal - a - ni - ir"
+    },
+    {
+      "line_id": "Q001934.5",
+      "line_label": "5",
+      "transliteration": "d šu - i₃ - li₂ - šu"
+    },
+    {
+      "line_id": "Q001934.6",
+      "line_label": "6",
+      "transliteration": "nita kalag - ga"
+    },
+    {
+      "line_id": "Q001934.7",
+      "line_label": "7",
+      "transliteration": "lugal urim₅ ki - ma - ke₄"
+    },
+    {
+      "line_id": "Q001934.8",
+      "line_label": "8",
+      "transliteration": "ud d nanna"
+    },
+    {
+      "line_id": "Q001934.9",
+      "line_label": "9",
+      "transliteration": "an - ša - an ki - ta"
+    },
+    {
+      "line_id": "Q001934.10",
+      "line_label": "10",
+      "transliteration": "urim₅ ki - še₃"
+    },
+    {
+      "line_id": "Q001934.11",
+      "line_label": "11",
+      "transliteration": "mu - un - tum₂ - ma - a"
+    },
+    {
+      "line_id": "Q001934.12",
+      "line_label": "12",
+      "transliteration": "dub - la₂ - maḫ"
+    },
+    {
+      "line_id": "Q001934.13",
+      "line_label": "13",
+      "transliteration": "ki di kud - da - ni"
+    },
+    {
+      "line_id": "Q001934.14",
+      "line_label": "14",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001934.15",
+      "line_label": "15",
+      "transliteration": "ŋeš ig zag mi₂ - ma gun₃ - a"
+    },
+    {
+      "line_id": "Q001934.16",
+      "line_label": "16",
+      "transliteration": "mu - na - an - gub"
+    },
+    {
+      "line_id": "Q001934.17",
+      "line_label": "17",
+      "transliteration": "nam - til₃ - la - ni - še₃"
+    },
+    {
+      "line_id": "Q001934.18",
+      "line_label": "18",
+      "transliteration": "a mu - na - ru"
+    },
+    {
+      "line_id": "Q001934.19",
+      "line_label": "19",
+      "transliteration": "lu₂ a₂ niŋ₂ - ḫul dim₂ - ma"
+    },
+    {
+      "line_id": "Q001934.20",
+      "line_label": "20",
+      "transliteration": "ib₂ - ši - aŋ₂ - ŋa₂ - a"
+    },
+    {
+      "line_id": "Q001934.21",
+      "line_label": "21",
+      "transliteration": "e₂ - niŋ₂ - gur₁₁ - ra"
+    },
+    {
+      "line_id": "Q001934.22",
+      "line_label": "22",
+      "transliteration": "i - ni - ib - ku₄ - ku₄ - a"
+    },
+    {
+      "line_id": "Q001934.23",
+      "line_label": "23",
+      "transliteration": "aš₂ bala - a - ba - ke₄ - eš"
+    },
+    {
+      "line_id": "Q001934.24",
+      "line_label": "24",
+      "transliteration": "lu₂ - kur₂"
+    },
+    {
+      "line_id": "Q001934.25",
+      "line_label": "25",
+      "transliteration": "šu ba - an - zi - zi - a"
+    },
+    {
+      "line_id": "Q001934.26",
+      "line_label": "26",
+      "transliteration": "lu₂ - ba"
+    },
+    {
+      "line_id": "Q001934.27",
+      "line_label": "27",
+      "transliteration": "d nanna"
+    },
+    {
+      "line_id": "Q001934.28",
+      "line_label": "28",
+      "transliteration": "lugal - ŋu₁₀"
+    },
+    {
+      "line_id": "Q001934.29",
+      "line_label": "29",
+      "transliteration": "d nin - gal"
+    },
+    {
+      "line_id": "Q001934.30",
+      "line_label": "30",
+      "transliteration": "nin - ŋu₁₀"
+    },
+    {
+      "line_id": "Q001934.31",
+      "line_label": "31",
+      "transliteration": "nam ḫa - ba - an - da - kuru₅ ru - ne"
+    }
+  ]
+}

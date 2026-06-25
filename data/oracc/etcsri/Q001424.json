@@ -1,0 +1,22 @@
+{
+  "text_id": "oracc.etcsri.Q001424",
+  "corpus": "oracc",
+  "title": "Naram-Suen 34 (RIME 2.01.04.34 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001424",
+  "paragraphs": [
+    {
+      "para_id": "Q001424.1",
+      "line_range": "1",
+      "translation": "(1) En-men-ana ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001424.1",
+      "line_label": "1",
+      "transliteration": "en - men - an - na"
+    }
+  ]
+}

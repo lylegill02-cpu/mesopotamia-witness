@@ -1,0 +1,67 @@
+{
+  "text_id": "oracc.etcsri.Q001100",
+  "corpus": "oracc",
+  "title": "En-metena 22 (RIME 1.09.05.22 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001100",
+  "paragraphs": [
+    {
+      "para_id": "Q001100.1",
+      "line_range": "1",
+      "translation": "(1) For Ĝatumdug , En-metena , ruler of Lagaš , chosen by Nanše in the heart , chief governor of Ninĝirsu , the child born by Ĝatumdug , ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001100.1",
+      "line_label": "1",
+      "transliteration": "[ d ŋa₂ ] - ⸢ tum₃ ⸣ - [ dug₃ ]"
+    },
+    {
+      "line_id": "Q001100.2",
+      "line_label": "2",
+      "transliteration": "en - mete - na"
+    },
+    {
+      "line_id": "Q001100.3",
+      "line_label": "3",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001100.4",
+      "line_label": "4",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001100.5",
+      "line_label": "5",
+      "transliteration": "šag₄ pad₃ - da"
+    },
+    {
+      "line_id": "Q001100.6",
+      "line_label": "6",
+      "transliteration": "d nanše"
+    },
+    {
+      "line_id": "Q001100.7",
+      "line_label": "7",
+      "transliteration": "ensi₂ - gal"
+    },
+    {
+      "line_id": "Q001100.8",
+      "line_label": "8",
+      "transliteration": "d nin - ŋir₂ - su₂ - ka"
+    },
+    {
+      "line_id": "Q001100.9",
+      "line_label": "9",
+      "transliteration": "dumu tud - da"
+    },
+    {
+      "line_id": "Q001100.10",
+      "line_label": "10",
+      "transliteration": "d ŋa₂ - ⸢ tum₃ ⸣ - dug₃"
+    }
+  ]
+}

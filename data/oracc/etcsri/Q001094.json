@@ -1,0 +1,212 @@
+{
+  "text_id": "oracc.etcsri.Q001094",
+  "corpus": "oracc",
+  "title": "En-metena 27 (RIME 1.09.05.27 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001094",
+  "paragraphs": [
+    {
+      "para_id": "Q001094.1",
+      "line_range": "1",
+      "translation": "(i 1) For Ninĝirsu , Enlil’s warrior ."
+    },
+    {
+      "para_id": "Q001094.3",
+      "line_range": "3",
+      "translation": "(i 3) En-metena , ruler of Lagaš , child of En-ana-tum , ruler of Lagaš , built the great temple of Antasura for Ninĝirsu , and decorated it with gold and silver . He constructed the garden of the personal quarters , and installed numerous wells of fired brick in it for him ."
+    },
+    {
+      "para_id": "Q001094.17",
+      "line_range": "17",
+      "translation": "(ii 8) At that time , his servant Dudu , the temple administrator of Ninĝirsu , built the wall alongside Sala in Gu-edena , and named it for his sake \" The temple is the guard against the plain \". He built the wall of the ferry harbour in Ĝirsu , and named it for his sake “The lord is vigour” ."
+    },
+    {
+      "para_id": "Q001094.31",
+      "line_range": "31",
+      "translation": "(iv 4) May his personal god , Šul-MUŠxPA , pay obeisance to Ninĝirsu in the E-ninnu for his well-being !"
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001094.1",
+      "line_label": "i 1",
+      "transliteration": "d nin - ŋir₂ - su₂"
+    },
+    {
+      "line_id": "Q001094.2",
+      "line_label": "i 2",
+      "transliteration": "ur - saŋ d en - lil₂ ( E₂ )- ra"
+    },
+    {
+      "line_id": "Q001094.3",
+      "line_label": "i 3",
+      "transliteration": "en - mete - na"
+    },
+    {
+      "line_id": "Q001094.4",
+      "line_label": "i 4",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001094.5",
+      "line_label": "i 5",
+      "transliteration": "lagaš ki - ke₄"
+    },
+    {
+      "line_id": "Q001094.6",
+      "line_label": "i 6",
+      "transliteration": "dumu en - an - na - tum₂"
+    },
+    {
+      "line_id": "Q001094.7",
+      "line_label": "i 7",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001094.8",
+      "line_label": "i 8",
+      "transliteration": "lagaš ki - ka - ke₄"
+    },
+    {
+      "line_id": "Q001094.9",
+      "line_label": "i 9",
+      "transliteration": "e₂ gal an - ta ! - sur - ra"
+    },
+    {
+      "line_id": "Q001094.10",
+      "line_label": "ii 1",
+      "transliteration": "d nin - ŋir₂ - su₂ - ra"
+    },
+    {
+      "line_id": "Q001094.11",
+      "line_label": "ii 2",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001094.12",
+      "line_label": "ii 3",
+      "transliteration": "kug - ⸢ sig₁₇ ⸣ kug - babbar₂ - ra"
+    },
+    {
+      "line_id": "Q001094.13",
+      "line_label": "ii 4",
+      "transliteration": "šu mu - na - ni - tag"
+    },
+    {
+      "line_id": "Q001094.14",
+      "line_label": "ii 5",
+      "transliteration": "kiri₆ ⸢ e₂ ⸣ - šag₄ - ga mu - na - du₃"
+    },
+    {
+      "line_id": "Q001094.15",
+      "line_label": "ii 6",
+      "transliteration": "pu₂ šeg₁₂ alurₓ ( BAḪAR₂ )- ra"
+    },
+    {
+      "line_id": "Q001094.16",
+      "line_label": "ii 7",
+      "transliteration": "mu - na - ni - sig₉ - sig₉"
+    },
+    {
+      "line_id": "Q001094.17",
+      "line_label": "ii 8",
+      "transliteration": "ud - ba"
+    },
+    {
+      "line_id": "Q001094.18",
+      "line_label": "iii 1",
+      "transliteration": "arad₂ - ra - ni"
+    },
+    {
+      "line_id": "Q001094.19",
+      "line_label": "iii 2",
+      "transliteration": "du - du"
+    },
+    {
+      "line_id": "Q001094.20",
+      "line_label": "iii 3",
+      "transliteration": "saŋŋa d nin - ŋir₂ - su₂ - ka - ke₄"
+    },
+    {
+      "line_id": "Q001094.21",
+      "line_label": "iii 4",
+      "transliteration": "⸢ bad₃ ⸣ da sala₄"
+    },
+    {
+      "line_id": "Q001094.22",
+      "line_label": "iii 5",
+      "transliteration": "gu₂ - eden - na - ka"
+    },
+    {
+      "line_id": "Q001094.23",
+      "line_label": "iii 6",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001094.24",
+      "line_label": "iii 7",
+      "transliteration": "e₂ igi il₂ eden - na"
+    },
+    {
+      "line_id": "Q001094.25",
+      "line_label": "iii 8",
+      "transliteration": "mu mu - na - še₂₁"
+    },
+    {
+      "line_id": "Q001094.26",
+      "line_label": "iii 9",
+      "transliteration": "bad₃ kar ma₂ - addirₓ ( PAD . GISAL . SI )"
+    },
+    {
+      "line_id": "Q001094.27",
+      "line_label": "iii 10",
+      "transliteration": "ŋir₂ - su₂ ki - ka"
+    },
+    {
+      "line_id": "Q001094.28",
+      "line_label": "iv 1",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001094.29",
+      "line_label": "iv 2",
+      "transliteration": "en zi - šag₄ - ŋal₂"
+    },
+    {
+      "line_id": "Q001094.30",
+      "line_label": "iv 3",
+      "transliteration": "mu mu - na - še₂₁"
+    },
+    {
+      "line_id": "Q001094.31",
+      "line_label": "iv 4",
+      "transliteration": "diŋir - ra - ni"
+    },
+    {
+      "line_id": "Q001094.32",
+      "line_label": "iv 5",
+      "transliteration": "d šul - MUŠ × PA"
+    },
+    {
+      "line_id": "Q001094.33",
+      "line_label": "iv 6",
+      "transliteration": "nam - til₃ - la - ni - še₃"
+    },
+    {
+      "line_id": "Q001094.34",
+      "line_label": "iv 7",
+      "transliteration": "d nin - ŋir₂ - su₂ - ra"
+    },
+    {
+      "line_id": "Q001094.35",
+      "line_label": "iv 8",
+      "transliteration": "e₂ - ninnu - a"
+    },
+    {
+      "line_id": "Q001094.36",
+      "line_label": "iv 9",
+      "transliteration": "giri₁₇ šu ḫe₂ - na - še₃ - ŋal₂"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "text_id": "oracc.etcsri.Q001982",
+  "corpus": "oracc",
+  "title": "Erra-imitti 2001 / CDLI Seals 002519 (CDLI Seals 002519 (physical))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001982",
+  "paragraphs": [
+    {
+      "para_id": "Q001982.1",
+      "line_range": "1",
+      "translation": "(1) Iliška-uṭul , the scribe , child of Suen-ennam , is the servant of Erra-imitti ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001982.1",
+      "line_label": "1",
+      "transliteration": "i₃ - li₂ - iš - ka - u₂ - ṭul₃"
+    },
+    {
+      "line_id": "Q001982.2",
+      "line_label": "2",
+      "transliteration": "dub - sar"
+    },
+    {
+      "line_id": "Q001982.3",
+      "line_label": "3",
+      "transliteration": "dumu d suen - en - nam"
+    },
+    {
+      "line_id": "Q001982.4",
+      "line_label": "4",
+      "transliteration": "arad d er₃ - ra - i - mit - ti"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "text_id": "oracc.etcsri.Q001991",
+  "corpus": "oracc",
+  "title": "Enlil-bani 09 (RIME 4.01.10.09 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001991",
+  "paragraphs": [
+    {
+      "para_id": "Q001991.1",
+      "line_range": "1",
+      "translation": "(1) When I , Enlil-bani , the shepherd , who makes everything abundant for Nibru , the farmer of Urim’s plentiful barley , the en priest suitable for Unug , ceaseless provider of Eridug , the spouse chosen in the heart by Inana , established justice in Sumer and Akkad , then I built the eight palaces of the kings ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001991.1",
+      "line_label": "1",
+      "transliteration": "d en - lil₂ - ba - ni"
+    },
+    {
+      "line_id": "Q001991.2",
+      "line_label": "2",
+      "transliteration": "sipad niŋ₂ - nam šar₂ - ra"
+    },
+    {
+      "line_id": "Q001991.3",
+      "line_label": "3",
+      "transliteration": "nibru ki"
+    },
+    {
+      "line_id": "Q001991.4",
+      "line_label": "4",
+      "transliteration": "engar še maḫ"
+    },
+    {
+      "line_id": "Q001991.5",
+      "line_label": "5",
+      "transliteration": "urim₂ ki - ma"
+    },
+    {
+      "line_id": "Q001991.6",
+      "line_label": "6",
+      "transliteration": "⸢ en ⸣ me - te unug ki - ⸢ ga ⸣"
+    },
+    {
+      "line_id": "Q001991.7",
+      "line_label": "7",
+      "transliteration": "muš₃ nu - tum₂ - mu"
+    },
+    {
+      "line_id": "Q001991.8",
+      "line_label": "8",
+      "transliteration": "eridug ki - ga"
+    },
+    {
+      "line_id": "Q001991.9",
+      "line_label": "9",
+      "transliteration": "dam šag₄ - ge pad₃ - da"
+    },
+    {
+      "line_id": "Q001991.10",
+      "line_label": "10",
+      "transliteration": "d inana - me - en"
+    },
+    {
+      "line_id": "Q001991.11",
+      "line_label": "11",
+      "transliteration": "ud niŋ₂ - si - sa₂"
+    },
+    {
+      "line_id": "Q001991.12",
+      "line_label": "12",
+      "transliteration": "ki - en - gi ki - uri"
+    },
+    {
+      "line_id": "Q001991.13",
+      "line_label": "13",
+      "transliteration": "i - ni - in - ŋar - ra"
+    },
+    {
+      "line_id": "Q001991.14",
+      "line_label": "14",
+      "transliteration": "e₂ - gal ussu - bi"
+    },
+    {
+      "line_id": "Q001991.15",
+      "line_label": "15",
+      "transliteration": "lugal - e - ne"
+    },
+    {
+      "line_id": "Q001991.16",
+      "line_label": "16",
+      "transliteration": "mu - du₃"
+    }
+  ]
+}

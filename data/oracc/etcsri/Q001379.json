@@ -1,0 +1,707 @@
+{
+  "text_id": "oracc.etcsri.Q001379",
+  "corpus": "oracc",
+  "title": "Lugal-zage-si 1 (RIME 1.14.20.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001379",
+  "paragraphs": [
+    {
+      "para_id": "Q001379.1",
+      "line_range": "1",
+      "translation": "(i 1) To Enlil , king of all lands ."
+    },
+    {
+      "para_id": "Q001379.3",
+      "line_range": "3",
+      "translation": "(i 3) When to Lugal-zage-si , king of Uruk , king of the Land , išib priest of An , lumah priest of Nisaba , child of Bubu , ruler of Umma , lumah priest of Nisaba , the one looked upon favourably by An , king of all lands , chief governor of Enlil , the one given wisdom by Enki , nominee of Utu , chancellor of Suen , general of Utu , provider of Inana , the child born by Nisaba , nourished on rich milk by Ninhursaĝa , the man of Meš-saĝĝa-Unuga , the servant reared by Ningirim , the lady of Uruk , chief steward of the gods , Enlil , the king of all lands , gave the rule over the Land , made the Land obedient to him , placed all the lands at his feet , made them submit to him from east to west , then he made the roads passable for him from the Lower Sea along the Tigris and the Euphrates to the Upper Sea ."
+    },
+    {
+      "para_id": "Q001379.58",
+      "line_range": "58",
+      "translation": "(ii 12) As Enlil made him a man without opponent from east to west , all the lands lay down contentedly thanks to him , the Land made merry thanks to him , and the sovereigns of Sumer and the rulers of all lands bowed down before the territory of Uruk towards the princely divine powers because of him ."
+    },
+    {
+      "para_id": "Q001379.72",
+      "line_range": "72",
+      "translation": "(ii 26) At that time , while Uruk passed the days in joy , Ur raised his head high like a bull ; while Larsam , Utu’s beloved city , made merry , Umma , Shara’s beloved city , lifted its great horns ; while the territory of Zabala cried out like a ewe reunited with ( its ) lamb , Kian raised its neck high ."
+    },
+    {
+      "para_id": "Q001379.95",
+      "line_range": "95",
+      "translation": "(iii 3) At the morning and evening meals , Lugal-zages-si , king of Uruk , king of the Land , provided lavish food offerings and libated sweet water for Enlil , his master , in Nippur ( saying ) :"
+    },
+    {
+      "para_id": "Q001379.105",
+      "line_range": "105",
+      "translation": "(iii 13) ‘May Enlil , the king of all lands , by all means pray to An , his beloved father on my behalf , so that he may extend my life , the lands may lie down contentedly thanks to me , the people may spread wide as the grass thanks to me , the udders of heaven may be ready ( to be milked ) thanks to me , and the people experience prosperity thanks to me ! May they not revoke the good fate determined to me , so that I remain the foremost shepherd forever!’"
+    },
+    {
+      "para_id": "Q001379.129",
+      "line_range": "129",
+      "translation": "(iii 37) He dedicated this ( vase ) to Enlil , his beloved master , for his well-being ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001379.1",
+      "line_label": "i 1",
+      "transliteration": "d en - lil₂"
+    },
+    {
+      "line_id": "Q001379.2",
+      "line_label": "i 2",
+      "transliteration": "lugal kur - kur - ra"
+    },
+    {
+      "line_id": "Q001379.3",
+      "line_label": "i 3",
+      "transliteration": "lugal - zag - ge - si"
+    },
+    {
+      "line_id": "Q001379.4",
+      "line_label": "i 4",
+      "transliteration": "lugal unug ki - ga"
+    },
+    {
+      "line_id": "Q001379.5",
+      "line_label": "i 5",
+      "transliteration": "lugal kalam - ma"
+    },
+    {
+      "line_id": "Q001379.6",
+      "line_label": "i 6",
+      "transliteration": "išib an - na"
+    },
+    {
+      "line_id": "Q001379.7",
+      "line_label": "i 7",
+      "transliteration": "lu₂ - maḫ"
+    },
+    {
+      "line_id": "Q001379.8",
+      "line_label": "i 8",
+      "transliteration": "d nisaba"
+    },
+    {
+      "line_id": "Q001379.9",
+      "line_label": "i 9",
+      "transliteration": "dumu bu₁₁ - bu₁₁"
+    },
+    {
+      "line_id": "Q001379.10",
+      "line_label": "i 10",
+      "transliteration": "⸢ ensi₂ ⸣ umma ki"
+    },
+    {
+      "line_id": "Q001379.11",
+      "line_label": "i 11",
+      "transliteration": "⸢ lu₂ ⸣ - maḫ"
+    },
+    {
+      "line_id": "Q001379.12",
+      "line_label": "i 12",
+      "transliteration": "d nisaba - ka"
+    },
+    {
+      "line_id": "Q001379.13",
+      "line_label": "i 13",
+      "transliteration": "igi zid bar - ra"
+    },
+    {
+      "line_id": "Q001379.14",
+      "line_label": "i 14",
+      "transliteration": "an lugal kur - kur - ka"
+    },
+    {
+      "line_id": "Q001379.15",
+      "line_label": "i 15",
+      "transliteration": "ensi₂ - gal"
+    },
+    {
+      "line_id": "Q001379.16",
+      "line_label": "i 16",
+      "transliteration": "d en - lil₂"
+    },
+    {
+      "line_id": "Q001379.17",
+      "line_label": "i 17",
+      "transliteration": "ŋeštug₂ šum₂ - ma"
+    },
+    {
+      "line_id": "Q001379.18",
+      "line_label": "i 18",
+      "transliteration": "d en - ki"
+    },
+    {
+      "line_id": "Q001379.19",
+      "line_label": "i 19",
+      "transliteration": "mu pad₃ - da"
+    },
+    {
+      "line_id": "Q001379.20",
+      "line_label": "i 20",
+      "transliteration": "d utu"
+    },
+    {
+      "line_id": "Q001379.21",
+      "line_label": "i 21",
+      "transliteration": "sukkal - maḫ"
+    },
+    {
+      "line_id": "Q001379.22",
+      "line_label": "i 22",
+      "transliteration": "d suen"
+    },
+    {
+      "line_id": "Q001379.23",
+      "line_label": "i 23",
+      "transliteration": "šagina"
+    },
+    {
+      "line_id": "Q001379.24",
+      "line_label": "i 24",
+      "transliteration": "d utu"
+    },
+    {
+      "line_id": "Q001379.25",
+      "line_label": "i 25",
+      "transliteration": "u₂ - a d inana"
+    },
+    {
+      "line_id": "Q001379.26",
+      "line_label": "i 26",
+      "transliteration": "dumu tud - da"
+    },
+    {
+      "line_id": "Q001379.27",
+      "line_label": "i 27",
+      "transliteration": "d nisaba"
+    },
+    {
+      "line_id": "Q001379.28",
+      "line_label": "i 28",
+      "transliteration": "ga zid gu₇ - a"
+    },
+    {
+      "line_id": "Q001379.29",
+      "line_label": "i 29",
+      "transliteration": "d nin - ḫur - saŋ"
+    },
+    {
+      "line_id": "Q001379.30",
+      "line_label": "i 30",
+      "transliteration": "lu₂ d meš₃ - saŋŋa - unug ki - ga"
+    },
+    {
+      "line_id": "Q001379.31",
+      "line_label": "i 31",
+      "transliteration": "saŋ a₂ e₃ - a"
+    },
+    {
+      "line_id": "Q001379.32",
+      "line_label": "i 32",
+      "transliteration": "d nin - girim₃"
+    },
+    {
+      "line_id": "Q001379.33",
+      "line_label": "i 33",
+      "transliteration": "nin unug ki - ga - ka"
+    },
+    {
+      "line_id": "Q001379.34",
+      "line_label": "i 34",
+      "transliteration": "agrig maḫ"
+    },
+    {
+      "line_id": "Q001379.35",
+      "line_label": "i 35",
+      "transliteration": "diŋir - re - ne - ra"
+    },
+    {
+      "line_id": "Q001379.36",
+      "line_label": "i 36",
+      "transliteration": "ud d en - lil₂"
+    },
+    {
+      "line_id": "Q001379.37",
+      "line_label": "i 37",
+      "transliteration": "lugal kur - kur - ra - ke₄"
+    },
+    {
+      "line_id": "Q001379.38",
+      "line_label": "i 38",
+      "transliteration": "lugal - zag - ge - si"
+    },
+    {
+      "line_id": "Q001379.39",
+      "line_label": "i 39",
+      "transliteration": "nam - lugal"
+    },
+    {
+      "line_id": "Q001379.40",
+      "line_label": "i 40",
+      "transliteration": "kalam - ma"
+    },
+    {
+      "line_id": "Q001379.41",
+      "line_label": "i 41",
+      "transliteration": "e - na - šum₂ - ma - a"
+    },
+    {
+      "line_id": "Q001379.42",
+      "line_label": "i 42",
+      "transliteration": "igi kalam ! - ma - ke₄"
+    },
+    {
+      "line_id": "Q001379.43",
+      "line_label": "i 43",
+      "transliteration": "si e - na - sa₂ - a"
+    },
+    {
+      "line_id": "Q001379.44",
+      "line_label": "i 44",
+      "transliteration": "kur - kur ŋiri₃ - na"
+    },
+    {
+      "line_id": "Q001379.45",
+      "line_label": "i 45",
+      "transliteration": "e - ne₂ - seg₁₀ - ga - a"
+    },
+    {
+      "line_id": "Q001379.46",
+      "line_label": "i 46",
+      "transliteration": "utu - e₃ - ta"
+    },
+    {
+      "line_id": "Q001379.47",
+      "line_label": "ii 1",
+      "transliteration": "utu - šu₂ - še₃"
+    },
+    {
+      "line_id": "Q001379.48",
+      "line_label": "ii 2",
+      "transliteration": "gu₂ e - na - ŋar - ra - a"
+    },
+    {
+      "line_id": "Q001379.49",
+      "line_label": "ii 3",
+      "transliteration": "ud - ba"
+    },
+    {
+      "line_id": "Q001379.50",
+      "line_label": "ii 4",
+      "transliteration": "a - ab - ba"
+    },
+    {
+      "line_id": "Q001379.51",
+      "line_label": "ii 5",
+      "transliteration": "sig - ta - ta"
+    },
+    {
+      "line_id": "Q001379.52",
+      "line_label": "ii 6",
+      "transliteration": "idigna"
+    },
+    {
+      "line_id": "Q001379.53",
+      "line_label": "ii 7",
+      "transliteration": "buranun - bi"
+    },
+    {
+      "line_id": "Q001379.54",
+      "line_label": "ii 8",
+      "transliteration": "a - ab - ba"
+    },
+    {
+      "line_id": "Q001379.55",
+      "line_label": "ii 9",
+      "transliteration": "igi - nim - ma - še₃"
+    },
+    {
+      "line_id": "Q001379.56",
+      "line_label": "ii 10",
+      "transliteration": "ŋiri₃ - be₂"
+    },
+    {
+      "line_id": "Q001379.57",
+      "line_label": "ii 11",
+      "transliteration": "si e - na - sa₂"
+    },
+    {
+      "line_id": "Q001379.58",
+      "line_label": "ii 12",
+      "transliteration": "utu - e₃ - ta"
+    },
+    {
+      "line_id": "Q001379.59",
+      "line_label": "ii 13",
+      "transliteration": "utu - šu₂ - še₃"
+    },
+    {
+      "line_id": "Q001379.60",
+      "line_label": "ii 14",
+      "transliteration": "[ d ] ⸢ en ⸣ - lil₂ - le"
+    },
+    {
+      "line_id": "Q001379.61",
+      "line_label": "ii 15",
+      "transliteration": "[ gaba ] - ⸢ šu ⸣ - ŋar"
+    },
+    {
+      "line_id": "Q001379.62",
+      "line_label": "ii 16",
+      "transliteration": "⸢ nu ⸣ - mu - ni - tuku"
+    },
+    {
+      "line_id": "Q001379.63",
+      "line_label": "ii 17",
+      "transliteration": "kur - kur u₂ ! - sal - la"
+    },
+    {
+      "line_id": "Q001379.64",
+      "line_label": "ii 18",
+      "transliteration": "mu - da - nu₂"
+    },
+    {
+      "line_id": "Q001379.65",
+      "line_label": "ii 19",
+      "transliteration": "kalam ! - e"
+    },
+    {
+      "line_id": "Q001379.66",
+      "line_label": "ii 20",
+      "transliteration": "a - < ne > ḫul₂ - la mu - da - e"
+    },
+    {
+      "line_id": "Q001379.67",
+      "line_label": "ii 21",
+      "transliteration": "barag - barag ki - en - gi"
+    },
+    {
+      "line_id": "Q001379.68",
+      "line_label": "ii 22",
+      "transliteration": "ensi₂ kur - kur - ra"
+    },
+    {
+      "line_id": "Q001379.69",
+      "line_label": "ii 23",
+      "transliteration": "ki unug ki - ge"
+    },
+    {
+      "line_id": "Q001379.70",
+      "line_label": "ii 24",
+      "transliteration": "me nam - nun - še₃"
+    },
+    {
+      "line_id": "Q001379.71",
+      "line_label": "ii 25",
+      "transliteration": "mu - na - gurum - e - de₃"
+    },
+    {
+      "line_id": "Q001379.72",
+      "line_label": "ii 26",
+      "transliteration": "ud - ba"
+    },
+    {
+      "line_id": "Q001379.73",
+      "line_label": "ii 27",
+      "transliteration": "unug ki - ge"
+    },
+    {
+      "line_id": "Q001379.74",
+      "line_label": "ii 28",
+      "transliteration": "giri₁₇ - zal - a"
+    },
+    {
+      "line_id": "Q001379.75",
+      "line_label": "ii 29",
+      "transliteration": "ud mu - da - zal - zal - le"
+    },
+    {
+      "line_id": "Q001379.76",
+      "line_label": "ii 30",
+      "transliteration": "urim₂ ki - e"
+    },
+    {
+      "line_id": "Q001379.77",
+      "line_label": "ii 31",
+      "transliteration": "gud - gin₇ saŋ an - še₃"
+    },
+    {
+      "line_id": "Q001379.78",
+      "line_label": "ii 32",
+      "transliteration": "mu - dab₆ - il₂"
+    },
+    {
+      "line_id": "Q001379.79",
+      "line_label": "ii 33",
+      "transliteration": "larsam ki"
+    },
+    {
+      "line_id": "Q001379.80",
+      "line_label": "ii 34",
+      "transliteration": "iri ki aŋ₂"
+    },
+    {
+      "line_id": "Q001379.81",
+      "line_label": "ii 35",
+      "transliteration": "d utu - ke₄"
+    },
+    {
+      "line_id": "Q001379.82",
+      "line_label": "ii 36",
+      "transliteration": "a - ne ḫul₂ - la"
+    },
+    {
+      "line_id": "Q001379.83",
+      "line_label": "ii 37",
+      "transliteration": "mu - da - e"
+    },
+    {
+      "line_id": "Q001379.84",
+      "line_label": "ii 38",
+      "transliteration": "umma ki"
+    },
+    {
+      "line_id": "Q001379.85",
+      "line_label": "ii 39",
+      "transliteration": "iri ki aŋ₂"
+    },
+    {
+      "line_id": "Q001379.86",
+      "line_label": "ii 40",
+      "transliteration": "d šara₂ - ke₄"
+    },
+    {
+      "line_id": "Q001379.87",
+      "line_label": "ii 41",
+      "transliteration": "a₂ maḫ"
+    },
+    {
+      "line_id": "Q001379.88",
+      "line_label": "ii 42",
+      "transliteration": "mu - dab₆ - il₂"
+    },
+    {
+      "line_id": "Q001379.89",
+      "line_label": "ii 43",
+      "transliteration": "ki zabala₅ ki - e"
+    },
+    {
+      "line_id": "Q001379.90",
+      "line_label": "ii 44",
+      "transliteration": "u₈ sila₄ gur₅ - a - gin₇"
+    },
+    {
+      "line_id": "Q001379.91",
+      "line_label": "ii 45",
+      "transliteration": "šeg₁₂ mu - da - gi₄ - gi₄"
+    },
+    {
+      "line_id": "Q001379.92",
+      "line_label": "ii 46",
+      "transliteration": "ki - an ki - ke₄"
+    },
+    {
+      "line_id": "Q001379.93",
+      "line_label": "iii 1",
+      "transliteration": "gu₂ an - še₃"
+    },
+    {
+      "line_id": "Q001379.94",
+      "line_label": "iii 2",
+      "transliteration": "mu - dab₆ - ⸢ zig₃ ⸣"
+    },
+    {
+      "line_id": "Q001379.95",
+      "line_label": "iii 3",
+      "transliteration": "lugal - zag - ⸢ ge ⸣ - si"
+    },
+    {
+      "line_id": "Q001379.96",
+      "line_label": "iii 4",
+      "transliteration": "lugal unug [ ki - ga ]"
+    },
+    {
+      "line_id": "Q001379.97",
+      "line_label": "iii 5",
+      "transliteration": "lugal kalam - ma"
+    },
+    {
+      "line_id": "Q001379.98",
+      "line_label": "iii 6",
+      "transliteration": "kiŋ₂ - < sig > kiŋ₂ - < nim > - ma"
+    },
+    {
+      "line_id": "Q001379.99",
+      "line_label": "iii 7",
+      "transliteration": "d en - lil₂"
+    },
+    {
+      "line_id": "Q001379.100",
+      "line_label": "iii 8",
+      "transliteration": "lugal - ni"
+    },
+    {
+      "line_id": "Q001379.101",
+      "line_label": "iii 9",
+      "transliteration": "nibru ki - a"
+    },
+    {
+      "line_id": "Q001379.102",
+      "line_label": "iii 10",
+      "transliteration": "nindaba gal - gal"
+    },
+    {
+      "line_id": "Q001379.103",
+      "line_label": "iii 11",
+      "transliteration": "e - na - sud₄ - de₃"
+    },
+    {
+      "line_id": "Q001379.104",
+      "line_label": "iii 12",
+      "transliteration": "a dug₃ e - na - de₂ - e"
+    },
+    {
+      "line_id": "Q001379.105",
+      "line_label": "iii 13",
+      "transliteration": "tukumₓ ( ŠU . TUR )"
+    },
+    {
+      "line_id": "Q001379.106",
+      "line_label": "iii 14",
+      "transliteration": "d en - lil₂"
+    },
+    {
+      "line_id": "Q001379.107",
+      "line_label": "iii 15",
+      "transliteration": "lugal kur - kur - ra - ke₄"
+    },
+    {
+      "line_id": "Q001379.108",
+      "line_label": "iii 16",
+      "transliteration": "an aya₂ ki aŋ₂ - ni"
+    },
+    {
+      "line_id": "Q001379.109",
+      "line_label": "iii 17",
+      "transliteration": "nam - šita - ŋu₁₀"
+    },
+    {
+      "line_id": "Q001379.110",
+      "line_label": "iii 18",
+      "transliteration": "ḫe₂ - na - be₂"
+    },
+    {
+      "line_id": "Q001379.111",
+      "line_label": "iii 19",
+      "transliteration": "nam - til₃ - ŋu₁₀"
+    },
+    {
+      "line_id": "Q001379.112",
+      "line_label": "iii 20",
+      "transliteration": "nam - til₃"
+    },
+    {
+      "line_id": "Q001379.113",
+      "line_label": "iii 21",
+      "transliteration": "ḫa - ba - taḫ - ḫe"
+    },
+    {
+      "line_id": "Q001379.114",
+      "line_label": "iii 22",
+      "transliteration": "kur u₂ - sal - la"
+    },
+    {
+      "line_id": "Q001379.115",
+      "line_label": "iii 23",
+      "transliteration": "ḫa - mu - da - nu₂"
+    },
+    {
+      "line_id": "Q001379.116",
+      "line_label": "iii 24",
+      "transliteration": "nam lu₂ - lu₇"
+    },
+    {
+      "line_id": "Q001379.117",
+      "line_label": "iii 25",
+      "transliteration": "u₂ - šim - gin₇"
+    },
+    {
+      "line_id": "Q001379.118",
+      "line_label": "iii 26",
+      "transliteration": "šu daŋal ḫa - mu - dab₆ - dug₄"
+    },
+    {
+      "line_id": "Q001379.119",
+      "line_label": "iii 27",
+      "transliteration": "ubur an - na - ke₄"
+    },
+    {
+      "line_id": "Q001379.120",
+      "line_label": "iii 28",
+      "transliteration": "si ḫa - mu - dab₆ - sa₂"
+    },
+    {
+      "line_id": "Q001379.121",
+      "line_label": "iii 29",
+      "transliteration": "kalam - e"
+    },
+    {
+      "line_id": "Q001379.122",
+      "line_label": "iii 30",
+      "transliteration": "ki sag₉ - ga"
+    },
+    {
+      "line_id": "Q001379.123",
+      "line_label": "iii 31",
+      "transliteration": "igi ḫa - mu - da - du₈"
+    },
+    {
+      "line_id": "Q001379.124",
+      "line_label": "iii 32",
+      "transliteration": "nam sag₉ - ga"
+    },
+    {
+      "line_id": "Q001379.125",
+      "line_label": "iii 33",
+      "transliteration": "mu - tar - re - eš₂ - a !"
+    },
+    {
+      "line_id": "Q001379.126",
+      "line_label": "iii 34",
+      "transliteration": "šu na - mu - da - ni - bala - e - ne"
+    },
+    {
+      "line_id": "Q001379.127",
+      "line_label": "iii 35",
+      "transliteration": "sipad saŋ - gu₄ - ŋal₂"
+    },
+    {
+      "line_id": "Q001379.128",
+      "line_label": "iii 36",
+      "transliteration": "da - ri₂ ḫe₂ - me"
+    },
+    {
+      "line_id": "Q001379.129",
+      "line_label": "iii 37",
+      "transliteration": "nam - til₃ - la - ni - še₃"
+    },
+    {
+      "line_id": "Q001379.130",
+      "line_label": "iii 38",
+      "transliteration": "d en - lil₂"
+    },
+    {
+      "line_id": "Q001379.131",
+      "line_label": "iii 39",
+      "transliteration": "lugal ki aŋ₂ - ni"
+    },
+    {
+      "line_id": "Q001379.132",
+      "line_label": "iii 40",
+      "transliteration": "a mu - na - ru"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "text_id": "oracc.etcsri.Q001798",
+  "corpus": "oracc",
+  "title": "Amar-Suena 20 / CDLI Seals 003975 (CDLI Seals 003975 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001798",
+  "paragraphs": [
+    {
+      "para_id": "Q001798.1",
+      "line_range": "1",
+      "translation": "(1) Nin-ḫedu , the daughter of the king : Urgu , the animal-fattener is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001798.1",
+      "line_label": "1",
+      "transliteration": "nin - ḫe₂ - du₇"
+    },
+    {
+      "line_id": "Q001798.2",
+      "line_label": "2",
+      "transliteration": "dumu - munus lugal"
+    },
+    {
+      "line_id": "Q001798.3",
+      "line_label": "3",
+      "transliteration": "ur - gu gurušta"
+    },
+    {
+      "line_id": "Q001798.4",
+      "line_label": "4",
+      "transliteration": "arad₂ - zu"
+    }
+  ]
+}

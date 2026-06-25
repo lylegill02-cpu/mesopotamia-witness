@@ -1,0 +1,187 @@
+{
+  "text_id": "oracc.etcsri.Q001029",
+  "corpus": "oracc",
+  "title": "Ur-Nanše 10 (RIME 1.09.01.10 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001029",
+  "paragraphs": [
+    {
+      "para_id": "Q001029.1",
+      "line_range": "1",
+      "translation": "(i 1) Ur-Nanše , king of Lagaš , child of Gunidu , citizen of Gursar , built the shrine of Ĝirsu ."
+    },
+    {
+      "para_id": "Q001029.8",
+      "line_range": "8",
+      "translation": "(ii 4) He built the temple of Nanše ."
+    },
+    {
+      "para_id": "Q001029.10",
+      "line_range": "10",
+      "translation": "(iii 1) He built the Ebgal ."
+    },
+    {
+      "para_id": "Q001029.12",
+      "line_range": "12",
+      "translation": "(iii 3) He built the Kinir ."
+    },
+    {
+      "para_id": "Q001029.14",
+      "line_range": "14",
+      "translation": "(iv 1) He built the temple of Ĝatumdug ."
+    },
+    {
+      "para_id": "Q001029.16",
+      "line_range": "16",
+      "translation": "(iv 3) He built the Abzu-ega ."
+    },
+    {
+      "para_id": "Q001029.18",
+      "line_range": "18",
+      "translation": "(iv 5) He built the Tiraš ."
+    },
+    {
+      "para_id": "Q001029.20",
+      "line_range": "20",
+      "translation": "(v 1) He built the shrine of Bagara ."
+    },
+    {
+      "para_id": "Q001029.22",
+      "line_range": "22",
+      "translation": "(v 3) He built the E-dam ."
+    },
+    {
+      "para_id": "Q001029.24",
+      "line_range": "24",
+      "translation": "(v 5) He built the Kame ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001029.1",
+      "line_label": "i 1",
+      "transliteration": "ur - d nanše"
+    },
+    {
+      "line_id": "Q001029.2",
+      "line_label": "i 2",
+      "transliteration": "lugal"
+    },
+    {
+      "line_id": "Q001029.3",
+      "line_label": "i 3",
+      "transliteration": "lagaš"
+    },
+    {
+      "line_id": "Q001029.4",
+      "line_label": "i 4",
+      "transliteration": "dumu gu - NI - DU"
+    },
+    {
+      "line_id": "Q001029.5",
+      "line_label": "ii 1",
+      "transliteration": "dumu gur - sar"
+    },
+    {
+      "line_id": "Q001029.6",
+      "line_label": "ii 2",
+      "transliteration": "eš₃ ŋir₂ - su"
+    },
+    {
+      "line_id": "Q001029.7",
+      "line_label": "ii 3",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001029.8",
+      "line_label": "ii 4",
+      "transliteration": "e₂ d nanše"
+    },
+    {
+      "line_id": "Q001029.9",
+      "line_label": "ii 5",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001029.10",
+      "line_label": "iii 1",
+      "transliteration": "eb - gal"
+    },
+    {
+      "line_id": "Q001029.11",
+      "line_label": "iii 2",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001029.12",
+      "line_label": "iii 3",
+      "transliteration": "ki - nir"
+    },
+    {
+      "line_id": "Q001029.13",
+      "line_label": "iii 4",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001029.14",
+      "line_label": "iv 1",
+      "transliteration": "e₂ d ŋa₂ - tum₃ - dug₃"
+    },
+    {
+      "line_id": "Q001029.15",
+      "line_label": "iv 2",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001029.16",
+      "line_label": "iv 3",
+      "transliteration": "abzu - eg₂"
+    },
+    {
+      "line_id": "Q001029.17",
+      "line_label": "iv 4",
+      "transliteration": "mu - ⸢ du₃ ⸣"
+    },
+    {
+      "line_id": "Q001029.18",
+      "line_label": "iv 5",
+      "transliteration": "ti - ra - aš₂"
+    },
+    {
+      "line_id": "Q001029.19",
+      "line_label": "iv 6",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001029.20",
+      "line_label": "v 1",
+      "transliteration": "eš₃ ba - gara₂"
+    },
+    {
+      "line_id": "Q001029.21",
+      "line_label": "v 2",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001029.22",
+      "line_label": "v 3",
+      "transliteration": "e₂ - ⸢ dam ⸣"
+    },
+    {
+      "line_id": "Q001029.23",
+      "line_label": "v 4",
+      "transliteration": "⸢ mu - du₃ ⸣"
+    },
+    {
+      "line_id": "Q001029.24",
+      "line_label": "v 5",
+      "transliteration": "ka₂ - ME"
+    },
+    {
+      "line_id": "Q001029.25",
+      "line_label": "v 6",
+      "transliteration": "mu - du₃"
+    }
+  ]
+}

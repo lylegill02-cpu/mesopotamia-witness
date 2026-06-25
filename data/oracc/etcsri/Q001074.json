@@ -1,0 +1,122 @@
+{
+  "text_id": "oracc.etcsri.Q001074",
+  "corpus": "oracc",
+  "title": "En-anatum I 08 (RIME 1.09.04.08 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001074",
+  "paragraphs": [
+    {
+      "para_id": "composite",
+      "line_range": "1–21",
+      "translation": "[ en ] - ⸢ an - na ⸣ - tum₂ ensi₂ lagaš ki"
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001074.1",
+      "line_label": "i 1",
+      "transliteration": "[ en ] - ⸢ an - na ⸣ - tum₂"
+    },
+    {
+      "line_id": "Q001074.2",
+      "line_label": "i 2",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001074.3",
+      "line_label": "i 3",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001074.4",
+      "line_label": "i 4",
+      "transliteration": "[ šag₄ ] pad₃ - da"
+    },
+    {
+      "line_id": "Q001074.5",
+      "line_label": "i 5",
+      "transliteration": "[ d ] nanše"
+    },
+    {
+      "line_id": "Q001074.6",
+      "line_label": "i 6",
+      "transliteration": "⸢ ensi₂ ⸣ - < gal >"
+    },
+    {
+      "line_id": "Q001074.7",
+      "line_label": "i 7",
+      "transliteration": "[ d ] ⸢ nin - ŋir₂ ⸣ - su₂ - ka"
+    },
+    {
+      "line_id": "Q001074.8",
+      "line_label": "i 8",
+      "transliteration": "[ dumu ] ⸢ tud - da ⸣"
+    },
+    {
+      "line_id": "Q001074.9",
+      "line_label": "i 9",
+      "transliteration": "[ d ] ⸢ lugal ⸣ - [ urub ki - ka ]"
+    },
+    {
+      "line_id": "Q001074.10",
+      "line_label": "ii 1",
+      "transliteration": "dumu aya₂ - kur - gal"
+    },
+    {
+      "line_id": "Q001074.11",
+      "line_label": "ii 2",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001074.12",
+      "line_label": "ii 3",
+      "transliteration": "lagaš ki - ka"
+    },
+    {
+      "line_id": "Q001074.13",
+      "line_label": "ii 4",
+      "transliteration": "šeš ki aŋ₂"
+    },
+    {
+      "line_id": "Q001074.14",
+      "line_label": "ii 5",
+      "transliteration": "e₂ - an - na - tum₂"
+    },
+    {
+      "line_id": "Q001074.15",
+      "line_label": "ii 6",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001074.16",
+      "line_label": "ii 7",
+      "transliteration": "lagaš ki - ka - ra"
+    },
+    {
+      "line_id": "Q001074.17",
+      "line_label": "ii 8",
+      "transliteration": "ud d lugal - urub ki - ke₄"
+    },
+    {
+      "line_id": "Q001074.18",
+      "line_label": "ii 9",
+      "transliteration": "en - an - na - tum₂ - ra"
+    },
+    {
+      "line_id": "Q001074.19",
+      "line_label": "ii 10",
+      "transliteration": "⸢ nam - lugal ⸣"
+    },
+    {
+      "line_id": "Q001074.20",
+      "line_label": "ii 11",
+      "transliteration": "⸢ lagaš ⸣ ki"
+    },
+    {
+      "line_id": "Q001074.21",
+      "line_label": "iii 1",
+      "transliteration": "mu - na - šum₂ - ma - [ a ]"
+    }
+  ]
+}

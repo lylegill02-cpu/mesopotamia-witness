@@ -1,0 +1,117 @@
+{
+  "text_id": "oracc.etcsri.Q003657",
+  "corpus": "oracc",
+  "title": "Lugal-zage-si 1 (RIME 1.12.07.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q003657",
+  "paragraphs": [
+    {
+      "para_id": "Q003657.1",
+      "line_range": "1",
+      "translation": "(i 1) For Dumuzid , king of E ."
+    },
+    {
+      "para_id": "Q003657.3",
+      "line_range": "3",
+      "translation": "(i 3) Lugal-zage-si , ruler of Umma , lumah priest of Nisaba , child of Bubu , ruler of Umma , lumah priest of Nisaba , built his temple for Dumuzid , king of E , for his well-being . He drove in its foundation pegs , and put its divine powers in good order ."
+    },
+    {
+      "para_id": "Q003657.15",
+      "line_range": "15",
+      "translation": "(ii 6) He built the temple of Lisi . He built the temple of Nisaba . He built the E-ĝidru of Umma . He built the E-ĝidru of Ki'an ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q003657.1",
+      "line_label": "i 1",
+      "transliteration": "d dumu - zid"
+    },
+    {
+      "line_id": "Q003657.2",
+      "line_label": "i 2",
+      "transliteration": "lugal e₁₁ - ra"
+    },
+    {
+      "line_id": "Q003657.3",
+      "line_label": "i 3",
+      "transliteration": "lugal - zag - ge - si"
+    },
+    {
+      "line_id": "Q003657.4",
+      "line_label": "i 4",
+      "transliteration": "ensi₂ umma ki"
+    },
+    {
+      "line_id": "Q003657.5",
+      "line_label": "i 5",
+      "transliteration": "lu₂ - maḫ d nisaba - ke₄"
+    },
+    {
+      "line_id": "Q003657.6",
+      "line_label": "i 6",
+      "transliteration": "dumu bu₁₁ - bu₁₁"
+    },
+    {
+      "line_id": "Q003657.7",
+      "line_label": "i 7",
+      "transliteration": "ensi₂ umma ki"
+    },
+    {
+      "line_id": "Q003657.8",
+      "line_label": "i 8",
+      "transliteration": "lu₂ - maḫ d nisaba - ke₄"
+    },
+    {
+      "line_id": "Q003657.9",
+      "line_label": "i 9",
+      "transliteration": "d dumu - zid"
+    },
+    {
+      "line_id": "Q003657.10",
+      "line_label": "ii 1",
+      "transliteration": "lugal e₁₁ - ra"
+    },
+    {
+      "line_id": "Q003657.11",
+      "line_label": "ii 2",
+      "transliteration": "nam - til₃ - la - ni - še₃"
+    },
+    {
+      "line_id": "Q003657.12",
+      "line_label": "ii 3",
+      "transliteration": "e₂ - ni mu - na - du₃"
+    },
+    {
+      "line_id": "Q003657.13",
+      "line_label": "ii 4",
+      "transliteration": "temen - bi ki - a mi - ni - sig₉ - sig₉"
+    },
+    {
+      "line_id": "Q003657.14",
+      "line_label": "ii 5",
+      "transliteration": "me - be₂ si i₃ - mi - sa₂ - sa₂"
+    },
+    {
+      "line_id": "Q003657.15",
+      "line_label": "ii 6",
+      "transliteration": "e₂ d li₉ - si₄ ? mu - du₃"
+    },
+    {
+      "line_id": "Q003657.16",
+      "line_label": "ii 7",
+      "transliteration": "e₂ d nisaba mu - du₃"
+    },
+    {
+      "line_id": "Q003657.17",
+      "line_label": "ii 8",
+      "transliteration": "e₂ - ŋidru umma ki mu - du₃"
+    },
+    {
+      "line_id": "Q003657.18",
+      "line_label": "ii 9",
+      "transliteration": "[ e₂ ] - ŋidru ki - an ki mu - du₃"
+    }
+  ]
+}

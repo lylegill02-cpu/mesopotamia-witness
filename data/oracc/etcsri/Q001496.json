@@ -1,0 +1,47 @@
+{
+  "text_id": "oracc.etcsri.Q001496",
+  "corpus": "oracc",
+  "title": "Gudea 055a (RIME 3/1.01.07.055a composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001496",
+  "paragraphs": [
+    {
+      "para_id": "Q001496.1",
+      "line_range": "1",
+      "translation": "(1) To Ninĝirsu , the powerful warrior of Enlil , ..., the builder of ..., dedicated this ( stand ) for his well-being ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001496.1",
+      "line_label": "1",
+      "transliteration": "[ d nin - ŋir₂ ] - su"
+    },
+    {
+      "line_id": "Q001496.2",
+      "line_label": "2",
+      "transliteration": "[ ur ] - ⸢ saŋ ⸣ kalag - ga"
+    },
+    {
+      "line_id": "Q001496.3",
+      "line_label": "3",
+      "transliteration": "[ d ] ⸢ en ⸣ - lil₂ - la₂"
+    },
+    {
+      "line_id": "Q001496.5",
+      "line_label": "1'",
+      "transliteration": "⸢ in - du₃ ⸣ - [ a ]"
+    },
+    {
+      "line_id": "Q001496.6",
+      "line_label": "2'",
+      "transliteration": "nam - til₃ - la - ni - še₃"
+    },
+    {
+      "line_id": "Q001496.7",
+      "line_label": "3'",
+      "transliteration": "a mu - na - ru"
+    }
+  ]
+}

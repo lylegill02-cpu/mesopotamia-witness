@@ -1,0 +1,57 @@
+{
+  "text_id": "oracc.etcsri.Q001482",
+  "corpus": "oracc",
+  "title": "Gudea 022 (RIME 3/1.01.07.022 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001482",
+  "paragraphs": [
+    {
+      "para_id": "Q001482.1",
+      "line_range": "1",
+      "translation": "(1) For Inana , the lady of all lands , his lady , Gudea , ruler of Lagaš , built her temple ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001482.1",
+      "line_label": "1",
+      "transliteration": "[ d inana ]"
+    },
+    {
+      "line_id": "Q001482.2",
+      "line_label": "2",
+      "transliteration": "[ nin kur ] - ⸢ kur - ra ⸣"
+    },
+    {
+      "line_id": "Q001482.3",
+      "line_label": "3",
+      "transliteration": "nin - a - ni"
+    },
+    {
+      "line_id": "Q001482.4",
+      "line_label": "4",
+      "transliteration": "gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q001482.5",
+      "line_label": "5",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001482.6",
+      "line_label": "6",
+      "transliteration": "lagaš ki - ke₄"
+    },
+    {
+      "line_id": "Q001482.7",
+      "line_label": "7",
+      "transliteration": "e₂ - a - ni"
+    },
+    {
+      "line_id": "Q001482.8",
+      "line_label": "8",
+      "transliteration": "mu - na - du₃"
+    }
+  ]
+}

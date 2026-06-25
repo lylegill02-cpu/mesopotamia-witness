@@ -16,7 +16,7 @@ sys.path.insert(0, str(ROOT / "scripts"))
 
 from lib.oracc_html import extract_etcsri_text  # noqa: E402
 
-OUTLINE_URL = "https://oracc.museum.upenn.edu/etcsri/outlined.lst"
+CORPUS_URL = "https://oracc.museum.upenn.edu/etcsri/corpus"
 OUT_DIR = ROOT / "data" / "oracc" / "etcsri"
 CACHE_DIR = ROOT / "data" / "oracc" / "_cache"
 
@@ -37,6 +37,33 @@ def parse_qids(html: str) -> list[str]:
     return sorted(ids)
 
 
+def collect_qids(force: bool = False, max_pages: int = 0) -> list[str]:
+    """Walk paginated ETCSRI corpus listing (59 pages, ~1456 texts)."""
+    qids: set[str] = set()
+    page = 1
+    while True:
+        if max_pages and page > max_pages:
+            break
+        url = f"{CORPUS_URL}?page={page}"
+        cache = CACHE_DIR / f"etcsri_corpus_p{page}.html"
+        html = fetch(url, cache, force=force)
+        ids = parse_qids(html)
+        if not ids:
+            break
+        before = len(qids)
+        qids.update(ids)
+        print(f"Page {page}: {len(ids)} refs, {len(qids) - before} new, {len(qids)} total")
+        if "data-pmax=" in html:
+            m = re.search(r'data-pmax="(\d+)"', html)
+            pmax = int(m.group(1)) if m else page
+        else:
+            pmax = page
+        if page >= pmax:
+            break
+        page += 1
+    return sorted(qids)
+
+
 def build_doc(qid: str, parsed: dict) -> dict:
     return {
         "text_id": f"oracc.etcsri.{qid}",
@@ -53,19 +80,24 @@ def build_doc(qid: str, parsed: dict) -> dict:
 def main() -> None:
     parser = argparse.ArgumentParser(description="Fetch ETCSRI inscriptions from ORACC")
     parser.add_argument("--force", action="store_true")
-    parser.add_argument("--limit", type=int, default=0, help="Max texts (0 = all on outline page)")
+    parser.add_argument("--limit", type=int, default=0, help="Max texts (0 = all listed)")
+    parser.add_argument("--pages", type=int, default=0, help="Max corpus pages to scan (0 = all)")
+    parser.add_argument("--skip-existing", action="store_true", help="Keep JSON already on disk")
     parser.add_argument("--delay", type=float, default=0.35, help="Seconds between fetches")
     args = parser.parse_args()
 
-    outline = fetch(OUTLINE_URL, CACHE_DIR / "etcsri_outlined.lst", force=args.force)
-    qids = parse_qids(outline)
+    qids = collect_qids(force=args.force, max_pages=args.pages)
     if args.limit:
         qids = qids[: args.limit]
+    print(f"Fetching {len(qids)} ETCSRI text(s)")
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     ok = skip = 0
     for qid in qids:
         out = OUT_DIR / f"{qid}.json"
+        if args.skip_existing and out.exists():
+            skip += 1
+            continue
         url = f"https://oracc.museum.upenn.edu/etcsri/{qid}"
         cache = CACHE_DIR / f"etcsri_{qid}.html"
         try:
@@ -90,7 +122,7 @@ def main() -> None:
 
     index = {
         "corpus": "etcsri",
-        "source": OUTLINE_URL,
+        "source": CORPUS_URL,
         "count": len(list(OUT_DIR.glob("Q*.json"))),
         "text_ids": sorted(p.stem for p in OUT_DIR.glob("Q*.json")),
     }

@@ -1,0 +1,62 @@
+{
+  "text_id": "oracc.etcsri.Q000967",
+  "corpus": "oracc",
+  "title": "Šulgi 13 (RIME 3/2.01.02.013 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000967",
+  "paragraphs": [
+    {
+      "para_id": "Q000967.1",
+      "line_range": "1",
+      "translation": "(1) For Ninmarki , his lady , Šulgi , the powerful man , king of Urim , king of Sumer and Akkad , built her E-munus-gisa in Ĝirsu ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000967.1",
+      "line_label": "1",
+      "transliteration": "d nin - mar - ki"
+    },
+    {
+      "line_id": "Q000967.2",
+      "line_label": "2",
+      "transliteration": "nin - a - ni"
+    },
+    {
+      "line_id": "Q000967.3",
+      "line_label": "3",
+      "transliteration": "d šul - gi"
+    },
+    {
+      "line_id": "Q000967.4",
+      "line_label": "4",
+      "transliteration": "nita kalag - ga"
+    },
+    {
+      "line_id": "Q000967.5",
+      "line_label": "5",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q000967.6",
+      "line_label": "6",
+      "transliteration": "lugal ki - en - gi ki - uri - ke₄"
+    },
+    {
+      "line_id": "Q000967.7",
+      "line_label": "7",
+      "transliteration": "e₂ - munus - gil - sa"
+    },
+    {
+      "line_id": "Q000967.8",
+      "line_label": "8",
+      "transliteration": "ŋir₂ - su ki - ka - ni"
+    },
+    {
+      "line_id": "Q000967.9",
+      "line_label": "9",
+      "transliteration": "mu - na - du₃"
+    }
+  ]
+}

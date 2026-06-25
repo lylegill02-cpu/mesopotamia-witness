@@ -1,0 +1,37 @@
+{
+  "text_id": "oracc.etcsri.Q004881",
+  "corpus": "oracc",
+  "title": "Lagaš II Unidentified 1050add (FAOS 09/1, Lagash 36)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004881",
+  "paragraphs": [
+    {
+      "para_id": "Q004881.2",
+      "line_range": "2",
+      "translation": "(1') ... mined .... He dedišated ( this ) maše with three heads to ...."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004881.2",
+      "line_label": "1'",
+      "transliteration": "na₄ [... ]"
+    },
+    {
+      "line_id": "Q004881.3",
+      "line_label": "2'",
+      "transliteration": "mu - ba - ⸢ al ⸣"
+    },
+    {
+      "line_id": "Q004881.4",
+      "line_label": "3'",
+      "transliteration": "šita₂ saŋ eš₅"
+    },
+    {
+      "line_id": "Q004881.5",
+      "line_label": "4'",
+      "transliteration": "< a > mu - na - ru"
+    }
+  ]
+}

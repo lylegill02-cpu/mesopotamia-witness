@@ -1,0 +1,87 @@
+{
+  "text_id": "oracc.etcsri.Q001462",
+  "corpus": "oracc",
+  "title": "Ur-Ningirsu I 4 (RIME 3/1.01.01.04 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001462",
+  "paragraphs": [
+    {
+      "para_id": "Q001462.1",
+      "line_range": "1",
+      "translation": "(1) To the protective spirit , Bau , his lady , Nin-niĝare-si , ( Ur-Ninĝirsu's ) spouse , dedicated this ( human-headed bull ) for the well-being of Ur-Ninĝirsu , ruler of Lagaš , and for her own well-being . The name of this votive gift is “May my lady raise him!”"
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001462.1",
+      "line_label": "1",
+      "transliteration": "d lamma"
+    },
+    {
+      "line_id": "Q001462.2",
+      "line_label": "2",
+      "transliteration": "d ba - u₂"
+    },
+    {
+      "line_id": "Q001462.3",
+      "line_label": "3",
+      "transliteration": "nin - a - ni"
+    },
+    {
+      "line_id": "Q001462.4",
+      "line_label": "4",
+      "transliteration": "nam - til₃"
+    },
+    {
+      "line_id": "Q001462.5",
+      "line_label": "5",
+      "transliteration": "ur - d nin - ŋir₂ - su"
+    },
+    {
+      "line_id": "Q001462.6",
+      "line_label": "6",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001462.7",
+      "line_label": "7",
+      "transliteration": "lagaš ki - ka - še₃"
+    },
+    {
+      "line_id": "Q001462.8",
+      "line_label": "8",
+      "transliteration": "nin - niŋar - e - si"
+    },
+    {
+      "line_id": "Q001462.9",
+      "line_label": "9",
+      "transliteration": "dam - ne₂"
+    },
+    {
+      "line_id": "Q001462.10",
+      "line_label": "10",
+      "transliteration": "u₃ nam - til₃ - la - ni - < še₃ >"
+    },
+    {
+      "line_id": "Q001462.11",
+      "line_label": "11",
+      "transliteration": "a mu - na - ri"
+    },
+    {
+      "line_id": "Q001462.12",
+      "line_label": "12",
+      "transliteration": "maš - da - re - a - ba"
+    },
+    {
+      "line_id": "Q001462.13",
+      "line_label": "13",
+      "transliteration": "nin - ŋu₁₀ ḫe₂ - ma - zi - zi"
+    },
+    {
+      "line_id": "Q001462.14",
+      "line_label": "14",
+      "transliteration": "mu - bi"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "text_id": "oracc.etcsri.Q001168",
+  "corpus": "oracc",
+  "title": "URU-KA-gina 14s (RIME 1.09.09.14, ex. s)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001168",
+  "paragraphs": [
+    {
+      "para_id": "Q001168.1",
+      "line_range": "1",
+      "translation": "(1) The name of this ( object ) is : \" Bau stood by the entreaties of Iri-kagina \"."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001168.1",
+      "line_label": "1",
+      "transliteration": "d ba - u₂ nam - šita iri - ka - gen₆ - na - ka - ke₄ ba - gub"
+    },
+    {
+      "line_id": "Q001168.2",
+      "line_label": "2",
+      "transliteration": "mu - bi"
+    }
+  ]
+}

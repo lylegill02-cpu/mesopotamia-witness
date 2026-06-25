@@ -1,0 +1,52 @@
+{
+  "text_id": "oracc.etcsri.Q004425",
+  "corpus": "oracc",
+  "title": "Šu-Suen 2092add / CDLI Seals 000196 (CDLI Seals 000196 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004425",
+  "paragraphs": [
+    {
+      "para_id": "Q004425.1",
+      "line_range": "1",
+      "translation": "(i 1) Šu-Suen , the powerful king , king of Urim : ..., the scribe , child of ..., is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004425.1",
+      "line_label": "i 1",
+      "transliteration": "d šu - d suen"
+    },
+    {
+      "line_id": "Q004425.2",
+      "line_label": "i 2",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q004425.3",
+      "line_label": "i 3",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q004425.4",
+      "line_label": "ii 1",
+      "transliteration": "lugal - [... ]"
+    },
+    {
+      "line_id": "Q004425.5",
+      "line_label": "ii 2",
+      "transliteration": "dub - [ sar ]"
+    },
+    {
+      "line_id": "Q004425.6",
+      "line_label": "ii 3",
+      "transliteration": "dumu x - [... ]"
+    },
+    {
+      "line_id": "Q004425.7",
+      "line_label": "ii 4",
+      "transliteration": "arad₂ - [ zu ]"
+    }
+  ]
+}

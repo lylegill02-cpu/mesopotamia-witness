@@ -1,0 +1,177 @@
+{
+  "text_id": "oracc.etcsri.Q001037",
+  "corpus": "oracc",
+  "title": "Ur-Nanše 22 (RIME 1.09.01.22 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001037",
+  "paragraphs": [
+    {
+      "para_id": "Q001037.1",
+      "line_range": "1",
+      "translation": "(1) Ur-Nanše , king of Lagaš , child of Gunidu , citizen of Gursar , built the temple of Ninĝirsu ."
+    },
+    {
+      "para_id": "Q001037.8",
+      "line_range": "8",
+      "translation": "(8) He built the temple of Nanše ."
+    },
+    {
+      "para_id": "Q001037.10",
+      "line_range": "10",
+      "translation": "(10) He built the temple of Ĝatumdug ."
+    },
+    {
+      "para_id": "Q001037.12",
+      "line_range": "12",
+      "translation": "(12) He built the E-dam ."
+    },
+    {
+      "para_id": "Q001037.14",
+      "line_range": "14",
+      "translation": "(14) He built the temple of Ninmarki ."
+    },
+    {
+      "para_id": "Q001037.16",
+      "line_range": "16",
+      "translation": "(16) He established control of the Dilmun-boats ( coming ) from the foreign countries ."
+    },
+    {
+      "para_id": "Q001037.19",
+      "line_range": "19",
+      "translation": "(19) He built the Ebgal ."
+    },
+    {
+      "para_id": "Q001037.21",
+      "line_range": "21",
+      "translation": "(21) He built the Kinir ."
+    },
+    {
+      "para_id": "Q001037.23",
+      "line_range": "23",
+      "translation": "(23) He built the E-ĝidru ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001037.1",
+      "line_label": "1",
+      "transliteration": "ur - d nanše"
+    },
+    {
+      "line_id": "Q001037.2",
+      "line_label": "2",
+      "transliteration": "lugal"
+    },
+    {
+      "line_id": "Q001037.3",
+      "line_label": "3",
+      "transliteration": "lagaš"
+    },
+    {
+      "line_id": "Q001037.4",
+      "line_label": "4",
+      "transliteration": "dumu gu - NI - DU"
+    },
+    {
+      "line_id": "Q001037.5",
+      "line_label": "5",
+      "transliteration": "dumu gur - sar"
+    },
+    {
+      "line_id": "Q001037.6",
+      "line_label": "6",
+      "transliteration": "e₂ d nin - ŋir₂ - su₂"
+    },
+    {
+      "line_id": "Q001037.7",
+      "line_label": "7",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001037.8",
+      "line_label": "8",
+      "transliteration": "e₂ d nanše"
+    },
+    {
+      "line_id": "Q001037.9",
+      "line_label": "9",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001037.10",
+      "line_label": "10",
+      "transliteration": "e₂ d ŋa₂ - tum₃ - dug₃"
+    },
+    {
+      "line_id": "Q001037.11",
+      "line_label": "11",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001037.12",
+      "line_label": "12",
+      "transliteration": "e₂ - dam"
+    },
+    {
+      "line_id": "Q001037.13",
+      "line_label": "13",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001037.14",
+      "line_label": "14",
+      "transliteration": "e₂ d nin - mar - ki"
+    },
+    {
+      "line_id": "Q001037.15",
+      "line_label": "15",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001037.16",
+      "line_label": "16",
+      "transliteration": "ma₂ dilmun"
+    },
+    {
+      "line_id": "Q001037.17",
+      "line_label": "17",
+      "transliteration": "kur - ta"
+    },
+    {
+      "line_id": "Q001037.18",
+      "line_label": "18",
+      "transliteration": "gu₂ ŋeš mu - ŋal₂"
+    },
+    {
+      "line_id": "Q001037.19",
+      "line_label": "19",
+      "transliteration": "eb - gal"
+    },
+    {
+      "line_id": "Q001037.20",
+      "line_label": "20",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001037.21",
+      "line_label": "21",
+      "transliteration": "ki - nir"
+    },
+    {
+      "line_id": "Q001037.22",
+      "line_label": "22",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001037.23",
+      "line_label": "23",
+      "transliteration": "e₂ - ŋidru"
+    },
+    {
+      "line_id": "Q001037.24",
+      "line_label": "24",
+      "transliteration": "mu - du₃"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "text_id": "oracc.etcsri.Q004349",
+  "corpus": "oracc",
+  "title": "Šulgi 2132add / CDLI Seals 000404 (CDLI Seals 000404 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004349",
+  "paragraphs": [
+    {
+      "para_id": "Q004349.1",
+      "line_range": "1",
+      "translation": "(i 1) Šulgi , the powerful man , king of Urim , king of the four quarters : ..., the scribe , child of .., is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004349.1",
+      "line_label": "i 1",
+      "transliteration": "[ d šul - gi ]"
+    },
+    {
+      "line_id": "Q004349.2",
+      "line_label": "i 2",
+      "transliteration": "nita kalag - ga"
+    },
+    {
+      "line_id": "Q004349.3",
+      "line_label": "i 3",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q004349.4",
+      "line_label": "i 4",
+      "transliteration": "lugal an - ub - da limmu₂ - ba"
+    },
+    {
+      "line_id": "Q004349.5",
+      "line_label": "ii 1",
+      "transliteration": "ur - [... ]"
+    },
+    {
+      "line_id": "Q004349.6",
+      "line_label": "ii 2",
+      "transliteration": "dub - [ sar ]"
+    },
+    {
+      "line_id": "Q004349.7",
+      "line_label": "ii 3",
+      "transliteration": "dumu x - [... ]"
+    },
+    {
+      "line_id": "Q004349.8",
+      "line_label": "ii 4",
+      "transliteration": "arad₂ - [ zu ]"
+    }
+  ]
+}

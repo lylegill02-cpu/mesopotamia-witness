@@ -1,0 +1,22 @@
+{
+  "text_id": "oracc.etcsri.Q001341",
+  "corpus": "oracc",
+  "title": "Anonymous Ur 03 (FAOS 05/2, AnUr 03)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001341",
+  "paragraphs": [
+    {
+      "para_id": "Q001341.1",
+      "line_range": "1",
+      "translation": "(1) For Nanna ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001341.1",
+      "line_label": "1",
+      "transliteration": "d ⸢ nanna ⸣"
+    }
+  ]
+}

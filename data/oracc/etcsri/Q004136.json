@@ -1,0 +1,62 @@
+{
+  "text_id": "oracc.etcsri.Q004136",
+  "corpus": "oracc",
+  "title": "Amar-Suena 2034add / CDLI Seals 000245 (CDLI Seals 000245 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004136",
+  "paragraphs": [
+    {
+      "para_id": "Q004136.1",
+      "line_range": "1",
+      "translation": "(i 1) Amar-Suena , the powerful man , king of Urim , king of the four quarters : Lu-Nanna , the scribe , child of Inim-Šara , land recorder of the king , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004136.1",
+      "line_label": "i 1",
+      "transliteration": "d amar - d suen"
+    },
+    {
+      "line_id": "Q004136.2",
+      "line_label": "i 2",
+      "transliteration": "nita kalag - ga"
+    },
+    {
+      "line_id": "Q004136.3",
+      "line_label": "i 3",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q004136.4",
+      "line_label": "i 4",
+      "transliteration": "lugal an - ub - da limmu₂ - ba"
+    },
+    {
+      "line_id": "Q004136.5",
+      "line_label": "ii 1",
+      "transliteration": "lu₂ - d nanna"
+    },
+    {
+      "line_id": "Q004136.6",
+      "line_label": "ii 2",
+      "transliteration": "dub - sar"
+    },
+    {
+      "line_id": "Q004136.7",
+      "line_label": "ii 3",
+      "transliteration": "dumu inim - d šara₂"
+    },
+    {
+      "line_id": "Q004136.8",
+      "line_label": "ii 4",
+      "transliteration": "sa₁₂ - du₅ lugal - ka"
+    },
+    {
+      "line_id": "Q004136.9",
+      "line_label": "ii 5",
+      "transliteration": "arad₂ - zu"
+    }
+  ]
+}

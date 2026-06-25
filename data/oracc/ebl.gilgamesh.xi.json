@@ -1,0 +1,3958 @@
+{
+  "text_id": "oracc.ebl.gilgamesh.xi",
+  "corpus": "oracc",
+  "title": "Gilgamesh — Tablet XI (eBL Standard Babylonian)",
+  "language": "akkadian",
+  "translation_source": "eBL (Electronic Babylonian Library) — ORACC ATF, CC BY 4.0",
+  "source_url": "https://www.ebl.lmu.de/corpus/L/1/4/SB/XI",
+  "paragraphs": [
+    {
+      "para_id": "XI.1",
+      "line_range": "XI 1",
+      "line_start": 1,
+      "ord": 1,
+      "translation": "Gilgameš spoke to him, to Ūta-napišti the Far-Away."
+    },
+    {
+      "para_id": "XI.2",
+      "line_range": "XI 2",
+      "line_start": 2,
+      "ord": 2,
+      "translation": "‘As I look at you, Ūta-napišti,"
+    },
+    {
+      "para_id": "XI.3",
+      "line_range": "XI 3",
+      "line_start": 3,
+      "ord": 3,
+      "translation": "your form is not different, you are just like me,"
+    },
+    {
+      "para_id": "XI.4",
+      "line_range": "XI 4",
+      "line_start": 4,
+      "ord": 4,
+      "translation": "you are not different at all, you are just like me."
+    },
+    {
+      "para_id": "XI.5",
+      "line_range": "XI 5",
+      "line_start": 5,
+      "ord": 5,
+      "translation": "I was fully intent on doing battle with you,"
+    },
+    {
+      "para_id": "XI.6",
+      "line_range": "XI 6",
+      "line_start": 6,
+      "ord": 6,
+      "translation": "[@i{but}] in your presence my hand is stayed."
+    },
+    {
+      "para_id": "XI.7",
+      "line_range": "XI 7",
+      "line_start": 7,
+      "ord": 7,
+      "translation": "How was it you attended the gods’ assembly, and found life?’"
+    },
+    {
+      "para_id": "XI.8",
+      "line_range": "XI 8",
+      "line_start": 8,
+      "ord": 8,
+      "translation": "Ūta-napišti spoke to him, to Gilgameš:"
+    },
+    {
+      "para_id": "XI.9",
+      "line_range": "XI 9",
+      "line_start": 9,
+      "ord": 9,
+      "translation": "‘I will disclose to you, Gilgameš, a secret matter,"
+    },
+    {
+      "para_id": "XI.10",
+      "line_range": "XI 10",
+      "line_start": 10,
+      "ord": 10,
+      "translation": "and I will tell you a mistery of the gods."
+    },
+    {
+      "para_id": "XI.11",
+      "line_range": "XI 11",
+      "line_start": 11,
+      "ord": 11,
+      "translation": "The city of Šuruppak – a city you yourself know,"
+    },
+    {
+      "para_id": "XI.12",
+      "line_range": "XI 12",
+      "line_start": 12,
+      "ord": 12,
+      "translation": "@i{the} [@i{city} that] is situated on the [@i{banks}] of the Euphrates–"
+    },
+    {
+      "para_id": "XI.13",
+      "line_range": "XI 13",
+      "line_start": 13,
+      "ord": 13,
+      "translation": "that city was old and the gods were within it,"
+    },
+    {
+      "para_id": "XI.14",
+      "line_range": "XI 14",
+      "line_start": 14,
+      "ord": 14,
+      "translation": "(when) the great gods decided to cause the Deluge."
+    },
+    {
+      "para_id": "XI.15",
+      "line_range": "XI 15",
+      "line_start": 15,
+      "ord": 15,
+      "translation": "Their father Anu took the oath,"
+    },
+    {
+      "para_id": "XI.16",
+      "line_range": "XI 16",
+      "line_start": 16,
+      "ord": 16,
+      "translation": "their counsellor, the hero Enlil;"
+    },
+    {
+      "para_id": "XI.17",
+      "line_range": "XI 17",
+      "line_start": 17,
+      "ord": 17,
+      "translation": "their chamberlain, Ninurta,"
+    },
+    {
+      "para_id": "XI.18",
+      "line_range": "XI 18",
+      "line_start": 18,
+      "ord": 18,
+      "translation": "their inspector of waterways, Ennugi"
+    },
+    {
+      "para_id": "XI.19",
+      "line_range": "XI 19",
+      "line_start": 19,
+      "ord": 19,
+      "translation": "With them the Prince Ea was under oath likewise,"
+    },
+    {
+      "para_id": "XI.20",
+      "line_range": "XI 20",
+      "line_start": 20,
+      "ord": 20,
+      "translation": "(but) repeated their words to a reed fence:"
+    },
+    {
+      "para_id": "XI.21",
+      "line_range": "XI 21",
+      "line_start": 21,
+      "ord": 21,
+      "translation": "“Reed fence, reed fence! Brick wall, brick wall!"
+    },
+    {
+      "para_id": "XI.22",
+      "line_range": "XI 22",
+      "line_start": 22,
+      "ord": 22,
+      "translation": "Listen, O reed fence! Pay heed, O brick wall!"
+    },
+    {
+      "para_id": "XI.23",
+      "line_range": "XI 23",
+      "line_start": 23,
+      "ord": 23,
+      "translation": "O man of Šuruppak, son of Ubār-Tutu,"
+    },
+    {
+      "para_id": "XI.24",
+      "line_range": "XI 24",
+      "line_start": 24,
+      "ord": 24,
+      "translation": "demolish the house, build a boat!"
+    },
+    {
+      "para_id": "XI.25",
+      "line_range": "XI 25",
+      "line_start": 25,
+      "ord": 25,
+      "translation": "Abandon riches and seek survival!"
+    },
+    {
+      "para_id": "XI.26",
+      "line_range": "XI 26",
+      "line_start": 26,
+      "ord": 26,
+      "translation": "Spurn property and save life!"
+    },
+    {
+      "para_id": "XI.27",
+      "line_range": "XI 27",
+      "line_start": 27,
+      "ord": 27,
+      "translation": "Put on board the boat the seed of all living creatures!"
+    },
+    {
+      "para_id": "XI.28",
+      "line_range": "XI 28",
+      "line_start": 28,
+      "ord": 28,
+      "translation": "The boat that you are going to build,"
+    },
+    {
+      "para_id": "XI.29",
+      "line_range": "XI 29",
+      "line_start": 29,
+      "ord": 29,
+      "translation": "her dimensions should all be matching:"
+    },
+    {
+      "para_id": "XI.30",
+      "line_range": "XI 30",
+      "line_start": 30,
+      "ord": 30,
+      "translation": "her breadth and length should be the same,"
+    },
+    {
+      "para_id": "XI.31",
+      "line_range": "XI 31",
+      "line_start": 31,
+      "ord": 31,
+      "translation": "cover her with a roof, like the Apsû”."
+    },
+    {
+      "para_id": "XI.32",
+      "line_range": "XI 32",
+      "line_start": 32,
+      "ord": 32,
+      "translation": "I understood and spoke to Ea my master:"
+    },
+    {
+      "para_id": "XI.33",
+      "line_range": "XI 33",
+      "line_start": 33,
+      "ord": 33,
+      "translation": "“I hereby concur, my lord, with what you told me thus."
+    },
+    {
+      "para_id": "XI.34",
+      "line_range": "XI 34",
+      "line_start": 34,
+      "ord": 34,
+      "translation": "[I] have paid attention; I shall do it."
+    },
+    {
+      "para_id": "XI.35",
+      "line_range": "XI 35",
+      "line_start": 35,
+      "ord": 35,
+      "translation": "(But) how should I answer the city, the crowd and elders?"
+    },
+    {
+      "para_id": "XI.36",
+      "line_range": "XI 36",
+      "line_start": 36,
+      "ord": 36,
+      "translation": "Ea opened his mouth to speak,"
+    },
+    {
+      "para_id": "XI.37",
+      "line_range": "XI 37",
+      "line_start": 37,
+      "ord": 37,
+      "translation": "saying to me, his servant:"
+    },
+    {
+      "para_id": "XI.38",
+      "line_range": "XI 38",
+      "line_start": 38,
+      "ord": 38,
+      "translation": "“Then also you will say to them as follows:"
+    },
+    {
+      "para_id": "XI.39",
+      "line_range": "XI 39",
+      "line_start": 39,
+      "ord": 39,
+      "translation": "For sure the god Enlil has conceived a hatred of me!"
+    },
+    {
+      "para_id": "XI.40",
+      "line_range": "XI 40",
+      "line_start": 40,
+      "ord": 40,
+      "translation": "I cannot dwell in your city!"
+    },
+    {
+      "para_id": "XI.41",
+      "line_range": "XI 41",
+      "line_start": 41,
+      "ord": 41,
+      "translation": "I cannot tread on Enlil’s ground!"
+    },
+    {
+      "para_id": "XI.42",
+      "line_range": "XI 42",
+      "line_start": 42,
+      "ord": 42,
+      "translation": "[I shall] go down to the Apsû, to live with Ea, my master;"
+    },
+    {
+      "para_id": "XI.43",
+      "line_range": "XI 43",
+      "line_start": 43,
+      "ord": 43,
+      "translation": "he will rain down on you plenty!"
+    },
+    {
+      "para_id": "XI.44",
+      "line_range": "XI 44",
+      "line_start": 44,
+      "ord": 44,
+      "translation": "[An abundance] of birds, a riddle of fishes!"
+    },
+    {
+      "para_id": "XI.45",
+      "line_range": "XI 45",
+      "line_start": 45,
+      "ord": 45,
+      "translation": "[…] … riches (at) harvest-time!"
+    },
+    {
+      "para_id": "XI.46",
+      "line_range": "XI 46",
+      "line_start": 46,
+      "ord": 46,
+      "translation": "In the morning he will rain down on you bread-cakes,"
+    },
+    {
+      "para_id": "XI.47",
+      "line_range": "XI 47",
+      "line_start": 47,
+      "ord": 47,
+      "translation": "in the evening, a torrent of wheat.’”"
+    },
+    {
+      "para_id": "XI.48",
+      "line_range": "XI 48",
+      "line_start": 48,
+      "ord": 48,
+      "translation": "At the very first light of dawn,"
+    },
+    {
+      "para_id": "XI.49",
+      "line_range": "XI 49",
+      "line_start": 49,
+      "ord": 49,
+      "translation": "the population began assembling at Atra-hasīs’s gate."
+    },
+    {
+      "para_id": "XI.50",
+      "line_range": "XI 50",
+      "line_start": 50,
+      "ord": 50,
+      "translation": "The carpenter was carrying [his] axe,"
+    },
+    {
+      "para_id": "XI.51",
+      "line_range": "XI 51",
+      "line_start": 51,
+      "ord": 51,
+      "translation": "the reed-worker was carrying [his] stone,"
+    },
+    {
+      "para_id": "XI.52",
+      "line_range": "XI 52",
+      "line_start": 52,
+      "ord": 52,
+      "translation": "[@i{the shipwright bearing his}] heavyweight axe"
+    },
+    {
+      "para_id": "XI.53",
+      "line_range": "XI 53",
+      "line_start": 53,
+      "ord": 53,
+      "translation": "The young men were…[…,]"
+    },
+    {
+      "para_id": "XI.54",
+      "line_range": "XI 54",
+      "line_start": 54,
+      "ord": 54,
+      "translation": "the old men were bearing rope of palm-fibre."
+    },
+    {
+      "para_id": "XI.55",
+      "line_range": "XI 55",
+      "line_start": 55,
+      "ord": 55,
+      "translation": "The rich man was carrying bitumen,"
+    },
+    {
+      "para_id": "XI.56",
+      "line_range": "XI 56",
+      "line_start": 56,
+      "ord": 56,
+      "translation": "the pauper brought the […] tackle."
+    },
+    {
+      "para_id": "XI.57",
+      "line_range": "XI 57",
+      "line_start": 57,
+      "ord": 57,
+      "translation": "On the fifth day I set in place her (outer) surface:"
+    },
+    {
+      "para_id": "XI.58",
+      "line_range": "XI 58",
+      "line_start": 58,
+      "ord": 58,
+      "translation": "one “acre” was her area, ten rods each her sides stood high,"
+    },
+    {
+      "para_id": "XI.59",
+      "line_range": "XI 59",
+      "line_start": 59,
+      "ord": 59,
+      "translation": "ten rods all round was the diameter of her roof."
+    },
+    {
+      "para_id": "XI.60",
+      "line_range": "XI 60",
+      "line_start": 60,
+      "ord": 60,
+      "translation": "I set in place her body, I drew up her design:"
+    },
+    {
+      "para_id": "XI.61",
+      "line_range": "XI 61",
+      "line_start": 61,
+      "ord": 61,
+      "translation": "I gave her six decks,"
+    },
+    {
+      "para_id": "XI.62",
+      "line_range": "XI 62",
+      "line_start": 62,
+      "ord": 62,
+      "translation": "I divided her into seven parts,"
+    },
+    {
+      "para_id": "XI.63",
+      "line_range": "XI 63",
+      "line_start": 63,
+      "ord": 63,
+      "translation": "I divided her interior into nine."
+    },
+    {
+      "para_id": "XI.64",
+      "line_range": "XI 64",
+      "line_start": 64,
+      "ord": 64,
+      "translation": "I struck the water pegs into her belly,"
+    },
+    {
+      "para_id": "XI.65",
+      "line_range": "XI 65",
+      "line_start": 65,
+      "ord": 65,
+      "translation": "I found a punting pole and put the tackle in place."
+    },
+    {
+      "para_id": "XI.66",
+      "line_range": "XI 66",
+      "line_start": 66,
+      "ord": 66,
+      "translation": "Three myriad measures of bitumen I poured into the furnace,"
+    },
+    {
+      "para_id": "XI.67",
+      "line_range": "XI 67",
+      "line_start": 67,
+      "ord": 67,
+      "translation": "three myriad of tar I tipped inside,"
+    },
+    {
+      "para_id": "XI.68",
+      "line_range": "XI 68",
+      "line_start": 68,
+      "ord": 68,
+      "translation": "three times a myriad was the oil that the workforce of porters was fetching,"
+    },
+    {
+      "para_id": "XI.69",
+      "line_range": "XI 69",
+      "line_start": 69,
+      "ord": 69,
+      "translation": "apart from the myriad of oil that libation consumed,"
+    },
+    {
+      "para_id": "XI.70",
+      "line_range": "XI 70",
+      "line_start": 70,
+      "ord": 70,
+      "translation": "there were two myriads of oil [that] the shipwright stowed away."
+    },
+    {
+      "para_id": "XI.71",
+      "line_range": "XI 71",
+      "line_start": 71,
+      "ord": 71,
+      "translation": "I slaughtered countless oxen,"
+    },
+    {
+      "para_id": "XI.72",
+      "line_range": "XI 72",
+      "line_start": 72,
+      "ord": 72,
+      "translation": "every day I slaughtered sheep."
+    },
+    {
+      "para_id": "XI.73",
+      "line_range": "XI 73",
+      "line_start": 73,
+      "ord": 73,
+      "translation": "Beer, ale, oil and wine"
+    },
+    {
+      "para_id": "XI.74",
+      "line_range": "XI 74",
+      "line_start": 74,
+      "ord": 74,
+      "translation": "@i{I lavished} on my workforce like the waters of a river"
+    },
+    {
+      "para_id": "XI.75",
+      "line_range": "XI 75",
+      "line_start": 75,
+      "ord": 75,
+      "translation": "They were celebrating as on the feast-days of the New Year itself!"
+    },
+    {
+      "para_id": "XI.76",
+      "line_range": "XI 76",
+      "line_start": 76,
+      "ord": 76,
+      "translation": "At sun-rise I set my hand to the oiling;"
+    },
+    {
+      "para_id": "XI.77",
+      "line_range": "XI 77",
+      "line_start": 77,
+      "ord": 77,
+      "translation": "[before] sundown the boat was finished."
+    },
+    {
+      "para_id": "XI.78",
+      "line_range": "XI 78",
+      "line_start": 78,
+      "ord": 78,
+      "translation": "[...] were very difficult:"
+    },
+    {
+      "para_id": "XI.79",
+      "line_range": "XI 79",
+      "line_start": 79,
+      "ord": 79,
+      "translation": "Poles for the slipway we kept moving from back to front,"
+    },
+    {
+      "para_id": "XI.80",
+      "line_range": "XI 80",
+      "line_start": 80,
+      "ord": 80,
+      "translation": "[@i{until}] two thirds of [the boat @i{had entered the water}]."
+    },
+    {
+      "para_id": "XI.81",
+      "line_range": "XI 81",
+      "line_start": 81,
+      "ord": 81,
+      "translation": "[Everything I had] I loaded aboard it,"
+    },
+    {
+      "para_id": "XI.82",
+      "line_range": "XI 82",
+      "line_start": 82,
+      "ord": 82,
+      "translation": "I loaded aboard it whatever silver I had,"
+    },
+    {
+      "para_id": "XI.83",
+      "line_range": "XI 83",
+      "line_start": 83,
+      "ord": 83,
+      "translation": "I loaded aboard it whatever gold I had,"
+    },
+    {
+      "para_id": "XI.84",
+      "line_range": "XI 84",
+      "line_start": 84,
+      "ord": 84,
+      "translation": "I loaded aboard it whatever seed I had of living things, each and every one."
+    },
+    {
+      "para_id": "XI.85",
+      "line_range": "XI 85",
+      "line_start": 85,
+      "ord": 85,
+      "translation": "All my kith and kin I sent aboard the boat,"
+    },
+    {
+      "para_id": "XI.86",
+      "line_range": "XI 86",
+      "line_start": 86,
+      "ord": 86,
+      "translation": "I sent aboard animals of the wild, creatures of the wild, persons of every skill and craft."
+    },
+    {
+      "para_id": "XI.87",
+      "line_range": "XI 87",
+      "line_start": 87,
+      "ord": 87,
+      "translation": "Šamaš had set me a deadline–"
+    },
+    {
+      "para_id": "XI.88",
+      "line_range": "XI 88",
+      "line_start": 88,
+      "ord": 88,
+      "translation": "“In the morning he will rain down bread-cakes on us, in the evening a torrent of wheat."
+    },
+    {
+      "para_id": "XI.89",
+      "line_range": "XI 89",
+      "line_start": 89,
+      "ord": 89,
+      "translation": "Go into the boat and seal your hatch!”–"
+    },
+    {
+      "para_id": "XI.90",
+      "line_range": "XI 90",
+      "line_start": 90,
+      "ord": 90,
+      "translation": "“That time had arrived:"
+    },
+    {
+      "para_id": "XI.91",
+      "line_range": "XI 91",
+      "line_start": 91,
+      "ord": 91,
+      "translation": "“In the morning he will rain down bread-cakes, in the evening, a torrent of wheat.”"
+    },
+    {
+      "para_id": "XI.92",
+      "line_range": "XI 92",
+      "line_start": 92,
+      "ord": 92,
+      "translation": "I watched the look of the weather:"
+    },
+    {
+      "para_id": "XI.93",
+      "line_range": "XI 93",
+      "line_start": 93,
+      "ord": 93,
+      "translation": "The weather was frightening to behold;"
+    },
+    {
+      "para_id": "XI.94",
+      "line_range": "XI 94",
+      "line_start": 94,
+      "ord": 94,
+      "translation": "I went into the boat and sealed my hatch."
+    },
+    {
+      "para_id": "XI.95",
+      "line_range": "XI 95",
+      "line_start": 95,
+      "ord": 95,
+      "translation": "To the man who sealed the boat, to the ship-wright Puzur-Enlil,"
+    },
+    {
+      "para_id": "XI.96",
+      "line_range": "XI 96",
+      "line_start": 96,
+      "ord": 96,
+      "translation": "I gave the palace with all its goods."
+    },
+    {
+      "para_id": "XI.97",
+      "line_range": "XI 97",
+      "line_start": 97,
+      "ord": 97,
+      "translation": "At the very first light of dawn–"
+    },
+    {
+      "para_id": "XI.98",
+      "line_range": "XI 98",
+      "line_start": 98,
+      "ord": 98,
+      "translation": "there came up from the horizon a black cloud,"
+    },
+    {
+      "para_id": "XI.99",
+      "line_range": "XI 99",
+      "line_start": 99,
+      "ord": 99,
+      "translation": "within it did Adad bellow continually."
+    },
+    {
+      "para_id": "XI.100",
+      "line_range": "XI 100",
+      "line_start": 100,
+      "ord": 100,
+      "translation": "Šullat and Haniš were going at the fore,"
+    },
+    {
+      "para_id": "XI.101",
+      "line_range": "XI 101",
+      "line_start": 101,
+      "ord": 101,
+      "translation": "“throne-bearers” travelling over mountain and land."
+    },
+    {
+      "para_id": "XI.102",
+      "line_range": "XI 102",
+      "line_start": 102,
+      "ord": 102,
+      "translation": "Errakal was ripping out the mooring poles;"
+    },
+    {
+      "para_id": "XI.103",
+      "line_range": "XI 103",
+      "line_start": 103,
+      "ord": 103,
+      "translation": "Ninurta, as he went, made the weirs overflow."
+    },
+    {
+      "para_id": "XI.104",
+      "line_range": "XI 104",
+      "line_start": 104,
+      "ord": 104,
+      "translation": "The Anunnaki bore torches aloft,"
+    },
+    {
+      "para_id": "XI.105",
+      "line_range": "XI 105",
+      "line_start": 105,
+      "ord": 105,
+      "translation": "setting the land aglow with their brilliance."
+    },
+    {
+      "para_id": "XI.106",
+      "line_range": "XI 106",
+      "line_start": 106,
+      "ord": 106,
+      "translation": "The still calm of the storm-god passed against the sky,"
+    },
+    {
+      "para_id": "XI.107",
+      "line_range": "XI 107",
+      "line_start": 107,
+      "ord": 107,
+      "translation": "all that was bright was turned into gloom."
+    },
+    {
+      "para_id": "XI.108",
+      "line_range": "XI 108",
+      "line_start": 108,
+      "ord": 108,
+      "translation": "[He] charged the land like a @i{bull} [@i{on the rampage},] he smashed [it] in pieces [@i{like a vessel of clay}]"
+    },
+    {
+      "para_id": "XI.109",
+      "line_range": "XI 109",
+      "line_start": 109,
+      "ord": 109,
+      "translation": "for one day the gale (and) the flood [@i{flattened the country},]"
+    },
+    {
+      "para_id": "XI.110",
+      "line_range": "XI 110",
+      "line_start": 110,
+      "ord": 110,
+      "translation": "Quickly it blew, and [@i{then came}] the [@i{Deluge}.]"
+    },
+    {
+      "para_id": "XI.111",
+      "line_range": "XI 111",
+      "line_start": 111,
+      "ord": 111,
+      "translation": "like a battle [the cataclysm] passed over(!) the people."
+    },
+    {
+      "para_id": "XI.112",
+      "line_range": "XI 112",
+      "line_start": 112,
+      "ord": 112,
+      "translation": "One person could not see another,"
+    },
+    {
+      "para_id": "XI.113",
+      "line_range": "XI 113",
+      "line_start": 113,
+      "ord": 113,
+      "translation": "Nor people recognize each other in the destruction."
+    },
+    {
+      "para_id": "XI.114",
+      "line_range": "XI 114",
+      "line_start": 114,
+      "ord": 114,
+      "translation": "Even the gods took fright at the Deluge!"
+    },
+    {
+      "para_id": "XI.115",
+      "line_range": "XI 115",
+      "line_start": 115,
+      "ord": 115,
+      "translation": "They withdrew, they went up to the heaven of Anu."
+    },
+    {
+      "para_id": "XI.116",
+      "line_range": "XI 116",
+      "line_start": 116,
+      "ord": 116,
+      "translation": "The gods curled up like dogs, lying out in the open."
+    },
+    {
+      "para_id": "XI.117",
+      "line_range": "XI 117",
+      "line_start": 117,
+      "ord": 117,
+      "translation": "The goddess, screaming like a woman in childbirth,"
+    },
+    {
+      "para_id": "XI.118",
+      "line_range": "XI 118",
+      "line_start": 118,
+      "ord": 118,
+      "translation": "Bēlet-ilī, the sweet-voiced, wailed aloud:"
+    },
+    {
+      "para_id": "XI.119",
+      "line_range": "XI 119",
+      "line_start": 119,
+      "ord": 119,
+      "translation": "“Indeed the past has truly turned to clay,"
+    },
+    {
+      "para_id": "XI.120",
+      "line_range": "XI 120",
+      "line_start": 120,
+      "ord": 120,
+      "translation": "because I spoke evil in the assembly of the gods."
+    },
+    {
+      "para_id": "XI.121",
+      "line_range": "XI 121",
+      "line_start": 121,
+      "ord": 121,
+      "translation": "How was it I spoke evil in the assembly of the gods,"
+    },
+    {
+      "para_id": "XI.122",
+      "line_range": "XI 122",
+      "line_start": 122,
+      "ord": 122,
+      "translation": "(and) declared a war to destroy my people?"
+    },
+    {
+      "para_id": "XI.123",
+      "line_range": "XI 123",
+      "line_start": 123,
+      "ord": 123,
+      "translation": "It is I that gave birth (to them)! They are my people!"
+    },
+    {
+      "para_id": "XI.124",
+      "line_range": "XI 124",
+      "line_start": 124,
+      "ord": 124,
+      "translation": "(Now) like so many fish they fill the sea.”"
+    },
+    {
+      "para_id": "XI.125",
+      "line_range": "XI 125",
+      "line_start": 125,
+      "ord": 125,
+      "translation": "The gods, the Anunnaki, were weeping with her,"
+    },
+    {
+      "para_id": "XI.126",
+      "line_range": "XI 126",
+      "line_start": 126,
+      "ord": 126,
+      "translation": "wet-faced with sorrow, they were weeping [@i{with her}],"
+    },
+    {
+      "para_id": "XI.127",
+      "line_range": "XI 127",
+      "line_start": 127,
+      "ord": 127,
+      "translation": "their lips were parched, being stricken with fever."
+    },
+    {
+      "para_id": "XI.128",
+      "line_range": "XI 128",
+      "line_start": 128,
+      "ord": 128,
+      "translation": "For six days and (seven) nights,"
+    },
+    {
+      "para_id": "XI.129",
+      "line_range": "XI 129",
+      "line_start": 129,
+      "ord": 129,
+      "translation": "was blowing the wind, the Deluge, the gale laying flat the land."
+    },
+    {
+      "para_id": "XI.130",
+      "line_range": "XI 130",
+      "line_start": 130,
+      "ord": 130,
+      "translation": "When the seventh day arrived,"
+    },
+    {
+      "para_id": "XI.131",
+      "line_range": "XI 131",
+      "line_start": 131,
+      "ord": 131,
+      "translation": "the gale relented, [the Deluge @i{ended}]."
+    },
+    {
+      "para_id": "XI.None",
+      "line_range": "XI None",
+      "line_start": null,
+      "ord": null,
+      "translation": "(133a) The sea grew calm, (132) that had fought like a woman in labour,"
+    },
+    {
+      "para_id": "XI.133",
+      "line_range": "XI 133",
+      "line_start": 133,
+      "ord": 133,
+      "translation": "the tempest grew still, the Deluge ended."
+    },
+    {
+      "para_id": "XI.134",
+      "line_range": "XI 134",
+      "line_start": 134,
+      "ord": 134,
+      "translation": "I looked at the weather, and there was quiet,"
+    },
+    {
+      "para_id": "XI.135",
+      "line_range": "XI 135",
+      "line_start": 135,
+      "ord": 135,
+      "translation": "but all the people had turned to clay."
+    },
+    {
+      "para_id": "XI.136",
+      "line_range": "XI 136",
+      "line_start": 136,
+      "ord": 136,
+      "translation": "The flood plain was level like a roof."
+    },
+    {
+      "para_id": "XI.137",
+      "line_range": "XI 137",
+      "line_start": 137,
+      "ord": 137,
+      "translation": "I opened a vent, and sunlight fell on the side of my face."
+    },
+    {
+      "para_id": "XI.138",
+      "line_range": "XI 138",
+      "line_start": 138,
+      "ord": 138,
+      "translation": "I fell to my knees and sat there weeping,"
+    },
+    {
+      "para_id": "XI.139",
+      "line_range": "XI 139",
+      "line_start": 139,
+      "ord": 139,
+      "translation": "the tears streaming down the side of my face."
+    },
+    {
+      "para_id": "XI.140",
+      "line_range": "XI 140",
+      "line_start": 140,
+      "ord": 140,
+      "translation": "I scanned the shores, the edge of the sea,"
+    },
+    {
+      "para_id": "XI.141",
+      "line_range": "XI 141",
+      "line_start": 141,
+      "ord": 141,
+      "translation": "in fourteen places emerged a landmass."
+    },
+    {
+      "para_id": "XI.142",
+      "line_range": "XI 142",
+      "line_start": 142,
+      "ord": 142,
+      "translation": "On Mount Nimuš the boat ran aground,"
+    },
+    {
+      "para_id": "XI.143",
+      "line_range": "XI 143",
+      "line_start": 143,
+      "ord": 143,
+      "translation": "Mount Nimuš held the boat fast and did not let it move."
+    },
+    {
+      "para_id": "XI.144",
+      "line_range": "XI 144",
+      "line_start": 144,
+      "ord": 144,
+      "translation": "One day, a second day, Mount Nimuš held the boat fast and did not let it move,"
+    },
+    {
+      "para_id": "XI.145",
+      "line_range": "XI 145",
+      "line_start": 145,
+      "ord": 145,
+      "translation": "a third day, a fourth day, Mount Nimuš held the boat fast and did not let it move,"
+    },
+    {
+      "para_id": "XI.146",
+      "line_range": "XI 146",
+      "line_start": 146,
+      "ord": 146,
+      "translation": "a fifth, a sixth, day, Mount Nimuš held the boat fast and did not let it move."
+    },
+    {
+      "para_id": "XI.147",
+      "line_range": "XI 147",
+      "line_start": 147,
+      "ord": 147,
+      "translation": "When the seventh day arrived —"
+    },
+    {
+      "para_id": "XI.148",
+      "line_range": "XI 148",
+      "line_start": 148,
+      "ord": 148,
+      "translation": "I brought out a dove, setting it free:"
+    },
+    {
+      "para_id": "XI.149",
+      "line_range": "XI 149",
+      "line_start": 149,
+      "ord": 149,
+      "translation": "Off went the dove, …"
+    },
+    {
+      "para_id": "XI.150",
+      "line_range": "XI 150",
+      "line_start": 150,
+      "ord": 150,
+      "translation": "No perch was available for it, so it came back to [me]."
+    },
+    {
+      "para_id": "XI.151",
+      "line_range": "XI 151",
+      "line_start": 151,
+      "ord": 151,
+      "translation": "I brought out a swallow, setting it free:"
+    },
+    {
+      "para_id": "XI.152",
+      "line_range": "XI 152",
+      "line_start": 152,
+      "ord": 152,
+      "translation": "Off went the swallow, …"
+    },
+    {
+      "para_id": "XI.153",
+      "line_range": "XI 153",
+      "line_start": 153,
+      "ord": 153,
+      "translation": "No perch was available for [it], so it came back to me."
+    },
+    {
+      "para_id": "XI.154",
+      "line_range": "XI 154",
+      "line_start": 154,
+      "ord": 154,
+      "translation": "I brought out a raven, setting it free:"
+    },
+    {
+      "para_id": "XI.155",
+      "line_range": "XI 155",
+      "line_start": 155,
+      "ord": 155,
+      "translation": "Off went the raven and it saw the waters receding."
+    },
+    {
+      "para_id": "XI.156",
+      "line_range": "XI 156",
+      "line_start": 156,
+      "ord": 156,
+      "translation": "So it could eat, @i{scratch}, peck (food), and did not come back to me."
+    },
+    {
+      "para_id": "XI.157",
+      "line_range": "XI 157",
+      "line_start": 157,
+      "ord": 157,
+      "translation": "I brought out an offering and sacrificed to the four corners of the earth,"
+    },
+    {
+      "para_id": "XI.158",
+      "line_range": "XI 158",
+      "line_start": 158,
+      "ord": 158,
+      "translation": "I strewed incense on the peak of the mountain."
+    },
+    {
+      "para_id": "XI.159",
+      "line_range": "XI 159",
+      "line_start": 159,
+      "ord": 159,
+      "translation": "Seven flasks and seven I set in position,"
+    },
+    {
+      "para_id": "XI.160",
+      "line_range": "XI 160",
+      "line_start": 160,
+      "ord": 160,
+      "translation": "below them I heaped up (sweet) reed, cedar and myrtle."
+    },
+    {
+      "para_id": "XI.161",
+      "line_range": "XI 161",
+      "line_start": 161,
+      "ord": 161,
+      "translation": "The gods smelled the savour,"
+    },
+    {
+      "para_id": "XI.162",
+      "line_range": "XI 162",
+      "line_start": 162,
+      "ord": 162,
+      "translation": "the gods smelled the sweet savour,"
+    },
+    {
+      "para_id": "XI.163",
+      "line_range": "XI 163",
+      "line_start": 163,
+      "ord": 163,
+      "translation": "the gods gathered like flies round the sacrificer."
+    },
+    {
+      "para_id": "XI.164",
+      "line_range": "XI 164",
+      "line_start": 164,
+      "ord": 164,
+      "translation": "As soon as Bēlet-ilī arrived,"
+    },
+    {
+      "para_id": "XI.165",
+      "line_range": "XI 165",
+      "line_start": 165,
+      "ord": 165,
+      "translation": "she lifted aloft the great flies that Anu had made when he wooed (her):"
+    },
+    {
+      "para_id": "XI.166",
+      "line_range": "XI 166",
+      "line_start": 166,
+      "ord": 166,
+      "translation": "“O gods, let these be lapis lazuli (beads) around my neck,"
+    },
+    {
+      "para_id": "XI.167",
+      "line_range": "XI 167",
+      "line_start": 167,
+      "ord": 167,
+      "translation": "so that I remember these days and never forget them!"
+    },
+    {
+      "para_id": "XI.168",
+      "line_range": "XI 168",
+      "line_start": 168,
+      "ord": 168,
+      "translation": "Let the gods come to the incense,"
+    },
+    {
+      "para_id": "XI.169",
+      "line_range": "XI 169",
+      "line_start": 169,
+      "ord": 169,
+      "translation": "(but) may Enlil not come to the incense,"
+    },
+    {
+      "para_id": "XI.170",
+      "line_range": "XI 170",
+      "line_start": 170,
+      "ord": 170,
+      "translation": "because he lacked counsel and caused the Deluge,"
+    },
+    {
+      "para_id": "XI.171",
+      "line_range": "XI 171",
+      "line_start": 171,
+      "ord": 171,
+      "translation": "and delivered my people into destruction.”"
+    },
+    {
+      "para_id": "XI.172",
+      "line_range": "XI 172",
+      "line_start": 172,
+      "ord": 172,
+      "translation": "As soon as Enlil arrived,"
+    },
+    {
+      "para_id": "XI.173",
+      "line_range": "XI 173",
+      "line_start": 173,
+      "ord": 173,
+      "translation": "Enlil saw the boat and grew angry."
+    },
+    {
+      "para_id": "XI.174",
+      "line_range": "XI 174",
+      "line_start": 174,
+      "ord": 174,
+      "translation": "He was filled with rage against the Igigi gods:"
+    },
+    {
+      "para_id": "XI.175",
+      "line_range": "XI 175",
+      "line_start": 175,
+      "ord": 175,
+      "translation": "“[From] where escaped (this) living creature?"
+    },
+    {
+      "para_id": "XI.176",
+      "line_range": "XI 176",
+      "line_start": 176,
+      "ord": 176,
+      "translation": "No man should survive the destruction!”"
+    },
+    {
+      "para_id": "XI.177",
+      "line_range": "XI 177",
+      "line_start": 177,
+      "ord": 177,
+      "translation": "Ninurta opened his mouth to speak,"
+    },
+    {
+      "para_id": "XI.178",
+      "line_range": "XI 178",
+      "line_start": 178,
+      "ord": 178,
+      "translation": "saying to the hero Enlil:"
+    },
+    {
+      "para_id": "XI.179",
+      "line_range": "XI 179",
+      "line_start": 179,
+      "ord": 179,
+      "translation": "“Who, if not Ea, can accomplish (such) things?"
+    },
+    {
+      "para_id": "XI.180",
+      "line_range": "XI 180",
+      "line_start": 180,
+      "ord": 180,
+      "translation": "For Ea alone knows (how to do) all tasks,”"
+    },
+    {
+      "para_id": "XI.181",
+      "line_range": "XI 181",
+      "line_start": 181,
+      "ord": 181,
+      "translation": "Ea opened his mouth to speak,"
+    },
+    {
+      "para_id": "XI.182",
+      "line_range": "XI 182",
+      "line_start": 182,
+      "ord": 182,
+      "translation": "saying to the hero Enlil:"
+    },
+    {
+      "para_id": "XI.183",
+      "line_range": "XI 183",
+      "line_start": 183,
+      "ord": 183,
+      "translation": "“You, the sage of the gods, the hero,"
+    },
+    {
+      "para_id": "XI.184",
+      "line_range": "XI 184",
+      "line_start": 184,
+      "ord": 184,
+      "translation": "how could you lack counsel and cause the deluge?"
+    },
+    {
+      "para_id": "XI.185",
+      "line_range": "XI 185",
+      "line_start": 185,
+      "ord": 185,
+      "translation": "On him who commits a sin, inflict his crime!"
+    },
+    {
+      "para_id": "XI.186",
+      "line_range": "XI 186",
+      "line_start": 186,
+      "ord": 186,
+      "translation": "on him who does wrong, inflict [his] wrong-doing!"
+    },
+    {
+      "para_id": "XI.187",
+      "line_range": "XI 187",
+      "line_start": 187,
+      "ord": 187,
+      "translation": "Slack off, lest it be snapped! Pull taut, lest it become [slack!]"
+    },
+    {
+      "para_id": "XI.188",
+      "line_range": "XI 188",
+      "line_start": 188,
+      "ord": 188,
+      "translation": "Instead of the Deluge you caused,"
+    },
+    {
+      "para_id": "XI.189",
+      "line_range": "XI 189",
+      "line_start": 189,
+      "ord": 189,
+      "translation": "a lion could arise to diminish the people!"
+    },
+    {
+      "para_id": "XI.190",
+      "line_range": "XI 190",
+      "line_start": 190,
+      "ord": 190,
+      "translation": "Instead of the Deluge you caused,"
+    },
+    {
+      "para_id": "XI.191",
+      "line_range": "XI 191",
+      "line_start": 191,
+      "ord": 191,
+      "translation": "a wolf could arise to diminish the people!"
+    },
+    {
+      "para_id": "XI.192",
+      "line_range": "XI 192",
+      "line_start": 192,
+      "ord": 192,
+      "translation": "Instead of the Deluge you caused,"
+    },
+    {
+      "para_id": "XI.193",
+      "line_range": "XI 193",
+      "line_start": 193,
+      "ord": 193,
+      "translation": "a famine could happen to slaughter the land!"
+    },
+    {
+      "para_id": "XI.194",
+      "line_range": "XI 194",
+      "line_start": 194,
+      "ord": 194,
+      "translation": "Instead of the Deluge you caused,"
+    },
+    {
+      "para_id": "XI.195",
+      "line_range": "XI 195",
+      "line_start": 195,
+      "ord": 195,
+      "translation": "Erra could arise to slaughter the land!"
+    },
+    {
+      "para_id": "XI.196",
+      "line_range": "XI 196",
+      "line_start": 196,
+      "ord": 196,
+      "translation": "I did not myself disclose the great gods’ secret;"
+    },
+    {
+      "para_id": "XI.197",
+      "line_range": "XI 197",
+      "line_start": 197,
+      "ord": 197,
+      "translation": "I let Atra-ḫasīs see a dream and so he heard the gods’ secret."
+    },
+    {
+      "para_id": "XI.198",
+      "line_range": "XI 198",
+      "line_start": 198,
+      "ord": 198,
+      "translation": "And now, consider what is to be done with him.”"
+    },
+    {
+      "para_id": "XI.199",
+      "line_range": "XI 199",
+      "line_start": 199,
+      "ord": 199,
+      "translation": "Enlil came up into the boat,"
+    },
+    {
+      "para_id": "XI.200",
+      "line_range": "XI 200",
+      "line_start": 200,
+      "ord": 200,
+      "translation": "he took hold of my hands and brought me out."
+    },
+    {
+      "para_id": "XI.201",
+      "line_range": "XI 201",
+      "line_start": 201,
+      "ord": 201,
+      "translation": "He brought out my woman, he made her kneel at my side,"
+    },
+    {
+      "para_id": "XI.202",
+      "line_range": "XI 202",
+      "line_start": 202,
+      "ord": 202,
+      "translation": "he touched our foreheads, standing between us to bless us:"
+    },
+    {
+      "para_id": "XI.203",
+      "line_range": "XI 203",
+      "line_start": 203,
+      "ord": 203,
+      "translation": "“In the past Ūta-napišti was (one of) mankind,"
+    },
+    {
+      "para_id": "XI.204",
+      "line_range": "XI 204",
+      "line_start": 204,
+      "ord": 204,
+      "translation": "but now Ūta-napišti and his woman shall be like us gods!"
+    },
+    {
+      "para_id": "XI.205",
+      "line_range": "XI 205",
+      "line_start": 205,
+      "ord": 205,
+      "translation": "Ūta-napišti shall dwell far away, at the mouth of the rivers!”"
+    },
+    {
+      "para_id": "XI.206",
+      "line_range": "XI 206",
+      "line_start": 206,
+      "ord": 206,
+      "translation": "They took me and settled me far away, at the mouth of the rivers."
+    },
+    {
+      "para_id": "XI.207",
+      "line_range": "XI 207",
+      "line_start": 207,
+      "ord": 207,
+      "translation": "But now, who will bring the gods to assembly for you,"
+    },
+    {
+      "para_id": "XI.208",
+      "line_range": "XI 208",
+      "line_start": 208,
+      "ord": 208,
+      "translation": "so you can find the life you search for?"
+    },
+    {
+      "para_id": "XI.209",
+      "line_range": "XI 209",
+      "line_start": 209,
+      "ord": 209,
+      "translation": "Come, for six days and seven nights do not sleep!’"
+    },
+    {
+      "para_id": "XI.210",
+      "line_range": "XI 210",
+      "line_start": 210,
+      "ord": 210,
+      "translation": "As soon as he sat down on his haunches,"
+    },
+    {
+      "para_id": "XI.211",
+      "line_range": "XI 211",
+      "line_start": 211,
+      "ord": 211,
+      "translation": "sleep was wafting over him like a fog."
+    },
+    {
+      "para_id": "XI.212",
+      "line_range": "XI 212",
+      "line_start": 212,
+      "ord": 212,
+      "translation": "Ūta-napišti spoke to her, to his wife:"
+    },
+    {
+      "para_id": "XI.213",
+      "line_range": "XI 213",
+      "line_start": 213,
+      "ord": 213,
+      "translation": "‘See the fellow who demanded life!"
+    },
+    {
+      "para_id": "XI.214",
+      "line_range": "XI 214",
+      "line_start": 214,
+      "ord": 214,
+      "translation": "sleep is wafting over him like a fog.’"
+    },
+    {
+      "para_id": "XI.215",
+      "line_range": "XI 215",
+      "line_start": 215,
+      "ord": 215,
+      "translation": "His wife spoke to him, to Ūta-napišti the Far-Away:"
+    },
+    {
+      "para_id": "XI.216",
+      "line_range": "XI 216",
+      "line_start": 216,
+      "ord": 216,
+      "translation": "‘Touch him, let the man awake!’"
+    },
+    {
+      "para_id": "XI.217",
+      "line_range": "XI 217",
+      "line_start": 217,
+      "ord": 217,
+      "translation": "(By) the road he came let him go back in safety,"
+    },
+    {
+      "para_id": "XI.218",
+      "line_range": "XI 218",
+      "line_start": 218,
+      "ord": 218,
+      "translation": "(by) the gate he came out let him return to his land!’"
+    },
+    {
+      "para_id": "XI.219",
+      "line_range": "XI 219",
+      "line_start": 219,
+      "ord": 219,
+      "translation": "Ūta-napišti spoke to her, to his wife:"
+    },
+    {
+      "para_id": "XI.220",
+      "line_range": "XI 220",
+      "line_start": 220,
+      "ord": 220,
+      "translation": "‘Being deceitful, mankind will deceive you."
+    },
+    {
+      "para_id": "XI.221",
+      "line_range": "XI 221",
+      "line_start": 221,
+      "ord": 221,
+      "translation": "Go, bake his daily rounds of bread, line them up by his head,"
+    },
+    {
+      "para_id": "XI.222",
+      "line_range": "XI 222",
+      "line_start": 222,
+      "ord": 222,
+      "translation": "and mark on the wall the days that he slept.’"
+    },
+    {
+      "para_id": "XI.223",
+      "line_range": "XI 223",
+      "line_start": 223,
+      "ord": 223,
+      "translation": "She baked his daily rounds of bread, she lined them up by his head,"
+    },
+    {
+      "para_id": "XI.224",
+      "line_range": "XI 224",
+      "line_start": 224,
+      "ord": 224,
+      "translation": "and on the wall noted for him the days that he slept."
+    },
+    {
+      "para_id": "XI.225",
+      "line_range": "XI 225",
+      "line_start": 225,
+      "ord": 225,
+      "translation": "His first round of bread was dried up,"
+    },
+    {
+      "para_id": "XI.226",
+      "line_range": "XI 226",
+      "line_start": 226,
+      "ord": 226,
+      "translation": "the second was leathery, the third was soggy;"
+    },
+    {
+      "para_id": "XI.227",
+      "line_range": "XI 227",
+      "line_start": 227,
+      "ord": 227,
+      "translation": "His fourth flour-cake had turned white,"
+    },
+    {
+      "para_id": "XI.228",
+      "line_range": "XI 228",
+      "line_start": 228,
+      "ord": 228,
+      "translation": "the fifth had produced a (mouldy) stain;"
+    },
+    {
+      "para_id": "XI.229",
+      "line_range": "XI 229",
+      "line_start": 229,
+      "ord": 229,
+      "translation": "the sixth was fresh-baked,"
+    },
+    {
+      "para_id": "XI.230",
+      "line_range": "XI 230",
+      "line_start": 230,
+      "ord": 230,
+      "translation": "the seventh was on the coals: he touched him and the man awoke."
+    },
+    {
+      "para_id": "XI.231",
+      "line_range": "XI 231",
+      "line_start": 231,
+      "ord": 231,
+      "translation": "Gilgameš spoke to him, to Ūta-napišti the Far-Away:"
+    },
+    {
+      "para_id": "XI.232",
+      "line_range": "XI 232",
+      "line_start": 232,
+      "ord": 232,
+      "translation": "‘No sooner than sleep spilled over me,"
+    },
+    {
+      "para_id": "XI.233",
+      "line_range": "XI 233",
+      "line_start": 233,
+      "ord": 233,
+      "translation": "than forthwith you touched me and roused me!’"
+    },
+    {
+      "para_id": "XI.234",
+      "line_range": "XI 234",
+      "line_start": 234,
+      "ord": 234,
+      "translation": "Ūta-napišti [spoke to him,] to Gilgameš"
+    },
+    {
+      "para_id": "XI.235",
+      "line_range": "XI 235",
+      "line_start": 235,
+      "ord": 235,
+      "translation": "@i{Come}, Gilgameš, count me your rounds of bread,"
+    },
+    {
+      "para_id": "XI.236",
+      "line_range": "XI 236",
+      "line_start": 236,
+      "ord": 236,
+      "translation": "and may [@i{the time} that you slept] be made known to you."
+    },
+    {
+      "para_id": "XI.237",
+      "line_range": "XI 237",
+      "line_start": 237,
+      "ord": 237,
+      "translation": "Your [first round] of bread [was dried up]"
+    },
+    {
+      "para_id": "XI.238",
+      "line_range": "XI 238",
+      "line_start": 238,
+      "ord": 238,
+      "translation": "the second was leathery, the third was soggy;"
+    },
+    {
+      "para_id": "XI.239",
+      "line_range": "XI 239",
+      "line_start": 239,
+      "ord": 239,
+      "translation": "your fourth flour-cake had turned white,"
+    },
+    {
+      "para_id": "XI.240",
+      "line_range": "XI 240",
+      "line_start": 240,
+      "ord": 240,
+      "translation": "the fifth had produced a (moudly) stain, the sixth was fresh-baked;"
+    },
+    {
+      "para_id": "XI.241",
+      "line_range": "XI 241",
+      "line_start": 241,
+      "ord": 241,
+      "translation": "[the seventh was on] the coals, and then you awoke.’"
+    },
+    {
+      "para_id": "XI.242",
+      "line_range": "XI 242",
+      "line_start": 242,
+      "ord": 242,
+      "translation": "Gilgameš spoke to him, to Ūta-napišti the Far-Away:"
+    },
+    {
+      "para_id": "XI.243",
+      "line_range": "XI 243",
+      "line_start": 243,
+      "ord": 243,
+      "translation": "How should I go on, Uta-napisti? Where should I go?"
+    },
+    {
+      "para_id": "XI.244",
+      "line_range": "XI 244",
+      "line_start": 244,
+      "ord": 244,
+      "translation": "The Thief has taken hold of my [@i{flesh}.]"
+    },
+    {
+      "para_id": "XI.245",
+      "line_range": "XI 245",
+      "line_start": 245,
+      "ord": 245,
+      "translation": "In my bed-chamber Death abides,"
+    },
+    {
+      "para_id": "XI.246",
+      "line_range": "XI 246",
+      "line_start": 246,
+      "ord": 246,
+      "translation": "and wherever I might turn [@i{my face}], there too will be Death.’"
+    },
+    {
+      "para_id": "XI.247",
+      "line_range": "XI 247",
+      "line_start": 247,
+      "ord": 247,
+      "translation": "Ūta-napisti spoke to [him,] to the boatman Ur-šanābi:"
+    },
+    {
+      "para_id": "XI.248",
+      "line_range": "XI 248",
+      "line_start": 248,
+      "ord": 248,
+      "translation": "‘Ur-šanābi, may the quay reject you, may the ferry scorn you!"
+    },
+    {
+      "para_id": "XI.249",
+      "line_range": "XI 249",
+      "line_start": 249,
+      "ord": 249,
+      "translation": "You who used to walk on its shore, suffer absence from it!"
+    },
+    {
+      "para_id": "XI.250",
+      "line_range": "XI 250",
+      "line_start": 250,
+      "ord": 250,
+      "translation": "The man that you led here,"
+    },
+    {
+      "para_id": "XI.251",
+      "line_range": "XI 251",
+      "line_start": 251,
+      "ord": 251,
+      "translation": "whose body is tousled with matted hair,"
+    },
+    {
+      "para_id": "XI.252",
+      "line_range": "XI 252",
+      "line_start": 252,
+      "ord": 252,
+      "translation": "the beauty of whose flesh the hides have ruined,"
+    },
+    {
+      "para_id": "XI.253",
+      "line_range": "XI 253",
+      "line_start": 253,
+      "ord": 253,
+      "translation": "take him, Ur-šanābi, get him to the washtub,"
+    },
+    {
+      "para_id": "XI.254",
+      "line_range": "XI 254",
+      "line_start": 254,
+      "ord": 254,
+      "translation": "let him wash his matted hair as clean @i{as can be}!"
+    },
+    {
+      "para_id": "XI.255",
+      "line_range": "XI 255",
+      "line_start": 255,
+      "ord": 255,
+      "translation": "Let him cast off his hides and the sea carry (them away)!"
+    },
+    {
+      "para_id": "XI.256",
+      "line_range": "XI 256",
+      "line_start": 256,
+      "ord": 256,
+      "translation": "Soak his body so fair!"
+    },
+    {
+      "para_id": "XI.257",
+      "line_range": "XI 257",
+      "line_start": 257,
+      "ord": 257,
+      "translation": "Let the kerchief of his head be renewed!"
+    },
+    {
+      "para_id": "XI.258",
+      "line_range": "XI 258",
+      "line_start": 258,
+      "ord": 258,
+      "translation": "Let him be clad in a royal robe, the attire befitting his dignity!"
+    },
+    {
+      "para_id": "XI.259",
+      "line_range": "XI 259",
+      "line_start": 259,
+      "ord": 259,
+      "translation": "Until he goes (home) to his city,"
+    },
+    {
+      "para_id": "XI.260",
+      "line_range": "XI 260",
+      "line_start": 260,
+      "ord": 260,
+      "translation": "until he arrives at (the end of) his road,"
+    },
+    {
+      "para_id": "XI.261",
+      "line_range": "XI 261",
+      "line_start": 261,
+      "ord": 261,
+      "translation": "let the robe show no stain but stay brand new!’"
+    },
+    {
+      "para_id": "XI.262",
+      "line_range": "XI 262",
+      "line_start": 262,
+      "ord": 262,
+      "translation": "Ur-šanābi took him and got him to the washtub."
+    },
+    {
+      "para_id": "XI.263",
+      "line_range": "XI 263",
+      "line_start": 263,
+      "ord": 263,
+      "translation": "He washed his matted hair as clean @i{as can be},"
+    },
+    {
+      "para_id": "XI.264",
+      "line_range": "XI 264",
+      "line_start": 264,
+      "ord": 264,
+      "translation": "He cast off his hides [and] the sea carried (them away)."
+    },
+    {
+      "para_id": "XI.265",
+      "line_range": "XI 265",
+      "line_start": 265,
+      "ord": 265,
+      "translation": "His body so fair was soaked,"
+    },
+    {
+      "para_id": "XI.266",
+      "line_range": "XI 266",
+      "line_start": 266,
+      "ord": 266,
+      "translation": "the [kerchief of] his head was renewed,"
+    },
+    {
+      "para_id": "XI.267",
+      "line_range": "XI 267",
+      "line_start": 267,
+      "ord": 267,
+      "translation": "he was clad in a royal robe, the attire befitting his dignity."
+    },
+    {
+      "para_id": "XI.268",
+      "line_range": "XI 268",
+      "line_start": 268,
+      "ord": 268,
+      "translation": "‘Until he goes (home) [to his city,]"
+    },
+    {
+      "para_id": "XI.269",
+      "line_range": "XI 269",
+      "line_start": 269,
+      "ord": 269,
+      "translation": "until he arrives at (the end of) his road,"
+    },
+    {
+      "para_id": "XI.270",
+      "line_range": "XI 270",
+      "line_start": 270,
+      "ord": 270,
+      "translation": "let [the robe show no stain] but stay brand new!’"
+    },
+    {
+      "para_id": "XI.271",
+      "line_range": "XI 271",
+      "line_start": 271,
+      "ord": 271,
+      "translation": "Gilgames and Ur-šanābi boarded the boat,"
+    },
+    {
+      "para_id": "XI.272",
+      "line_range": "XI 272",
+      "line_start": 272,
+      "ord": 272,
+      "translation": "they launched the [craft,] they crewed it themselves."
+    },
+    {
+      "para_id": "XI.273",
+      "line_range": "XI 273",
+      "line_start": 273,
+      "ord": 273,
+      "translation": "His wife spoke to him, to Uta-napišti the Far-Away:"
+    },
+    {
+      "para_id": "XI.274",
+      "line_range": "XI 274",
+      "line_start": 274,
+      "ord": 274,
+      "translation": "‘Gilgames came here, toiled, exerted himself,"
+    },
+    {
+      "para_id": "XI.275",
+      "line_range": "XI 275",
+      "line_start": 275,
+      "ord": 275,
+      "translation": "what have you given him as he goes back to his land?'"
+    },
+    {
+      "para_id": "XI.276",
+      "line_range": "XI 276",
+      "line_start": 276,
+      "ord": 276,
+      "translation": "And he, Gilgameš, raised the punting-pole,"
+    },
+    {
+      "para_id": "XI.277",
+      "line_range": "XI 277",
+      "line_start": 277,
+      "ord": 277,
+      "translation": "he brought the boat close to the shore"
+    },
+    {
+      "para_id": "XI.278",
+      "line_range": "XI 278",
+      "line_start": 278,
+      "ord": 278,
+      "translation": "Ūta-napišti [spoke] to him, to Gilgameš:"
+    },
+    {
+      "para_id": "XI.279",
+      "line_range": "XI 279",
+      "line_start": 279,
+      "ord": 279,
+      "translation": "‘You came here, Gilgameš, toiled, exerted yourself,"
+    },
+    {
+      "para_id": "XI.280",
+      "line_range": "XI 280",
+      "line_start": 280,
+      "ord": 280,
+      "translation": "what have I given you as you go back to your land?"
+    },
+    {
+      "para_id": "XI.281",
+      "line_range": "XI 281",
+      "line_start": 281,
+      "ord": 281,
+      "translation": "I will disclose, Gilgameš, a secret matter,"
+    },
+    {
+      "para_id": "XI.282",
+      "line_range": "XI 282",
+      "line_start": 282,
+      "ord": 282,
+      "translation": "and [I will] tell you a mystery of [the gods.]"
+    },
+    {
+      "para_id": "XI.283",
+      "line_range": "XI 283",
+      "line_start": 283,
+      "ord": 283,
+      "translation": "It is a plant, its [appearance] is like box-thorn,"
+    },
+    {
+      "para_id": "XI.284",
+      "line_range": "XI 284",
+      "line_start": 284,
+      "ord": 284,
+      "translation": "its thorn is like the @i{dog-rose’s}, it will [prick @i{your hands}.]"
+    },
+    {
+      "para_id": "XI.285",
+      "line_range": "XI 285",
+      "line_start": 285,
+      "ord": 285,
+      "translation": "If you can gain possession of that plant,"
+    },
+    {
+      "para_id": "XI.286",
+      "line_range": "XI 286",
+      "line_start": 286,
+      "ord": 286,
+      "translation": "[@i{you’ll be again as you were in your youth}.]’"
+    },
+    {
+      "para_id": "XI.287",
+      "line_range": "XI 287",
+      "line_start": 287,
+      "ord": 287,
+      "translation": "When Gilgameš heard this,"
+    },
+    {
+      "para_id": "XI.288",
+      "line_range": "XI 288",
+      "line_start": 288,
+      "ord": 288,
+      "translation": "he opened a [channel] …"
+    },
+    {
+      "para_id": "XI.289",
+      "line_range": "XI 289",
+      "line_start": 289,
+      "ord": 289,
+      "translation": "Heavy stones he tied [on his feet,]"
+    },
+    {
+      "para_id": "XI.290",
+      "line_range": "XI 290",
+      "line_start": 290,
+      "ord": 290,
+      "translation": "they dragged him down to the @i{Apsû} […]"
+    },
+    {
+      "para_id": "XI.291",
+      "line_range": "XI 291",
+      "line_start": 291,
+      "ord": 291,
+      "translation": "He pulled the plant, and pulled [it up @i{and lifted it},]"
+    },
+    {
+      "para_id": "XI.292",
+      "line_range": "XI 292",
+      "line_start": 292,
+      "ord": 292,
+      "translation": "he cut loose the heavy stones [from his feet.]"
+    },
+    {
+      "para_id": "XI.293",
+      "line_range": "XI 293",
+      "line_start": 293,
+      "ord": 293,
+      "translation": "The @i{sea} cast him up on its shore."
+    },
+    {
+      "para_id": "XI.294",
+      "line_range": "XI 294",
+      "line_start": 294,
+      "ord": 294,
+      "translation": "Gilgameš spoke to him, to Ur-šanābi the boatman:"
+    },
+    {
+      "para_id": "XI.295",
+      "line_range": "XI 295",
+      "line_start": 295,
+      "ord": 295,
+      "translation": "‘Ur-šanābi, this plant is the “plant of the heart-beat”,"
+    },
+    {
+      "para_id": "XI.296",
+      "line_range": "XI 296",
+      "line_start": 296,
+      "ord": 296,
+      "translation": "by which means a man can recapture his vitality."
+    },
+    {
+      "para_id": "XI.297",
+      "line_range": "XI 297",
+      "line_start": 297,
+      "ord": 297,
+      "translation": "I will take it to Uruk the sheepfold,"
+    },
+    {
+      "para_id": "XI.298",
+      "line_range": "XI 298",
+      "line_start": 298,
+      "ord": 298,
+      "translation": "I will feed some to an old man and put the plant to the test."
+    },
+    {
+      "para_id": "XI.299",
+      "line_range": "XI 299",
+      "line_start": 299,
+      "ord": 299,
+      "translation": "If the old man grows young (again),"
+    },
+    {
+      "para_id": "XI.300",
+      "line_range": "XI 300",
+      "line_start": 300,
+      "ord": 300,
+      "translation": "I will eat some myself and go back to how I was in my youth!'"
+    },
+    {
+      "para_id": "XI.301",
+      "line_range": "XI 301",
+      "line_start": 301,
+      "ord": 301,
+      "translation": "At twenty leagues they broke bread,"
+    },
+    {
+      "para_id": "XI.302",
+      "line_range": "XI 302",
+      "line_start": 302,
+      "ord": 302,
+      "translation": "at thirty leagues they pitched camp."
+    },
+    {
+      "para_id": "XI.303",
+      "line_range": "XI 303",
+      "line_start": 303,
+      "ord": 303,
+      "translation": "Gilgameš found a pool whose water was cool,"
+    },
+    {
+      "para_id": "XI.304",
+      "line_range": "XI 304",
+      "line_start": 304,
+      "ord": 304,
+      "translation": "he went down into it to bathe in the water."
+    },
+    {
+      "para_id": "XI.305",
+      "line_range": "XI 305",
+      "line_start": 305,
+      "ord": 305,
+      "translation": "A snake smelled the fragrance of the plant,"
+    },
+    {
+      "para_id": "XI.306",
+      "line_range": "XI 306",
+      "line_start": 306,
+      "ord": 306,
+      "translation": "[silently] it came up and bore the plant off;"
+    },
+    {
+      "para_id": "XI.307",
+      "line_range": "XI 307",
+      "line_start": 307,
+      "ord": 307,
+      "translation": "as it turned away it sloughed a skin."
+    },
+    {
+      "para_id": "XI.308",
+      "line_range": "XI 308",
+      "line_start": 308,
+      "ord": 308,
+      "translation": "Then Gilgameš sat down weeping,"
+    },
+    {
+      "para_id": "XI.309",
+      "line_range": "XI 309",
+      "line_start": 309,
+      "ord": 309,
+      "translation": "the tears streaming down the side of his face."
+    },
+    {
+      "para_id": "XI.310",
+      "line_range": "XI 310",
+      "line_start": 310,
+      "ord": 310,
+      "translation": "… [He spoke] to Ur-šanābi the boatman:"
+    },
+    {
+      "para_id": "XI.311",
+      "line_range": "XI 311",
+      "line_start": 311,
+      "ord": 311,
+      "translation": "‘[For whom] of my (kind), Ur-šanābi, did my arms grow exhausted,"
+    },
+    {
+      "para_id": "XI.312",
+      "line_range": "XI 312",
+      "line_start": 312,
+      "ord": 312,
+      "translation": "for whom of my (kind) ran dry the blood of my heart?"
+    },
+    {
+      "para_id": "XI.313",
+      "line_range": "XI 313",
+      "line_start": 313,
+      "ord": 313,
+      "translation": "Not for myself did I establish a bounty,"
+    },
+    {
+      "para_id": "XI.314",
+      "line_range": "XI 314",
+      "line_start": 314,
+      "ord": 314,
+      "translation": "[for] the “Lion of the Earth” I have done a favour."
+    },
+    {
+      "para_id": "XI.315",
+      "line_range": "XI 315",
+      "line_start": 315,
+      "ord": 315,
+      "translation": "Now for twenty leagues the tide has been rising!"
+    },
+    {
+      "para_id": "XI.316",
+      "line_range": "XI 316",
+      "line_start": 316,
+      "ord": 316,
+      "translation": "When I opened the channel I abandoned the tools:"
+    },
+    {
+      "para_id": "XI.317",
+      "line_range": "XI 317",
+      "line_start": 317,
+      "ord": 317,
+      "translation": "what thing would I find that was placed (to serve) for my landmark? Had I only turned away,"
+    },
+    {
+      "para_id": "XI.318",
+      "line_range": "XI 318",
+      "line_start": 318,
+      "ord": 318,
+      "translation": "and left the boat on the shore!'"
+    },
+    {
+      "para_id": "XI.319",
+      "line_range": "XI 319",
+      "line_start": 319,
+      "ord": 319,
+      "translation": "At twenty leagues they broke bread,"
+    },
+    {
+      "para_id": "XI.320",
+      "line_range": "XI 320",
+      "line_start": 320,
+      "ord": 320,
+      "translation": "at thirty leagues they pitched camp."
+    },
+    {
+      "para_id": "XI.321",
+      "line_range": "XI 321",
+      "line_start": 321,
+      "ord": 321,
+      "translation": "They arrived in Uruk the Sheepfold."
+    },
+    {
+      "para_id": "XI.322",
+      "line_range": "XI 322",
+      "line_start": 322,
+      "ord": 322,
+      "translation": "Gilgameš spoke to him, to Ur-šanābi the boatman:"
+    },
+    {
+      "para_id": "XI.323",
+      "line_range": "XI 323",
+      "line_start": 323,
+      "ord": 323,
+      "translation": "‘Go up, Ur-šanābi, on to the wall of Uruk and walk around,"
+    },
+    {
+      "para_id": "XI.324",
+      "line_range": "XI 324",
+      "line_start": 324,
+      "ord": 324,
+      "translation": "survey the foundation platform, inspect the brickwork!"
+    },
+    {
+      "para_id": "XI.325",
+      "line_range": "XI 325",
+      "line_start": 325,
+      "ord": 325,
+      "translation": "(See) if its brickwork is not kiln-fired brick,"
+    },
+    {
+      "para_id": "XI.326",
+      "line_range": "XI 326",
+      "line_start": 326,
+      "ord": 326,
+      "translation": "and if the Seven Sages did not lay its foundations!"
+    },
+    {
+      "para_id": "XI.327",
+      "line_range": "XI 327",
+      "line_start": 327,
+      "ord": 327,
+      "translation": "One @i{šār} is city, one šār date-grove, one @i{šār} is clay-pit, half a @i{šār} the temple of Ištar:"
+    },
+    {
+      "para_id": "XI.328",
+      "line_range": "XI 328",
+      "line_start": 328,
+      "ord": 328,
+      "translation": "three @i{šār} and a half (is) Uruk, (its) measurement.’"
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "XI.1",
+      "line_label": "XI 1",
+      "transliteration": "1.{d}GIŠ-gim₂-maš a-na ša₂-šu#-ma MU-ra a-na {m}UD-ZI ru-u₂-qi₂"
+    },
+    {
+      "line_id": "XI.2",
+      "line_label": "XI 2",
+      "transliteration": "2.[a-na-a]ṭ-ṭa-la-kum₂-ma [x x x]"
+    },
+    {
+      "line_id": "XI.3",
+      "line_label": "XI 3",
+      "transliteration": "3.[x x x x] ul# ša₂#-na#-a ki#-i# ia-a-ti-m[a at]-ta"
+    },
+    {
+      "line_id": "XI.4",
+      "line_label": "XI 4",
+      "transliteration": "4.u₃ at-ta ul š[a₂-n]a-ta ki-i ia-ti-ma at-ta"
+    },
+    {
+      "line_id": "XI.5",
+      "line_label": "XI 5",
+      "transliteration": "5.[gum₂-m]u[r]-ku# lib₃-bi a-na e-peš t[u-q]u-un-tu₂ ° x \\ <tu₂> °"
+    },
+    {
+      "line_id": "XI.6",
+      "line_label": "XI 6",
+      "transliteration": "6.[x x x x n]a-da#-at-ta e-li ṣe-[ri]-ka"
+    },
+    {
+      "line_id": "XI.7",
+      "line_label": "XI 7",
+      "transliteration": "7.[x x k]i-ki#-i# ta#-az#-ziz#-ma# ina# UKKIN# DINGIR#-MEŠ# ba#-la#-[ṭa te]š₂-ʾ-u₁₆(UM)"
+    },
+    {
+      "line_id": "XI.8",
+      "line_label": "XI 8",
+      "transliteration": "8.[{m}U]D-ZI-ti₃ ana ša₂-šu-ma MU-r[a a-na {d}GI]Š-gim₂-maš"
+    },
+    {
+      "line_id": "XI.9",
+      "line_label": "XI 9",
+      "transliteration": "9.[lu-up-te-k]a {d#}GIŠ-gi[m₂-m]aš a-mat ni-ṣir-ti"
+    },
+    {
+      "line_id": "XI.10",
+      "line_label": "XI 10",
+      "transliteration": "10.u₃ pi-riš-ti ša₂ DINGIR-MEŠ ka-a-ša₂ l[u-uq-bi]-ka"
+    },
+    {
+      "line_id": "XI.11",
+      "line_label": "XI 11",
+      "transliteration": "11a.{uru}šu-ri-ip-pak URU ša₂ ti-du-šu at-ta :"
+    },
+    {
+      "line_id": "XI.12",
+      "line_label": "XI 12",
+      "transliteration": "12.[x (x) x G]U₂ {id₂}pu-rat-ti šak-nu"
+    },
+    {
+      "line_id": "XI.13",
+      "line_label": "XI 13",
+      "transliteration": "13.[x š]u-u₂ la-bir-ma DINGIR-MEŠ qer-bu-uš"
+    },
+    {
+      "line_id": "XI.14",
+      "line_label": "XI 14",
+      "transliteration": "13.[a-n]a ša₂#-kan# a#-bu#-bu# ub#-la# lib₃#-[ba-šu₂-nu x x GAL]-MEŠ"
+    },
+    {
+      "line_id": "XI.15",
+      "line_label": "XI 15",
+      "transliteration": "15a.[it]-ma-ma AD-šu₂-nu {d}a-num < : >"
+    },
+    {
+      "line_id": "XI.16",
+      "line_label": "XI 16",
+      "transliteration": "15b.ma-lik-šu₂-nu qu-ra-du {d}+en-lil₂"
+    },
+    {
+      "line_id": "XI.17",
+      "line_label": "XI 17",
+      "transliteration": "16a.[g]u-za-la₂-šu₂-nu {d}nin-urta < : >"
+    },
+    {
+      "line_id": "XI.18",
+      "line_label": "XI 18",
+      "transliteration": "16b.gu₂-gal#-la#-šu₂-nu {d}en-nu-gi"
+    },
+    {
+      "line_id": "XI.19",
+      "line_label": "XI 19",
+      "transliteration": "16.[{d}]nin#-ši#-ku₃# {d#}e₂#-[a x x x x x x x]"
+    },
+    {
+      "line_id": "XI.20",
+      "line_label": "XI 20",
+      "transliteration": "17a.a#-mat-su-nu u₂-ša₂-an-na-a# ana# ki#-i[k-ki-ši ( : ) ]"
+    },
+    {
+      "line_id": "XI.21",
+      "line_label": "XI 21",
+      "transliteration": "17a.[k]i-ik-ki-š[u x x x x x x x x ( : ) ]"
+    },
+    {
+      "line_id": "XI.22",
+      "line_label": "XI 22",
+      "transliteration": "18.[k]i-i[k-k]i-šu ši-me-ma i-ga-r[u x x x x]"
+    },
+    {
+      "line_id": "XI.23",
+      "line_label": "XI 23",
+      "transliteration": "19.[{lu₂}šu-r]i-ip-pa-ku-u₂ DUMU {m}uba[ra-{d}tu-tu]"
+    },
+    {
+      "line_id": "XI.24",
+      "line_label": "XI 24",
+      "transliteration": "22a.u₂-qur E₂ bi-nu {giš}MA₂ < : >"
+    },
+    {
+      "line_id": "XI.25",
+      "line_label": "XI 25",
+      "transliteration": "22b.muš-šir₃ NIG₂.TUKU-ma še-ʾ-i ZI-MEŠ :"
+    },
+    {
+      "line_id": "XI.26",
+      "line_label": "XI 26",
+      "transliteration": "21.[ma]-ak#-ku#-ra# ze#-er-ma na#-piš#-t[u₂?]"
+    },
+    {
+      "line_id": "XI.27",
+      "line_label": "XI 27",
+      "transliteration": "22.[š]u-li-ma NUMUN nap-ša₂-a-ti ka-la-ma a-na lib₃-bi# {giš#}[MA₂]"
+    },
+    {
+      "line_id": "XI.28",
+      "line_label": "XI 28",
+      "transliteration": "25a.[x x] ša₂# ta#-ban#-nu-šu₂ at#-ta# < : >"
+    },
+    {
+      "line_id": "XI.29",
+      "line_label": "XI 29",
+      "transliteration": "25b.lu-u₂ mun#-du#-da# mi#-na#-tu#-šu₂"
+    },
+    {
+      "line_id": "XI.30",
+      "line_label": "XI 30",
+      "transliteration": "25.[l]u-u₂# mit-hur ru-pu-us-sa u₃ mu-rak-ša₂"
+    },
+    {
+      "line_id": "XI.31",
+      "line_label": "XI 31",
+      "transliteration": "3'.[x x a]p-si-i ša₂-a-ši ṣ[u-ul-lil-ši]"
+    },
+    {
+      "line_id": "XI.32",
+      "line_label": "XI 32",
+      "transliteration": "27.[a]-na#-ku# i-de-ma MU-ra# a-na {d}e₂#-a be-li₂-ia"
+    },
+    {
+      "line_id": "XI.33",
+      "line_label": "XI 33",
+      "transliteration": "5'.[am-g]ur be-li₂ ša₂ taq-ba-a a[t-ta x x x]"
+    },
+    {
+      "line_id": "XI.34",
+      "line_label": "XI 34",
+      "transliteration": "6'.[at]-ta-ʾ-id a-na-k[u x x x]"
+    },
+    {
+      "line_id": "XI.35",
+      "line_label": "XI 35",
+      "transliteration": "7'.[ki-m]i lu-pu-ul URU um-ma-nu u₃# [x x x]"
+    },
+    {
+      "line_id": "XI.36",
+      "line_label": "XI 36",
+      "transliteration": "8'a.[{d}]e₂#-a pa-a-šu₂ i-pu-uš-ma DUG₄.GA :"
+    },
+    {
+      "line_id": "XI.37",
+      "line_label": "XI 37",
+      "transliteration": "31b.i-zak-ka-ra ana IR₃-šu₂ ia-a-tu₂"
+    },
+    {
+      "line_id": "XI.38",
+      "line_label": "XI 38",
+      "transliteration": "9'.u₃# at-ta ki-a-am ta-qab-b[a-aš₂]-šu₂#-nu#-ti#"
+    },
+    {
+      "line_id": "XI.39",
+      "line_label": "XI 39",
+      "transliteration": "10'.[mi]n₃-de-ma ia-a-ši {d}+en-lil₂ i-[ze-er]-an-ni-ma"
+    },
+    {
+      "line_id": "XI.40",
+      "line_label": "XI 40",
+      "transliteration": "11'.[u]l uš-šab ina URU#-[ku]-nu-ma"
+    },
+    {
+      "line_id": "XI.41",
+      "line_label": "XI 41",
+      "transliteration": "34b.[x qaq-qa]r {d#}+en#-lil₂# ul# a#-šak#-kan# še#-pi#-i#-a#"
+    },
+    {
+      "line_id": "XI.42",
+      "line_label": "XI 42",
+      "transliteration": "13'.[ur-r]ad-ma ana ABZU it-ti {d}e₂#-a [b]e-li₂-ia aš₂-ba-ku"
+    },
+    {
+      "line_id": "XI.43",
+      "line_label": "XI 43",
+      "transliteration": "14'.[ana k]a-a-šu₂-nu u₂-ša₂-az-na-[n]ak-ku-nu-ši nu-uh-šam-ma"
+    },
+    {
+      "line_id": "XI.44",
+      "line_label": "XI 44",
+      "transliteration": "15'.[x x] MUŠEN-MEŠ pu-zu-ur KU₆-MEŠ-ma"
+    },
+    {
+      "line_id": "XI.45",
+      "line_label": "XI 45",
+      "transliteration": "16'.[x x x x x] x x x x meš-ra-a e-bu-ra-am-ma"
+    },
+    {
+      "line_id": "XI.46",
+      "line_label": "XI 46",
+      "transliteration": "2'.ina še#-e[r x x x]"
+    },
+    {
+      "line_id": "XI.47",
+      "line_label": "XI 47",
+      "transliteration": "18'.[x x x x x u₂]-ša₂-az-na-na-ku-nu-ši ša₂-mu-ut ki-ba-a-ti"
+    },
+    {
+      "line_id": "XI.48",
+      "line_label": "XI 48",
+      "transliteration": "19'.[x x x še]-e#-ri ina na-ma-a#-ri#"
+    },
+    {
+      "line_id": "XI.49",
+      "line_label": "XI 49",
+      "transliteration": "20'.[x x x x x x x] i-pa-ah-hur ma-a-[tu₄]"
+    },
+    {
+      "line_id": "XI.50",
+      "line_label": "XI 50",
+      "transliteration": "6'.{lu₂}NAGAR na-ši [x x x]"
+    },
+    {
+      "line_id": "XI.51",
+      "line_label": "XI 51",
+      "transliteration": "22'.[x x x n]a-ši a-b[a-an-šu]"
+    },
+    {
+      "line_id": "XI.52",
+      "line_label": "XI 52",
+      "transliteration": "8'.a-ga-si-li-ga-[šu₂ x x x x x]"
+    },
+    {
+      "line_id": "XI.53",
+      "line_label": "XI 53",
+      "transliteration": "23'b.{lu₂}GURUŠ-MEŠ i#-x [x x x x x ]"
+    },
+    {
+      "line_id": "XI.54",
+      "line_label": "XI 54",
+      "transliteration": "24'.[ši-bu-ti i-zab-b]i-lu# pi-°\\til?#°-ta#"
+    },
+    {
+      "line_id": "XI.55",
+      "line_label": "XI 55",
+      "transliteration": "11'.[š]a₂-ru-u na-[ši x x x]"
+    },
+    {
+      "line_id": "XI.56",
+      "line_label": "XI 56",
+      "transliteration": "6a.lap-ni x [x (x)] x hi#-š[ih-ti x x ( : ) ]"
+    },
+    {
+      "line_id": "XI.57",
+      "line_label": "XI 57",
+      "transliteration": "27'.[x x x x x x x a]t-ta-di bu-na-ša₂"
+    },
+    {
+      "line_id": "XI.58",
+      "line_label": "XI 58",
+      "transliteration": "28'.[x x x x x x NINDAN.TA.A]M₃ šaq-qa-a E₂.GAR₈-MEŠ-ša₂"
+    },
+    {
+      "line_id": "XI.59",
+      "line_label": "XI 59",
+      "transliteration": "29'.[x x x x x im-ta-h]ir ki-bir muh-hi-ša₂"
+    },
+    {
+      "line_id": "XI.60",
+      "line_label": "XI 60",
+      "transliteration": "9.ad-di la#-an-ši ša₂#-[a-ši x x x]"
+    },
+    {
+      "line_id": "XI.61",
+      "line_label": "XI 61",
+      "transliteration": "31'.[ur-tag-gi-ib-š]i a-na 6-šu₂"
+    },
+    {
+      "line_id": "XI.62",
+      "line_label": "XI 62",
+      "transliteration": "6'b.[ap-ta-ra-as-s]u a-na 7-[š]u₂"
+    },
+    {
+      "line_id": "XI.63",
+      "line_label": "XI 63",
+      "transliteration": "12.qer-bi#-i[s-s]a ap-ta-r[a-as x x x x]"
+    },
+    {
+      "line_id": "XI.64",
+      "line_label": "XI 64",
+      "transliteration": "13.{giš}GAG-ME[Š] A#-MEŠ MURUB₄#-ša₂ lu-u₂# [x x x]"
+    },
+    {
+      "line_id": "XI.65",
+      "line_label": "XI 65",
+      "transliteration": "14.a-mur pa-[r]i-si u hi-ših#-[ti x x]"
+    },
+    {
+      "line_id": "XI.66",
+      "line_label": "XI 66",
+      "transliteration": "9a.3 šar₂ ku-up-ri at-ta-bak ana ki-i-ri :"
+    },
+    {
+      "line_id": "XI.67",
+      "line_label": "XI 67",
+      "transliteration": "16.3 šar₂@v ESIR# at!-ta-di# [x x x x]"
+    },
+    {
+      "line_id": "XI.68",
+      "line_label": "XI 68",
+      "transliteration": "10.3 šar₂@v ERIN₂-MEŠ na-aš₂ {giš}su-us-su-ul ša₂ i-zab-b[i-lu]"
+    },
+    {
+      "line_id": "XI.69",
+      "line_label": "XI 69",
+      "transliteration": "11.e-zu-ub šar₂@v I₃.GIŠ ša₂# i#-ku#-lu# n[i-iq-qu]"
+    },
+    {
+      "line_id": "XI.70",
+      "line_label": "XI 70",
+      "transliteration": "14'.[x x x] u₂#-pa-az-zi-ru {lu₂}MA₂.LAH₄"
+    },
+    {
+      "line_id": "XI.71",
+      "line_label": "XI 71",
+      "transliteration": "15'.[x x x mi-n]i? uṭ-ṭab₃-bi-ih GU₄-MEŠ"
+    },
+    {
+      "line_id": "XI.72",
+      "line_label": "XI 72",
+      "transliteration": "21.aš₂#-gi-iš# UDU.NITA₂-MEŠ u₄#-[mi-šam-ma]"
+    },
+    {
+      "line_id": "XI.73",
+      "line_label": "XI 73",
+      "transliteration": "22.: si-ri-šu# ku-ru#-un-na I₃#.GIŠ# [x x]"
+    },
+    {
+      "line_id": "XI.74",
+      "line_label": "XI 74",
+      "transliteration": "23.um-ma-ni#-ma aṭ-hu-d[a? x x x x x x]"
+    },
+    {
+      "line_id": "XI.74",
+      "line_label": "XI 74",
+      "transliteration": "10a.[x x x x (x)]-ri :"
+    },
+    {
+      "line_id": "XI.75",
+      "line_label": "XI 75",
+      "transliteration": "19'.[x x x ip-pu-š]u₂ ki-ma u₄-mi a-ki-tim-ma"
+    },
+    {
+      "line_id": "XI.76",
+      "line_label": "XI 76",
+      "transliteration": "25.{d}UT[U i]na na-pa-hi a-na p[iš-ša₂-ti x x x x]"
+    },
+    {
+      "line_id": "XI.77",
+      "line_label": "XI 77",
+      "transliteration": "21'.[x x x x r]a-be₂-e {giš}MA₂ gam-rat"
+    },
+    {
+      "line_id": "XI.78",
+      "line_label": "XI 78",
+      "transliteration": "18a.[x x x x] x x [(x x) šup-šu]-qu#-ma# :"
+    },
+    {
+      "line_id": "XI.79",
+      "line_label": "XI 79",
+      "transliteration": "18b.gi#-ir#.MA₂.DU₃-MEŠ# nit#-tab-ba-lu [x x x x x]"
+    },
+    {
+      "line_id": "XI.80",
+      "line_label": "XI 80",
+      "transliteration": "19.[x x x x il-l]i-ku [š]i-ni-[pat-su]"
+    },
+    {
+      "line_id": "XI.81",
+      "line_label": "XI 81",
+      "transliteration": "20a.[mim-ma i-šu-u₂] e#-ṣe#-en-ši :"
+    },
+    {
+      "line_id": "XI.82",
+      "line_label": "XI 82",
+      "transliteration": "25'b.mim-ma i-šu-u₂ e-ṣe-en-ši KU₃.BABBAR"
+    },
+    {
+      "line_id": "XI.83",
+      "line_label": "XI 83",
+      "transliteration": "21a.mim#-ma# i#-š[u-u₂] e#-ṣe#-en#-ši KU₃.SIG₁₇ :"
+    },
+    {
+      "line_id": "XI.84",
+      "line_label": "XI 84",
+      "transliteration": "27'.[x x x x x x e-ṣe-e]n-ši NUMUN ZI-MEŠ ka-la-ma"
+    },
+    {
+      "line_id": "XI.85",
+      "line_label": "XI 85",
+      "transliteration": "22.uš-te-li a-[na] ŠA₃! {giš}MA₂ k[a-la kim-t]i-ia# u₃# [x x x]"
+    },
+    {
+      "line_id": "XI.86",
+      "line_label": "XI 86",
+      "transliteration": "23.bu-ul EDI[N] u₂#-ma-am EDIN DUMU#-MEŠ# um#-ma-nu# ka#-li#-šu#-n[u x x x]"
+    },
+    {
+      "line_id": "XI.87",
+      "line_label": "XI 87",
+      "transliteration": "24.a-dan-na# {d}UTU iš-ku-[nam-ma]"
+    },
+    {
+      "line_id": "XI.88",
+      "line_label": "XI 88",
+      "transliteration": "25.ina še-er ku-u[k-k]i ina li-la-a-ti u₂!-ša₂-az-na-nu ša₂-mu-t[u x x x x]"
+    },
+    {
+      "line_id": "XI.89",
+      "line_label": "XI 89",
+      "transliteration": "26a.e-ru-ub ana [li]b₃-bi {giš}MA₂-ma pi-he {giš}MA₂ :"
+    },
+    {
+      "line_id": "XI.90",
+      "line_label": "XI 90",
+      "transliteration": "26b.a-dan-nu šu-u₂ [x x x]"
+    },
+    {
+      "line_id": "XI.91",
+      "line_label": "XI 91",
+      "transliteration": "27.ina še-er ku-u[k-k]i ina li-la-a-ti i-za-an-na-nu ša₂-mu-tu k[i-ba-a-ti]"
+    },
+    {
+      "line_id": "XI.92",
+      "line_label": "XI 92",
+      "transliteration": "28a.ša₂ u₄-mi at-t[a-ṭa]l bu-na-šu :"
+    },
+    {
+      "line_id": "XI.93",
+      "line_label": "XI 93",
+      "transliteration": "2'.[x x] a#-na i-tap-lu-si pu-luh-[ta x x]"
+    },
+    {
+      "line_id": "XI.94",
+      "line_label": "XI 94",
+      "transliteration": "29.e-ru-u[b] a#-na {giš}MA₂-ma ap-ti#-hi# ba-[a-bi]"
+    },
+    {
+      "line_id": "XI.95",
+      "line_label": "XI 95",
+      "transliteration": "30.a-na pe-he-e# [ša₂] {giš#}MA₂ a-na pu-zu-<ur>-{d#}KUR#.GAL {lu₂}[MA₂.LAH₄]"
+    },
+    {
+      "line_id": "XI.96",
+      "line_label": "XI 96",
+      "transliteration": "31.E₂.GAL at-[ta]-din# a-di bu-še-e#-[šu₂]"
+    },
+    {
+      "line_id": "XI.97",
+      "line_label": "XI 97",
+      "transliteration": "32.mim-mu-u₂ še-e-ri ina n[a-ma-ri]"
+    },
+    {
+      "line_id": "XI.98",
+      "line_label": "XI 98",
+      "transliteration": "33.i#-lam#-ma# u[l-tu i-ši]d AN-e ur-pa-tu₄! ṣa-[lim-tu₄]"
+    },
+    {
+      "line_id": "XI.99",
+      "line_label": "XI 99",
+      "transliteration": "34a.[x x x x x x ir-tag]-gu#-um# [ ( : ) ]"
+    },
+    {
+      "line_id": "XI.100",
+      "line_label": "XI 100",
+      "transliteration": "34b.{d#}šullat₂# u {d}haniš₂ il-la#-[ku x x x]"
+    },
+    {
+      "line_id": "XI.101",
+      "line_label": "XI 101",
+      "transliteration": "10'.il-la-ku GU.ZA.LA₂-MEŠ KUR-u₂ [x x x x]"
+    },
+    {
+      "line_id": "XI.102",
+      "line_label": "XI 102",
+      "transliteration": "11'.tar#-kul-li {d}er₃-ra-kal u₂-n[a-as-sah]"
+    },
+    {
+      "line_id": "XI.103",
+      "line_label": "XI 103",
+      "transliteration": "12'.il-lak {d}nin-urta# mi-ih-ra [x x x]"
+    },
+    {
+      "line_id": "XI.104",
+      "line_label": "XI 104",
+      "transliteration": "13'.{d}a-nun-na-ki iš-šu-u₂ di-pa-[ra-a-ti]"
+    },
+    {
+      "line_id": "XI.105",
+      "line_label": "XI 105",
+      "transliteration": "14'.ina nam-ri-ir-ri-šu₂-nu u₂-ha-am-ma-ṭu m[a-a-tu₄]"
+    },
+    {
+      "line_id": "XI.106",
+      "line_label": "XI 106",
+      "transliteration": "15'.[š]a₂ {d}IŠKUR šu-har-ra-as-su# i-ba-ʾ-u# [x x]"
+    },
+    {
+      "line_id": "XI.107",
+      "line_label": "XI 107",
+      "transliteration": "16'.[mi]m-ma nam-ru ana da#-[ʾ-u]m-[mat] ut-te[r-ru]"
+    },
+    {
+      "line_id": "XI.108",
+      "line_label": "XI 108",
+      "transliteration": "17'.[ir-h]i-iṣ KUR GIM G[U₄ x x x] x ih-p[i-ši]"
+    },
+    {
+      "line_id": "XI.109",
+      "line_label": "XI 109",
+      "transliteration": "39.1#-en u₄-ma me-h[u-u₂ x x x x x x]"
+    },
+    {
+      "line_id": "XI.110",
+      "line_label": "XI 110",
+      "transliteration": "3.[x x x] i#-zi#-[qam-ma x x-š]i KUR-a a#-[bu-bu?]"
+    },
+    {
+      "line_id": "XI.111",
+      "line_label": "XI 111",
+      "transliteration": "4.[ki-m]a qab-li UGU# UN-MEŠ u₂-ba-ʾ-u₂ [ka-šu₂-šu₂]"
+    },
+    {
+      "line_id": "XI.112",
+      "line_label": "XI 112",
+      "transliteration": "5a.ul# im-mar a-hu a-ha-šu₂ :"
+    },
+    {
+      "line_id": "XI.113",
+      "line_label": "XI 113",
+      "transliteration": "5b.ul# u₂#-ta#-ad#-da#-a# UN#-MEŠ# ina A[N-e]"
+    },
+    {
+      "line_id": "XI.114",
+      "line_label": "XI 114",
+      "transliteration": "6.DINGIR.DINGIR ip-tal-hu a-bu-ba#-am-[ma]"
+    },
+    {
+      "line_id": "XI.115",
+      "line_label": "XI 115",
+      "transliteration": "7.it-te-eh-su i-te-lu-u₂ ana AN-e ša₂ {d}a-nim"
+    },
+    {
+      "line_id": "XI.116",
+      "line_label": "XI 116",
+      "transliteration": "8.DINGIR-MEŠ ki-ma UR.GI₇ kun-nu-nu ina ka-ma-a-ti rab-ṣu"
+    },
+    {
+      "line_id": "XI.117",
+      "line_label": "XI 117",
+      "transliteration": "7.[x x x x x x x k]i-ma a-lit-ti"
+    },
+    {
+      "line_id": "XI.118",
+      "line_label": "XI 118",
+      "transliteration": "47.u₂-nam-ba {d}be-let-DI[NGIR-MEŠ x x x x]"
+    },
+    {
+      "line_id": "XI.119",
+      "line_label": "XI 119",
+      "transliteration": "11.u₄-mu ul-lu-u₂ a-na ṭi-iṭ-ṭi lu-u₂ i-tur-ma"
+    },
+    {
+      "line_id": "XI.120",
+      "line_label": "XI 120",
+      "transliteration": "12.ša₂# a#-na#-ku ina ma-har DINGIR.DINGIR aq-bu-u₂ {munus}HUL"
+    },
+    {
+      "line_id": "XI.121",
+      "line_label": "XI 121",
+      "transliteration": "13.ki#-i aq#-bi ina ma-har & DINGIR.DINGIR {munus}HUL"
+    },
+    {
+      "line_id": "XI.122",
+      "line_label": "XI 122",
+      "transliteration": "14.ana hul-l[u]-uq UN-MEŠ-ia qab-la aq-bi-ma"
+    },
+    {
+      "line_id": "XI.123",
+      "line_label": "XI 123",
+      "transliteration": "15.a-na-ku-[u]m-ma ul-la-da ni-šu-u₂-a-a-ma"
+    },
+    {
+      "line_id": "XI.124",
+      "line_label": "XI 124",
+      "transliteration": "16.ki-i DUMU-MEŠ KU₆.HA₂ u₂-ma-al-la-a tam-ta-am-ma"
+    },
+    {
+      "line_id": "XI.125",
+      "line_label": "XI 125",
+      "transliteration": "17.DINGIR.DINGIR šu-ut {d}a-nun-na-ki ba-ku-u₂ it-ti-ša₂"
+    },
+    {
+      "line_id": "XI.126",
+      "line_label": "XI 126",
+      "transliteration": "3.ina nu-ru-ub ni-is-sa#-ti# ba#-k[u-u₂ it-ti-ša₂?] / 18.DINGIR-MEŠ aš-ru aš₂-bi i-na bi-ki-ti"
+    },
+    {
+      "line_id": "XI.127",
+      "line_label": "XI 127",
+      "transliteration": "19.kat₃-ma šap-ta-šu₂-nu le#-qa#-a bu-uh-re-e-ti"
+    },
+    {
+      "line_id": "XI.128",
+      "line_label": "XI 128",
+      "transliteration": "20.6 ur-ra u₃# mu-ša₂-a-ti"
+    },
+    {
+      "line_id": "XI.129",
+      "line_label": "XI 129",
+      "transliteration": "21.il-lak ša₂-a-ru a-bu-bu# me#-hu-u₂ i-sap-pan KUR / 6.il#-lak ša₂-a#-ru ra-a-du me₂-hu-u₂ a-b[u-bu x x x x]"
+    },
+    {
+      "line_id": "XI.130",
+      "line_label": "XI 130",
+      "transliteration": "20a.7-u₂ u₄-mu# ina# ka#-ša₂#-[a]-du# [ ( : ) ]"
+    },
+    {
+      "line_id": "XI.131",
+      "line_label": "XI 131",
+      "transliteration": "20b.it#-ta-raq me-hu-u₂ [x x x (x)] / 22b.te#-riq# šu-u₂ a-bu-bu qab-la"
+    },
+    {
+      "line_id": "XI.None",
+      "line_label": "XI None",
+      "transliteration": "21-22a.ša im-tah-ṣu GIM ha-[a-a-al]-ti# | i-nu-uh A.AB.BA"
+    },
+    {
+      "line_id": "XI.133",
+      "line_label": "XI 133",
+      "transliteration": "24b.uš-ha-ri-ir-ma im-hul!(U₃)-lu a-bu-bu ik-la"
+    },
+    {
+      "line_id": "XI.134",
+      "line_label": "XI 134",
+      "transliteration": "23.ap-pal-sa-am-ma# u₄-ma ša₂-kin qu-lu"
+    },
+    {
+      "line_id": "XI.135",
+      "line_label": "XI 135",
+      "transliteration": "24.u kul-lat te#-ne₂-še-e-ti i-tu-ra a-na ṭi-iṭ-ṭi"
+    },
+    {
+      "line_id": "XI.136",
+      "line_label": "XI 136",
+      "transliteration": "25.ki-ma u₂-ri mit-hu-rat u₂-šal-lu"
+    },
+    {
+      "line_id": "XI.137",
+      "line_label": "XI 137",
+      "transliteration": "26.[a]p-ti nap-pa-ša₂-am-ma UD.DA im-ta-qut UGU BAD₃ ap-pi-ia"
+    },
+    {
+      "line_id": "XI.138",
+      "line_label": "XI 138",
+      "transliteration": "27.[uk-tam]-me#-es-ma at-ta-šab a-bak-ki"
+    },
+    {
+      "line_id": "XI.139",
+      "line_label": "XI 139",
+      "transliteration": "30.UGU BAD₃ ap-pi-ia il-la-ka di-ma-a-a"
+    },
+    {
+      "line_id": "XI.140",
+      "line_label": "XI 140",
+      "transliteration": "8'a.ap-pa-lis kib-ra-a-tu pa-a#-[tu? x x x ( : ) ]"
+    },
+    {
+      "line_id": "XI.141",
+      "line_label": "XI 141",
+      "transliteration": "32.a-na 12.TA.AM₃ i-te-la-a na-gu-u₂#"
+    },
+    {
+      "line_id": "XI.142",
+      "line_label": "XI 142",
+      "transliteration": "33.a-na KUR ni-muš i-te-mid {giš}M[A₂]"
+    },
+    {
+      "line_id": "XI.143",
+      "line_label": "XI 143",
+      "transliteration": "34.KUR-u₂ {kur}ni-muš {giš}MA₂ iṣ-bat-ma a-na na-a-ši ul i[d-din]"
+    },
+    {
+      "line_id": "XI.144",
+      "line_label": "XI 144",
+      "transliteration": "20a.1-en u₄-ma 2 u₄-ma K[UR ni-m]uš KI[MIN ( : ) ]"
+    },
+    {
+      "line_id": "XI.145",
+      "line_label": "XI 145",
+      "transliteration": "36.šal-ša₂ u₄-mu re-ba-a u₄-mu KUR-u₂ ni-muš KI[MIN]"
+    },
+    {
+      "line_id": "XI.146",
+      "line_label": "XI 146",
+      "transliteration": "21a.5-ša₂ 6-ša₂ KUR#-u₂# [ni-muš K]IMIN [ ( : ) ]"
+    },
+    {
+      "line_id": "XI.147",
+      "line_label": "XI 147",
+      "transliteration": "34b.7-a u₄-ma ina ka-ša₂-a-di"
+    },
+    {
+      "line_id": "XI.148",
+      "line_label": "XI 148",
+      "transliteration": "14'.[u₂-š]e-ṣi#-ma TU{mušen} u₂-[maš-šar]"
+    },
+    {
+      "line_id": "XI.149",
+      "line_label": "XI 149",
+      "transliteration": "35b.il-lik TU{mušen} i-pi-ra-am-m[a]"
+    },
+    {
+      "line_id": "XI.150",
+      "line_label": "XI 150",
+      "transliteration": "5'.[x x x x i]-pa-<<DA>>-aš₂-šum#-ma is-s[ah-ra]"
+    },
+    {
+      "line_id": "XI.151",
+      "line_label": "XI 151",
+      "transliteration": "6'a.[u₂-še-ṣi-ma S]IM{mušen} u₂-maš-š[ar ( : ) ]"
+    },
+    {
+      "line_id": "XI.152",
+      "line_label": "XI 152",
+      "transliteration": "6'b.[il-li]k SIM#{mušen#} i#-pi#-r[a-am-ma]"
+    },
+    {
+      "line_id": "XI.153",
+      "line_label": "XI 153",
+      "transliteration": "38.man-za-z[u x i-pa-aš₂-ši]m-ma is-s[ah-ra]"
+    },
+    {
+      "line_id": "XI.154",
+      "line_label": "XI 154",
+      "transliteration": "8'a.[x x x x a]-re-ba u₂-ma[š-šar ( : ) ]"
+    },
+    {
+      "line_id": "XI.155",
+      "line_label": "XI 155",
+      "transliteration": "40.il-lik a#-[re-bi-ma qa-r]u-ra# š[a₂ x x x x x]"
+    },
+    {
+      "line_id": "XI.156",
+      "line_label": "XI 156",
+      "transliteration": "9'a.[x x x x x x i]-tar-ri?# ul [x x x ( : ) ]"
+    },
+    {
+      "line_id": "XI.157",
+      "line_label": "XI 157",
+      "transliteration": "46.u₂-še-ṣi-ma a-na 4 IM-MEŠ at-ta-qi₂ ni-qa-a"
+    },
+    {
+      "line_id": "XI.158",
+      "line_label": "XI 158",
+      "transliteration": "47.aš₂-kun sur-qin-nu ina UGU ziq-qur-rat KUR-i"
+    },
+    {
+      "line_id": "XI.159",
+      "line_label": "XI 159",
+      "transliteration": "5'a.[x x x x x x x x x x x ( : ) ]"
+    },
+    {
+      "line_id": "XI.160",
+      "line_label": "XI 160",
+      "transliteration": "49.i-na šap-li-šu₂-nu at-ta-bak GI {giš}EREN u {šim}GI[R₂]"
+    },
+    {
+      "line_id": "XI.161",
+      "line_label": "XI 161",
+      "transliteration": "46a.[DINGIR-M]EŠ i-ṣi#-nu₃# i#-[ri-ša₂ ( : ) ]"
+    },
+    {
+      "line_id": "XI.162",
+      "line_label": "XI 162",
+      "transliteration": "50b.DINGIR-MEŠ i-ṣi-nu i-ri-ša₂ DUG₃.G[A]"
+    },
+    {
+      "line_id": "XI.163",
+      "line_label": "XI 163",
+      "transliteration": "51.DINGIR-MEŠ ki-ma zu-um-be₂-e UGU EN SISKUR₂ ip-tah-ru"
+    },
+    {
+      "line_id": "XI.164",
+      "line_label": "XI 164",
+      "transliteration": "52.ul-tu ul-la-nu-um-ma DINGIR.MAH ina ka-ša₂-di-šu₂"
+    },
+    {
+      "line_id": "XI.165",
+      "line_label": "XI 165",
+      "transliteration": "53.iš-ši NIM-MEŠ GAL-MEŠ ša₂ {d}a-num i-pu-šu₂ ki-i ṣu-hi-šu₂"
+    },
+    {
+      "line_id": "XI.166",
+      "line_label": "XI 166",
+      "transliteration": "54.DINGIR-MEŠ an-nu-ti lu-u₂ {na₄}ZA.GIN₃ GU₂-ia <<a-a am-ši>>"
+    },
+    {
+      "line_id": "XI.167",
+      "line_label": "XI 167",
+      "transliteration": "3.U₄-MEŠ an-nu-tu₄ lu-u₂-uh-su-sa-a[m-ma x x x x x x x (x)]"
+    },
+    {
+      "line_id": "XI.168",
+      "line_label": "XI 168",
+      "transliteration": "6'.[DINGI]R?-<MEŠ> lil-li-k[u-ni x x x x x ]"
+    },
+    {
+      "line_id": "XI.169",
+      "line_label": "XI 169",
+      "transliteration": "12'b.[x x x x x il-li]-ka <ana> sur-qi₂-ni"
+    },
+    {
+      "line_id": "XI.170",
+      "line_label": "XI 170",
+      "transliteration": "6.aš₂-šu₂# la im-tal-ku-ma iš-k[u-nu x x x]"
+    },
+    {
+      "line_id": "XI.171",
+      "line_label": "XI 171",
+      "transliteration": "5.u₃ UN-MEŠ-ia im-nu-u₂ ana ka-ra-ši"
+    },
+    {
+      "line_id": "XI.172",
+      "line_label": "XI 172",
+      "transliteration": "6.ul-tu ul-la-nu-um-ma {d}+en-lil₂ ina ka-ša₂-di-šu₂"
+    },
+    {
+      "line_id": "XI.173",
+      "line_label": "XI 173",
+      "transliteration": "7a.i-mur {giš}MA₂-ma i-te-ziz {d}+en-lil₂ :"
+    },
+    {
+      "line_id": "XI.174",
+      "line_label": "XI 174",
+      "transliteration": "7b.lib-ba-ti im-ta-li ša₂ DINGIR.DINGIR {d}i₂-gi₃-gi₃"
+    },
+    {
+      "line_id": "XI.175",
+      "line_label": "XI 175",
+      "transliteration": "4.[a-a-n]u-um-ma u₂-ṣu n[a-piš-tu?] / 11a.a-a-um#-ma# u₂-ṣ[i x x x ( : ) ]"
+    },
+    {
+      "line_id": "XI.176",
+      "line_label": "XI 176",
+      "transliteration": "5.[a]-a# ib-luṭ LU₂ ina ka-ra#-š[i]"
+    },
+    {
+      "line_id": "XI.177",
+      "line_label": "XI 177",
+      "transliteration": "12a.{d#}nin#-urta pa#-a#-[šu₂ x x x x ( : ) ]"
+    },
+    {
+      "line_id": "XI.178",
+      "line_label": "XI 178",
+      "transliteration": "9b.MU-ar₂ ana qu-ra-di {d}+en-l[il₂]"
+    },
+    {
+      "line_id": "XI.179",
+      "line_label": "XI 179",
+      "transliteration": "13.[man-un-u]m-ma š[a₂ la {d}e₂-a a-m]a-ti i-ba#-a[n-ni]"
+    },
+    {
+      "line_id": "XI.180",
+      "line_label": "XI 180",
+      "transliteration": "14.[x {d}e₂]-a# i-[de-e] ka-lu šip-r[i]"
+    },
+    {
+      "line_id": "XI.181",
+      "line_label": "XI 181",
+      "transliteration": "15a.[x x x pa-a]-šu₂# DU₃#-ma [x x ( : ) ]"
+    },
+    {
+      "line_id": "XI.182",
+      "line_label": "XI 182",
+      "transliteration": "12b.MU-ar₂ ana qu-ra-du {d}+en-[lil₂]"
+    },
+    {
+      "line_id": "XI.183",
+      "line_label": "XI 183",
+      "transliteration": "13.at-ta ABGAL DINGIR-MEŠ qu-ra-[du]"
+    },
+    {
+      "line_id": "XI.184",
+      "line_label": "XI 184",
+      "transliteration": "17.ki-i#-[ki-i x tam-t]a-li[k-ma a-b]u-ba [ta]š-k[un]"
+    },
+    {
+      "line_id": "XI.185",
+      "line_label": "XI 185",
+      "transliteration": "18a.be-el ar₂-ni e#-[mid hi]-ṭa-šu₂ :"
+    },
+    {
+      "line_id": "XI.186",
+      "line_label": "XI 186",
+      "transliteration": "18b.[x x gil₂-la-t]i e#-mid# gi[l₂-lat-su]"
+    },
+    {
+      "line_id": "XI.187",
+      "line_label": "XI 187",
+      "transliteration": "4'.[x x x x x i]b-ba-<ti>-iq šu-du#-ud# [x x x x]"
+    },
+    {
+      "line_id": "XI.188",
+      "line_label": "XI 188",
+      "transliteration": "17a.am-ma-ku taš-ku-nu a-bu-ba :"
+    },
+    {
+      "line_id": "XI.189",
+      "line_label": "XI 189",
+      "transliteration": "21.UR.MAH lit-b[a-am-ma U]N-MEŠ# li#-ṣa#-ah-hi-i[r]"
+    },
+    {
+      "line_id": "XI.190",
+      "line_label": "XI 190",
+      "transliteration": "22a.am-ma-ki taš-k[un a-bu-b]a :"
+    },
+    {
+      "line_id": "XI.191",
+      "line_label": "XI 191",
+      "transliteration": "22b.UR.BAR.RA lit-ba-am-ma UN#-MEŠ# l[i-ṣa-ah-hir]"
+    },
+    {
+      "line_id": "XI.192",
+      "line_label": "XI 192",
+      "transliteration": "23a.am-ma-ki taš-ku[n a-bu-b]a :"
+    },
+    {
+      "line_id": "XI.193",
+      "line_label": "XI 193",
+      "transliteration": "23b.hu-šah-hu liš-ša₂-kin-ma KUR liš-[giš]"
+    },
+    {
+      "line_id": "XI.194",
+      "line_label": "XI 194",
+      "transliteration": "24a.am-ma-ki taš-ku[n x x x ( : ) ]"
+    },
+    {
+      "line_id": "XI.195",
+      "line_label": "XI 195",
+      "transliteration": "20b.{d}er₃-ra lit-ba-am-ma UN-MEŠ li[š]-giš#"
+    },
+    {
+      "line_id": "XI.196",
+      "line_label": "XI 196",
+      "transliteration": "25.ana-ku ul e[p-ta-a] pi-riš-ti DINGIR.MEŠ# GAL#-[MEŠ]"
+    },
+    {
+      "line_id": "XI.197",
+      "line_label": "XI 197",
+      "transliteration": "26.at#-ra#-ha#-sis# [x x x u₂-ša]b-ri-šum-ma pi-riš-t[i DI]NGIR-M[EŠ x x]"
+    },
+    {
+      "line_id": "XI.198",
+      "line_label": "XI 198",
+      "transliteration": "23a.e-nin-na-ma mi-lik-šu₂ mil-ku :"
+    },
+    {
+      "line_id": "XI.199",
+      "line_label": "XI 199",
+      "transliteration": "23b.i-lam-ma {d}IDIM ana lib₃-bi {giš}MA₂"
+    },
+    {
+      "line_id": "XI.200",
+      "line_label": "XI 200",
+      "transliteration": "13'.[x x qa-ti-ia]-ma uš-te-la-a[n-ni ia-a-ši]"
+    },
+    {
+      "line_id": "XI.201",
+      "line_label": "XI 201",
+      "transliteration": "25.uš-te-li uš-tak-mi-is sin-niš-ti ina i-di-ia"
+    },
+    {
+      "line_id": "XI.202",
+      "line_label": "XI 202",
+      "transliteration": "26.il-pu-ut pu-ut-ni-ma iz-za-az ina bi-ri-in-ni i-kar-ra-ban-na-ši"
+    },
+    {
+      "line_id": "XI.203",
+      "line_label": "XI 203",
+      "transliteration": "27.i-na pa-na {m}UD-ZI a-me-lu-tum₃-ma"
+    },
+    {
+      "line_id": "XI.204",
+      "line_label": "XI 204",
+      "transliteration": "28.e-nin-na-ma {m}UD-ZI u MUNUS-šu₂ lu-u e-mu-u₂ ki-ma DINGIR-MEŠ na-ši-ma"
+    },
+    {
+      "line_id": "XI.205",
+      "line_label": "XI 205",
+      "transliteration": "29.lu-u₂ a-šib-ma {m}UD-ZI ina ru-u₂-qi₂ ina pi-i ID₂-MEŠ"
+    },
+    {
+      "line_id": "XI.206",
+      "line_label": "XI 206",
+      "transliteration": "30.il-qu-in-ni-ma ina ru-qi₂ ina KA ID₂-MEŠ uš-te-ši-bu-in-ni"
+    },
+    {
+      "line_id": "XI.207",
+      "line_label": "XI 207",
+      "transliteration": "31.e-nin-na-ma ana ka-a-ša₂ man-nu DINGIR-MEŠ u₂-pah-ha-rak-kum₂-ma"
+    },
+    {
+      "line_id": "XI.208",
+      "line_label": "XI 208",
+      "transliteration": "32.ba-la-ṭa ša₂ tu-ba-ʾ-u₂ tu-ut-ta-a at-ta"
+    },
+    {
+      "line_id": "XI.209",
+      "line_label": "XI 209",
+      "transliteration": "33.ga-na e ta-at-til 6 ur-ri u₃ 7 mu-ša₂-a-ti"
+    },
+    {
+      "line_id": "XI.210",
+      "line_label": "XI 210",
+      "transliteration": "34.ki-ma aš₂-bu-ma ina bi-rit pu-ri-di-šu₂"
+    },
+    {
+      "line_id": "XI.211",
+      "line_label": "XI 211",
+      "transliteration": "35.šit-tu ki-ma im-ba-ri i-nap-pu-uš UGU-šu₂"
+    },
+    {
+      "line_id": "XI.212",
+      "line_label": "XI 212",
+      "transliteration": "36.{m}UD-ZI ana ša₂-ši-ma MU-ar₂ ana mar-hi-ti-šu₂"
+    },
+    {
+      "line_id": "XI.213",
+      "line_label": "XI 213",
+      "transliteration": "37.am-ri {lu₂}GURUŠ ša₂ i-ri-šu₂ ba-la-ṭu"
+    },
+    {
+      "line_id": "XI.214",
+      "line_label": "XI 214",
+      "transliteration": "38.šit-tu ki-ma im-ba-ri i-nap-pu-uš UGU-šu₂"
+    },
+    {
+      "line_id": "XI.215",
+      "line_label": "XI 215",
+      "transliteration": "39.mar-hi-is-su ana ša₂-šu-ma MU-ar₂ a-na {m}UD-ZI ru-qi₂"
+    },
+    {
+      "line_id": "XI.216",
+      "line_label": "XI 216",
+      "transliteration": "40.lu-pu-us-su-ma li-ig-gel₂-ta-a LU₂"
+    },
+    {
+      "line_id": "XI.217",
+      "line_label": "XI 217",
+      "transliteration": "41.har-ra-ni il-li-ka li-tur ina šul-me"
+    },
+    {
+      "line_id": "XI.218",
+      "line_label": "XI 218",
+      "transliteration": "42.KA₂.GAL u₂-ṣa-a li-tur a-na ma-ti-šu₂"
+    },
+    {
+      "line_id": "XI.219",
+      "line_label": "XI 219",
+      "transliteration": "43.{m}UD-ZI ana ša₂-ši-ma MU-ar₂ ana mar-hi-ti-šu₂"
+    },
+    {
+      "line_id": "XI.220",
+      "line_label": "XI 220",
+      "transliteration": "44.rag-ga-at a-me-lut-tu i-rag-gi-ig-ki"
+    },
+    {
+      "line_id": "XI.221",
+      "line_label": "XI 221",
+      "transliteration": "45.ga-na e-pi-i ku-ru-um-ma#-ti#-šu₂# ši-tak-ka-ni ina re-ši-šu₂"
+    },
+    {
+      "line_id": "XI.222",
+      "line_label": "XI 222",
+      "transliteration": "46.u₃ u₄-mi ša₂ it-t[i-l]u ina i-ga-ri eṣ-r[i]"
+    },
+    {
+      "line_id": "XI.223",
+      "line_label": "XI 223",
+      "transliteration": "47.ši-i e-pi ku-ru#-um-ma#-ti#-šu₂ iš#-tak-ka-an ina r[e-ši-šu₂]"
+    },
+    {
+      "line_id": "XI.224",
+      "line_label": "XI 224",
+      "transliteration": "48.u₃# u₄-mi š[a₂ i]t-ti-l[u ina i-g]a-ri ud#-[da-aš₂-šu₂]"
+    },
+    {
+      "line_id": "XI.225",
+      "line_label": "XI 225",
+      "transliteration": "49.[iš-t]a-at# [ša₂-b]u-lat ku#-ru#-[um-mat-su]"
+    },
+    {
+      "line_id": "XI.226",
+      "line_label": "XI 226",
+      "transliteration": "50a.[x x x x x] 3#-tu₄ raṭ#-bat [ : ]"
+    },
+    {
+      "line_id": "XI.227",
+      "line_label": "XI 227",
+      "transliteration": "3'b.[x x x x x x x x ka-ma]n-šu₂"
+    },
+    {
+      "line_id": "XI.228",
+      "line_label": "XI 228",
+      "transliteration": "51a.[x x x x it-ta-d]i [ ( : ) ]"
+    },
+    {
+      "line_id": "XI.229",
+      "line_label": "XI 229",
+      "transliteration": "7b.6-tu₄ ba-aš-[lat]"
+    },
+    {
+      "line_id": "XI.230",
+      "line_label": "XI 230",
+      "transliteration": "8.se-bu#-tu₄ ina pe-et-tim-ma il-pu-us-su-ma i-te#-gel₂-ta-a#-[(ma) L]U₂"
+    },
+    {
+      "line_id": "XI.231",
+      "line_label": "XI 231",
+      "transliteration": "9.{d}GIŠ-gim₂-maš a-na ša₂-šu-ma MU-ra a-na {m}UD-ZI [ru-u₂]-qi₂"
+    },
+    {
+      "line_id": "XI.232",
+      "line_label": "XI 232",
+      "transliteration": "10.an-ni-miš šit-tu₄ ir-hu#-u₂# e-l[i]-ia"
+    },
+    {
+      "line_id": "XI.233",
+      "line_label": "XI 233",
+      "transliteration": "11.ha-an-ṭiš tal-tap-tan-ni-ma t[a-ad-da-kan-n]i [at]-ta"
+    },
+    {
+      "line_id": "XI.234",
+      "line_label": "XI 234",
+      "transliteration": "12.{m}UD-ZI# a#-[na ša₂-šu-m]a [MU-ra] a#-na {d}G[IŠ-gi]m₂-maš"
+    },
+    {
+      "line_id": "XI.235",
+      "line_label": "XI 235",
+      "transliteration": "10'-11'.[x x x {d}GIŠ-gim₂-ma]š mu-°\\°-na-°\\°-a | [ku-ru-u]m-ma-ti-°\\°-ka"
+    },
+    {
+      "line_id": "XI.236",
+      "line_label": "XI 236",
+      "transliteration": "7.[u? u₄-mi? ša₂ ta-at-ti-l]u lu-u₂ e-dak-ka ka-a-ša₂"
+    },
+    {
+      "line_id": "XI.237",
+      "line_label": "XI 237",
+      "transliteration": "8.[iš-ta-at ša₂-bu-lat] ku-ru-um-mat-ka"
+    },
+    {
+      "line_id": "XI.238",
+      "line_label": "XI 238",
+      "transliteration": "14'a.[x x x muš-šu]-kat₃# 3#-tu₄# raṭ#-[ba]t ( : )"
+    },
+    {
+      "line_id": "XI.239",
+      "line_label": "XI 239",
+      "transliteration": "14'b.4-tu₄ ip-te-ṣi ka-man-ka"
+    },
+    {
+      "line_id": "XI.240",
+      "line_label": "XI 240",
+      "transliteration": "15'.[x x ši-p]a it-ta-di 6#-[t]u₄ ba-aš-lat"
+    },
+    {
+      "line_id": "XI.241",
+      "line_label": "XI 241",
+      "transliteration": "16'.[7-tu₄ in]a pe#-et-tim-ma te-et-[te-g]el₂-ta-a at-ta / 12.[x x x pe-et-t]im-ma al-pu-ut-ka a-na-ku"
+    },
+    {
+      "line_id": "XI.242",
+      "line_label": "XI 242",
+      "transliteration": "17.[{d}GIŠ-g]im₂-maš ana ša₂-šu-ma MU-ra a#-na {m}UD-ZI ru-u₂-qi₂"
+    },
+    {
+      "line_id": "XI.243",
+      "line_label": "XI 243",
+      "transliteration": "18'.[ki-k]i-i lu-pu-uš {m}ut-Z[I a?]-a#-i-ka-a lul-lik"
+    },
+    {
+      "line_id": "XI.244",
+      "line_label": "XI 244",
+      "transliteration": "19'.[x (x)]-MEŠ-ia uṣ-ṣab-bi-tu₄ ek-ke-mu"
+    },
+    {
+      "line_id": "XI.245",
+      "line_label": "XI 245",
+      "transliteration": "20'.[ina] E₂ ma-a-a-li-ia a#-šib mu-tu₄"
+    },
+    {
+      "line_id": "XI.246",
+      "line_label": "XI 246",
+      "transliteration": "17.[x x x x x x lu-u]š-kun šu-u₂ mu-tum₃-ma"
+    },
+    {
+      "line_id": "XI.247",
+      "line_label": "XI 247",
+      "transliteration": "9'.[x x x x x x x x i-zak-ka-r]a a-na {m}ur!-{d}šanabi₂ m[a-la-hi]"
+    },
+    {
+      "line_id": "XI.248",
+      "line_label": "XI 248",
+      "transliteration": "24.{m}ur-šanabi₂ k[a-a-ru x x x x x x li-ze]r-ka"
+    },
+    {
+      "line_id": "XI.249",
+      "line_label": "XI 249",
+      "transliteration": "25.ša₂ ina a-hi-ša₂ D[U.DU-MEŠ-ku x x zu-um]-me"
+    },
+    {
+      "line_id": "XI.250",
+      "line_label": "XI 250",
+      "transliteration": "8'a.[x x tal-li]-ka# pa#-na-su [ ( : ) ]"
+    },
+    {
+      "line_id": "XI.251",
+      "line_label": "XI 251",
+      "transliteration": "21b.ik-ta-su-u₂ ma-lu-u₂ pa-gar-šu₂"
+    },
+    {
+      "line_id": "XI.252",
+      "line_label": "XI 252",
+      "transliteration": "9'.[x x x uq-ta]-at-tu-u₂ [d]u-muq U[ZU-MEŠ-šu₂]"
+    },
+    {
+      "line_id": "XI.253",
+      "line_label": "XI 253",
+      "transliteration": "10'.[x x x x {m}ur-ša]nabi₂ ana# nam#-se#-e [x x x]"
+    },
+    {
+      "line_id": "XI.254",
+      "line_label": "XI 254",
+      "transliteration": "11'.[x x x x m]e-e ki#-ma# el#-li [x x]"
+    },
+    {
+      "line_id": "XI.255",
+      "line_label": "XI 255",
+      "transliteration": "16'a.[lid-d]i maš-ki-šu-ma li#-bil# [x x] :#?"
+    },
+    {
+      "line_id": "XI.256",
+      "line_label": "XI 256",
+      "transliteration": "16'b.[ṭ]a?-[bu]-um#? ṣu₂#-p[u x x x] / 25b.ṭa-a-bu lu ṣa-pu zu-mur-šu₂"
+    },
+    {
+      "line_id": "XI.257",
+      "line_label": "XI 257",
+      "transliteration": "17'a.[lu]-u₂# ud-du-šu₂ par-si-gi š[a₂ SAG.D]U-šu₂ :"
+    },
+    {
+      "line_id": "XI.258",
+      "line_label": "XI 258",
+      "transliteration": "14'a.[x x x x x x x] ṣu-bat bal#-ti#-[šu₂ ( : ) ]"
+    },
+    {
+      "line_id": "XI.259",
+      "line_label": "XI 259",
+      "transliteration": "18'a.[x x x x x i]l-la#-ku ana URU-šu₂ :"
+    },
+    {
+      "line_id": "XI.260",
+      "line_label": "XI 260",
+      "transliteration": "18'b.a-di i#-[kaš-š]a₂-du a-na u[r-hi-šu₂]"
+    },
+    {
+      "line_id": "XI.261",
+      "line_label": "XI 261",
+      "transliteration": "19'.[x x x ši-p]a a-a id-di#-[ma? e-de-š]u l[i-diš]"
+    },
+    {
+      "line_id": "XI.262",
+      "line_label": "XI 262",
+      "transliteration": "20'.[il-qe₂-š]u-m[a {m}u]r-šanabi₂# a#-[na x x x] u₂-[bil-šu-ma]"
+    },
+    {
+      "line_id": "XI.263",
+      "line_label": "XI 263",
+      "transliteration": "21'.[m]a-le-šu₂ ina A#-[MEŠ x x x x x]"
+    },
+    {
+      "line_id": "XI.264",
+      "line_label": "XI 264",
+      "transliteration": "36a.id-di KUŠ-[MEŠ-šu-ma t]am-tu₄ :"
+    },
+    {
+      "line_id": "XI.265",
+      "line_label": "XI 265",
+      "transliteration": "23'a.ṭa-a-bu iṣ-ṣa-pu zu-mu[r-šu₂ ( : ) ]"
+    },
+    {
+      "line_id": "XI.266",
+      "line_label": "XI 266",
+      "transliteration": "37a.u₂-te-ed-di[š par₂-si-gu ša₂ SAG.DU-š]u₂ :"
+    },
+    {
+      "line_id": "XI.267",
+      "line_label": "XI 267",
+      "transliteration": "24'a.te-di-qa la-biš ṣu-bat ba[l-ti-šu₂ ( : ) ]"
+    },
+    {
+      "line_id": "XI.268",
+      "line_label": "XI 268",
+      "transliteration": "38a.[a-di i]l-[la-ku ana URU-šu₂] :#"
+    },
+    {
+      "line_id": "XI.269",
+      "line_label": "XI 269",
+      "transliteration": "25'a.a#-di i-kaš-ša₂-du# ana ur#-hi#-šu₂# ( : )"
+    },
+    {
+      "line_id": "XI.270",
+      "line_label": "XI 270",
+      "transliteration": "19'b.[x x x x x x x id-d]i-ma# e#-de#-šu [x x]"
+    },
+    {
+      "line_id": "XI.271",
+      "line_label": "XI 271",
+      "transliteration": "26'a.{d}GIŠ-gim₂-maš u {m}u[r-šanabi₂ x x x x x : ]"
+    },
+    {
+      "line_id": "XI.272",
+      "line_label": "XI 272",
+      "transliteration": "20'b.{giš#}m[a₂-gil₂?]-la# id#-du-u?# šu-n[u x x x]"
+    },
+    {
+      "line_id": "XI.273",
+      "line_label": "XI 273",
+      "transliteration": "27'.mar-hi-is-su ana ša₂-šu-ma# MU#-[ar₂ x x x x x x]"
+    },
+    {
+      "line_id": "XI.274",
+      "line_label": "XI 274",
+      "transliteration": "28'.{d}GIŠ-gim₂-maš DU-ka i-n[a-ha x x x ]"
+    },
+    {
+      "line_id": "XI.275",
+      "line_label": "XI 275",
+      "transliteration": "38.[x x x ta-at-tan-na-aš₂-šum-m]a i-ta-ar₂ ana KUR-šu₂"
+    },
+    {
+      "line_id": "XI.276",
+      "line_label": "XI 276",
+      "transliteration": "30'a.u₃# šu-u₂ iš-ši pa-ri-[sa x x x x ( : ) ]"
+    },
+    {
+      "line_id": "XI.277",
+      "line_label": "XI 277",
+      "transliteration": "46.{giš}MA₂ uṭ-ṭe₃-eh-ha-a# [x x x x]"
+    },
+    {
+      "line_id": "XI.278",
+      "line_label": "XI 278",
+      "transliteration": "31'.[{m}UD-Z]I-ti₃ ana# ša₂#-šu#-m[a x x x x x x x x]"
+    },
+    {
+      "line_id": "XI.279",
+      "line_label": "XI 279",
+      "transliteration": "1.{d#}GIŠ-gim₂-maš tal-li#-ka ta-na-ha t[a-šu-ṭa]"
+    },
+    {
+      "line_id": "XI.280",
+      "line_label": "XI 280",
+      "transliteration": "2.mi-na-a at-tan-nak-kum₂-ma ta-ta-ar₂ ana [x x]"
+    },
+    {
+      "line_id": "XI.281",
+      "line_label": "XI 281",
+      "transliteration": "3a.lu-u₂-up-te {d}GIŠ-gim₂-maš a-mat ni-ṣir-ti :"
+    },
+    {
+      "line_id": "XI.282",
+      "line_label": "XI 282",
+      "transliteration": "3b.u AD.HAL š[a₂ DINGIR-MEŠ x x x x x x x]"
+    },
+    {
+      "line_id": "XI.283",
+      "line_label": "XI 283",
+      "transliteration": "4.šam-mu šu-u₂ ki-ma ed-de-et-t[i x x x x x]"
+    },
+    {
+      "line_id": "XI.284",
+      "line_label": "XI 284",
+      "transliteration": "5.si-hi-il-šu₂ GIM a-mur-din-nim-ma u₂-sa[h-hal]"
+    },
+    {
+      "line_id": "XI.285",
+      "line_label": "XI 285",
+      "transliteration": "6a.šum-ma šam-ma ša₂-a-šu₂ i-kaš-ša₂-da qa-ta-a-k[a ( : ) ]"
+    },
+    {
+      "line_id": "XI.286",
+      "line_label": "XI 286",
+      "transliteration": "6b.[x x x x x x x x x (x)]"
+    },
+    {
+      "line_id": "XI.287",
+      "line_label": "XI 287",
+      "transliteration": "7a.{d}GIŠ-gim₂-maš an-ni-tu₂ ina še-me-šu₂ ( : )"
+    },
+    {
+      "line_id": "XI.288",
+      "line_label": "XI 288",
+      "transliteration": "7b.ip-ti r[a-a-ṭa x x x x x]"
+    },
+    {
+      "line_id": "XI.289",
+      "line_label": "XI 289",
+      "transliteration": "8.u₂-rak-ki-is NA₄-MEŠ kab-tu-t[a x x x x]"
+    },
+    {
+      "line_id": "XI.290",
+      "line_label": "XI 290",
+      "transliteration": "2'.il#-du-<du>-šu#-ma# [x x x x x x x x]"
+    },
+    {
+      "line_id": "XI.291",
+      "line_label": "XI 291",
+      "transliteration": "10.šu-u₂ il-qe₂# šam-ma-ma is-s[u-uh-šu₂ x x x]"
+    },
+    {
+      "line_id": "XI.292",
+      "line_label": "XI 292",
+      "transliteration": "4'.u₂#-[bat]-ti-iq NA₄-MEŠ kab-t[u-ta x x x x]"
+    },
+    {
+      "line_id": "XI.293",
+      "line_label": "XI 293",
+      "transliteration": "5'.t[am-t]u₄ is-su-kaš-šu₂ a-na# kib#-ri#-šu₂"
+    },
+    {
+      "line_id": "XI.294",
+      "line_label": "XI 294",
+      "transliteration": "6'.{d#}[GIŠ]-gi[m₂]-maš a-na ša₂-šu-ma MU-ra a-na {m}ur-šanabi₂ ma!-la-hu"
+    },
+    {
+      "line_id": "XI.295",
+      "line_label": "XI 295",
+      "transliteration": "7'.{m}[ur-šanabi₂] šam-mu an-nu-u₂ šam-mu ni-kit-ti"
+    },
+    {
+      "line_id": "XI.296",
+      "line_label": "XI 296",
+      "transliteration": "8'.[x x x li]b₃-bi-šu₂ i-kaš-ša₂-du nap-šat!(BI)-su"
+    },
+    {
+      "line_id": "XI.297",
+      "line_label": "XI 297",
+      "transliteration": "16a.lu#-bil#-šu# ana lib₃-bi UNUG{ki} su-pu-r[i ( : ) ]"
+    },
+    {
+      "line_id": "XI.298",
+      "line_label": "XI 298",
+      "transliteration": "9'b.lu-ša₂-kil ši-ba-am-ma šam-ma lul-tuk"
+    },
+    {
+      "line_id": "XI.299",
+      "line_label": "XI 299",
+      "transliteration": "17.šum#-ma?# ši-i-bu iṣ-ṣa#-[hir x]"
+    },
+    {
+      "line_id": "XI.300",
+      "line_label": "XI 300",
+      "transliteration": "11'.[x x x lu-ku]l-ma lu-tur a-na ša₂ ṣu-uh-ri-ia-a-ma"
+    },
+    {
+      "line_id": "XI.301",
+      "line_label": "XI 301",
+      "transliteration": "19a.a-na 20 DANNA ik-su-pu ku-sa-pu [ ( : ) ]"
+    },
+    {
+      "line_id": "XI.302",
+      "line_label": "XI 302",
+      "transliteration": "3'b.ana 30 DANNA iš-[ku-nu nu-bat-ta]"
+    },
+    {
+      "line_id": "XI.303",
+      "line_label": "XI 303",
+      "transliteration": "4'.[i-m]ur-ma bu-u₂-ru {d}GIŠ#-gim₂#-maš# ša₂# ka#-[ṣu-u₂ x x x]"
+    },
+    {
+      "line_id": "XI.304",
+      "line_label": "XI 304",
+      "transliteration": "15'.[x x a]-na lib₃-bi-im-ma A-MEŠ i-ra-muk"
+    },
+    {
+      "line_id": "XI.305",
+      "line_label": "XI 305",
+      "transliteration": "2'-3'a.[x x x x x-i]n <ni?>-pi?;-[iš x x]"
+    },
+    {
+      "line_id": "XI.306",
+      "line_label": "XI 306",
+      "transliteration": "17'.[ša₂-qum-m]eš i-lam-ma šam-mu iš-ši"
+    },
+    {
+      "line_id": "XI.307",
+      "line_label": "XI 307",
+      "transliteration": "23a.ina# ta#-ri-šu₂ [it-t]a-di# q[u-lip-tu₄ ( : ) ]"
+    },
+    {
+      "line_id": "XI.308",
+      "line_label": "XI 308",
+      "transliteration": "19'.[x u₄-me-šu-m]a {d}GIŠ-gim₂-maš it-ta-šab i-bak-[k]i"
+    },
+    {
+      "line_id": "XI.309",
+      "line_label": "XI 309",
+      "transliteration": "9'a.[UG]U BAD₃ ap-pi-šu₂ DU-ka di-ma-a#-šu₂# :#"
+    },
+    {
+      "line_id": "XI.310",
+      "line_label": "XI 310",
+      "transliteration": "21'.[x (x) x MU-a]r ana# ur-šanabi₂ ma-la-hu"
+    },
+    {
+      "line_id": "XI.311",
+      "line_label": "XI 311",
+      "transliteration": "10'a.[ana ma]n-ni#-ia₂ {m}ur-{d}šanabi₂ i-na-ha i-da-a-a :#"
+    },
+    {
+      "line_id": "XI.312",
+      "line_label": "XI 312",
+      "transliteration": "23'a.[x x x x x i-b]a-li da-mu lib₃-bi-ia ( : )"
+    },
+    {
+      "line_id": "XI.313",
+      "line_label": "XI 313",
+      "transliteration": "9'b-10'a.[x x x x] du-un-qi i!-na?# | [x x x x]"
+    },
+    {
+      "line_id": "XI.314",
+      "line_label": "XI 314",
+      "transliteration": "12'.[ana] UR.MAH ša₂ qaq-qa-ri du-un-[qu?] e#-te-[pu-uš] / 10'b.[x x x x x x x x as]-sa#-kan# du-x-x"
+    },
+    {
+      "line_id": "XI.315",
+      "line_label": "XI 315",
+      "transliteration": "13'.e#-nin-na ana 20 DANNA e-du-u₂# [i-na-a]š-šam-[ma] / 11'.[x x x x (x) i]-na-ša₂-a e-du-u₂"
+    },
+    {
+      "line_id": "XI.316",
+      "line_label": "XI 316",
+      "transliteration": "14'.[r]a-a-ṭu ki#-i# ap-tu-u₂# at#-ta#-bak# u₂-n[u-tu₂]"
+    },
+    {
+      "line_id": "XI.317",
+      "line_label": "XI 317",
+      "transliteration": "15'.[ut-t]a a-a-ta# ša₂# ana it-t[i-ia x x x an]a-ku l[u ah-hi-is] / 12'.[x x x] x-du is-si-a ša[k-n]u"
+    },
+    {
+      "line_id": "XI.318",
+      "line_label": "XI 318",
+      "transliteration": "16'a.[x x] MA₂# e#-te#-zib# ina kib#-ri# [ : ]"
+    },
+    {
+      "line_id": "XI.319",
+      "line_label": "XI 319",
+      "transliteration": "31b.ana 20 D[ANNA] ik-su-pu ku-sa-pa / 13.[x x x x x x] ka-a-sa!(NI)-pa!"
+    },
+    {
+      "line_id": "XI.320",
+      "line_label": "XI 320",
+      "transliteration": "17'a.[ana 30] DANNA iš-ku-nu nu-bat-t[a ( : ) ]"
+    },
+    {
+      "line_id": "XI.321",
+      "line_label": "XI 321",
+      "transliteration": "32b.ik-šu-d[u-ni]m-ma ana lib₃-bi UNUG{ki} su-pu-ri"
+    },
+    {
+      "line_id": "XI.322",
+      "line_label": "XI 322",
+      "transliteration": "33.{d}GIŠ-gim₂-maš a-na ša₂-šu-ma MU-ra a-na# {m}ur-šanabi₂ ma-la-hi"
+    },
+    {
+      "line_id": "XI.323",
+      "line_label": "XI 323",
+      "transliteration": "34.e-li-ma {m}ur-šanabi₂ ina UGU BAD₃ ša₂ UNUG{ki#} i-tal-lak"
+    },
+    {
+      "line_id": "XI.324",
+      "line_label": "XI 324",
+      "transliteration": "35a.te-me-en-na hi-i-ṭi-ma SIG₄ ṣu-ub-bi < : >"
+    },
+    {
+      "line_id": "XI.325",
+      "line_label": "XI 325",
+      "transliteration": "35b.šum-ma SIG₄#-šu₂ la a-gur-rat"
+    },
+    {
+      "line_id": "XI.326",
+      "line_label": "XI 326",
+      "transliteration": "21'.[u₃] uš#-ši#-šu# la# i[d-du-u₂ x x x]"
+    },
+    {
+      "line_id": "XI.327",
+      "line_label": "XI 327",
+      "transliteration": "37.1.šar₂@v URU{ki} 1.šar₂@v {giš}KIRI₆-MEŠ 1.šar₂@v es-su-u₂# pi#-t[i-i]r E₂ {d}iš-tar"
+    },
+    {
+      "line_id": "XI.328",
+      "line_label": "XI 328",
+      "transliteration": "23'.[3] šar₂@v u pi-t[i-i]r UNUG{ki} [x x x]"
+    }
+  ],
+  "meta": {
+    "ebl_chapter": "L/1/4/SB/XI",
+    "display_title": "",
+    "line_count": 329
+  }
+}

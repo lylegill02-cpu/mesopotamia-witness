@@ -1,0 +1,47 @@
+{
+  "text_id": "oracc.etcsri.Q001438",
+  "corpus": "oracc",
+  "title": "Nammah-abzu 2002 / CDLI Seals 003761 (CDLI Seals 003761 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001438",
+  "paragraphs": [
+    {
+      "para_id": "Q001438.1",
+      "line_range": "1",
+      "translation": "(1) Nammah-abzu , governor of Nibru : Unil , child of Nitazid , the steward , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001438.1",
+      "line_label": "1",
+      "transliteration": "nam - maḫ - abzu"
+    },
+    {
+      "line_id": "Q001438.2",
+      "line_label": "2",
+      "transliteration": "ensi₂ nibru ki"
+    },
+    {
+      "line_id": "Q001438.3",
+      "line_label": "3",
+      "transliteration": "un - il₂"
+    },
+    {
+      "line_id": "Q001438.4",
+      "line_label": "4",
+      "transliteration": "dumu nita - zid"
+    },
+    {
+      "line_id": "Q001438.5",
+      "line_label": "5",
+      "transliteration": "ugula - e₂"
+    },
+    {
+      "line_id": "Q001438.6",
+      "line_label": "6",
+      "transliteration": "arad₂ - [ zu ]"
+    }
+  ]
+}

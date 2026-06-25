@@ -1,0 +1,52 @@
+{
+  "text_id": "oracc.etcsri.Q001337",
+  "corpus": "oracc",
+  "title": "Elili 1 (RIME 1.13.09.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001337",
+  "paragraphs": [
+    {
+      "para_id": "Q001337.1",
+      "line_range": "1",
+      "translation": "(1) For Enki , king of Eridug , Elili , king of Urim , built his Abzu ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001337.1",
+      "line_label": "1",
+      "transliteration": "d en - ki"
+    },
+    {
+      "line_id": "Q001337.2",
+      "line_label": "2",
+      "transliteration": "lugal"
+    },
+    {
+      "line_id": "Q001337.3",
+      "line_label": "3",
+      "transliteration": "eridug ki - ra"
+    },
+    {
+      "line_id": "Q001337.4",
+      "line_label": "4",
+      "transliteration": "e₂ - li - li"
+    },
+    {
+      "line_id": "Q001337.5",
+      "line_label": "5",
+      "transliteration": "lugal urim₅ ki - ma - ke₄"
+    },
+    {
+      "line_id": "Q001337.6",
+      "line_label": "6",
+      "transliteration": "abzu - ni"
+    },
+    {
+      "line_id": "Q001337.7",
+      "line_label": "7",
+      "transliteration": "mu - na - du₃"
+    }
+  ]
+}

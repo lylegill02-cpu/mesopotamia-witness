@@ -1,0 +1,67 @@
+{
+  "text_id": "oracc.etcsri.Q001444",
+  "corpus": "oracc",
+  "title": "Hala-Adda 1 (RIME 2.10.01.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001444",
+  "paragraphs": [
+    {
+      "para_id": "Q001444.1",
+      "line_range": "1",
+      "translation": "(1) Dada , the governor of Šuruppag , ( and ) Hala-adda , the governor of Šuruppag , his child , strenghtened the gate of Sud with walls ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001444.1",
+      "line_label": "1",
+      "transliteration": "da - da"
+    },
+    {
+      "line_id": "Q001444.2",
+      "line_label": "2",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001444.3",
+      "line_label": "3",
+      "transliteration": "šuruppak ki"
+    },
+    {
+      "line_id": "Q001444.4",
+      "line_label": "4",
+      "transliteration": "ḫa - la - ad - da"
+    },
+    {
+      "line_id": "Q001444.5",
+      "line_label": "5",
+      "transliteration": "⸢ ensi₂ ⸣"
+    },
+    {
+      "line_id": "Q001444.6",
+      "line_label": "6",
+      "transliteration": "šuruppak ki"
+    },
+    {
+      "line_id": "Q001444.7",
+      "line_label": "7",
+      "transliteration": "dumu - ne₂"
+    },
+    {
+      "line_id": "Q001444.8",
+      "line_label": "8",
+      "transliteration": "ad - us₂ abul"
+    },
+    {
+      "line_id": "Q001444.9",
+      "line_label": "9",
+      "transliteration": "d sud₃ - da - ke₄"
+    },
+    {
+      "line_id": "Q001444.10",
+      "line_label": "10",
+      "transliteration": "bi₂ - in - us₂"
+    }
+  ]
+}

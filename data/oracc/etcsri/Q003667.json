@@ -1,0 +1,22 @@
+{
+  "text_id": "oracc.etcsri.Q003667",
+  "corpus": "oracc",
+  "title": "Mes-Ane-pada 4 (RIME 1.13.05.04 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q003667",
+  "paragraphs": [
+    {
+      "para_id": "Q003667.1",
+      "line_range": "1",
+      "translation": "(1) Nintur , the queen ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q003667.1",
+      "line_label": "1",
+      "transliteration": "nin - tur ereš"
+    }
+  ]
+}

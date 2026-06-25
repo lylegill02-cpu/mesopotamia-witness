@@ -1,0 +1,102 @@
+{
+  "text_id": "oracc.etcsri.Q001954",
+  "corpus": "oracc",
+  "title": "Išme-Dagan 12 (RIME 4.01.04.12 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001954",
+  "paragraphs": [
+    {
+      "para_id": "Q001954.1",
+      "line_range": "1",
+      "translation": "(1) To Nanna , the firstborn child of Enlil , his master , Išme-Dagan , provider of Nibru , steadfast supporter of Urim , tireless servant of Eridug , en priest of Unug , king of Isin , king of Sumer and Akkad , the beloved spouse of Inana , dedicated this ( vase ) for his well-being ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001954.1",
+      "line_label": "1",
+      "transliteration": "d nanna"
+    },
+    {
+      "line_id": "Q001954.2",
+      "line_label": "2",
+      "transliteration": "dumu - saŋ"
+    },
+    {
+      "line_id": "Q001954.3",
+      "line_label": "3",
+      "transliteration": "d en - lil₂ - la₂"
+    },
+    {
+      "line_id": "Q001954.4",
+      "line_label": "4",
+      "transliteration": "lugal - a - ni - ir"
+    },
+    {
+      "line_id": "Q001954.5",
+      "line_label": "5",
+      "transliteration": "d iš - me - d da - gan"
+    },
+    {
+      "line_id": "Q001954.6",
+      "line_label": "6",
+      "transliteration": "u₂ - a nibru ki"
+    },
+    {
+      "line_id": "Q001954.7",
+      "line_label": "7",
+      "transliteration": "saŋ - us₂"
+    },
+    {
+      "line_id": "Q001954.8",
+      "line_label": "8",
+      "transliteration": "urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q001954.9",
+      "line_label": "9",
+      "transliteration": "ud - da gub"
+    },
+    {
+      "line_id": "Q001954.10",
+      "line_label": "10",
+      "transliteration": "eridug ki - ga"
+    },
+    {
+      "line_id": "Q001954.11",
+      "line_label": "11",
+      "transliteration": "en unug ki - ga"
+    },
+    {
+      "line_id": "Q001954.12",
+      "line_label": "12",
+      "transliteration": "⸢ lugal ⸣ i₃ - si - in ki - na"
+    },
+    {
+      "line_id": "Q001954.13",
+      "line_label": "13",
+      "transliteration": "⸢ lugal ⸣ ki - en - gi ki - uri"
+    },
+    {
+      "line_id": "Q001954.14",
+      "line_label": "14",
+      "transliteration": "⸢ dam ⸣ ki ⸢ aŋ₂ ⸣"
+    },
+    {
+      "line_id": "Q001954.15",
+      "line_label": "15",
+      "transliteration": "[ d ] inana - ka - ke₄"
+    },
+    {
+      "line_id": "Q001954.16",
+      "line_label": "16",
+      "transliteration": "[ nam ] - ⸢ til₃ ⸣ - la - ni - še₃"
+    },
+    {
+      "line_id": "Q001954.17",
+      "line_label": "17",
+      "transliteration": "[ a mu - na ] - ru"
+    }
+  ]
+}

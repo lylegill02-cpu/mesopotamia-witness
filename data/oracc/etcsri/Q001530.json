@@ -1,0 +1,52 @@
+{
+  "text_id": "oracc.etcsri.Q001530",
+  "corpus": "oracc",
+  "title": "Gudea 098 (RIME 3/1.01.07.098 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001530",
+  "paragraphs": [
+    {
+      "para_id": "Q001530.1",
+      "line_range": "1",
+      "translation": "(1) To Ig-alima , her master , Ninala , the spouse of Gudea , ruler of Lagaš , dedicated this ( mace ) ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001530.1",
+      "line_label": "1",
+      "transliteration": "d ig - ⸢ alim ⸣"
+    },
+    {
+      "line_id": "Q001530.2",
+      "line_label": "2",
+      "transliteration": "⸢ lugal ⸣ - [ a - ni ]"
+    },
+    {
+      "line_id": "Q001530.3",
+      "line_label": "3",
+      "transliteration": "⸢ nin ⸣ - [ al - la ]"
+    },
+    {
+      "line_id": "Q001530.4",
+      "line_label": "4",
+      "transliteration": "dam ⸢ gu₃ ⸣ - [ de₂ - a ]"
+    },
+    {
+      "line_id": "Q001530.5",
+      "line_label": "5",
+      "transliteration": "⸢ ensi₂ ⸣"
+    },
+    {
+      "line_id": "Q001530.6",
+      "line_label": "6",
+      "transliteration": "⸢ lagaš ⸣ [ ki - ka - ke₄ ]"
+    },
+    {
+      "line_id": "Q001530.7",
+      "line_label": "7",
+      "transliteration": "⸢ a mu ⸣ - [ na - ru ]"
+    }
+  ]
+}

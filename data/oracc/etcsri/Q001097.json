@@ -1,0 +1,77 @@
+{
+  "text_id": "oracc.etcsri.Q001097",
+  "corpus": "oracc",
+  "title": "En-metena 14 (RIME 1.09.05.14 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001097",
+  "paragraphs": [
+    {
+      "para_id": "Q001097.1",
+      "line_range": "1",
+      "translation": "(1) For Ninĝirsu , Enlil’s warrior , En-metena , ruler of Lagaš , built a coach-house ."
+    },
+    {
+      "para_id": "Q001097.8",
+      "line_range": "8",
+      "translation": "(8) The personal god of En-metena , ruler of Lagaš , the builder of the coach-house , is Šul-MUŠxPA ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001097.1",
+      "line_label": "1",
+      "transliteration": "d nin - ŋir₂ - su₂"
+    },
+    {
+      "line_id": "Q001097.2",
+      "line_label": "2",
+      "transliteration": "ur - saŋ d en - lil₂ ( E₂ )- la₂ - ra"
+    },
+    {
+      "line_id": "Q001097.3",
+      "line_label": "3",
+      "transliteration": "en - mete - na"
+    },
+    {
+      "line_id": "Q001097.4",
+      "line_label": "4",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001097.5",
+      "line_label": "5",
+      "transliteration": "lagaš ki - ke₄"
+    },
+    {
+      "line_id": "Q001097.6",
+      "line_label": "6",
+      "transliteration": "e₂ ŋeš gigir₂ - ra"
+    },
+    {
+      "line_id": "Q001097.7",
+      "line_label": "7",
+      "transliteration": "mu - na - du₃"
+    },
+    {
+      "line_id": "Q001097.8",
+      "line_label": "8",
+      "transliteration": "en - mete - na"
+    },
+    {
+      "line_id": "Q001097.9",
+      "line_label": "9",
+      "transliteration": "lu₂ e₂ ŋeš gigir₂ - ra du₃ - a"
+    },
+    {
+      "line_id": "Q001097.10",
+      "line_label": "10",
+      "transliteration": "diŋir - ra - ni"
+    },
+    {
+      "line_id": "Q001097.11",
+      "line_label": "11",
+      "transliteration": "d šul - MUŠ × PA - am₆"
+    }
+  ]
+}

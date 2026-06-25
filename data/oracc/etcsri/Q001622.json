@@ -1,0 +1,37 @@
+{
+  "text_id": "oracc.etcsri.Q001622",
+  "corpus": "oracc",
+  "title": "Ur-Namma 08 (RIME 3/2.01.01.08 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001622",
+  "paragraphs": [
+    {
+      "para_id": "Q001622.1",
+      "line_range": "1",
+      "translation": "(1) Ur-Namma , king of Urim , who built the temple of Ninsumun ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001622.1",
+      "line_label": "1",
+      "transliteration": "ur - d namma"
+    },
+    {
+      "line_id": "Q001622.2",
+      "line_label": "2",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q001622.3",
+      "line_label": "3",
+      "transliteration": "lu₂ e₂ d nin - sumun₂ ! - ka"
+    },
+    {
+      "line_id": "Q001622.4",
+      "line_label": "4",
+      "transliteration": "⸢ in - du₃ - a ⸣"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "text_id": "oracc.etcsri.Q001345",
+  "corpus": "oracc",
+  "title": "Anonymous Ur 07 (FAOS 05/2, AnUr 07)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001345",
+  "paragraphs": [
+    {
+      "para_id": "Q001345.1",
+      "line_range": "1",
+      "translation": "(1) E-kur , the granary supervisor of Unug , fashioned ( the statue of ) Damgalnuna , he built her a temple ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001345.1",
+      "line_label": "1",
+      "transliteration": "e₂ :: kur"
+    },
+    {
+      "line_id": "Q001345.2",
+      "line_label": "2",
+      "transliteration": "ka - guru₇ unug ki"
+    },
+    {
+      "line_id": "Q001345.3",
+      "line_label": "3",
+      "transliteration": "d dam - gal - nun"
+    },
+    {
+      "line_id": "Q001345.4",
+      "line_label": "4",
+      "transliteration": "⸢ mu - tud ⸣"
+    },
+    {
+      "line_id": "Q001345.5",
+      "line_label": "5",
+      "transliteration": "e₂ mu - du₃"
+    }
+  ]
+}

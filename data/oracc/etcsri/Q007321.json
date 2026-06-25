@@ -1,0 +1,42 @@
+{
+  "text_id": "oracc.etcsri.Q007321",
+  "corpus": "oracc",
+  "title": "Hammu-rapi 23add (RIME 4.03.06.add23 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q007321",
+  "paragraphs": [
+    {
+      "para_id": "Q007321.1",
+      "line_range": "1",
+      "translation": "(1) Aya , lady of the Ebabbar ! Keep your obedient prince , Hammu-rapi , alive !"
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q007321.1",
+      "line_label": "1",
+      "transliteration": "d a - a"
+    },
+    {
+      "line_id": "Q007321.2",
+      "line_label": "2",
+      "transliteration": "nin e₂ - babbar - ra"
+    },
+    {
+      "line_id": "Q007321.3",
+      "line_label": "3",
+      "transliteration": "ḫa - am - mu - ra - pi₂"
+    },
+    {
+      "line_id": "Q007321.4",
+      "line_label": "4",
+      "transliteration": "nun še - ga - zu"
+    },
+    {
+      "line_id": "Q007321.5",
+      "line_label": "5",
+      "transliteration": "til₃ - la - ni"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "text_id": "oracc.etcsri.Q001853",
+  "corpus": "oracc",
+  "title": "Ibbi-Suen 06 / CDLI Seals 003779 (CDLI Seals 003779 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001853",
+  "paragraphs": [
+    {
+      "para_id": "Q001853.1",
+      "line_range": "1",
+      "translation": "(1) Mammetum , daughter of the king : Atanaḫ , the temple administrator , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001853.1",
+      "line_label": "1",
+      "transliteration": "ma ! - me - tum"
+    },
+    {
+      "line_id": "Q001853.2",
+      "line_label": "2",
+      "transliteration": "dumu - munus lugal"
+    },
+    {
+      "line_id": "Q001853.3",
+      "line_label": "3",
+      "transliteration": "a - ta₂ - na - aḫ"
+    },
+    {
+      "line_id": "Q001853.4",
+      "line_label": "4",
+      "transliteration": "šabra ⸢ arad₂ ⸣ - [ zu ]"
+    }
+  ]
+}

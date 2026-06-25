@@ -1,0 +1,187 @@
+{
+  "text_id": "oracc.etcsri.Q000842",
+  "corpus": "oracc",
+  "title": "Rimuš 18 (Sumerian) (RIME 2.01.02.18 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000842",
+  "paragraphs": [
+    {
+      "para_id": "Q000842.1",
+      "line_range": "1",
+      "translation": "(1) Rimuš , king of the world : Since the dawn of time no one had ever fashioned a tin statue for Enlil , ( but now ) Rimuš , king of the world fashioned a tin statue of himself and set it up before Enlil . He counted himself among the gods ."
+    },
+    {
+      "para_id": "Q000842.20",
+      "line_range": "20",
+      "translation": "(20) Whoever obliterates this inscription , may Enlil and Utu uproot him and destroy his lineage !"
+    },
+    {
+      "para_id": "Q000842.28",
+      "line_range": "28",
+      "translation": "(colophon 1, 1) Inscription of a šahum cauldron ."
+    },
+    {
+      "para_id": "Q000842.29",
+      "line_range": "29",
+      "translation": "(colophon 2, 1) Inscription ... of Rimuš ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000842.1",
+      "line_label": "1",
+      "transliteration": "⸢ ri₂ ⸣ - [ mu - uš ]"
+    },
+    {
+      "line_id": "Q000842.2",
+      "line_label": "2",
+      "transliteration": "[ lugal ]"
+    },
+    {
+      "line_id": "Q000842.3",
+      "line_label": "3",
+      "transliteration": "[ kiš ]"
+    },
+    {
+      "line_id": "Q000842.4",
+      "line_label": "4",
+      "transliteration": "[ ud ul - li₂ - a - ta ]"
+    },
+    {
+      "line_id": "Q000842.5",
+      "line_label": "5",
+      "transliteration": "[ d en - lil₂ - ra ]"
+    },
+    {
+      "line_id": "Q000842.6",
+      "line_label": "6",
+      "transliteration": "[ lu₂ na - me ]"
+    },
+    {
+      "line_id": "Q000842.7",
+      "line_label": "7",
+      "transliteration": "⸢ alan an - na ⸣"
+    },
+    {
+      "line_id": "Q000842.8",
+      "line_label": "8",
+      "transliteration": "nu - ta - dim₂"
+    },
+    {
+      "line_id": "Q000842.9",
+      "line_label": "9",
+      "transliteration": "ri₂ - mu - uš"
+    },
+    {
+      "line_id": "Q000842.10",
+      "line_label": "10",
+      "transliteration": "lugal"
+    },
+    {
+      "line_id": "Q000842.11",
+      "line_label": "11",
+      "transliteration": "kiš"
+    },
+    {
+      "line_id": "Q000842.12",
+      "line_label": "12",
+      "transliteration": "alan - na - ni an - na - kam"
+    },
+    {
+      "line_id": "Q000842.13",
+      "line_label": "13",
+      "transliteration": "i₃ - dim₂"
+    },
+    {
+      "line_id": "Q000842.14",
+      "line_label": "14",
+      "transliteration": "igi d en - lil₂ - la₂ - še₃"
+    },
+    {
+      "line_id": "Q000842.15",
+      "line_label": "15",
+      "transliteration": "i₃ - gub"
+    },
+    {
+      "line_id": "Q000842.16",
+      "line_label": "16",
+      "transliteration": "mu₅ - ru₅"
+    },
+    {
+      "line_id": "Q000842.17",
+      "line_label": "17",
+      "transliteration": "diŋir - re - ne - ka"
+    },
+    {
+      "line_id": "Q000842.18",
+      "line_label": "18",
+      "transliteration": "me - te - ni"
+    },
+    {
+      "line_id": "Q000842.19",
+      "line_label": "19",
+      "transliteration": "ni - šid"
+    },
+    {
+      "line_id": "Q000842.20",
+      "line_label": "20",
+      "transliteration": "lu₂"
+    },
+    {
+      "line_id": "Q000842.21",
+      "line_label": "21",
+      "transliteration": "im - sar - ra - e"
+    },
+    {
+      "line_id": "Q000842.22",
+      "line_label": "22",
+      "transliteration": "ab - ḫa - lam - me - a"
+    },
+    {
+      "line_id": "Q000842.23",
+      "line_label": "23",
+      "transliteration": "d en - lil₂ d utu - be₂"
+    },
+    {
+      "line_id": "Q000842.24",
+      "line_label": "24",
+      "transliteration": "suḫuš - a - ni"
+    },
+    {
+      "line_id": "Q000842.25",
+      "line_label": "25",
+      "transliteration": "ḫe₂ - burₓ ( PAD )- re₆ - ne"
+    },
+    {
+      "line_id": "Q000842.26",
+      "line_label": "26",
+      "transliteration": "[ numun - na ] - ⸢ ni ⸣"
+    },
+    {
+      "line_id": "Q000842.27",
+      "line_label": "27",
+      "transliteration": "ḫe₂ - degₓ ( RI )- degₓ ( RI )- ge - ne"
+    },
+    {
+      "line_id": "Q000842.28",
+      "line_label": "colophon 1, 1",
+      "transliteration": "⸢ mu - sar - ra urud ⸣ šen za - ḫum"
+    },
+    {
+      "line_id": "Q000842.29",
+      "line_label": "colophon 2, 1",
+      "transliteration": "mu - sar - ra"
+    },
+    {
+      "line_id": "Q000842.30",
+      "line_label": "colophon 2, 2",
+      "transliteration": "ti - x - bi - ni"
+    },
+    {
+      "line_id": "Q000842.31",
+      "line_label": "colophon 2, 3",
+      "transliteration": "ri₂ - mu - uš - kam"
+    }
+  ]
+}

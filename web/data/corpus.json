@@ -2,9 +2,9 @@
   "meta": {
     "edition": "mesopotamia-witness-v3-oracc",
     "source": "ETCSL + Akkadian PD + ORACC",
-    "text_count": 424,
+    "text_count": 1855,
     "etcsl_count": 394,
-    "akkadian_count": 30
+    "akkadian_count": 1461
   },
   "refs": {
     "Inanna.descent": {

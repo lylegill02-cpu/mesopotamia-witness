@@ -1,0 +1,162 @@
+{
+  "text_id": "oracc.etcsri.Q001000",
+  "corpus": "oracc",
+  "title": "Šu-Suen 17 (RIME 3/2.01.04.17 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001000",
+  "paragraphs": [
+    {
+      "para_id": "Q001000.1",
+      "line_range": "1",
+      "translation": "(1) When he built the wall against the Amorites , ( called ) \" Muriq-Tidnim \", and had the Amorite troops turned back into their land , then for Šara , the confidant of An , the beloved child of Inana , his father , Šu-Suen , išib priest of An , gudug priest with purified hands for Enlil , Ninlil , and the great gods , the king whom Enlil chose with the love of his heart as the shepherd of the Land , the powerful king , king of Urim , king of the four quarters , built the E-šage-pada , his beloved temple for his ( own ) well-being ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001000.1",
+      "line_label": "1",
+      "transliteration": "d šara₂"
+    },
+    {
+      "line_id": "Q001000.2",
+      "line_label": "2",
+      "transliteration": "nir - ŋal₂ an - na"
+    },
+    {
+      "line_id": "Q001000.3",
+      "line_label": "3",
+      "transliteration": "dumu ki aŋ₂"
+    },
+    {
+      "line_id": "Q001000.4",
+      "line_label": "4",
+      "transliteration": "d inana"
+    },
+    {
+      "line_id": "Q001000.5",
+      "line_label": "5",
+      "transliteration": "ad - da - ni - ir"
+    },
+    {
+      "line_id": "Q001000.6",
+      "line_label": "6",
+      "transliteration": "d šu - d suen"
+    },
+    {
+      "line_id": "Q001000.7",
+      "line_label": "7",
+      "transliteration": "išib an - na"
+    },
+    {
+      "line_id": "Q001000.8",
+      "line_label": "8",
+      "transliteration": "gudu₄ šu dadag"
+    },
+    {
+      "line_id": "Q001000.9",
+      "line_label": "9",
+      "transliteration": "d en - lil₂"
+    },
+    {
+      "line_id": "Q001000.10",
+      "line_label": "10",
+      "transliteration": "d nin - lil₂ - ka"
+    },
+    {
+      "line_id": "Q001000.11",
+      "line_label": "11",
+      "transliteration": "u₃ diŋir gal - gal - e - ne"
+    },
+    {
+      "line_id": "Q001000.12",
+      "line_label": "12",
+      "transliteration": "lugal d en - lil₂ - le"
+    },
+    {
+      "line_id": "Q001000.13",
+      "line_label": "13",
+      "transliteration": "ki aŋ₂"
+    },
+    {
+      "line_id": "Q001000.14",
+      "line_label": "14",
+      "transliteration": "šag₄ - ga - na"
+    },
+    {
+      "line_id": "Q001000.15",
+      "line_label": "15",
+      "transliteration": "in - pad₃"
+    },
+    {
+      "line_id": "Q001000.16",
+      "line_label": "16",
+      "transliteration": "sipad kalam - ma - še₃"
+    },
+    {
+      "line_id": "Q001000.17",
+      "line_label": "17",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q001000.18",
+      "line_label": "18",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q001000.19",
+      "line_label": "19",
+      "transliteration": "lugal an - ub - da limmu₂ - ba - ke₄"
+    },
+    {
+      "line_id": "Q001000.20",
+      "line_label": "20",
+      "transliteration": "ud bad₃ mar - du₂"
+    },
+    {
+      "line_id": "Q001000.21",
+      "line_label": "21-22",
+      "transliteration": "mu - ri - iq - ti - id - ni - im"
+    },
+    {
+      "line_id": "Q001000.22",
+      "line_label": "23",
+      "transliteration": "mu - du₃ - a"
+    },
+    {
+      "line_id": "Q001000.23",
+      "line_label": "24",
+      "transliteration": "u₃ ne₃ mar - du₂"
+    },
+    {
+      "line_id": "Q001000.24",
+      "line_label": "25",
+      "transliteration": "ma - da - ni - e"
+    },
+    {
+      "line_id": "Q001000.25",
+      "line_label": "26",
+      "transliteration": "bi₂ - in - gi₄ - a"
+    },
+    {
+      "line_id": "Q001000.26",
+      "line_label": "27",
+      "transliteration": "e₂ - šag₄ - ge - pad₃ - da"
+    },
+    {
+      "line_id": "Q001000.27",
+      "line_label": "28",
+      "transliteration": "e₂ ki aŋ₂ - ŋa₂ - ni"
+    },
+    {
+      "line_id": "Q001000.28",
+      "line_label": "29",
+      "transliteration": "nam - til₃ - la - ni - še₃"
+    },
+    {
+      "line_id": "Q001000.29",
+      "line_label": "30",
+      "transliteration": "mu - na - du₃"
+    }
+  ]
+}

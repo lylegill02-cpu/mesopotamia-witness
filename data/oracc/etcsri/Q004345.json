@@ -1,0 +1,27 @@
+{
+  "text_id": "oracc.etcsri.Q004345",
+  "corpus": "oracc",
+  "title": "Šulgi 2128add / CDLI Seals 004577 (CDLI Seals 004577 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004345",
+  "paragraphs": [
+    {
+      "para_id": "Q004345.1",
+      "line_range": "1",
+      "translation": "(1) Ur-meš , the cook of Šulgi ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004345.1",
+      "line_label": "1",
+      "transliteration": "ur - [ meš₃ ]"
+    },
+    {
+      "line_id": "Q004345.2",
+      "line_label": "2",
+      "transliteration": "muḫaldim d ⸢ šul ⸣ - [ gi ]"
+    }
+  ]
+}

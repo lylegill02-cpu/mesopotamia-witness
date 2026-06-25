@@ -1,0 +1,52 @@
+{
+  "text_id": "oracc.etcsri.Q004250",
+  "corpus": "oracc",
+  "title": "Arad-Dumuzida 1 (RIME 1.15.add08.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004250",
+  "paragraphs": [
+    {
+      "para_id": "Q004250.1",
+      "line_range": "1",
+      "translation": "(1) To Inana , lady of the E-ana , his lady , Arad-Dumuzida , temple administrator of Inana , dedicated this ( bowl ) for his life ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004250.1",
+      "line_label": "1",
+      "transliteration": "d inana"
+    },
+    {
+      "line_id": "Q004250.2",
+      "line_label": "2",
+      "transliteration": "nin e₂ - an - na - ra"
+    },
+    {
+      "line_id": "Q004250.3",
+      "line_label": "3",
+      "transliteration": "nin - ni"
+    },
+    {
+      "line_id": "Q004250.4",
+      "line_label": "4",
+      "transliteration": "arad₂ - d dumu - zid"
+    },
+    {
+      "line_id": "Q004250.5",
+      "line_label": "5",
+      "transliteration": "saŋŋa ! d inana"
+    },
+    {
+      "line_id": "Q004250.6",
+      "line_label": "6",
+      "transliteration": "nam - til₃ - la - ni - še₃"
+    },
+    {
+      "line_id": "Q004250.7",
+      "line_label": "7",
+      "transliteration": "a mu - ru"
+    }
+  ]
+}

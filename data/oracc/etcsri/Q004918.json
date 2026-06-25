@@ -1,0 +1,62 @@
+{
+  "text_id": "oracc.etcsri.Q004918",
+  "corpus": "oracc",
+  "title": "Šu-Suen 2134add / CDLI Seals 000088 (CDLI Seals 000088 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004918",
+  "paragraphs": [
+    {
+      "para_id": "Q004918.1",
+      "line_range": "1",
+      "translation": "(i 1) Šu-Suen , the powerful king , king of Urim : Enlil-zišagĝal , chief butler , chief brewer , chief cup-bearer , overseer of the extispicy priests , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004918.1",
+      "line_label": "i 1",
+      "transliteration": "d šu - d suen"
+    },
+    {
+      "line_id": "Q004918.2",
+      "line_label": "i 2",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q004918.3",
+      "line_label": "i 3",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q004918.4",
+      "line_label": "i 4",
+      "transliteration": "d en - lil₂ - zi - šag₄ - ŋal₂"
+    },
+    {
+      "line_id": "Q004918.5",
+      "line_label": "i 5",
+      "transliteration": "⸢ zabar ⸣ - dab₅"
+    },
+    {
+      "line_id": "Q004918.6",
+      "line_label": "ii 1",
+      "transliteration": "kurunₓ ( DIN . KAŠ )- a - [ gal ]"
+    },
+    {
+      "line_id": "Q004918.7",
+      "line_label": "ii 2",
+      "transliteration": "sagi ⸢ maḫ ⸣"
+    },
+    {
+      "line_id": "Q004918.8",
+      "line_label": "ii 3",
+      "transliteration": "ugula maš - šu - ⸢ gid₂ ⸣ - gid₂ - de₃ - ne"
+    },
+    {
+      "line_id": "Q004918.9",
+      "line_label": "ii 4",
+      "transliteration": "arad₂ - [ zu ]"
+    }
+  ]
+}

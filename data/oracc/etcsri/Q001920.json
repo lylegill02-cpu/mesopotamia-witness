@@ -1,0 +1,97 @@
+{
+  "text_id": "oracc.etcsri.Q001920",
+  "corpus": "oracc",
+  "title": "Išbi-Erra 1 (RIME 4.01.01.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001920",
+  "paragraphs": [
+    {
+      "para_id": "Q001920.1",
+      "line_range": "1",
+      "translation": "(1) For Enlil , king of all land , his master , Išbi-Erra , the powerful king , the king of his land , fashioned a lofty balaĝ - drum , which ... the heart , and dedicated it to him for his well-being ."
+    },
+    {
+      "para_id": "Q001920.12",
+      "line_range": "12",
+      "translation": "(12) The name of this balaĝ - drum is “Išbi-Erra puts ( his ) trust in Enlil.”"
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001920.1",
+      "line_label": "1",
+      "transliteration": "d en - lil₂"
+    },
+    {
+      "line_id": "Q001920.2",
+      "line_label": "2",
+      "transliteration": "lugal kur - kur - ra"
+    },
+    {
+      "line_id": "Q001920.3",
+      "line_label": "3",
+      "transliteration": "lugal - a - ni - ir"
+    },
+    {
+      "line_id": "Q001920.4",
+      "line_label": "4",
+      "transliteration": "d iš - bi - er₃ - ⸢ ra ⸣"
+    },
+    {
+      "line_id": "Q001920.5",
+      "line_label": "5",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q001920.6",
+      "line_label": "6",
+      "transliteration": "lugal ⸢ ma ⸣ - da - < na > - ke₄"
+    },
+    {
+      "line_id": "Q001920.7",
+      "line_label": "7",
+      "transliteration": "balaŋ ⸢ maḫ ⸣"
+    },
+    {
+      "line_id": "Q001920.8",
+      "line_label": "8",
+      "transliteration": "šag₄ tu - ⸢ x ⸣ - da"
+    },
+    {
+      "line_id": "Q001920.9",
+      "line_label": "9",
+      "transliteration": "mu - na - an - dim₂"
+    },
+    {
+      "line_id": "Q001920.10",
+      "line_label": "10",
+      "transliteration": "nam - til₃ - la - ni - < še₃ >"
+    },
+    {
+      "line_id": "Q001920.11",
+      "line_label": "11",
+      "transliteration": "a mu - na - ru"
+    },
+    {
+      "line_id": "Q001920.12",
+      "line_label": "12",
+      "transliteration": "balaŋ - ba"
+    },
+    {
+      "line_id": "Q001920.13",
+      "line_label": "13",
+      "transliteration": "d iš - bi - er₃ - ra"
+    },
+    {
+      "line_id": "Q001920.14",
+      "line_label": "14",
+      "transliteration": "d en - lil₂ - da ⸢ nir ⸣ - ŋal₂"
+    },
+    {
+      "line_id": "Q001920.15",
+      "line_label": "15",
+      "transliteration": "mu - bi - ⸢ im ⸣"
+    }
+  ]
+}

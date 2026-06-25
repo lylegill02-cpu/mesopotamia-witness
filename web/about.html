@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Who we are — Mesopotamia Witness</title>
+  <style>
+    :root {
+      --bg: #e8e4dc;
+      --ink: #1a1814;
+      --muted: #5a5348;
+      --accent: #6b3a12;
+      --card: #faf6ee;
+      --border: #c9bfb0;
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: "Segoe UI", system-ui, sans-serif; background: var(--bg); color: var(--ink); line-height: 1.6; }
+    header { padding: 1.25rem 1rem; border-bottom: 2px solid var(--ink); background: var(--card); }
+    header h1 { margin: 0; font-size: 1.35rem; }
+    header p { margin: 0.35rem 0 0; color: var(--muted); font-size: 0.9rem; }
+    nav { margin-top: 0.6rem; font-size: 0.9rem; }
+    nav a { color: var(--accent); margin-right: 1rem; font-weight: 600; }
+    main { max-width: 42rem; margin: 0 auto; padding: 1.25rem 1rem 3rem; }
+    h2 { font-size: 1.05rem; margin: 1.5rem 0 0.5rem; }
+    p, li { font-size: 0.95rem; }
+    ul { padding-left: 1.25rem; }
+    .card {
+      background: var(--card); border: 1px solid var(--border); border-radius: 6px;
+      padding: 1rem 1.1rem; margin: 1rem 0;
+    }
+    .brand { font-size: 1.1rem; font-weight: 700; }
+    .brand a { color: var(--accent); text-decoration: none; }
+    .brand a:hover { text-decoration: underline; }
+    a { color: var(--accent); }
+    footer { margin-top: 2rem; font-size: 0.85rem; color: var(--muted); border-top: 1px solid var(--border); padding-top: 1rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Who we are</h1>
+    <p>Mesopotamia Witness — an Inkwell witness project</p>
+    <nav>
+      <a href="index.html">Search</a>
+      <a href="loci.html">Loci map</a>
+      <a href="flood.html">Flood comparison</a>
+      <a href="eridu.html">Eridu Genesis</a>
+      <a href="texts.html">Browse catalog</a>
+    </nav>
+  </header>
+  <main>
+    <div class="card">
+      <p class="brand"><a href="https://inkwell.wiki/" rel="noopener">Inkwell</a></p>
+      <p>
+        Mesopotamia Witness is built by <a href="https://inkwell.wiki/" rel="noopener">Inkwell</a> —
+        the same “witness” pattern as
+        <a href="https://lylegill02-cpu.github.io/bavli-uncensored/" rel="noopener">Bavli Uncensored</a>:
+        primary sources in English, a searchable corpus, and plain-language notes on what scholarship
+        actually supports vs what pop media claims about Anunnaki, ancient aliens, and lost history.
+      </p>
+    </div>
+
+    <h2>What this site does</h2>
+    <ul>
+      <li><strong>Search</strong> — ETCSL Sumerian literary texts, Akkadian flood/creation epics, and ORACC royal inscriptions in one index.</li>
+      <li><strong>Loci map</strong> — guided passages with witness deltas: pop claim, scholarly reading, and trust level.</li>
+      <li><strong>Comparison pages</strong> — flood parallels (Atrahasis, Gilgamesh XI, Sumerian fragments) side by side.</li>
+    </ul>
+    <p>
+      Everything runs in your browser. The search index downloads once from GitHub Releases; there is no account, no server-side database, and no paywall.
+    </p>
+
+    <h2>Sources &amp; licenses</h2>
+    <ul>
+      <li><a href="https://etcsl.orinst.ox.ac.uk/" rel="noopener">ETCSL</a> (Oxford) — CC BY 3.0 UK</li>
+      <li><a href="https://oracc.museum.upenn.edu/" rel="noopener">ORACC</a> (AMGG, ETCSRI) — CC BY-SA 3.0</li>
+      <li><a href="https://www.ebl.lmu.de/" rel="noopener">eBL</a> (Electronic Babylonian Library) — Gilgamesh Standard Babylonian ATF, CC BY 4.0</li>
+      <li>King / Thompson public-domain English composites for Akkadian epics; sample transliteration lines where available</li>
+      <li><a href="https://cdli.earth/" rel="noopener">CDLI</a> for tablet photos and catalog links</li>
+    </ul>
+    <p>
+      Site code is MIT. Respect upstream licenses when reusing text.
+    </p>
+
+    <h2>Contact &amp; siblings</h2>
+    <p>
+      More Inkwell tools and witness projects live at
+      <a href="https://inkwell.wiki/" rel="noopener">inkwell.wiki</a>.
+      Source for this repo:
+      <a href="https://github.com/lylegill02-cpu/mesopotamia-witness" rel="noopener">github.com/lylegill02-cpu/mesopotamia-witness</a>.
+    </p>
+
+    <footer>
+      © Inkwell · Mesopotamia Witness · Not a substitute for academic Assyriology — a public-facing map to the texts.
+    </footer>
+  </main>
+</body>
+</html>

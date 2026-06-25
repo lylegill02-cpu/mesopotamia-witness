@@ -1,0 +1,67 @@
+{
+  "text_id": "oracc.etcsri.Q000923",
+  "corpus": "oracc",
+  "title": "Gudea 067 (RIME 3/1.01.07.067 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000923",
+  "paragraphs": [
+    {
+      "para_id": "Q000923.1",
+      "line_range": "1",
+      "translation": "(1) For Ninḫursaĝa , the beloved mother of Ninĝirsu , the lady who had become one with the city , the mother of all children , Gudea , ruler of Lagaš , built her temple in Ĝirsu ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000923.1",
+      "line_label": "1",
+      "transliteration": "d nin - ḫur - saŋ"
+    },
+    {
+      "line_id": "Q000923.2",
+      "line_label": "2",
+      "transliteration": "ama ki aŋ₂"
+    },
+    {
+      "line_id": "Q000923.3",
+      "line_label": "3",
+      "transliteration": "d nin - ŋir₂ - su - ka"
+    },
+    {
+      "line_id": "Q000923.4",
+      "line_label": "4",
+      "transliteration": "nin iri - da mu₂ - a"
+    },
+    {
+      "line_id": "Q000923.5",
+      "line_label": "5",
+      "transliteration": "ama dumu - dumu - ne - ra"
+    },
+    {
+      "line_id": "Q000923.6",
+      "line_label": "6",
+      "transliteration": "gu₃ - de₂ - a"
+    },
+    {
+      "line_id": "Q000923.7",
+      "line_label": "7",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q000923.8",
+      "line_label": "8",
+      "transliteration": "lagaš ki - ke₄"
+    },
+    {
+      "line_id": "Q000923.9",
+      "line_label": "9",
+      "transliteration": "e₂ ŋir₂ - su ki - ka - ni"
+    },
+    {
+      "line_id": "Q000923.10",
+      "line_label": "10",
+      "transliteration": "mu - na - du₃"
+    }
+  ]
+}

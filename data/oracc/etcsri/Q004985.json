@@ -1,0 +1,57 @@
+{
+  "text_id": "oracc.etcsri.Q004985",
+  "corpus": "oracc",
+  "title": "Ibbi-Suen 2051add / CDLI Seals 005575 (CDLI Seals 005575 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004985",
+  "paragraphs": [
+    {
+      "para_id": "Q004985.1",
+      "line_range": "1",
+      "translation": "(1) Ibbi-Suen , the powerful king , king of Urim , king of the four quarters : Lugal-melem , the scribe , child of Ur-e’e , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004985.1",
+      "line_label": "1",
+      "transliteration": "d i - bi₂ - d suen"
+    },
+    {
+      "line_id": "Q004985.2",
+      "line_label": "2",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q004985.3",
+      "line_label": "3",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q004985.4",
+      "line_label": "4",
+      "transliteration": "lugal an - ub - da limmu₂ - ba"
+    },
+    {
+      "line_id": "Q004985.5",
+      "line_label": "5",
+      "transliteration": "lugal - me - lem₄"
+    },
+    {
+      "line_id": "Q004985.6",
+      "line_label": "6",
+      "transliteration": "dub - sar"
+    },
+    {
+      "line_id": "Q004985.7",
+      "line_label": "7",
+      "transliteration": "dumu ur - e₁₁ - e"
+    },
+    {
+      "line_id": "Q004985.8",
+      "line_label": "8",
+      "transliteration": "arad₂ - zu"
+    }
+  ]
+}

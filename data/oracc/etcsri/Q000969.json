@@ -1,0 +1,52 @@
+{
+  "text_id": "oracc.etcsri.Q000969",
+  "corpus": "oracc",
+  "title": "Šulgi 18 (RIME 3/2.01.02.018 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q000969",
+  "paragraphs": [
+    {
+      "para_id": "Q000969.1",
+      "line_range": "1",
+      "translation": "(1) For Enlil , his master , Šulgi , the powerful man , king of Sumer and Akkad , built his dam ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q000969.1",
+      "line_label": "1",
+      "transliteration": "d en - lil₂"
+    },
+    {
+      "line_id": "Q000969.2",
+      "line_label": "2",
+      "transliteration": "lugal - a - ni"
+    },
+    {
+      "line_id": "Q000969.3",
+      "line_label": "3",
+      "transliteration": "šul - gi"
+    },
+    {
+      "line_id": "Q000969.4",
+      "line_label": "4",
+      "transliteration": "nita kalag - ga"
+    },
+    {
+      "line_id": "Q000969.5",
+      "line_label": "5",
+      "transliteration": "lugal ki - en - gi ki - uri - ke₄"
+    },
+    {
+      "line_id": "Q000969.6",
+      "line_label": "6",
+      "transliteration": "ŋeš - keš₂ - ra₂ - a - ni"
+    },
+    {
+      "line_id": "Q000969.7",
+      "line_label": "7",
+      "transliteration": "mu - na - du₃"
+    }
+  ]
+}

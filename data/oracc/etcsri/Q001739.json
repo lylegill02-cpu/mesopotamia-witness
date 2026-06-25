@@ -1,0 +1,77 @@
+{
+  "text_id": "oracc.etcsri.Q001739",
+  "corpus": "oracc",
+  "title": "Šulgi 2011 (RIME 3/2.01.02.02011 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001739",
+  "paragraphs": [
+    {
+      "para_id": "Q001739.1",
+      "line_range": "1",
+      "translation": "(1) For Inana , the lady elevated as far as the heavens , the queen of the gods , his lady , Nammahni-dug , child of Lu-girizal , the governor of Lagaš , fashioned this ( statute ) , and built her temple ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001739.1",
+      "line_label": "1",
+      "transliteration": "d inana"
+    },
+    {
+      "line_id": "Q001739.2",
+      "line_label": "2",
+      "transliteration": "d nin an - še₃ la₂ - a"
+    },
+    {
+      "line_id": "Q001739.3",
+      "line_label": "3",
+      "transliteration": "nin UN - gal"
+    },
+    {
+      "line_id": "Q001739.4",
+      "line_label": "4",
+      "transliteration": "diŋir - re - ne"
+    },
+    {
+      "line_id": "Q001739.5",
+      "line_label": "5",
+      "transliteration": "nin - a - ni"
+    },
+    {
+      "line_id": "Q001739.6",
+      "line_label": "6",
+      "transliteration": "nam - ⸢ maḫ ⸣ - ni - dug₃"
+    },
+    {
+      "line_id": "Q001739.7",
+      "line_label": "7",
+      "transliteration": "⸢ dumu ? ⸣ lu₂ - giri₁₇ - zal"
+    },
+    {
+      "line_id": "Q001739.8",
+      "line_label": "8",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001739.9",
+      "line_label": "9",
+      "transliteration": "⸢ lagaš ⸣ ki - ka - ke₄"
+    },
+    {
+      "line_id": "Q001739.10",
+      "line_label": "10",
+      "transliteration": "mu - tud"
+    },
+    {
+      "line_id": "Q001739.11",
+      "line_label": "11",
+      "transliteration": "e₂ - a - ni"
+    },
+    {
+      "line_id": "Q001739.12",
+      "line_label": "12",
+      "transliteration": "mu - na - du₃"
+    }
+  ]
+}

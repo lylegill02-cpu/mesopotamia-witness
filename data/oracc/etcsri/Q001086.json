@@ -1,0 +1,112 @@
+{
+  "text_id": "oracc.etcsri.Q001086",
+  "corpus": "oracc",
+  "title": "En-anatum I 18 (RIME 1.09.04.18 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001086",
+  "paragraphs": [
+    {
+      "para_id": "Q001086.1",
+      "line_range": "1",
+      "translation": "(i 1) En-ana-tum , ruler of Lagaš , whose name was proclaimed by Inana , built the Ebgal ."
+    },
+    {
+      "para_id": "Q001086.8",
+      "line_range": "8",
+      "translation": "(i 8) ( When ) he made the E-ana exceed all the mountains for ( Inana ) , then Šuni-aldugud , his servant , the chief barber to whom the office of the personal quarters ' overseer was also given , fashioned numerous inscribed clay nails , and embellished the E-ana for her with them ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001086.1",
+      "line_label": "i 1",
+      "transliteration": "en - an - na - tum₂"
+    },
+    {
+      "line_id": "Q001086.2",
+      "line_label": "i 2",
+      "transliteration": "ensi₂"
+    },
+    {
+      "line_id": "Q001086.3",
+      "line_label": "i 3",
+      "transliteration": "lagaš ki"
+    },
+    {
+      "line_id": "Q001086.4",
+      "line_label": "i 4",
+      "transliteration": "mu pad₃ - da"
+    },
+    {
+      "line_id": "Q001086.5",
+      "line_label": "i 5",
+      "transliteration": "d inana - ka - ke₄"
+    },
+    {
+      "line_id": "Q001086.6",
+      "line_label": "i 6",
+      "transliteration": "eb - gal"
+    },
+    {
+      "line_id": "Q001086.7",
+      "line_label": "i 7",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001086.8",
+      "line_label": "i 8",
+      "transliteration": "e₂ - an - na"
+    },
+    {
+      "line_id": "Q001086.9",
+      "line_label": "i 9",
+      "transliteration": "kur - kur - ra mu - na - dirig - ga - a"
+    },
+    {
+      "line_id": "Q001086.10",
+      "line_label": "ii 1",
+      "transliteration": "ud - [ ba ]"
+    },
+    {
+      "line_id": "Q001086.11",
+      "line_label": "ii 2",
+      "transliteration": "arad₂ - ra - ni"
+    },
+    {
+      "line_id": "Q001086.12",
+      "line_label": "ii 3",
+      "transliteration": "šu - ni - al - dugud"
+    },
+    {
+      "line_id": "Q001086.13",
+      "line_label": "ii 4",
+      "transliteration": "kindagal"
+    },
+    {
+      "line_id": "Q001086.14",
+      "line_label": "ii 5",
+      "transliteration": "nam - nu - banda₃ e₂ - šag₄ - ga"
+    },
+    {
+      "line_id": "Q001086.15",
+      "line_label": "ii 6",
+      "transliteration": "an - na - taḫ - ḫa"
+    },
+    {
+      "line_id": "Q001086.16",
+      "line_label": "ii 7",
+      "transliteration": "KIB g mu - dim₂ - dim₂"
+    },
+    {
+      "line_id": "Q001086.17",
+      "line_label": "ii 8",
+      "transliteration": "e₂ - an - na - ke₄"
+    },
+    {
+      "line_id": "Q001086.18",
+      "line_label": "ii 9",
+      "transliteration": "mu - ⸢ na ⸣ - dug₄"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "text_id": "oracc.etcsri.Q001368",
+  "corpus": "oracc",
+  "title": "Lugal-kigine-dudu 1 (RIME 1.14.14.01 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001368",
+  "paragraphs": [
+    {
+      "para_id": "Q001368.1",
+      "line_range": "1",
+      "translation": "(1) After he had blessed Lugal-kiĝeneš-dudu , Enlil , the king of all lands , combined the title of en and the title of king for him : he ruled then as en in Unug , while he ruled as king in Urim ."
+    },
+    {
+      "para_id": "Q001368.15",
+      "line_range": "15",
+      "translation": "(15) In his great happiness Lugal-kiĝeneš-dudu dedicated this ( vessel ) for his well-being to Enlil , his beloved master ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001368.1",
+      "line_label": "1",
+      "transliteration": "d en - lil₂"
+    },
+    {
+      "line_id": "Q001368.2",
+      "line_label": "2",
+      "transliteration": "lugal kur - kur - ke₄"
+    },
+    {
+      "line_id": "Q001368.3",
+      "line_label": "3",
+      "transliteration": "lugal - ki - ŋen - ne₂ - du₇ - du₇ - ra"
+    },
+    {
+      "line_id": "Q001368.4",
+      "line_label": "4",
+      "transliteration": "ud d en - lil₂ - le"
+    },
+    {
+      "line_id": "Q001368.5",
+      "line_label": "5",
+      "transliteration": "gu₃ zid e - na - de₂ - a"
+    },
+    {
+      "line_id": "Q001368.6",
+      "line_label": "6",
+      "transliteration": "nam - en"
+    },
+    {
+      "line_id": "Q001368.7",
+      "line_label": "7",
+      "transliteration": "nam - lugal - da"
+    },
+    {
+      "line_id": "Q001368.8",
+      "line_label": "8",
+      "transliteration": "e - na - da - tab - ba - a"
+    },
+    {
+      "line_id": "Q001368.9",
+      "line_label": "9",
+      "transliteration": "unug ki - ga"
+    },
+    {
+      "line_id": "Q001368.10",
+      "line_label": "10",
+      "transliteration": "nam - en"
+    },
+    {
+      "line_id": "Q001368.11",
+      "line_label": "11",
+      "transliteration": "mu - ak - ke₄"
+    },
+    {
+      "line_id": "Q001368.12",
+      "line_label": "12",
+      "transliteration": "urim₂ ki - ⸢ ma ⸣"
+    },
+    {
+      "line_id": "Q001368.13",
+      "line_label": "13",
+      "transliteration": "nam - lugal"
+    },
+    {
+      "line_id": "Q001368.14",
+      "line_label": "14",
+      "transliteration": "mu - ak - ke₄"
+    },
+    {
+      "line_id": "Q001368.15",
+      "line_label": "15",
+      "transliteration": "lugal - ki - ŋen - ne₂ - du₇ - du₇ - de₃"
+    },
+    {
+      "line_id": "Q001368.16",
+      "line_label": "16",
+      "transliteration": "nam gal ḫul₂ - la - da"
+    },
+    {
+      "line_id": "Q001368.17",
+      "line_label": "17",
+      "transliteration": "d en - lil₂ lugal ki aŋ₂ - ni"
+    },
+    {
+      "line_id": "Q001368.18",
+      "line_label": "18",
+      "transliteration": "nam - til₃ - la - ni - še₃"
+    },
+    {
+      "line_id": "Q001368.19",
+      "line_label": "19",
+      "transliteration": "a mu - na - ru"
+    }
+  ]
+}

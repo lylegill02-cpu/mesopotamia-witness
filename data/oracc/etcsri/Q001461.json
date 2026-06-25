@@ -1,0 +1,67 @@
+{
+  "text_id": "oracc.etcsri.Q001461",
+  "corpus": "oracc",
+  "title": "Ur-Ningirsu I 3 (RIME 3/1.01.01.03 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001461",
+  "paragraphs": [
+    {
+      "para_id": "Q001461.1",
+      "line_range": "1",
+      "translation": "(1) To Ninmarki , his lady , ... dedicated this ( marble tablet ) for the well-being of Ur-Ninĝirsu , ruler of Lagaš , and for her/his own well-being ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001461.1",
+      "line_label": "1",
+      "transliteration": "d [ nin ] - mar - ki"
+    },
+    {
+      "line_id": "Q001461.2",
+      "line_label": "2",
+      "transliteration": "⸢ nin ⸣ - a - ni"
+    },
+    {
+      "line_id": "Q001461.3",
+      "line_label": "3",
+      "transliteration": "⸢ nam ⸣ - til₃"
+    },
+    {
+      "line_id": "Q001461.4",
+      "line_label": "4",
+      "transliteration": "ur - [ d ] nin - ŋir₂ - [ su ]"
+    },
+    {
+      "line_id": "Q001461.5",
+      "line_label": "5",
+      "transliteration": "⸢ ensi₂ ⸣"
+    },
+    {
+      "line_id": "Q001461.6",
+      "line_label": "6",
+      "transliteration": "⸢ lagaš ⸣ [ ki ] - ka - [ še₃ ]"
+    },
+    {
+      "line_id": "Q001461.7",
+      "line_label": "7",
+      "transliteration": "ME DIM SAL [ X ]"
+    },
+    {
+      "line_id": "Q001461.8",
+      "line_label": "8",
+      "transliteration": "[ x ] SI ⸢ X URI ⸣ [( x )]"
+    },
+    {
+      "line_id": "Q001461.9",
+      "line_label": "9",
+      "transliteration": "[ u₃ ] ⸢ nam ⸣ - til₃ - ⸢ la ⸣ - [ ni - še₃ ]"
+    },
+    {
+      "line_id": "Q001461.10",
+      "line_label": "10",
+      "transliteration": "[ a ] ⸢ mu ⸣ - [ na - ru ]"
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "text_id": "oracc.etcsri.Q004449",
+  "corpus": "oracc",
+  "title": "Gungunum 5add (RIME 4.02.05.add05 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004449",
+  "paragraphs": [
+    {
+      "para_id": "Q004449.1",
+      "line_range": "1",
+      "translation": "(i 1) When An and Enlil granted the rule over Sumer and Akkad and the leadership of the Amorite lands fully to Utu in Larsam , then Gungunum , powerful man , king of Larsam , farmer of Urim , avenger of the E-babbar , king of Sumer and Akkad , powerful heir of Samium , built the great city wall of Larsa , its name is “Utu is the vanquisher of the rebellious lands” ."
+    },
+    {
+      "para_id": "Q004449.21",
+      "line_range": "21",
+      "translation": "(ii 2) By my surpassing expertise I did drain the swamps of my city . I did make its bricks and complete the great city wall in a single year . I did make the Euphrates flow right through the middle of my city ."
+    },
+    {
+      "para_id": "Q004449.29",
+      "line_range": "29",
+      "translation": "(ii 10) In those days , during my reign , the market prices were set ( like this ) : 1 shekel ( of silver ) was worth of 3 gur of barley , 10 mana of wool , or 15 sila of oil . My work forces did thus their work indeed in abundance . Being a steadfast king , I did complete this task ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004449.1",
+      "line_label": "i 1",
+      "transliteration": "ud an - ne₂"
+    },
+    {
+      "line_id": "Q004449.2",
+      "line_label": "i 2",
+      "transliteration": "d en - lil₂ - le"
+    },
+    {
+      "line_id": "Q004449.3",
+      "line_label": "i 3",
+      "transliteration": "d utu - ur₂"
+    },
+    {
+      "line_id": "Q004449.4",
+      "line_label": "i 4",
+      "transliteration": "larsam ki - ma"
+    },
+    {
+      "line_id": "Q004449.5",
+      "line_label": "i 5",
+      "transliteration": "nam - lugal"
+    },
+    {
+      "line_id": "Q004449.6",
+      "line_label": "i 6",
+      "transliteration": "ki - en - gi ki - uri"
+    },
+    {
+      "line_id": "Q004449.7",
+      "line_label": "i 7",
+      "transliteration": "u₃ nam - sipad kur mar - du₂"
+    },
+    {
+      "line_id": "Q004449.8",
+      "line_label": "i 8",
+      "transliteration": "šu mu - na - an - du₇ - uš - a"
+    },
+    {
+      "line_id": "Q004449.9",
+      "line_label": "i 9",
+      "transliteration": "ud - ba gu - un - gu - nu - um"
+    },
+    {
+      "line_id": "Q004449.10",
+      "line_label": "i 10",
+      "transliteration": "nita kalag - ga"
+    },
+    {
+      "line_id": "Q004449.11",
+      "line_label": "i 11",
+      "transliteration": "lugal larsam ki - ma"
+    },
+    {
+      "line_id": "Q004449.12",
+      "line_label": "i 12",
+      "transliteration": "engar urim₂ ki - ma"
+    },
+    {
+      "line_id": "Q004449.13",
+      "line_label": "i 13",
+      "transliteration": "šu gi₄ - gi₄ e₂ - babbar - ra"
+    },
+    {
+      "line_id": "Q004449.14",
+      "line_label": "i 14",
+      "transliteration": "lugal ki - en - gi ki - uri"
+    },
+    {
+      "line_id": "Q004449.15",
+      "line_label": "i 15",
+      "transliteration": "ibila kalag - ga"
+    },
+    {
+      "line_id": "Q004449.16",
+      "line_label": "i 16",
+      "transliteration": "sa - mi - um - ma"
+    },
+    {
+      "line_id": "Q004449.17",
+      "line_label": "i 17",
+      "transliteration": "bad₃ gal larsam ki - ma"
+    },
+    {
+      "line_id": "Q004449.18",
+      "line_label": "i 18",
+      "transliteration": "d utu ki - bala - e sa₂ di"
+    },
+    {
+      "line_id": "Q004449.19",
+      "line_label": "i 19",
+      "transliteration": "mu - bi - im"
+    },
+    {
+      "line_id": "Q004449.20",
+      "line_label": "ii 1",
+      "transliteration": "mu - un - du₃"
+    },
+    {
+      "line_id": "Q004449.21",
+      "line_label": "ii 2",
+      "transliteration": "nam - galam dirig - ŋu₁₀ - ta"
+    },
+    {
+      "line_id": "Q004449.22",
+      "line_label": "ii 3",
+      "transliteration": "iri ki - ŋu₁₀ sug - ta"
+    },
+    {
+      "line_id": "Q004449.23",
+      "line_label": "ii 4",
+      "transliteration": "ḫe₂ - em - ta - e₃"
+    },
+    {
+      "line_id": "Q004449.24",
+      "line_label": "ii 5",
+      "transliteration": "šag₄ mu aš - ka"
+    },
+    {
+      "line_id": "Q004449.25",
+      "line_label": "ii 6",
+      "transliteration": "šeg₁₂ - bi ḫu - mu - du₃"
+    },
+    {
+      "line_id": "Q004449.26",
+      "line_label": "ii 7",
+      "transliteration": "bad₃ gal ḫu - mu - til"
+    },
+    {
+      "line_id": "Q004449.27",
+      "line_label": "ii 8",
+      "transliteration": "iri ki - << ni >> - ŋa₂ murub₄ - ba"
+    },
+    {
+      "line_id": "Q004449.28",
+      "line_label": "ii 9",
+      "transliteration": "id₂ buranun si ḫa - ba₂ - ni - sa₂"
+    },
+    {
+      "line_id": "Q004449.29",
+      "line_label": "ii 10",
+      "transliteration": "ud - ba ud bala - ŋa₂"
+    },
+    {
+      "line_id": "Q004449.30",
+      "line_label": "ii 11",
+      "transliteration": "še 3( aš ) še gur - ta"
+    },
+    {
+      "line_id": "Q004449.31",
+      "line_label": "ii 12",
+      "transliteration": "siki 1( u ) ma - na - ta"
+    },
+    {
+      "line_id": "Q004449.32",
+      "line_label": "ii 13",
+      "transliteration": "i₃ 1( ban₂ ) 5( diš ) sila₃ - ta"
+    },
+    {
+      "line_id": "Q004449.33",
+      "line_label": "ii 14",
+      "transliteration": "1( diš ) giŋ₄ - ⸢ še₃ ⸣ ganba ? ḫe₂ - ŋar - am₃"
+    },
+    {
+      "line_id": "Q004449.34",
+      "line_label": "ii 15",
+      "transliteration": "ugnim - ŋu₁₀ nam - ḫe - a"
+    },
+    {
+      "line_id": "Q004449.35",
+      "line_label": "ii 16",
+      "transliteration": "kiŋ₂ - bi ḫu - mu - ni - ib₂ - ak"
+    },
+    {
+      "line_id": "Q004449.36",
+      "line_label": "ii 17",
+      "transliteration": "ŋe₂₆ - e lugal niŋ₂ - gen₆ - na - me - en"
+    },
+    {
+      "line_id": "Q004449.37",
+      "line_label": "ii 18",
+      "transliteration": "a₂ - ba ŋeš ḫe₂ - bi₂ - in - ŋar"
+    }
+  ]
+}

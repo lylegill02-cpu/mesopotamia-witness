@@ -1,0 +1,52 @@
+{
+  "text_id": "oracc.etcsri.Q004955",
+  "corpus": "oracc",
+  "title": "Ibbi-Suen 2020add / CDLI Seals 005934 (CDLI Seals 005934 (composite))",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q004955",
+  "paragraphs": [
+    {
+      "para_id": "Q004955.1",
+      "line_range": "1",
+      "translation": "(i 1) Ibbi-Suen , the powerful king , king of Urim , king of the four quarters : Dada , the equerry , child of Name , the envoy , is your servant ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q004955.1",
+      "line_label": "i 1",
+      "transliteration": "d i - bi₂ - d suen"
+    },
+    {
+      "line_id": "Q004955.2",
+      "line_label": "i 2",
+      "transliteration": "lugal kalag - ga"
+    },
+    {
+      "line_id": "Q004955.3",
+      "line_label": "i 3",
+      "transliteration": "lugal urim₅ ki - ma"
+    },
+    {
+      "line_id": "Q004955.4",
+      "line_label": "i 4",
+      "transliteration": "lugal an - ub - da limmu₂ - ba"
+    },
+    {
+      "line_id": "Q004955.5",
+      "line_label": "ii 1",
+      "transliteration": "da - da šuš₃"
+    },
+    {
+      "line_id": "Q004955.6",
+      "line_label": "ii 2",
+      "transliteration": "dumu na - me sukkal"
+    },
+    {
+      "line_id": "Q004955.7",
+      "line_label": "ii 3",
+      "transliteration": "arad₂ - zu"
+    }
+  ]
+}

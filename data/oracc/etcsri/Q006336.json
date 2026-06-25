@@ -1,0 +1,37 @@
+{
+  "text_id": "oracc.etcsri.Q006336",
+  "corpus": "oracc",
+  "title": "Ur-Ningirsu I 7add (RIME 3/1.01.01.add07 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q006336",
+  "paragraphs": [
+    {
+      "para_id": "Q006336.1",
+      "line_range": "1",
+      "translation": "(1) 2 gun stone ( weight ) , ( certified by ) Ur-Ninĝirsu , ruler of Lagaš ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q006336.1",
+      "line_label": "1",
+      "transliteration": "2( aš ) gu₂ na₄"
+    },
+    {
+      "line_id": "Q006336.2",
+      "line_label": "2",
+      "transliteration": "⸢ ur - d nin - ŋir₂ - su ⸣"
+    },
+    {
+      "line_id": "Q006336.3",
+      "line_label": "3",
+      "transliteration": "⸢ ensi₂ ⸣"
+    },
+    {
+      "line_id": "Q006336.4",
+      "line_label": "4",
+      "transliteration": "⸢ lagaš ki ⸣"
+    }
+  ]
+}

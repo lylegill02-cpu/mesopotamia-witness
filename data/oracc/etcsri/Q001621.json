@@ -1,0 +1,47 @@
+{
+  "text_id": "oracc.etcsri.Q001621",
+  "corpus": "oracc",
+  "title": "Ur-Namma 07 (RIME 3/2.01.01.07 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001621",
+  "paragraphs": [
+    {
+      "para_id": "Q001621.1",
+      "line_range": "1",
+      "translation": "(1) For Ninšagepada , his lady , Ur-Namma , king of Urim , built her temple ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001621.1",
+      "line_label": "1",
+      "transliteration": "d ⸢ nin ⸣ - šag₄ - ge - ⸢ pad₃ - da ⸣"
+    },
+    {
+      "line_id": "Q001621.2",
+      "line_label": "2",
+      "transliteration": "⸢ nin ⸣ - a - ni"
+    },
+    {
+      "line_id": "Q001621.3",
+      "line_label": "3",
+      "transliteration": "⸢ ur ⸣ - d [ namma ]"
+    },
+    {
+      "line_id": "Q001621.4",
+      "line_label": "4",
+      "transliteration": "⸢ lugal ⸣ urim₅ ki - [ ma ] - ⸢ ke₄ ⸣"
+    },
+    {
+      "line_id": "Q001621.5",
+      "line_label": "5",
+      "transliteration": "⸢ e₂ - a - ni ⸣"
+    },
+    {
+      "line_id": "Q001621.6",
+      "line_label": "6",
+      "transliteration": "[ mu ] - ⸢ na ⸣ - [ du₃ ]"
+    }
+  ]
+}

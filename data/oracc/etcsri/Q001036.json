@@ -1,0 +1,162 @@
+{
+  "text_id": "oracc.etcsri.Q001036",
+  "corpus": "oracc",
+  "title": "Ur-Nanše 21 (RIME 1.09.01.21 composite)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001036",
+  "paragraphs": [
+    {
+      "para_id": "Q001036.1",
+      "line_range": "1",
+      "translation": "(1) To Ninĝirsu , when he built for him the shrine of Ĝirsu , Ur-Nanše , king of Lagaš , child of Gunidu , dedicated this ( door socket ) ."
+    },
+    {
+      "para_id": "Q001036.9",
+      "line_range": "9",
+      "translation": "(9) He built the temple of Nanše ."
+    },
+    {
+      "para_id": "Q001036.11",
+      "line_range": "11",
+      "translation": "(11) He built the Ebgal ."
+    },
+    {
+      "para_id": "Q001036.13",
+      "line_range": "13",
+      "translation": "(13) He built the Kinir ."
+    },
+    {
+      "para_id": "Q001036.15",
+      "line_range": "15",
+      "translation": "(15) He built the Bagara ."
+    },
+    {
+      "para_id": "Q001036.17",
+      "line_range": "17",
+      "translation": "(17) He built the E-dam ."
+    },
+    {
+      "para_id": "Q001036.19",
+      "line_range": "19",
+      "translation": "(19) He built the temple of Ĝatumdug ."
+    },
+    {
+      "para_id": "Q001036.21",
+      "line_range": "21",
+      "translation": "(21) He built the Tiraš ."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001036.1",
+      "line_label": "1",
+      "transliteration": "d nin - ŋir₂ - su₂"
+    },
+    {
+      "line_id": "Q001036.2",
+      "line_label": "2",
+      "transliteration": "ur - d nanše"
+    },
+    {
+      "line_id": "Q001036.3",
+      "line_label": "3",
+      "transliteration": "lugal"
+    },
+    {
+      "line_id": "Q001036.4",
+      "line_label": "4",
+      "transliteration": "lagaš"
+    },
+    {
+      "line_id": "Q001036.5",
+      "line_label": "5",
+      "transliteration": "dumu gu - NI - DU"
+    },
+    {
+      "line_id": "Q001036.6",
+      "line_label": "6",
+      "transliteration": "ud eš₃ ŋir₂ - su₂"
+    },
+    {
+      "line_id": "Q001036.7",
+      "line_label": "7",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001036.8",
+      "line_label": "8",
+      "transliteration": "a mu - ru"
+    },
+    {
+      "line_id": "Q001036.9",
+      "line_label": "9",
+      "transliteration": "e₂ d nanše"
+    },
+    {
+      "line_id": "Q001036.10",
+      "line_label": "10",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001036.11",
+      "line_label": "11",
+      "transliteration": "eb - gal"
+    },
+    {
+      "line_id": "Q001036.12",
+      "line_label": "12",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001036.13",
+      "line_label": "13",
+      "transliteration": "ki - nir"
+    },
+    {
+      "line_id": "Q001036.14",
+      "line_label": "14",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001036.15",
+      "line_label": "15",
+      "transliteration": "ba - gara₂"
+    },
+    {
+      "line_id": "Q001036.16",
+      "line_label": "16",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001036.17",
+      "line_label": "17",
+      "transliteration": "e₂ - dam"
+    },
+    {
+      "line_id": "Q001036.18",
+      "line_label": "18",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001036.19",
+      "line_label": "19",
+      "transliteration": "e₂ d ŋa₂ - tum₃ - dug₃"
+    },
+    {
+      "line_id": "Q001036.20",
+      "line_label": "20",
+      "transliteration": "mu - du₃"
+    },
+    {
+      "line_id": "Q001036.21",
+      "line_label": "21",
+      "transliteration": "ti - ra - aš₂"
+    },
+    {
+      "line_id": "Q001036.22",
+      "line_label": "22",
+      "transliteration": "⸢ mu ⸣ - du₃"
+    }
+  ]
+}

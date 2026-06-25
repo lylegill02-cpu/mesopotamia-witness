@@ -1,0 +1,42 @@
+{
+  "text_id": "oracc.etcsri.Q001151",
+  "corpus": "oracc",
+  "title": "URU-KA-gina 14b (RIME 1.09.09.14, ex. b)",
+  "language": "sumerian",
+  "translation_source": "ORACC ETCSRI — CC BY-SA 3.0",
+  "source_url": "https://oracc.museum.upenn.edu/etcsri/Q001151",
+  "paragraphs": [
+    {
+      "para_id": "Q001151.1",
+      "line_range": "1",
+      "translation": "(1) This ( tree whose name is : ) \" Ninĝirsu assigned position to Iri-kagina \" was planted by Iri-kagina , king of Lagaš \""
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "Q001151.1",
+      "line_label": "1",
+      "transliteration": "d nin - ŋir₂ - su₂ - ke₄ iri - ka - gen₆ - na - ra ki - gub mu - na - pad₃"
+    },
+    {
+      "line_id": "Q001151.2",
+      "line_label": "2",
+      "transliteration": "iri - ka - gen₆ - na"
+    },
+    {
+      "line_id": "Q001151.3",
+      "line_label": "3",
+      "transliteration": "lugal"
+    },
+    {
+      "line_id": "Q001151.4",
+      "line_label": "4",
+      "transliteration": "lagaš ki - ke₄"
+    },
+    {
+      "line_id": "Q001151.5",
+      "line_label": "5",
+      "transliteration": "i₃ - gub"
+    }
+  ]
+}

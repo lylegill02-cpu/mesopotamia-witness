@@ -1,6 +1,6 @@
 {
   "corpus": "oracc",
-  "count": 2,
+  "count": 3,
   "texts": [
     {
       "text_id": "oracc.amgg.anunna",
@@ -8,6 +8,13 @@
       "translation_source": "ORACC AMGG — CC BY-SA 3.0",
       "paragraph_count": 13,
       "line_count": 3
+    },
+    {
+      "text_id": "oracc.ebl.gilgamesh.xi",
+      "title": "Gilgamesh — Tablet XI (eBL Standard Babylonian)",
+      "translation_source": "eBL (Electronic Babylonian Library) — ORACC ATF, CC BY 4.0",
+      "paragraph_count": 328,
+      "line_count": 329
     },
     {
       "text_id": "oracc.etcsri.Q004866",
